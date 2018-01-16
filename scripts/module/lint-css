@@ -1,0 +1,33 @@
+#!/usr/bin/env node
+
+const config = require('../../config');
+const stylelint = require('stylelint');
+const path = require('path');
+const argv = require('yargs-parser')(process.argv.slice(2));
+const expand = require('glob-expand');
+const files = expand({
+  cwd: process.cwd(),
+}, config.styles.source);
+
+stylelint.lint({
+  configFile: path.join(__dirname, '../configs/.stylelintrc'),
+  files: files,
+  syntax: "scss",
+  formatter: "string",
+  fix: argv.fix || false
+})
+  .then(function(linted) {
+    if (!linted.output) {
+      return;
+    }
+    process.stdout.write(linted.output);
+    if (linted.errored) {
+      process.exitCode = 2;
+    }
+    return;
+  })
+  .catch(function(err) {
+    console.log(err.stack);
+    const exitCode = typeof err.code === "number" ? err.code : 1;
+    process.exit(exitCode);
+  });

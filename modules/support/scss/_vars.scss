@@ -1,0 +1,79 @@
+//
+// Variables
+//
+// ========================================================================
+
+$nav-namespace: nav !default;
+
+$nav-font-size: 1rem !default;
+$nav-brand-font-size: 2rem !default;
+$nav-menu-font-size: $nav-font-size !default;
+$nav-info-font-size: $nav-font-size !default;
+$nav-action-font-size: $nav-font-size * 1.2 !default;
+$nav-footer-font-size: 0.8rem !default;
+$nav-social-font-size: $nav-font-size !default;
+
+$nav-height-sm: 3rem !default;
+$nav-height: 5rem !default;
+$nav-height-lg: 6rem !default;
+
+$nav-width-sm: 15.5rem !default;
+$nav-width: 18.25rem !default;
+$nav-width-lg: 38rem !default;
+
+$nav-transition-duration: 0.6s !default;
+$nav-transition-function: cubic-bezier(0.19, 1, 0.22, 1) !default;
+$nav-gutter-base: 1rem !default;
+
+$nav-page-gutter-x-small: $nav-gutter-base * 2 !default;
+$nav-page-gutter-x: $nav-gutter-base * 2.5 !default;
+$nav-page-gutter-x-large: $nav-gutter-base * 3 !default;
+
+$nav-page-gutter-y-small: $nav-gutter-base * 2 !default;
+$nav-page-gutter-y: $nav-gutter-base * 2.5 !default;
+$nav-page-gutter-y-large: $nav-gutter-base * 3 !default;
+
+$nav-caret-gutter-x: 14px !default;
+
+//Grid
+$nav-grid-gutter: $nav-gutter-base !default;
+$nav-grid-columns: 12 !default;
+
+//Breakpoints
+$nav-viewport-breakpoint: 768px !default;
+$nav-viewport-breakpoint-min: $nav-viewport-breakpoint + 1px !default;
+
+$nav-viewport-sm: 50em !default;
+$nav-viewport-md: 64em !default;
+$nav-viewport-lg: 75em !default;
+
+//Container
+$nav-container-width-sm: 46rem !default;
+$nav-container-width-md: 60rem !default;
+$nav-container-width-lg: 70rem !default;
+
+//Z-index
+$nav-z-index: 1000 !default;
+$nav-overlay-z-index: ($nav-z-index + 10) !default;
+$nav-hamburger-z-index: ($nav-overlay-z-index + 20) !default;
+$nav-submenu-level-z-index: ($nav-overlay-z-index + 30) !default;
+$nav-search-dropdown-fullwidth-z-index: ($nav-overlay-z-index + 40) !default;
+$nav-nav-z-index: ($nav-overlay-z-index + 50) !default;
+$nav-topbar-z-index: ($nav-overlay-z-index + 60) !default;
+$nav-aside-folded-z-index: ($nav-overlay-z-index + 70) !default;
+$nav-collapse-z-index: ($nav-overlay-z-index + 70) !default;
+$nav-brand-z-index: ($nav-overlay-z-index + 80) !default;
+$nav-hamburger-up-z-index: ($nav-overlay-z-index + 90) !default;
+
+//Hamburger
+$nav-hamburger-icon-height: 2px !default;
+$nav-hamburger-icon-gutter: 6px !default;
+$nav-hamburger-padding-top: 16px !default;
+$nav-hamburger-padding-bottom: $nav-hamburger-icon-height +
+  $nav-hamburger-icon-gutter + $nav-hamburger-padding-top !default;
+$nav-hamburger-padding-left: 16px !default;
+$nav-hamburger-padding-right: 16px !default;
+$nav-hamburger-height: $nav-hamburger-padding-top +
+  $nav-hamburger-padding-bottom + $nav-hamburger-icon-height * 2 +
+  $nav-hamburger-icon-gutter !default;
+$nav-hamburger-width: 1.5rem !default;

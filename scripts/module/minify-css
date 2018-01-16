@@ -1,0 +1,35 @@
+#!/usr/bin/env node
+
+const cssnano = require('cssnano');
+const config = require('../../config');
+const fs = require("fs");
+const expand = require('glob-expand');
+const colors = require('colors');
+const rename = require('rename');
+
+const minify = (file) => {
+  fs.readFile(file, 'utf8', (err, content) => {
+    if (err) {
+      console.error(err);
+      process.exit(1);
+    }
+
+    cssnano.process(content).then(result => {
+      fs.writeFile(rename(file, {suffix: '.min'}), result.css, err => {
+        if (err) {
+          console.error(err);
+          process.exit(1);
+        }
+        console.log(colors.green(`${file} minified.`));
+      });
+    });
+  });
+}
+
+const files = expand({
+  cwd: process.cwd(),
+}, [`${config.styles.build}/**/*.css`, `!${config.styles.build}/**/*.min.css`]);
+
+files.forEach(file => {
+  minify(file);
+});

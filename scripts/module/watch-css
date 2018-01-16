@@ -1,0 +1,31 @@
+#!/usr/bin/env node
+
+const gaze = require('gaze');
+const config = require('../../config');
+const colors = require('colors');
+
+console.info(colors.green(`Watch ${config.styles.source} files`));
+
+gaze(config.styles.source, function(err, watcher) {
+  // On file changed
+  this.on('changed', function(filepath) {
+    console.log(filepath + ' was changed');
+  });
+
+  // On file added
+  this.on('added', function(filepath) {
+    console.log(filepath + ' was added');
+  });
+
+  // On file deleted
+  this.on('deleted', function(filepath) {
+    console.log(filepath + ' was deleted');
+  });
+
+  // On changed/added/deleted
+  this.on('all', function(event, filepath) {
+    // require('./beautify-css');
+    require('./compile-css');
+    require('./minify-css');
+  });
+});

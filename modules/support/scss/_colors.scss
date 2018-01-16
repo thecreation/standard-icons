@@ -1,0 +1,79 @@
+//
+// Colors Variables
+//
+// ========================================================================
+
+$nav-theme-color: #212529 !default;
+$nav-color: #333 !default;
+$nav-color-light: #999 !default;
+$nav-color-inverse: #fff !default;
+$nav-color-white: #fff !default;
+$nav-color-dark: #333 !default;
+$nav-bg: $nav-color-inverse !default;
+$nav-bg-inverse: $nav-color !default;
+$nav-bg-semitransparent: rgba(#e6e6e6, 0.3) !default;
+$nav-borderColor: rgba(#000, 0.2) !default;
+$nav-bordreRadius: 3px !default;
+
+$nav-brand-color: $nav-color !default;
+$nav-action-color: $nav-color !default;
+$nav-footer-color: $nav-color-light !default;
+
+$nav-link-color: $nav-color !default;
+$nav-hover-color: $nav-theme-color !default;
+$nav-active-color: $nav-theme-color !default;
+$nav-focus-color: $nav-theme-color !default;
+
+$nav-brightness-link-color: $nav-color !default;
+$nav-brightness-hover-color: $nav-color !default;
+$nav-brightness-active-color: $nav-color !default;
+$nav-brightness-focus-color: $nav-color !default;
+
+// inverse
+$nav-brand-color-inverse: $nav-color-inverse !default;
+$nav-action-color-inverse: $nav-color-inverse !default;
+$nav-footer-color-inverse: $nav-color-light !default;
+
+$nav-link-color-inverse: $nav-color-inverse !default;
+$nav-hover-color-inverse: $nav-theme-color !default;
+$nav-active-color-inverse: $nav-theme-color !default;
+$nav-focus-color-inverse: $nav-theme-color !default;
+
+$nav-brightness-link-color-inverse: $nav-color-inverse !default;
+$nav-brightness-hover-color-inverse: $nav-color-inverse !default;
+$nav-brightness-active-color-inverse: $nav-color-inverse !default;
+$nav-brightness-focus-color-inverse: $nav-color-inverse !default;
+
+// semitransparent
+$nav-brand-color-semitransparent: $nav-color-white !default;
+$nav-action-color-semitransparent: $nav-color-white !default;
+$nav-footer-color-semitransparent: $nav-color-light !default;
+
+$nav-link-color-semitransparent: $nav-color-white !default;
+$nav-hover-color-semitransparent: $nav-theme-color !default;
+$nav-active-color-semitransparent: $nav-theme-color !default;
+$nav-focus-color-semitransparent: $nav-theme-color !default;
+
+$nav-brightness-link-color-semitransparent: $nav-color-white !default;
+$nav-brightness-hover-color-semitransparent: $nav-color-white !default;
+$nav-brightness-active-color-semitransparent: $nav-color-white !default;
+$nav-brightness-focus-color-semitransparent: $nav-color-white !default;
+
+$nav-semitransparent-bg-light: rgba(#f7f7f7, 0.02) !default;
+$nav-semitransparent-bg: rgba(#f7f7f7, 0.03) !default;
+$nav-semitransparent-bg-dark: rgba(#e6e6e6, 0.1) !default;
+
+$nav-pageContents-bg: $nav-color-white !default;
+
+// Hamburger
+$nav-hamburger-color: $nav-color !default;
+$nav-hamburger-bg: transparent !default;
+$nav-hamburger-hover-bg: transparent !default;
+
+$nav-hamburger-color-white: $nav-color-white !default;
+$nav-hamburger-bg-white: transparent !default;
+$nav-hamburger-hover-bg-white: transparent !default;
+
+$nav-hamburger-color-dark: $nav-color-dark !default;
+$nav-hamburger-bg-dark: transparent !default;
+$nav-hamburger-hover-bg-dark: transparent !default;

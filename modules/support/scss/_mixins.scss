@@ -1,0 +1,28 @@
+//
+// Mixins
+//
+// ========================================================================
+
+@mixin max_screen($breakpoint) {
+  @media only screen and (max-width: $breakpoint) {
+    @content;
+  }
+}
+
+@mixin min_screen($breakpoint) {
+  @media only screen and (min-width: $breakpoint) {
+    @content;
+  }
+}
+
+@mixin package($deaktop, $breakpoint) {
+  @if ($deaktop == desktop) {
+    @include min_screen($breakpoint + 1px) {
+      @content;
+    }
+  } @else {
+    @include max_screen($breakpoint) {
+      @content;
+    }
+  }
+}

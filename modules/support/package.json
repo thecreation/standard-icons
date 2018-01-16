@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "name": "@icon/support",
+  "description": "Support for icon.",
+  "author": "Creation Studio Limited",
+  "license": "MIT",
+  "style": "index.scss",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/support",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "css": "../../scripts/module/npm-run-all css:beautify",
+    "css:beautify": "../../scripts/module/beautify-css",
+    "lint": "../../scripts/module/npm-run-all lint:css:fix lint:md",
+    "lint:css": "../../scripts/module/lint-css",
+    "lint:css:fix": "../../scripts/module/lint-css --fix",
+    "lint:md": "../../scripts/module/lint-md"
+  },
+  "keywords": [
+    "icon"
+  ]
+}

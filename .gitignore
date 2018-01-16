@@ -1,0 +1,11 @@
+node_modules
+.sass-cache
+*.log
+.DS_Store
+.vscode
+package-lock.json
+**/package-lock.json
+_site
+*.lerna_backup
+.changelog
+dist
