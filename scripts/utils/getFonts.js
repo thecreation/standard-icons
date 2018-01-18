@@ -1,9 +1,9 @@
 'use strict';
 
-import fs    from 'graceful-fs';
-import globule from 'globule';
+let fs = require('graceful-fs');
+let globule = require('globule');
 
-export default function(folder) {
+module.exports = function(folder) {
   let files = globule.find("*.{svg,eot,ttf,woff,woff2}", {
     srcBase: folder
   });

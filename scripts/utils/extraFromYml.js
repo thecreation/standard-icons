@@ -1,8 +1,8 @@
-import yaml    from 'js-yaml';
-import fs      from 'fs';
-import extract from 'extract';
+let yaml = require('js-yaml');
+let fs = require('fs');
+let extract = require('extract');
 
-export default function(ymlFile, keys) {
+module.exports = function(ymlFile, keys) {
   let obj = yaml.load(fs.readFileSync(ymlFile, 'utf8'), {
     json: true
   });

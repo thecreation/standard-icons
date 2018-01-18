@@ -1,10 +1,10 @@
 'use strict';
 
-import fs    from 'graceful-fs';
-import CSSOM from 'cssom';
-import humanize from 'humanize-string';
+let fs = require('graceful-fs');
+let CSSOM = require('cssom');
+let humanize = require('humanize-string');
 
-export default function(file, prefix, selector = "^\\.{prefix}([\\w\\d-]+):before") {
+module.exports = function(file, prefix, selector = "^\\.{prefix}([\\w\\d-]+):before") {
   var content = fs.readFileSync(file);
   selector = selector.replace('{prefix}', prefix);
 

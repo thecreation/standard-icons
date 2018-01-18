@@ -1,8 +1,7 @@
-import fs from 'fs-extra';
-import cheerio from 'cheerio';
+let fs = require('fs-extra');
+let cheerio = require('cheerio');
 
-
-export default function(file, callback) {
+module.exports = function(file, callback) {
    return new Promise(function(resolve, reject) {
         fs.readFile(file, function (err, data) {
             if(err) {

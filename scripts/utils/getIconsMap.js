@@ -1,6 +1,6 @@
 'use strict';
 
-export default function(icons) {
+module.exports = function(icons) {
   let map = {};
 
   for(let i in icons) {

@@ -1,7 +1,7 @@
-import fs     from 'fs-extra';
-import extract from 'extract';
+let fs = require('fs-extra');
+let extract = require('extract');
 
-export default function(jsonFile, keys) {
+module.exports = function(jsonFile, keys) {
   let obj = fs.readJsonSync(jsonFile);
   return extract(obj, keys);
 }

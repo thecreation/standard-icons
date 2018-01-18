@@ -1,8 +1,8 @@
-import request from 'retry-request';
-import cheerio from 'cheerio';
-import zlib from 'zlib';
+let request = require('retry-request');
+let cheerio = require('cheerio');
+let zlib = require('zlib');
 
-export default function(url, callback) {
+module.exports = function(url, callback) {
   console.info('Fetch ' + url);
   return new Promise(function(resolve, reject) {
     request({

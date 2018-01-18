@@ -1,6 +1,6 @@
 'use strict';
 
-export default function(data) {
+module.exports = function(data) {
   if(data.classifiable) {
     let categories = {};
     let icons = {};

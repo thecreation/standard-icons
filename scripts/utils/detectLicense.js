@@ -1,7 +1,7 @@
 'use strict';
 
-import fs    from 'graceful-fs';
-export default function(file) {
+let fs = require('graceful-fs');
+module.exports = function(file) {
   var content = fs.readFileSync(file);
 
   var licenses = {

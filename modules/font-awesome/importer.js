@@ -1,19 +1,20 @@
-import generateCss from '../../scripts/utils/generateCss';
-import prepareIcons from '../../scripts/utils/prepareIcons';
-import extraFromJson from '../../scripts/utils/extraFromJson';
-import detectLicense from '../../scripts/utils/detectLicense';
-import getIconsMap from '../../scripts/utils/getIconsMap';
-import getIconsFromUrl from '../../scripts/utils/getIconsFromUrl';
-import getIconsFromCss from '../../scripts/utils/getIconsFromCss';
-import getFonts from '../../scripts/utils/getFonts';
-import copyFonts from '../../scripts/utils/copyFonts';
-import copyLicense from '../../scripts/utils/copyLicense';
-import fs from 'fs-extra';
-import path from 'path';
+let generateCss = require('../../scripts/utils/generateCss');
+let generateJson = require('../../scripts/utils/generateJson');
+let prepareIcons = require('../../scripts/utils/prepareIcons');
+let extraFromJson = require('../../scripts/utils/extraFromJson');
+let detectLicense = require('../../scripts/utils/detectLicense');
+let getIconsMap = require('../../scripts/utils/getIconsMap');
+let getIconsFromUrl = require('../../scripts/utils/getIconsFromUrl');
+let getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
+let getFonts = require('../../scripts/utils/getFonts');
+let copyFonts = require('../../scripts/utils/copyFonts');
+let copyLicense = require('../../scripts/utils/copyLicense');
+let fs = require('fs-extra');
+let path = require('path');
 
 
 let options = {
-  source: path.join('./node_modules/', 'font-awesome'),
+  source: path.join(`${__dirname}/node_modules/`, 'font-awesome'),
   name: 'font-awesome',
   class: 'fa',
   prefix: 'fa-',
@@ -27,7 +28,7 @@ let paths = {
   css: path.join(options.source, 'css', 'font-awesome.css'),
   fonts: path.join(options.source, 'fonts'),
   url: 'http://fontawesome.io/icons/',
-  dest: './'
+  dest: __dirname
 };
 
 let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);
@@ -39,7 +40,7 @@ options.description = info.description;
 options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 
-const import = () => {
+module.exports = function() {
   let iconsMap = getIconsMap(getIconsFromCss(paths.css, 'fa-'));
   getIconsFromUrl(paths.url, function($) {
     let icons = {};
@@ -67,6 +68,7 @@ const import = () => {
     options.icons = icons;
     options = prepareIcons(options);
     generateCss(paths.dest, options.name, options);
+    generateJson(paths.dest, options.className, options);
     copyFonts(paths.dest, paths.fonts, options.fonts);
   });
 };

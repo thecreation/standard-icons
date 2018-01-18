@@ -1,9 +1,9 @@
 'use strict';
 
-import fs    from 'graceful-fs';
-import CSSOM from 'cssom';
+let fs = require('graceful-fs');
+let CSSOM = require('cssom');
 
-export default function(glyphs, prefix) {
+module.exports = function(glyphs, prefix) {
   let icons = {};
   glyphs.forEach(function(glyph) {
     let icon = {};

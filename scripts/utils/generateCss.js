@@ -1,9 +1,9 @@
 'use strict';
 
-import generate from './generate';
-import path from 'path';
+let generate = require('./generate');
+let path = require('path');
 
-export default function(dest, filename, data) {
+module.exports = function(dest, filename, data) {
   let outputFile = path.join(dest, `${filename}.css`);
-  return generate(outputFile, path.join('../templates/', 'css.hbs'), data);
+  return generate(outputFile, path.join(`${__dirname}/../templates/`, 'css.hbs'), data);
 }
