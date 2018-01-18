@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+const argv = require('yargs').argv;
+const colors = require('colors');
+
+console.info(argv.module);
+
+//require(`modules/${argv.module}/importer`);
+
+console.log(colors.green(`${argv.module} imported.`));

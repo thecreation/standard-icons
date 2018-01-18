@@ -10,25 +10,14 @@
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "build": "../../scripts/module/npm-run-all css",
-    "prepare": "npm run build",
-    "css": "../../scripts/module/npm-run-all css:beautify css:compile css:minify",
-    "css:beautify": "../../scripts/module/beautify-css",
-    "css:compile": "../../scripts/module/compile-css",
-    "css:minify": "../../scripts/module/minify-css",
-    "lint": "../../scripts/module/npm-run-all lint:css:fix lint:js:fix lint:md",
-    "lint:css": "../../scripts/module/lint-css",
-    "lint:css:fix": "../../scripts/module/lint-css --fix",
-    "lint:md": "../../scripts/module/lint-md",
-    "watch": "../../scripts/module/npm-run-all --parallel watch:*",
-    "watch:css": "../../scripts/module/watch-css"
+    "import": "../../scripts/module/import --module=font-awesome",
+    "prepare": "npm run import"
   },
   "keywords": [
     "icons",
     "icon"
   ],
   "devDependencies": {
-    "@icon/support": "*",
     "font-awesome": "^4.7.0"
   }
 }
