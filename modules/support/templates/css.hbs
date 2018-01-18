@@ -1,0 +1,39 @@
+/**
+ * {{title}}{{#if version}}, {{version}}{{/if}}
+{{#if author}} * Created by {{author}}{{/if}}
+{{#if homepage}} * {{homepage}}{{/if}}
+{{#if license}} * {{license}} License{{/if}}
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "{{name}}";
+{{#if fonts.eot}}
+  src: url('{{fonts.eot}}.eot');
+{{/if}}
+  src: {{#if fonts.eot}}url('{{fonts.eot}}?#iefix') format('eot'),{{/if}}
+{{#if fonts.woff2}}    url('{{fonts.woff2}}') format('woff2'),{{/if}}
+{{#if fonts.woff}}    url('{{fonts.woff}}') format('woff'),{{/if}}
+{{#if fonts.ttf}}    url('{{fonts.ttf}}') format('truetype'),{{/if}}
+{{#if fonts.svg}}    url('{{fonts.svg}}#{{name}}') format('svg'){{/if}};
+}
+
+.{{class}} {
+  font-family: "{{name}}";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+{{#each icons}}
+.{{../prefix}}{{name}}:before {
+  content: "{{{content}}}";
+}
+{{/each}}
+

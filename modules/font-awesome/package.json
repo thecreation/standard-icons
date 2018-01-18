@@ -28,6 +28,7 @@
     "icon"
   ],
   "devDependencies": {
-    "@icon/support": "*"
+    "@icon/support": "*",
+    "font-awesome": "^4.7.0"
   }
 }

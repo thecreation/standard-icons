@@ -1,0 +1,50 @@
+<?php
+/**
+ * This file is part of the Amazing Icons
+ * Copyright (c) AmazingSurge.
+ */
+namespace Amazing\Icons\Sets;
+
+use Amazing\Icons\Set;
+
+class {{className}} extends Set {
+    public function info() {
+        return array(
+            'name' => '{{name}}',
+            'title' => '{{title}}',
+{{#if description}}
+            'description' => '{{description}}',
+{{/if}}
+            'version' => '{{version}}',
+            'class' => '{{class}}',
+            'prefix' => '{{prefix}}',
+            'homepage'=> '{{homepage}}',
+            'author' => '{{author}}',
+            'license' => '{{license}}',
+            'style' => '{{name}}.css',
+            'count' => '{{count}}',
+            'classifiable'=> {{classifiable}},
+        );
+    }
+
+    public function icons() {
+        return array(
+    {{#each icons}}
+            '{{name}}' => '{{title}}',
+    {{/each}}
+        );
+    }
+{{#if classifiable}}
+
+     public function categories() {
+        return array(
+    {{#each categories}}
+            '{{@key}}' => array(
+        {{#each this}}
+                '{{this}}',
+        {{/each}}
+            ),
+    {{/each}}
+        );
+    }{{/if}}
+}
