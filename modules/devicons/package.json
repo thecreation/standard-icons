@@ -1,22 +1,22 @@
 {
   "version": "0.0.1",
-  "name": "@icon/font-awesome",
+  "name": "@icon/devicons",
   "description": "TODO: fill in this description later",
   "author": "Creation Studio Limited",
   "license": "MIT",
   "style": "index.scss",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/font-awesome",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/devicons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "import": "../../scripts/module/import --module=font-awesome"
+    "import": "../../scripts/module/import --module=devicons"
   },
   "keywords": [
     "icons",
     "icon"
   ],
   "devDependencies": {
-    "font-awesome": "^4.7.0"
+    "devicons": "^1.8.0"
   }
 }
