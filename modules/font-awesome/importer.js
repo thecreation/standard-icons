@@ -9,6 +9,7 @@ let getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
 let getFonts = require('../../scripts/utils/getFonts');
 let copyFonts = require('../../scripts/utils/copyFonts');
 let copyLicense = require('../../scripts/utils/copyLicense');
+let generateSvgs = require('../../scripts/utils/generateSvgs');
 let fs = require('fs-extra');
 let path = require('path');
 
@@ -70,5 +71,6 @@ module.exports = function() {
     generateCss(paths.dest, options.name, options);
     generateJson(paths.dest, options.className, options);
     copyFonts(paths.dest, paths.fonts, options.fonts);
+    generateSvgs(path.css, `${__dirname}/fontawesome-webfont.svg`, __dirname);
   });
 };
