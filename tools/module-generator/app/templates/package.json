@@ -10,8 +10,7 @@
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "import": "../../scripts/module/npm-run import",
-    "prepare": "npm run import",
+    "import": "../../scripts/module/import --module=<%= lib %>"
   },
   "keywords": [
     "icons",

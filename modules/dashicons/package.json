@@ -10,11 +10,13 @@
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "import": "../../scripts/module/npm-run import",
-    "prepare": "npm run import",
+    "import": "../../scripts/module/import --module=dashicons"
   },
   "keywords": [
     "icons",
     "icon"
-  ]
+  ],
+  "devDependencies": {
+    "dashicons": "git+ssh://git@github.com/WordPress/dashicons.git#master"
+  }
 }
