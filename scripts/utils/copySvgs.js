@@ -1,7 +1,7 @@
 'use strict';
 
-let fs require('fs-extra');
-let path require('path');
+let fs = require('fs-extra');
+let path = require('path');
 
 module.exports = function(dest, src, files, nameFunc = null) {
   for(var i in files) {
