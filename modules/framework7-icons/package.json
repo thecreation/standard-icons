@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "name": "@icon/framework7-icons",
+  "description": "TODO: fill in this description later",
+  "author": "Creation Studio Limited",
+  "license": "MIT",
+  "style": "index.scss",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/framework7-icons",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=framework7-icons"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "devDependencies": {
+    "framework7-icons": "^0.8.9"
+  }
+}

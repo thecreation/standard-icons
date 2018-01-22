@@ -1,0 +1,332 @@
+/**
+ * Gonzocons, 2.0
+ * Created by Jan Rajtoral
+ * http://www.gonzodesign.nl/gonzocons/
+ * CC-BY-3.0 License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "gonzocons";
+  src: url('gonzocons.eot.eot');
+  src: url('gonzocons.eot?#iefix') format('eot'),
+
+    url('gonzocons.woff') format('woff'),
+    url('gonzocons.ttf') format('truetype'),
+    url('gonzocons.svg#gonzocons') format('svg');
+}
+
+.gon {
+  font-family: "gonzocons";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+.gon-antenna:before {
+  content: "\e900";
+}
+.gon-archive:before {
+  content: "\e901";
+}
+.gon-arrow-down:before {
+  content: "\e902";
+}
+.gon-arrow-left:before {
+  content: "\e903";
+}
+.gon-arrow-right:before {
+  content: "\e904";
+}
+.gon-arrow-up:before {
+  content: "\e905";
+}
+.gon-article:before {
+  content: "\e906";
+}
+.gon-at:before {
+  content: "\e907";
+}
+.gon-attachment:before {
+  content: "\e908";
+}
+.gon-award:before {
+  content: "\e909";
+}
+.gon-behance:before {
+  content: "\e90a";
+}
+.gon-book:before {
+  content: "\e90b";
+}
+.gon-bookmark:before {
+  content: "\e90c";
+}
+.gon-brackets:before {
+  content: "\e90d";
+}
+.gon-browser:before {
+  content: "\e90e";
+}
+.gon-cart:before {
+  content: "\e90f";
+}
+.gon-category:before {
+  content: "\e910";
+}
+.gon-chat:before {
+  content: "\e911";
+}
+.gon-check:before {
+  content: "\e912";
+}
+.gon-close:before {
+  content: "\e913";
+}
+.gon-cloud:before {
+  content: "\e914";
+}
+.gon-code:before {
+  content: "\e915";
+}
+.gon-coffee:before {
+  content: "\e916";
+}
+.gon-commit:before {
+  content: "\e917";
+}
+.gon-database:before {
+  content: "\e918";
+}
+.gon-date:before {
+  content: "\e919";
+}
+.gon-document:before {
+  content: "\e91a";
+}
+.gon-down:before {
+  content: "\e91b";
+}
+.gon-download:before {
+  content: "\e91c";
+}
+.gon-dribbble:before {
+  content: "\e91d";
+}
+.gon-email:before {
+  content: "\e91e";
+}
+.gon-eye:before {
+  content: "\e91f";
+}
+.gon-facebook:before {
+  content: "\e920";
+}
+.gon-file:before {
+  content: "\e921";
+}
+.gon-flickr:before {
+  content: "\e922";
+}
+.gon-forbidden:before {
+  content: "\e923";
+}
+.gon-garbage:before {
+  content: "\e924";
+}
+.gon-gear:before {
+  content: "\e925";
+}
+.gon-github:before {
+  content: "\e926";
+}
+.gon-googleplus:before {
+  content: "\e927";
+}
+.gon-graph:before {
+  content: "\e928";
+}
+.gon-grid:before {
+  content: "\e929";
+}
+.gon-hamburger:before {
+  content: "\e92a";
+}
+.gon-heart:before {
+  content: "\e92b";
+}
+.gon-home:before {
+  content: "\e92c";
+}
+.gon-hourglass:before {
+  content: "\e92d";
+}
+.gon-html5:before {
+  content: "\e92e";
+}
+.gon-idea:before {
+  content: "\e92f";
+}
+.gon-image:before {
+  content: "\e930";
+}
+.gon-instagram:before {
+  content: "\e931";
+}
+.gon-kebab:before {
+  content: "\e932";
+}
+.gon-key:before {
+  content: "\e933";
+}
+.gon-lab:before {
+  content: "\e934";
+}
+.gon-left:before {
+  content: "\e935";
+}
+.gon-like:before {
+  content: "\e936";
+}
+.gon-link:before {
+  content: "\e937";
+}
+.gon-linkedin:before {
+  content: "\e938";
+}
+.gon-list:before {
+  content: "\e939";
+}
+.gon-location:before {
+  content: "\e93a";
+}
+.gon-map:before {
+  content: "\e93b";
+}
+.gon-megaphone:before {
+  content: "\e93c";
+}
+.gon-microphone:before {
+  content: "\e93d";
+}
+.gon-mobile:before {
+  content: "\e93e";
+}
+.gon-monitor:before {
+  content: "\e93f";
+}
+.gon-music:before {
+  content: "\e940";
+}
+.gon-network:before {
+  content: "\e941";
+}
+.gon-paper:before {
+  content: "\e942";
+}
+.gon-performance:before {
+  content: "\e943";
+}
+.gon-phone:before {
+  content: "\e944";
+}
+.gon-photo:before {
+  content: "\e945";
+}
+.gon-pin:before {
+  content: "\e946";
+}
+.gon-pinterest:before {
+  content: "\e947";
+}
+.gon-portfolio:before {
+  content: "\e948";
+}
+.gon-power:before {
+  content: "\e949";
+}
+.gon-process:before {
+  content: "\e94a";
+}
+.gon-project:before {
+  content: "\e94b";
+}
+.gon-quote:before {
+  content: "\e94c";
+}
+.gon-right:before {
+  content: "\e94d";
+}
+.gon-rss:before {
+  content: "\e94e";
+}
+.gon-search:before {
+  content: "\e94f";
+}
+.gon-send:before {
+  content: "\e950";
+}
+.gon-share:before {
+  content: "\e951";
+}
+.gon-sitemap:before {
+  content: "\e952";
+}
+.gon-skype:before {
+  content: "\e953";
+}
+.gon-star:before {
+  content: "\e954";
+}
+.gon-stats:before {
+  content: "\e955";
+}
+.gon-tag:before {
+  content: "\e956";
+}
+.gon-text:before {
+  content: "\e957";
+}
+.gon-tool:before {
+  content: "\e958";
+}
+.gon-tumblr:before {
+  content: "\e959";
+}
+.gon-twitter:before {
+  content: "\e95a";
+}
+.gon-up:before {
+  content: "\e95b";
+}
+.gon-upload:before {
+  content: "\e95c";
+}
+.gon-url:before {
+  content: "\e95d";
+}
+.gon-user:before {
+  content: "\e95e";
+}
+.gon-vector:before {
+  content: "\e95f";
+}
+.gon-video:before {
+  content: "\e960";
+}
+.gon-vimeo:before {
+  content: "\e961";
+}
+.gon-wordpress:before {
+  content: "\e962";
+}
+.gon-youtube:before {
+  content: "\e963";
+}
+

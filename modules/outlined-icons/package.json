@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "name": "@icon/outlined-icons",
+  "description": "TODO: fill in this description later",
+  "author": "Creation Studio Limited",
+  "license": "MIT",
+  "style": "index.scss",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/outlined-icons",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=outlined-icons"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ]
+}
