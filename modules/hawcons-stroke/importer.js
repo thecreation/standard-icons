@@ -39,11 +39,11 @@ options.svgs = getSvgs(paths.svgs, '**/Stroke/*.svg');
 options.license = detectLicense(paths.license);
 
 module.exports = function() {
-  options.icons = getIconsFromCss(paths.css, 'icon-icon-', "^\\.{prefix}\\d+-([\\w\\d-]+):before");
+  options.icons = getIconsFromCss(paths.css, 'icon-icon-', "\\.{prefix}\\d+-([\\w\\d-]+):before");
   options = prepareIcons(options);
   generateCss(paths.dest, options.name, options);
   generateJson(paths.dest, options.className, options);
-  copyFonts(paths.dest, paths.fonts, options.fonts);
+  copyFonts(paths.dest, paths.fonts, options);
   copySvgs(paths.svgsDest, paths.svgs, options.svgs, function(name) {
     return path.basename(name).replace(/^icon-(\d)-/i, '');
   });
