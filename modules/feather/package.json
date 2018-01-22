@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "name": "@icon/feather",
+  "description": "TODO: fill in this description later",
+  "author": "Creation Studio Limited",
+  "license": "MIT",
+  "style": "index.scss",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/feather",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=feather"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "devDependencies": {
+    "feather-font": "git+ssh://git@github.com/AT-UI/feather-font.git"
+  }
+}
