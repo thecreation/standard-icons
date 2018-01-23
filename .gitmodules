@@ -1,3 +1,18 @@
-[submodule "customs/web-starter-kit"]
-	path = customs/web-starter-kit
-	url = git@github.com:thecreation/web-starter-kit.git
+[submodule "customs/dashicons"]
+	path = customs/dashicons
+	url = https://github.com/WordPress/dashicons.git
+[submodule "customs/dripicons"]
+	path = customs/dripicons
+	url = https://github.com/amitjakhu/dripicons.git
+[submodule "customs/entypo"]
+	path = customs/entypo
+	url = https://github.com/danielbruce/entypo.git
+[submodule "customs/fontelico.font"]
+	path = customs/fontelico.font
+	url = https://github.com/fontello/fontelico.font.git
+[submodule "customs/Linea-Iconset"]
+	path = customs/Linea-Iconset
+	url = https://github.com/linea-io/Linea-Iconset.git
+[submodule "customs/mfglabs-iconset"]
+	path = customs/mfglabs-iconset
+	url = https://github.com/MfgLabs/mfglabs-iconset.git

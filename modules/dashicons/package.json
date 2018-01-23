@@ -15,8 +15,5 @@
   "keywords": [
     "icons",
     "icon"
-  ],
-  "devDependencies": {
-    "dashicons": "git+ssh://git@github.com/WordPress/dashicons.git#master"
-  }
+  ]
 }

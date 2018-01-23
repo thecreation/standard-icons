@@ -26,5 +26,9 @@ module.exports = {
   images: {
     source: 'images/**/*.{jpg,png,gif,webp}',
     build: 'dist/images'
+  },
+
+  sets: {
+    customs: `${__dirname}/customs/`
   }
 };
