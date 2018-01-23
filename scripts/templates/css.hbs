@@ -9,13 +9,13 @@
 @font-face {
   font-family: "{{name}}";
 {{#if fonts.eot}}
-  src: url('{{fonts.eot}}.eot');
+  src: url('{{name}}.eot');
 {{/if}}
-  src: {{#if fonts.eot}}url('{{fonts.eot}}?#iefix') format('eot'),{{/if}}
-{{#if fonts.woff2}}    url('{{fonts.woff2}}') format('woff2'),{{/if}}
-{{#if fonts.woff}}    url('{{fonts.woff}}') format('woff'),{{/if}}
-{{#if fonts.ttf}}    url('{{fonts.ttf}}') format('truetype'),{{/if}}
-{{#if fonts.svg}}    url('{{fonts.svg}}#{{name}}') format('svg'){{/if}};
+  src: {{#if fonts.eot}}url('{{name}}.eot?#iefix') format('eot'),{{/if}}
+{{#if fonts.woff2}}    url('{{name}}.woff2') format('woff2'),{{/if}}
+{{#if fonts.woff}}    url('{{name}}.woff') format('woff'),{{/if}}
+{{#if fonts.ttf}}    url('{{name}}.ttf') format('truetype'),{{/if}}
+{{#if fonts.svg}}    url('{{name}}.svg#{{name}}') format('svg'){{/if}};
 }
 
 .{{class}} {
