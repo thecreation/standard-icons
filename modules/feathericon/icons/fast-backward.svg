@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>fast-backward</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="media-player" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="fast-backward" fill="#000000">
-            <path d="M14,0 L14,8 L8,4 L14,0 Z M8,0 L8,8 L2,4 L8,0 Z M0,0 L2,0 L2,8 L0,8 L0,0 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="14" height="8" xmlns="http://www.w3.org/2000/svg"><path d="M14 0v8L8 4l6-4zM8 0v8L2 4l6-4zM0 0h2v8H0V0z" fill="#000" fill-rule="evenodd"/></svg>

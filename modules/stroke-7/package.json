@@ -10,7 +10,8 @@
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "import": "../../scripts/module/import --module=stroke-7"
+    "import": "../../scripts/module/import --module=stroke-7",
+    "optimize": "../../scripts/module/optimize"
   },
   "keywords": [
     "icons",

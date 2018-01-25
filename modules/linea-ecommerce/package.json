@@ -10,7 +10,8 @@
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "import": "../../scripts/module/import --module=linea-ecommerce"
+    "import": "../../scripts/module/import --module=linea-ecommerce",
+    "optimize": "../../scripts/module/optimize"
   },
   "keywords": [
     "icons",

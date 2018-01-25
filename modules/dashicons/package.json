@@ -10,7 +10,8 @@
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "import": "../../scripts/module/import --module=dashicons"
+    "import": "../../scripts/module/import --module=dashicons",
+    "optimize": "../../scripts/module/optimize"
   },
   "keywords": [
     "icons",

@@ -10,7 +10,8 @@
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "import": "../../scripts/module/import --module=linearicons"
+    "import": "../../scripts/module/import --module=linearicons",
+    "optimize": "../../scripts/module/optimize"
   },
   "keywords": [
     "icons",

@@ -10,7 +10,8 @@
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "import": "../../scripts/module/import --module=linea-basic-elaboration"
+    "import": "../../scripts/module/import --module=linea-basic-elaboration",
+    "optimize": "../../scripts/module/optimize"
   },
   "keywords": [
     "icons",

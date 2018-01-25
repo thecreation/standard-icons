@@ -66,7 +66,7 @@
   content: "\f07d";
 }
 .fa-asl-interpreting:before {
-  content: "";
+  content: "\f2a3";
 }
 .fa-assistive-listening-systems:before {
   content: "\f2a2";
@@ -81,7 +81,7 @@
   content: "\f29e";
 }
 .fa-automobile:before {
-  content: "";
+  content: "\f1b9";
 }
 .fa-balance-scale:before {
   content: "\f24e";
@@ -90,13 +90,13 @@
   content: "\f05e";
 }
 .fa-bank:before {
-  content: "";
+  content: "\f19c";
 }
 .fa-bar-chart:before {
   content: "\f080";
 }
 .fa-bar-chart-o:before {
-  content: "";
+  content: "\f080";
 }
 .fa-barcode:before {
   content: "\f02a";
@@ -108,25 +108,25 @@
   content: "\f2cd";
 }
 .fa-bathtub:before {
-  content: "";
+  content: "\f2cd";
 }
 .fa-battery:before {
-  content: "";
+  content: "\f240";
 }
 .fa-battery-0:before {
-  content: "";
+  content: "\f244";
 }
 .fa-battery-1:before {
-  content: "";
+  content: "\f243";
 }
 .fa-battery-2:before {
-  content: "";
+  content: "\f242";
 }
 .fa-battery-3:before {
-  content: "";
+  content: "\f241";
 }
 .fa-battery-4:before {
-  content: "";
+  content: "\f240";
 }
 .fa-battery-empty:before {
   content: "\f244";
@@ -219,7 +219,7 @@
   content: "\f207";
 }
 .fa-cab:before {
-  content: "";
+  content: "\f1ba";
 }
 .fa-calculator:before {
   content: "\f1ec";
@@ -312,7 +312,7 @@
   content: "\f24d";
 }
 .fa-close:before {
-  content: "";
+  content: "\f00d";
 }
 .fa-cloud:before {
   content: "\f0c2";
@@ -387,7 +387,7 @@
   content: "\f0f5";
 }
 .fa-dashboard:before {
-  content: "";
+  content: "\f0e4";
 }
 .fa-database:before {
   content: "\f1c0";
@@ -396,7 +396,7 @@
   content: "\f2a4";
 }
 .fa-deafness:before {
-  content: "";
+  content: "\f2a4";
 }
 .fa-desktop:before {
   content: "\f108";
@@ -411,13 +411,13 @@
   content: "\f019";
 }
 .fa-drivers-license:before {
-  content: "";
+  content: "\f2c2";
 }
 .fa-drivers-license-o:before {
-  content: "";
+  content: "\f2c3";
 }
 .fa-edit:before {
-  content: "";
+  content: "\f044";
 }
 .fa-ellipsis-h:before {
   content: "\f141";
@@ -474,7 +474,7 @@
   content: "\f1ac";
 }
 .fa-feed:before {
-  content: "";
+  content: "\f09e";
 }
 .fa-female:before {
   content: "\f182";
@@ -498,22 +498,22 @@
   content: "\f1c5";
 }
 .fa-file-movie-o:before {
-  content: "";
+  content: "\f1c8";
 }
 .fa-file-pdf-o:before {
   content: "\f1c1";
 }
 .fa-file-photo-o:before {
-  content: "";
+  content: "\f1c5";
 }
 .fa-file-picture-o:before {
-  content: "";
+  content: "\f1c5";
 }
 .fa-file-powerpoint-o:before {
   content: "\f1c4";
 }
 .fa-file-sound-o:before {
-  content: "";
+  content: "\f1c7";
 }
 .fa-file-video-o:before {
   content: "\f1c8";
@@ -522,7 +522,7 @@
   content: "\f1c2";
 }
 .fa-file-zip-o:before {
-  content: "";
+  content: "\f1c6";
 }
 .fa-film:before {
   content: "\f008";
@@ -546,7 +546,7 @@
   content: "\f11d";
 }
 .fa-flash:before {
-  content: "";
+  content: "\f0e7";
 }
 .fa-flask:before {
   content: "\f0c3";
@@ -576,10 +576,10 @@
   content: "\f0e3";
 }
 .fa-gear:before {
-  content: "";
+  content: "\f013";
 }
 .fa-gears:before {
-  content: "";
+  content: "\f085";
 }
 .fa-gift:before {
   content: "\f06b";
@@ -594,10 +594,10 @@
   content: "\f19d";
 }
 .fa-group:before {
-  content: "";
+  content: "\f0c0";
 }
 .fa-hand-grab-o:before {
-  content: "";
+  content: "\f255";
 }
 .fa-hand-lizard-o:before {
   content: "\f258";
@@ -621,13 +621,13 @@
   content: "\f259";
 }
 .fa-hand-stop-o:before {
-  content: "";
+  content: "\f256";
 }
 .fa-handshake-o:before {
   content: "\f2b5";
 }
 .fa-hard-of-hearing:before {
-  content: "";
+  content: "\f2a4";
 }
 .fa-hashtag:before {
   content: "\f292";
@@ -654,19 +654,19 @@
   content: "\f015";
 }
 .fa-hotel:before {
-  content: "";
+  content: "\f236";
 }
 .fa-hourglass:before {
   content: "\f254";
 }
 .fa-hourglass-1:before {
-  content: "";
+  content: "\f251";
 }
 .fa-hourglass-2:before {
-  content: "";
+  content: "\f252";
 }
 .fa-hourglass-3:before {
-  content: "";
+  content: "\f253";
 }
 .fa-hourglass-end:before {
   content: "\f253";
@@ -693,7 +693,7 @@
   content: "\f2c3";
 }
 .fa-image:before {
-  content: "";
+  content: "\f03e";
 }
 .fa-inbox:before {
   content: "\f01c";
@@ -708,7 +708,7 @@
   content: "\f05a";
 }
 .fa-institution:before {
-  content: "";
+  content: "\f19c";
 }
 .fa-key:before {
   content: "\f084";
@@ -726,7 +726,7 @@
   content: "\f06c";
 }
 .fa-legal:before {
-  content: "";
+  content: "\f0e3";
 }
 .fa-lemon-o:before {
   content: "\f094";
@@ -738,13 +738,13 @@
   content: "\f148";
 }
 .fa-life-bouy:before {
-  content: "";
+  content: "\f1cd";
 }
 .fa-life-buoy:before {
-  content: "";
+  content: "\f1cd";
 }
 .fa-life-ring:before {
-  content: "";
+  content: "\f1cd";
 }
 .fa-life-saver:before {
   content: "\f1cd";
@@ -771,13 +771,13 @@
   content: "\f076";
 }
 .fa-mail-forward:before {
-  content: "";
+  content: "\f064";
 }
 .fa-mail-reply:before {
-  content: "";
+  content: "\f112";
 }
 .fa-mail-reply-all:before {
-  content: "";
+  content: "\f122";
 }
 .fa-male:before {
   content: "\f183";
@@ -825,7 +825,7 @@
   content: "\f10b";
 }
 .fa-mobile-phone:before {
-  content: "";
+  content: "\f10b";
 }
 .fa-money:before {
   content: "\f0d6";
@@ -834,7 +834,7 @@
   content: "\f186";
 }
 .fa-mortar-board:before {
-  content: "";
+  content: "\f19d";
 }
 .fa-motorcycle:before {
   content: "\f21c";
@@ -846,7 +846,7 @@
   content: "\f001";
 }
 .fa-navicon:before {
-  content: "";
+  content: "\f0c9";
 }
 .fa-newspaper-o:before {
   content: "\f1ea";
@@ -888,7 +888,7 @@
   content: "\f098";
 }
 .fa-photo:before {
-  content: "";
+  content: "\f03e";
 }
 .fa-picture-o:before {
   content: "\f03e";
@@ -957,10 +957,10 @@
   content: "\f25d";
 }
 .fa-remove:before {
-  content: "";
+  content: "\f00d";
 }
 .fa-reorder:before {
-  content: "";
+  content: "\f0c9";
 }
 .fa-reply:before {
   content: "\f112";
@@ -984,7 +984,7 @@
   content: "\f143";
 }
 .fa-s15:before {
-  content: "";
+  content: "\f2cd";
 }
 .fa-search:before {
   content: "\f002";
@@ -996,10 +996,10 @@
   content: "\f00e";
 }
 .fa-send:before {
-  content: "";
+  content: "\f1d8";
 }
 .fa-send-o:before {
-  content: "";
+  content: "\f1d9";
 }
 .fa-server:before {
   content: "\f233";
@@ -1050,7 +1050,7 @@
   content: "\f012";
 }
 .fa-signing:before {
-  content: "";
+  content: "\f2a7";
 }
 .fa-sitemap:before {
   content: "\f0e8";
@@ -1065,7 +1065,7 @@
   content: "\f2dc";
 }
 .fa-soccer-ball-o:before {
-  content: "";
+  content: "\f1e3";
 }
 .fa-sort:before {
   content: "\f0dc";
@@ -1089,7 +1089,7 @@
   content: "\f0dd";
 }
 .fa-sort-down:before {
-  content: "";
+  content: "\f0dd";
 }
 .fa-sort-numeric-asc:before {
   content: "\f162";
@@ -1098,7 +1098,7 @@
   content: "\f163";
 }
 .fa-sort-up:before {
-  content: "";
+  content: "\f0de";
 }
 .fa-space-shuttle:before {
   content: "\f197";
@@ -1122,10 +1122,10 @@
   content: "\f089";
 }
 .fa-star-half-empty:before {
-  content: "";
+  content: "\f123";
 }
 .fa-star-half-full:before {
-  content: "";
+  content: "\f123";
 }
 .fa-star-half-o:before {
   content: "\f123";
@@ -1149,7 +1149,7 @@
   content: "\f185";
 }
 .fa-support:before {
-  content: "";
+  content: "\f1cd";
 }
 .fa-tablet:before {
   content: "\f10a";
@@ -1176,22 +1176,22 @@
   content: "\f120";
 }
 .fa-thermometer:before {
-  content: "";
+  content: "\f2c7";
 }
 .fa-thermometer-0:before {
-  content: "";
+  content: "\f2cb";
 }
 .fa-thermometer-1:before {
-  content: "";
+  content: "\f2ca";
 }
 .fa-thermometer-2:before {
-  content: "";
+  content: "\f2c9";
 }
 .fa-thermometer-3:before {
-  content: "";
+  content: "\f2c8";
 }
 .fa-thermometer-4:before {
-  content: "";
+  content: "\f2c7";
 }
 .fa-thermometer-empty:before {
   content: "\f2cb";
@@ -1236,19 +1236,19 @@
   content: "\f05c";
 }
 .fa-times-rectangle:before {
-  content: "";
+  content: "\f2d3";
 }
 .fa-times-rectangle-o:before {
-  content: "";
+  content: "\f2d4";
 }
 .fa-tint:before {
   content: "\f043";
 }
 .fa-toggle-down:before {
-  content: "";
+  content: "\f150";
 }
 .fa-toggle-left:before {
-  content: "";
+  content: "\f191";
 }
 .fa-toggle-off:before {
   content: "\f204";
@@ -1257,10 +1257,10 @@
   content: "\f205";
 }
 .fa-toggle-right:before {
-  content: "";
+  content: "\f152";
 }
 .fa-toggle-up:before {
-  content: "";
+  content: "\f151";
 }
 .fa-trademark:before {
   content: "\f25c";
@@ -1284,7 +1284,7 @@
   content: "\f1e4";
 }
 .fa-tv:before {
-  content: "";
+  content: "\f26c";
 }
 .fa-umbrella:before {
   content: "\f0e9";
@@ -1302,7 +1302,7 @@
   content: "\f13e";
 }
 .fa-unsorted:before {
-  content: "";
+  content: "\f0dc";
 }
 .fa-upload:before {
   content: "\f093";
@@ -1332,10 +1332,10 @@
   content: "\f0c0";
 }
 .fa-vcard:before {
-  content: "";
+  content: "\f2bb";
 }
 .fa-vcard-o:before {
-  content: "";
+  content: "\f2bc";
 }
 .fa-video-camera:before {
   content: "\f03d";
@@ -1353,7 +1353,7 @@
   content: "\f028";
 }
 .fa-warning:before {
-  content: "";
+  content: "\f071";
 }
 .fa-wheelchair:before {
   content: "\f193";
@@ -1407,7 +1407,7 @@
   content: "\f22d";
 }
 .fa-intersex:before {
-  content: "";
+  content: "\f224";
 }
 .fa-mars:before {
   content: "\f222";
@@ -1457,9 +1457,6 @@
 .fa-file-text-o:before {
   content: "\f0f6";
 }
-.fa-info-circle fa-lg fa-li:before {
-  content: "";
-}
 .fa-cc-amex:before {
   content: "\f1f3";
 }
@@ -1491,22 +1488,22 @@
   content: "\f1ed";
 }
 .fa-bitcoin:before {
-  content: "";
+  content: "\f15a";
 }
 .fa-btc:before {
   content: "\f15a";
 }
 .fa-cny:before {
-  content: "";
+  content: "\f157";
 }
 .fa-dollar:before {
-  content: "";
+  content: "\f155";
 }
 .fa-eur:before {
   content: "\f153";
 }
 .fa-euro:before {
-  content: "";
+  content: "\f153";
 }
 .fa-gbp:before {
   content: "\f154";
@@ -1524,37 +1521,37 @@
   content: "\f156";
 }
 .fa-jpy:before {
-  content: "";
+  content: "\f157";
 }
 .fa-krw:before {
   content: "\f159";
 }
 .fa-rmb:before {
-  content: "";
+  content: "\f157";
 }
 .fa-rouble:before {
-  content: "";
+  content: "\f158";
 }
 .fa-rub:before {
   content: "\f158";
 }
 .fa-ruble:before {
-  content: "";
+  content: "\f158";
 }
 .fa-rupee:before {
-  content: "";
+  content: "\f156";
 }
 .fa-shekel:before {
-  content: "";
+  content: "\f20b";
 }
 .fa-sheqel:before {
-  content: "";
+  content: "\f20b";
 }
 .fa-try:before {
   content: "\f195";
 }
 .fa-turkish-lira:before {
-  content: "";
+  content: "\f195";
 }
 .fa-usd:before {
   content: "\f155";
@@ -1563,7 +1560,7 @@
   content: "\f237";
 }
 .fa-won:before {
-  content: "";
+  content: "\f159";
 }
 .fa-yen:before {
   content: "\f157";
@@ -1584,7 +1581,7 @@
   content: "\f032";
 }
 .fa-chain:before {
-  content: "";
+  content: "\f0c1";
 }
 .fa-chain-broken:before {
   content: "\f127";
@@ -1596,13 +1593,13 @@
   content: "\f0db";
 }
 .fa-copy:before {
-  content: "";
+  content: "\f0c5";
 }
 .fa-cut:before {
-  content: "";
+  content: "\f0c4";
 }
 .fa-dedent:before {
-  content: "";
+  content: "\f03b";
 }
 .fa-files-o:before {
   content: "\f0c5";
@@ -1647,19 +1644,19 @@
   content: "\f1dd";
 }
 .fa-paste:before {
-  content: "";
+  content: "\f0ea";
 }
 .fa-repeat:before {
   content: "\f01e";
 }
 .fa-rotate-left:before {
-  content: "";
+  content: "\f0e2";
 }
 .fa-rotate-right:before {
-  content: "";
+  content: "\f01e";
 }
 .fa-save:before {
-  content: "";
+  content: "\f0c7";
 }
 .fa-scissors:before {
   content: "\f0c4";
@@ -1698,7 +1695,7 @@
   content: "\f0e2";
 }
 .fa-unlink:before {
-  content: "";
+  content: "\f127";
 }
 .fa-angle-double-down:before {
   content: "\f103";
@@ -1965,13 +1962,13 @@
   content: "\f23e";
 }
 .fa-fa:before {
-  content: "";
+  content: "\f2b4";
 }
 .fa-facebook:before {
   content: "\f09a";
 }
 .fa-facebook-f:before {
-  content: "";
+  content: "\f09a";
 }
 .fa-facebook-official:before {
   content: "\f230";
@@ -2007,7 +2004,7 @@
   content: "\f2c5";
 }
 .fa-ge:before {
-  content: "";
+  content: "\f1d1";
 }
 .fa-get-pocket:before {
   content: "\f265";
@@ -2031,7 +2028,7 @@
   content: "\f296";
 }
 .fa-gittip:before {
-  content: "";
+  content: "\f184";
 }
 .fa-glide:before {
   content: "\f2a5";
@@ -2046,7 +2043,7 @@
   content: "\f0d5";
 }
 .fa-google-plus-circle:before {
-  content: "";
+  content: "\f2b3";
 }
 .fa-google-plus-official:before {
   content: "\f2b3";
@@ -2175,7 +2172,7 @@
   content: "\f2c4";
 }
 .fa-ra:before {
-  content: "";
+  content: "\f1d0";
 }
 .fa-ravelry:before {
   content: "\f2d9";
@@ -2196,7 +2193,7 @@
   content: "\f18b";
 }
 .fa-resistance:before {
-  content: "";
+  content: "\f1d0";
 }
 .fa-safari:before {
   content: "\f267";
@@ -2313,7 +2310,7 @@
   content: "\f189";
 }
 .fa-wechat:before {
-  content: "";
+  content: "\f1d7";
 }
 .fa-weibo:before {
   content: "\f18a";
@@ -2352,16 +2349,16 @@
   content: "\f23b";
 }
 .fa-y-combinator-square:before {
-  content: "";
+  content: "\f1d4";
 }
 .fa-yahoo:before {
   content: "\f19e";
 }
 .fa-yc:before {
-  content: "";
+  content: "\f23b";
 }
 .fa-yc-square:before {
-  content: "";
+  content: "\f1d4";
 }
 .fa-yelp:before {
   content: "\f1e9";

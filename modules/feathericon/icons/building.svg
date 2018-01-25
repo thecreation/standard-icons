@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>building</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="building" fill="#000000">
-            <path d="M6.01025306e-14,1 C6.01025306e-14,1 5.64010644e-14,-1.2490009e-16 1,-1.2490009e-16 L9,-1.2490009e-16 C10,-1.2490009e-16 10,1 10,1 L10,13 C10,13 10,14 9,14 C9,14 1,14 1,14 C5.64010644e-14,14 5.64010644e-14,13 5.64010644e-14,13 L6.01025306e-14,1 Z M1,1 L1,13 L4.00167265,13 L4.00167265,10 L6,10 L6,13 L9,13 L9,1 L1,1 Z M2,2 L8,2 L8,3 L2,3 L2,2 Z M2,4 L8,4 L8,5 L2,5 L2,4 Z M2,6 L8,6 L8,7 L2,7 L2,6 Z M2,8 L8,8 L8,9 L2,9 L2,8 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="10" height="14" xmlns="http://www.w3.org/2000/svg"><path d="M0 1s0-1 1-1h8c1 0 1 1 1 1v12s0 1-1 1H1c-1 0-1-1-1-1V1zm1 0v12h3.002v-3H6v3h3V1H1zm1 1h6v1H2V2zm0 2h6v1H2V4zm0 2h6v1H2V6zm0 2h6v1H2V8z" fill="#000" fill-rule="evenodd"/></svg>

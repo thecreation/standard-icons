@@ -41,7 +41,7 @@ options.homepage = info.homepage;
 options.description = info.description;
 options.version = info.version;
 options.fonts = getFonts(paths.fonts);
-options.svgs = getSvgs(paths.svgs);
+// options.svgs = getSvgs(paths.svgs);
 
 module.exports = function() {
   getIconsFromHtml(paths.html, function($) {

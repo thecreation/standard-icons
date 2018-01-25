@@ -28,7 +28,8 @@ let paths = {
   css: path.join(options.source, 'css', 'font-awesome.css'),
   fonts: path.join(options.source, 'fonts'),
   url: 'http://fontawesome.io/icons/',
-  dest: __dirname
+  dest: __dirname,
+  svgsDest: path.join(__dirname, 'icons')
 };
 
 let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);
@@ -42,6 +43,7 @@ options.fonts = getFonts(paths.fonts);
 
 module.exports = function() {
   let iconsMap = getIconsMap(getIconsFromCss(paths.css, 'fa-'));
+
   getIconsFromUrl(paths.url, function($) {
     let icons = {};
     $('#icons').find('section').each(function(i, element){
@@ -50,10 +52,12 @@ module.exports = function() {
         let category = $section.find('h2').text().trim();
         icons[category] = [];
 
-        let $icons = $section.find('.fa');
+        let $icons = $section.find('.fa-hover');
         $icons.each(function() {
-          $(this).removeClass('fa');
-          let name = $(this).attr('class').replace('fa-', '');
+          let $icon = $(this).find('.fa');
+          $icon.removeClass('fa');
+          let name = $icon.attr('class').replace('fa-', '');
+
           icons[category].push({
             name: name,
             content: iconsMap[name],
@@ -67,10 +71,9 @@ module.exports = function() {
   }).then(function(icons){
     options.icons = icons;
     options = prepareIcons(options);
-   generateCss(paths.dest, options.name, options);
-   generateJson(paths.dest, options.className, options);
-   copyFonts(paths.dest, paths.fonts, options);
-console.info(options.icons);
-  //  generateSvgs(paths.dest, options.name, options);
+    generateCss(paths.dest, options.name, options);
+    generateJson(paths.dest, options.className, options);
+    copyFonts(paths.dest, paths.fonts, options);
+    generateSvgs(paths.dest, options.name, options);
   });
 };

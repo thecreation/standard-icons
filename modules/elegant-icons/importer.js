@@ -6,8 +6,7 @@ const detectLicense = require('../../scripts/utils/detectLicense');
 const getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
 const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
-const getSvgs = require('../../scripts/utils/getSvgs');
-const copySvgs = require('../../scripts/utils/copySvgs');
+const generateSvgs = require('../../scripts/utils/generateSvgs');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const fs = require('fs-extra');
 const path = require('path');
@@ -29,8 +28,7 @@ let paths = {
   css: path.join(options.source, 'style.css'),
   fonts: path.join(options.source, 'fonts'),
   svgs: path.join(options.source, 'fonts'),
-  dest: __dirname,
-  svgsDest: path.join(__dirname, 'icons')
+  dest: __dirname
 };
 
 let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);
@@ -41,7 +39,6 @@ options.license = info.license;
 // options.description = info.description;
 options.version = info.version;
 options.fonts = getFonts(paths.fonts);
-options.svgs = getSvgs(paths.svgs);
 
 module.exports = function() {
   options.icons = getIconsFromCss(paths.css, '');
@@ -49,6 +46,6 @@ module.exports = function() {
   generateCss(paths.dest, options.name, options);
   generateJson(paths.dest, options.className, options);
   copyFonts(paths.dest, paths.fonts, options);
-  copySvgs(paths.svgsDest, paths.svgs, options.svgs);
   copyLicense(paths.dest, path.join(options.source, 'Licensing', 'mit_license.txt'));
+  generateSvgs(paths.dest, options.name, options);
 };

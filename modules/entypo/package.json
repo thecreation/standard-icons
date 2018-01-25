@@ -10,7 +10,8 @@
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "import": "../../scripts/module/import --module=entypo"
+    "import": "../../scripts/module/import --module=entypo",
+    "optimize": "../../scripts/module/optimize"
   },
   "keywords": [
     "icons",

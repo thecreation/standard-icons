@@ -10,7 +10,8 @@
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "import": "../../scripts/module/import --module=gonzocons"
+    "import": "../../scripts/module/import --module=gonzocons",
+    "optimize": "../../scripts/module/optimize"
   },
   "keywords": [
     "icons",

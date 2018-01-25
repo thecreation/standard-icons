@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>clock</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="clock" fill="#000000">
-            <path d="M7,14 C10.8659932,14 14,10.8659932 14,7 C14,3.13400675 10.8659932,0 7,0 C3.13400675,0 0,3.13400675 0,7 C0,10.8659932 3.13400675,14 7,14 L7,14 L7,14 L7,14 Z M13,7 C13,10.3137085 10.3137085,13 7,13 C3.6862915,13 1,10.3137085 1,7 C1,3.6862915 3.6862915,1 7,1 C10.3137085,1 13,3.6862915 13,7 Z M7,8.5 L11,8.5 L11,6.5 L8,6.5 L8,3 L6,3 L6,7.49815794 C6,7.49815794 6,8.5 7,8.5 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="14" height="14" xmlns="http://www.w3.org/2000/svg"><path d="M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14zm6-7A6 6 0 1 1 1 7a6 6 0 0 1 12 0zM7 8.5h4v-2H8V3H6v4.498S6 8.5 7 8.5z" fill="#000" fill-rule="evenodd"/></svg>

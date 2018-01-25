@@ -10,7 +10,8 @@
     "url": "https://github.com/thecreation/icons/issues"
   },
   "scripts": {
-    "import": "../../scripts/module/import --module=feather"
+    "import": "../../scripts/module/import --module=feather",
+    "optimize": "../../scripts/module/optimize"
   },
   "keywords": [
     "icons",

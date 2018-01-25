@@ -1,0 +1,37 @@
+#!/usr/bin/env node
+
+const config = require('../../config');
+const fs = require('fs');
+const SVGO = require('svgo');
+const colors = require('colors');
+const expand = require('glob-expand');
+
+let svgo = new SVGO();
+
+const optimize = (file) => {
+  fs.readFile(file, 'utf8', function(err, data) {
+    if (err) {
+      console.err(err);
+      process.exit(1);
+    }
+
+    svgo.optimize(data).then(function(result) {
+      fs.writeFile(file, result.data, function(err) {
+        if(err) {
+          process.exit(1);
+        }
+      })
+    })
+  })
+}
+
+const files = expand({
+  cwd: process.cwd(),
+}, config.icons.source);
+
+files.forEach(file => {
+  optimize(file);
+})
+
+console.log(colors.green('optimized.'));
+

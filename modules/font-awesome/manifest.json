@@ -9,7 +9,7 @@
   "author": "Dave Gandy",
   "license": "(OFL-1.1 AND MIT)",
   "style": "font-awesome.css",
-  "count": "787",
+  "count": "786",
   "classifiable": true,
   "icons": {
     "address-book": "address-book",
@@ -488,7 +488,6 @@
     "file-o": "file-o",
     "file-text": "file-text",
     "file-text-o": "file-text-o",
-    "info-circle fa-lg fa-li": "info-circle fa-lg fa-li",
     "cc-amex": "cc-amex",
     "cc-diners-club": "cc-diners-club",
     "cc-discover": "cc-discover",
@@ -1352,7 +1351,6 @@
       "file-zip-o",
     ],
     "Spinner Icons": [
-      "info-circle fa-lg fa-li",
       "circle-o-notch",
       "cog",
       "gear",
@@ -1741,7 +1739,6 @@
       "youtube",
       "youtube-play",
       "youtube-square",
-      "warning",
     ],
     "Medical Icons": [
       "ambulance",

@@ -30,5 +30,10 @@ module.exports = {
 
   sets: {
     customs: `${__dirname}/customs/`
+  },
+
+  icons: {
+    source: 'icons/*.svg',
+    build: 'svgs'
   }
 };
