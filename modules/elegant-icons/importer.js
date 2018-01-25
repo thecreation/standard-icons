@@ -1,36 +1,36 @@
-let generateCss = require('../../scripts/utils/generateCss');
-let generateJson = require('../../scripts/utils/generateJson');
-let prepareIcons = require('../../scripts/utils/prepareIcons');
-let extraFromJson = require('../../scripts/utils/extraFromJson');
-let detectLicense = require('../../scripts/utils/detectLicense');
-let getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
-let getFonts = require('../../scripts/utils/getFonts');
-let copyFonts = require('../../scripts/utils/copyFonts');
-let getSvgs = require('../../scripts/utils/getSvgs');
-let copySvgs = require('../../scripts/utils/copySvgs');
-let copyLicense = require('../../scripts/utils/copyLicense');
-let fs = require('fs-extra');
-let path = require('path');
+const generateCss = require('../../scripts/utils/generateCss');
+const generateJson = require('../../scripts/utils/generateJson');
+const prepareIcons = require('../../scripts/utils/prepareIcons');
+const extraFromJson = require('../../scripts/utils/extraFromJson');
+const detectLicense = require('../../scripts/utils/detectLicense');
+const getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
+const getFonts = require('../../scripts/utils/getFonts');
+const copyFonts = require('../../scripts/utils/copyFonts');
+const getSvgs = require('../../scripts/utils/getSvgs');
+const copySvgs = require('../../scripts/utils/copySvgs');
+const copyLicense = require('../../scripts/utils/copyLicense');
+const fs = require('fs-extra');
+const path = require('path');
 
 let options = {
-    source: path.join(`${__dirname}/node_modules/`, 'elegant-icons'),
-    name: 'elegant-icons',
-    class: 'ei',
-    prefix: 'ei-',
-    author: 'Elegant Themes',
-    homepage: 'https://www.elegantthemes.com/blog/resources/elegant-icon-font',
-    className: 'ElegantIcons',
-    title: 'Elegant Icons',
-    classifiable: false
+  source: path.join(`${__dirname}/node_modules/`, 'elegant-icons'),
+  name: 'elegant-icons',
+  class: 'ei',
+  prefix: 'ei-',
+  author: 'Elegant Themes',
+  homepage: 'https://www.elegantthemes.com/blog/resources/elegant-icon-font',
+  className: 'ElegantIcons',
+  title: 'Elegant Icons',
+  classifiable: false
 };
 
 let paths = {
-    package: path.join(options.source, 'package.json'),
-    css: path.join(options.source, 'style.css'),
-    fonts: path.join(options.source, 'fonts'),
-    svgs: path.join(options.source, 'fonts'),
-    dest: __dirname,
-    svgsDest: path.join(__dirname, 'icons')
+  package: path.join(options.source, 'package.json'),
+  css: path.join(options.source, 'style.css'),
+  fonts: path.join(options.source, 'fonts'),
+  svgs: path.join(options.source, 'fonts'),
+  dest: __dirname,
+  svgsDest: path.join(__dirname, 'icons')
 };
 
 let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);

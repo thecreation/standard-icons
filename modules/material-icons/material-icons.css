@@ -8,12 +8,12 @@
 
 @font-face {
   font-family: "material-icons";
-  src: url('Material-Design-Iconic-Font.eot.eot');
-  src: url('Material-Design-Iconic-Font.eot?#iefix') format('eot'),
-    url('Material-Design-Iconic-Font.woff2') format('woff2'),
-    url('Material-Design-Iconic-Font.woff') format('woff'),
-    url('Material-Design-Iconic-Font.ttf') format('truetype'),
-    url('Material-Design-Iconic-Font.svg#material-icons') format('svg');
+  src: url('material-icons.eot');
+  src: url('material-icons.eot?#iefix') format('eot'),
+    url('material-icons.woff2') format('woff2'),
+    url('material-icons.woff') format('woff'),
+    url('material-icons.ttf') format('truetype'),
+    url('material-icons.svg#material-icons') format('svg');
 }
 
 .zmdi {

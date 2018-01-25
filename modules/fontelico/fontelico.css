@@ -1,0 +1,134 @@
+/**
+ * Fontelico
+ * Created by Crowdsourced, for Fontello project
+ * http://fontello.com
+ * SIL License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "fontelico";
+  src: url('fontelico.eot');
+  src: url('fontelico.eot?#iefix') format('eot'),
+
+    url('fontelico.woff') format('woff'),
+    url('fontelico.ttf') format('truetype'),
+    url('fontelico.svg#fontelico') format('svg');
+}
+
+.emo {
+  font-family: "fontelico";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+.emo-happy:before {
+  content: "\e800";
+}
+.emo-wink:before {
+  content: "\e801";
+}
+.emo-wink2:before {
+  content: "\e813";
+}
+.emo-unhappy:before {
+  content: "\e802";
+}
+.emo-sleep:before {
+  content: "\e803";
+}
+.emo-thumbsup:before {
+  content: "\e804";
+}
+.emo-devil:before {
+  content: "\e805";
+}
+.emo-surprised:before {
+  content: "\e806";
+}
+.emo-tongue:before {
+  content: "\e807";
+}
+.emo-coffee:before {
+  content: "\e808";
+}
+.emo-sunglasses:before {
+  content: "\e809";
+}
+.emo-displeased:before {
+  content: "\e80a";
+}
+.emo-beer:before {
+  content: "\e80b";
+}
+.emo-grin:before {
+  content: "\e80c";
+}
+.emo-angry:before {
+  content: "\e80d";
+}
+.emo-saint:before {
+  content: "\e80e";
+}
+.emo-cry:before {
+  content: "\e80f";
+}
+.emo-shoot:before {
+  content: "\e810";
+}
+.emo-squint:before {
+  content: "\e811";
+}
+.emo-laugh:before {
+  content: "\e812";
+}
+.emo-spin1:before {
+  content: "\e830";
+}
+.emo-spin2:before {
+  content: "\e831";
+}
+.emo-spin3:before {
+  content: "\e832";
+}
+.emo-spin4:before {
+  content: "\e834";
+}
+.emo-spin5:before {
+  content: "\e838";
+}
+.emo-spin6:before {
+  content: "\e839";
+}
+.emo-firefox:before {
+  content: "\e840";
+}
+.emo-chrome:before {
+  content: "\e841";
+}
+.emo-opera:before {
+  content: "\e842";
+}
+.emo-ie:before {
+  content: "\e843";
+}
+.emo-crown:before {
+  content: "\e844";
+}
+.emo-crown-plus:before {
+  content: "\e845";
+}
+.emo-crown-minus:before {
+  content: "\e846";
+}
+.emo-marquee:before {
+  content: "\e847";
+}
+

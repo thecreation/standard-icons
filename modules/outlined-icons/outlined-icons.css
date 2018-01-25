@@ -8,12 +8,12 @@
 
 @font-face {
   font-family: "outlined-icons";
-  src: url('outlined-iconset.eot.eot');
-  src: url('outlined-iconset.eot?#iefix') format('eot'),
+  src: url('outlined-icons.eot');
+  src: url('outlined-icons.eot?#iefix') format('eot'),
 
-    url('outlined-iconset.woff') format('woff'),
-    url('outlined-iconset.ttf') format('truetype'),
-    url('outlined-iconset.svg#outlined-icons') format('svg');
+    url('outlined-icons.woff') format('woff'),
+    url('outlined-icons.ttf') format('truetype'),
+    url('outlined-icons.svg#outlined-icons') format('svg');
 }
 
 .oi {

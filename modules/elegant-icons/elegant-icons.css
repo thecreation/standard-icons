@@ -8,12 +8,12 @@
 
 @font-face {
   font-family: "elegant-icons";
-  src: url('ElegantIcons.eot.eot');
-  src: url('ElegantIcons.eot?#iefix') format('eot'),
+  src: url('elegant-icons.eot');
+  src: url('elegant-icons.eot?#iefix') format('eot'),
 
-    url('ElegantIcons.woff') format('woff'),
-    url('ElegantIcons.ttf') format('truetype'),
-    url('ElegantIcons.svg#elegant-icons') format('svg');
+    url('elegant-icons.woff') format('woff'),
+    url('elegant-icons.ttf') format('truetype'),
+    url('elegant-icons.svg#elegant-icons') format('svg');
 }
 
 .ei {

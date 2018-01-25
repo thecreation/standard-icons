@@ -1,19 +1,19 @@
-let generateCss = require('../../scripts/utils/generateCss');
-let generateJson = require('../../scripts/utils/generateJson');
-let prepareIcons = require('../../scripts/utils/prepareIcons');
-let extraFromJson = require('../../scripts/utils/extraFromJson');
-let detectLicense = require('../../scripts/utils/detectLicense');
-let getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
-let getSvgs = require('../../scripts/utils/getSvgs');
-let copySvgs = require('../../scripts/utils/copySvgs');
-let getFonts = require('../../scripts/utils/getFonts');
-let copyFonts = require('../../scripts/utils/copyFonts');
-let copyLicense = require('../../scripts/utils/copyLicense');
-let fs = require('fs-extra');
-let path = require('path');
+const generateCss = require('../../scripts/utils/generateCss');
+const generateJson = require('../../scripts/utils/generateJson');
+const prepareIcons = require('../../scripts/utils/prepareIcons');
+const extraFromJson = require('../../scripts/utils/extraFromJson');
+const detectLicense = require('../../scripts/utils/detectLicense');
+const getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
+const getSvgs = require('../../scripts/utils/getSvgs');
+const copySvgs = require('../../scripts/utils/copySvgs');
+const getFonts = require('../../scripts/utils/getFonts');
+const copyFonts = require('../../scripts/utils/copyFonts');
+const copyLicense = require('../../scripts/utils/copyLicense');
+const fs = require('fs-extra');
+const path = require('path');
 
 let options = {
-  source: path.join(`${__dirname}/node_modules/`, 'micon'),
+  source: path.join(`${__dirname}/node_modules/`, 'micon-font'),
   name: 'micon',
   class: 'mi',
   prefix: 'mi-',
@@ -23,10 +23,11 @@ let options = {
 };
 
 let paths = {
-  bower: path.join(options.source, '.bower.json'),
+  bower: path.join(options.source, 'bower.json'),
   css: path.join(options.source, 'dist', 'micon', 'css', 'micon.css'),
   fonts: path.join(options.source, 'dist', 'micon', 'fonts'),
-  svgs: path.join(options.source, 'dist', 'micon', 'fonts'),
+  svgs1: path.join(options.source, 'icons', 'mdl2'),
+  svgs2: path.join(options.source, 'icons', 'webbrand'),
   dest: __dirname,
   svgsDest: path.join(__dirname, 'icons')
 };
@@ -39,7 +40,8 @@ options.homepage = info.homepage;
 options.description = info.description;
 options.version = info.version;
 options.fonts = getFonts(paths.fonts);
-options.svgs = getSvgs(paths.svgs);
+options.svgs1 = getSvgs(paths.svgs1);
+options.svgs2 = getSvgs(paths.svgs2);
 
 module.exports = function() {
   options.icons = getIconsFromCss(paths.css, 'mi-');
@@ -47,6 +49,7 @@ module.exports = function() {
   generateCss(paths.dest, options.name, options);
   generateJson(paths.dest, options.className, options);
   copyFonts(paths.dest, paths.fonts, options);
-  copySvgs(paths.svgsDest, paths.svgs, options.svgs);
+  copySvgs(paths.svgsDest, paths.svgs1, options.svgs1);
+  copySvgs(paths.svgsDest, paths.svgs2, options.svgs2);
   copyLicense(paths.dest, path.join(options.source, 'LICENSE'));
 };

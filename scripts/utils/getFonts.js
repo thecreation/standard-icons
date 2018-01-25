@@ -23,6 +23,6 @@ module.exports = function(folder) {
       }
     });
   }
-
+  
   return fonts;
 }

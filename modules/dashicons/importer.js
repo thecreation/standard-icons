@@ -31,12 +31,15 @@ let paths = {
   css: path.join(options.source, 'icon-font', 'css', 'dashicons.css'),
   url: 'https://developer.wordpress.org/resource/dashicons/',
   fonts: path.join(options.source, 'icon-font', 'fonts'),
-  dest: __dirname
+  svgs: path.join(options.source, 'svg-min'),
+  dest: __dirname,
+  svgsDest: path.join(__dirname, 'icons')
 };
 
 options =  Object.assign(options, extraFromJson(paths.package, ['homepage']));
 options.license = detectLicense(paths.license);
 options.fonts = getFonts(paths.fonts);
+options.svgs = getSvgs(paths.svgs);
 
 module.exports = function() {
   getIconsFromUrl(paths.url, function($) {
@@ -63,7 +66,8 @@ module.exports = function() {
     options = prepareIcons(options);
     generateCss(paths.dest, options.name, options);
     generateJson(paths.dest, options.className, options);
-    copyFonts(paths.dest, paths.fonts, options.fonts);
+    copyFonts(paths.dest, paths.fonts, options);
+    copySvgs(paths.svgsDest, paths.svgs, options.svgs);
     copyLicense(paths.dest, path.join(options.source, 'gpl.txt'));
   });
 };

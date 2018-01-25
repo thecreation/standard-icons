@@ -8,12 +8,12 @@
 
 @font-face {
   font-family: "stroke-7";
-  src: url('Pe-icon-7-stroke.eot.eot');
-  src: url('Pe-icon-7-stroke.eot?#iefix') format('eot'),
+  src: url('stroke-7.eot');
+  src: url('stroke-7.eot?#iefix') format('eot'),
 
-    url('Pe-icon-7-stroke.woff') format('woff'),
-    url('Pe-icon-7-stroke.ttf') format('truetype'),
-    url('Pe-icon-7-stroke.svg#stroke-7') format('svg');
+    url('stroke-7.woff') format('woff'),
+    url('stroke-7.ttf') format('truetype'),
+    url('stroke-7.svg#stroke-7') format('svg');
 }
 
 .s7 {

@@ -1,19 +1,20 @@
-let generateCss = require('../../scripts/utils/generateCss');
-let generateJson = require('../../scripts/utils/generateJson');
-let prepareIcons = require('../../scripts/utils/prepareIcons');
-let extraFromYml = require('../../scripts/utils/extraFromYml');
-let detectLicense = require('../../scripts/utils/detectLicense');
-let getIconsFromYml = require('../../scripts/utils/getIconsFromYml');
-let getSvgs = require('../../scripts/utils/getSvgs');
-let copySvgs = require('../../scripts/utils/copySvgs');
-let getFonts = require('../../scripts/utils/getFonts');
-let copyFonts = require('../../scripts/utils/copyFonts');
-let copyLicense = require('../../scripts/utils/copyLicense');
-let fs = require('fs-extra');
-let path = require('path');
+const generateCss = require('../../scripts/utils/generateCss');
+const generateJson = require('../../scripts/utils/generateJson');
+const prepareIcons = require('../../scripts/utils/prepareIcons');
+const extraFromYml = require('../../scripts/utils/extraFromYml');
+const detectLicense = require('../../scripts/utils/detectLicense');
+const getIconsFromYml = require('../../scripts/utils/getIconsFromYml');
+const getSvgs = require('../../scripts/utils/getSvgs');
+const copySvgs = require('../../scripts/utils/copySvgs');
+const getFonts = require('../../scripts/utils/getFonts');
+const copyFonts = require('../../scripts/utils/copyFonts');
+const copyLicense = require('../../scripts/utils/copyLicense');
+const fs = require('fs-extra');
+const config = require('../../config');
+const path = require('path');
 
 let options = {
-  source: path.join(`${__dirname}/node_modules/`, 'fontelico.font'),
+  source: path.join(config.sets.customs, 'fontelico.font'),
   name: 'fontelico',
   class: 'emo',
   prefix: 'emo-',

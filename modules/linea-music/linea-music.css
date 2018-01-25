@@ -1,0 +1,122 @@
+/**
+ * Linea music, 1.0
+ * Created by Dario Ferrando
+ * http://www.linea.io/
+ * CC0-1.0 License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "linea-music";
+  src: url('linea-music.eot');
+  src: url('linea-music.eot?#iefix') format('eot'),
+
+    url('linea-music.woff') format('woff'),
+    url('linea-music.ttf') format('truetype'),
+    url('linea-music.svg#linea-music') format('svg');
+}
+
+.linea {
+  font-family: "linea-music";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+.linea-music-beginning-button:before {
+  content: "a";
+}
+.linea-music-bell:before {
+  content: "b";
+}
+.linea-music-cd:before {
+  content: "c";
+}
+.linea-music-diapason:before {
+  content: "d";
+}
+.linea-music-eject-button:before {
+  content: "e";
+}
+.linea-music-end-button:before {
+  content: "f";
+}
+.linea-music-fastforward-button:before {
+  content: "g";
+}
+.linea-music-headphones:before {
+  content: "h";
+}
+.linea-music-ipod:before {
+  content: "i";
+}
+.linea-music-loudspeaker:before {
+  content: "j";
+}
+.linea-music-microphone:before {
+  content: "k";
+}
+.linea-music-microphone-old:before {
+  content: "l";
+}
+.linea-music-mixer:before {
+  content: "m";
+}
+.linea-music-mute:before {
+  content: "n";
+}
+.linea-music-note-multiple:before {
+  content: "o";
+}
+.linea-music-note-single:before {
+  content: "p";
+}
+.linea-music-pause-button:before {
+  content: "q";
+}
+.linea-music-play-button:before {
+  content: "r";
+}
+.linea-music-playlist:before {
+  content: "s";
+}
+.linea-music-radio-ghettoblaster:before {
+  content: "t";
+}
+.linea-music-radio-portable:before {
+  content: "u";
+}
+.linea-music-record:before {
+  content: "v";
+}
+.linea-music-recordplayer:before {
+  content: "w";
+}
+.linea-music-repeat-button:before {
+  content: "x";
+}
+.linea-music-rewind-button:before {
+  content: "y";
+}
+.linea-music-shuffle-button:before {
+  content: "z";
+}
+.linea-music-stop-button:before {
+  content: "A";
+}
+.linea-music-tape:before {
+  content: "B";
+}
+.linea-music-volume-down:before {
+  content: "C";
+}
+.linea-music-volume-up:before {
+  content: "D";
+}
+

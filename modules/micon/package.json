@@ -15,5 +15,8 @@
   "keywords": [
     "icons",
     "icon"
-  ]
+  ],
+  "devDependencies": {
+    "micon-font": "git+https://github.com/xtoolkit/Micon.git"
+  }
 }

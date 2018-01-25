@@ -8,12 +8,12 @@
 
 @font-face {
   font-family: "hawcons-filled";
-  src: url('hawcons.eot.eot');
-  src: url('hawcons.eot?#iefix') format('eot'),
+  src: url('hawcons-filled.eot');
+  src: url('hawcons-filled.eot?#iefix') format('eot'),
 
-    url('hawcons.woff') format('woff'),
-    url('hawcons.ttf') format('truetype'),
-    url('hawcons.svg#hawcons-filled') format('svg');
+    url('hawcons-filled.woff') format('woff'),
+    url('hawcons-filled.ttf') format('truetype'),
+    url('hawcons-filled.svg#hawcons-filled') format('svg');
 }
 
 .hfi {

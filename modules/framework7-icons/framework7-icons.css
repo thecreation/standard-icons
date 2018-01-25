@@ -8,11 +8,11 @@
 
 @font-face {
   font-family: "framework7-icons";
-  src: url('Framework7Icons-Regular.eot.eot');
-  src: url('Framework7Icons-Regular.eot?#iefix') format('eot'),
-    url('Framework7Icons-Regular.woff2') format('woff2'),
-    url('Framework7Icons-Regular.woff') format('woff'),
-    url('Framework7Icons-Regular.ttf') format('truetype'),
+  src: url('framework7-icons.eot');
+  src: url('framework7-icons.eot?#iefix') format('eot'),
+    url('framework7-icons.woff2') format('woff2'),
+    url('framework7-icons.woff') format('woff'),
+    url('framework7-icons.ttf') format('truetype'),
 ;
 }
 

@@ -8,12 +8,12 @@
 
 @font-face {
   font-family: "themify-icons";
-  src: url('themify.eot.eot');
-  src: url('themify.eot?#iefix') format('eot'),
+  src: url('themify-icons.eot');
+  src: url('themify-icons.eot?#iefix') format('eot'),
 
-    url('themify.woff') format('woff'),
-    url('themify.ttf') format('truetype'),
-    url('themify.svg#themify-icons') format('svg');
+    url('themify-icons.woff') format('woff'),
+    url('themify-icons.ttf') format('truetype'),
+    url('themify-icons.svg#themify-icons') format('svg');
 }
 
 .ti {

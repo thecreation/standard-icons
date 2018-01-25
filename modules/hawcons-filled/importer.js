@@ -1,19 +1,20 @@
-let generateCss = require('../../scripts/utils/generateCss');
-let generateJson = require('../../scripts/utils/generateJson');
-let prepareIcons = require('../../scripts/utils/prepareIcons');
-let extraFromJson = require('../../scripts/utils/extraFromJson');
-let detectLicense = require('../../scripts/utils/detectLicense');
-let getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
-let getSvgs = require('../../scripts/utils/getSvgs');
-let copySvgs = require('../../scripts/utils/copySvgs');
-let getFonts = require('../../scripts/utils/getFonts');
-let copyFonts = require('../../scripts/utils/copyFonts');
-let copyLicense = require('../../scripts/utils/copyLicense');
-let fs = require('fs-extra');
-let path = require('path');
+const generateCss = require('../../scripts/utils/generateCss');
+const generateJson = require('../../scripts/utils/generateJson');
+const prepareIcons = require('../../scripts/utils/prepareIcons');
+const extraFromJson = require('../../scripts/utils/extraFromJson');
+const detectLicense = require('../../scripts/utils/detectLicense');
+const getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
+const getSvgs = require('../../scripts/utils/getSvgs');
+const copySvgs = require('../../scripts/utils/copySvgs');
+const getFonts = require('../../scripts/utils/getFonts');
+const copyFonts = require('../../scripts/utils/copyFonts');
+const copyLicense = require('../../scripts/utils/copyLicense');
+const fs = require('fs-extra');
+const config = require('../../config');
+const path = require('path');
 
 let options = {
-  source: path.join(`${__dirname}/custom_packages/`, 'Hawcons', 'Font', 'Filled'),
+  source: path.join(config.sets.customs, 'Hawcons', 'Font', 'Filled'),
   name: 'hawcons-filled',
   class: 'hfi',
   prefix: 'hfi-',
@@ -28,8 +29,8 @@ let options = {
 let paths = {
   css: path.join(options.source, 'style.css'),
   fonts: path.join(options.source, 'fonts'),
-  svgs: path.join(`${__dirname}/custom_packages/`, 'Hawcons', 'SVG'),
-  license: path.join(`${__dirname}/custom_packages/`, 'Hawcons', 'Read Me.md'),
+  svgs: path.join(config.sets.customs, 'Hawcons', 'SVG'),
+  license: path.join(config.sets.customs, 'Hawcons', 'Read Me.md'),
   dest: __dirname,
   svgsDest: path.join(__dirname, 'icons')
 };

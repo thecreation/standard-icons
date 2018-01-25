@@ -8,12 +8,12 @@
 
 @font-face {
   font-family: "weather-icons";
-  src: url('weathericons-regular-webfont.eot.eot');
-  src: url('weathericons-regular-webfont.eot?#iefix') format('eot'),
+  src: url('weather-icons.eot');
+  src: url('weather-icons.eot?#iefix') format('eot'),
 
-    url('weathericons-regular-webfont.woff') format('woff'),
-    url('weathericons-regular-webfont.ttf') format('truetype'),
-    url('weathericons-regular-webfont.svg#weather-icons') format('svg');
+    url('weather-icons.woff') format('woff'),
+    url('weather-icons.ttf') format('truetype'),
+    url('weather-icons.svg#weather-icons') format('svg');
 }
 
 .wi {

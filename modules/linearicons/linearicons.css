@@ -8,12 +8,12 @@
 
 @font-face {
   font-family: "linearicons";
-  src: url('Linearicons-Free.eot.eot');
-  src: url('Linearicons-Free.eot?#iefix') format('eot'),
-    url('Linearicons-Free.woff2') format('woff2'),
-    url('Linearicons-Free.woff') format('woff'),
-    url('Linearicons-Free.ttf') format('truetype'),
-    url('Linearicons-Free.svg#linearicons') format('svg');
+  src: url('linearicons.eot');
+  src: url('linearicons.eot?#iefix') format('eot'),
+    url('linearicons.woff2') format('woff2'),
+    url('linearicons.woff') format('woff'),
+    url('linearicons.ttf') format('truetype'),
+    url('linearicons.svg#linearicons') format('svg');
 }
 
 .lnr {
