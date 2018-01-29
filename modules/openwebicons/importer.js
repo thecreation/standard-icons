@@ -9,7 +9,7 @@ const getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
 const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
-const generateSvgs = require('../../scripts/utils/generateSvgs');
+const generateSvgs2 = require('../../scripts/utils/generateSvgs2');
 const fs = require('fs-extra');
 const path = require('path');
 
@@ -71,10 +71,10 @@ module.exports = function() {
   }).then(function(icons){
     options.icons = icons;
     options = prepareIcons(options);
-    generateCss(paths.dest, options.name, options);
-    generateJson(paths.dest, options.className, options);
-    copyFonts(paths.dest, paths.fonts, options);
-    copyLicense(paths.dest, path.join(options.source, 'License.txt'));
-    generateSvgs(paths.dest, options.name, options);
+    // generateCss(paths.dest, options.name, options);
+    // generateJson(paths.dest, options.className, options);
+    // copyFonts(paths.dest, paths.fonts, options);
+    // copyLicense(paths.dest, path.join(options.source, 'License.txt'));
+    generateSvgs2(paths.dest, options.name, options);
   });
 };
