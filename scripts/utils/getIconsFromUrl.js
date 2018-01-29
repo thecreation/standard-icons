@@ -45,7 +45,7 @@ module.exports = function(url, callback) {
         }
       });
     }).on('error', function() {
-      // reject(err);
+      reject(err);
     });
   });
 }

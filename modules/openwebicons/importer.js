@@ -71,10 +71,10 @@ module.exports = function() {
   }).then(function(icons){
     options.icons = icons;
     options = prepareIcons(options);
-    // generateCss(paths.dest, options.name, options);
-    // generateJson(paths.dest, options.className, options);
-    // copyFonts(paths.dest, paths.fonts, options);
-    // copyLicense(paths.dest, path.join(options.source, 'License.txt'));
+    generateCss(paths.dest, options.name, options);
+    generateJson(paths.dest, options.className, options);
+    copyFonts(paths.dest, paths.fonts, options);
+    copyLicense(paths.dest, path.join(options.source, 'License.txt'));
     generateSvgs2(paths.dest, options.name, options);
   });
 };
