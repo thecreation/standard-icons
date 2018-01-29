@@ -16,8 +16,5 @@
   "keywords": [
     "icons",
     "icon"
-  ],
-  "devDependencies": {
-    "framework7-icons": "^0.8.9"
-  }
+  ]
 }

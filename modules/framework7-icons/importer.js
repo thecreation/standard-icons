@@ -11,10 +11,11 @@ const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const fs = require('fs-extra');
+const config = require('../../config');
 const path = require('path');
 
 let options = {
-  source: path.join(`${__dirname}/node_modules/`, 'framework7-icons'),
+  source: path.join(config.sets.customs, 'framework7-icons'),
   name: 'framework7-icons',
   class: 'f7',
   prefix: 'f7-',
@@ -27,7 +28,7 @@ let paths = {
   package: path.join(options.source, 'package.json'),
   css: path.join(options.source, 'css', 'framework7-icons.css'),
   fonts: path.join(options.source, 'fonts'),
-  svgs: path.join(options.source, 'fonts'),
+  svgs: path.join(options.source, 'src'),
   html: path.join(options.source, 'cheatsheet.html'),
   dest: __dirname,
   svgsDest: path.join(__dirname, 'icons')
@@ -41,7 +42,7 @@ options.homepage = info.homepage;
 options.description = info.description;
 options.version = info.version;
 options.fonts = getFonts(paths.fonts);
-// options.svgs = getSvgs(paths.svgs);
+options.svgs = getSvgs(paths.svgs);
 
 module.exports = function() {
   getIconsFromHtml(paths.html, function($) {

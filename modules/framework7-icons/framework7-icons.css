@@ -1,6 +1,6 @@
 /**
- * Framework7 Icons, 0.8.9
- * Created by [object Object]
+ * Framework7 Icons, 0.9.0
+ * Created by Vladimir Kharlampidi
  * http://framework7.io/icons/
  * MIT License
  */
@@ -479,6 +479,9 @@
 .f7-more:before {
   content: "more";
 }
+.f7-more_fill:before {
+  content: "more_fill";
+}
 .f7-more_round:before {
   content: "more_round";
 }
@@ -487,6 +490,9 @@
 }
 .f7-more_vertical:before {
   content: "more_vertical";
+}
+.f7-more_vertical_fill:before {
+  content: "more_vertical_fill";
 }
 .f7-more_vertical_round:before {
   content: "more_vertical_round";

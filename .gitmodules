@@ -16,3 +16,6 @@
 [submodule "customs/mfglabs-iconset"]
 	path = customs/mfglabs-iconset
 	url = https://github.com/MfgLabs/mfglabs-iconset.git
+[submodule "customs/framework7-icons"]
+	path = customs/framework7-icons
+	url = https://github.com/framework7io/framework7-icons.git
