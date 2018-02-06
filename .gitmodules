@@ -22,3 +22,6 @@
 [submodule "customs/zondicons"]
 	path = customs/zondicons
 	url = https://github.com/sschoger/zondicons.git
+[submodule "customs/payment-webfont"]
+	path = customs/payment-webfont
+	url = https://github.com/orlandotm/payment-webfont.git

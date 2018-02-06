@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "name": "@icon/payment-webfont",
+  "description": "TODO: fill in this description later",
+  "author": "Creation Studio Limited",
+  "license": "MIT",
+  "style": "index.scss",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/payment-webfont",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=payment-webfont",
+    "optimize": "../../scripts/module/optimize --module=payment-webfont"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ]
+}
