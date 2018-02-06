@@ -77,6 +77,7 @@
     "stylelint-scss": "^2.2.0",
     "svgo": "^1.0.3",
     "uglify-es": "^3.3.5",
+    "webfont": "^7.1.4",
     "webfonts-generator": "^0.4.0",
     "xml2js": "^0.4.19",
     "yargs": "^10.1.1",
