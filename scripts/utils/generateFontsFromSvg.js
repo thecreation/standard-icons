@@ -5,7 +5,7 @@ const path = require('path');
 const colors = require('colors');
 const webfont = require('webfont').default;
 
-module.exports = function(dest, options) {
+module.exports = function(dest, options, done) {
   webfont({
     files: `${dest}/icons/*.svg`,
     fontName: `${options.name}`,
@@ -29,5 +29,6 @@ module.exports = function(dest, options) {
     fs.writeFileSync(`${dest}/${options.name}.woff`, new Buffer(result.woff));
     fs.writeFileSync(`${dest}/${options.name}.woff2`, new Buffer(result.woff2));
     console.log(colors.green('Icon generated.'));
+    done();
   })
 }
