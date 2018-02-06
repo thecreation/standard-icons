@@ -1,0 +1,27 @@
+{
+  "title": "Simple Icons",
+  "prefix": "simple-icons",
+  "preview": "@support-layout",
+  "context": {
+    "modifier": "default",
+    "text": "default"
+  },
+  "variants": [
+    {
+      "name": "light",
+      "status": "ready",
+      "context": {
+        "modifier": "light",
+        "text": "light"
+      }
+    },
+    {
+      "name": "dark",
+      "status": "ready",
+      "context": {
+        "modifier": "dark",
+        "text": "dark"
+      }
+    }
+  ]
+}

@@ -1,1 +1,14 @@
-<svg version="1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10" d="M1 48h31v15H1zM32 48h31v15H32zM1 32h31v16H1zM32 32h31v16H32zM1 17h31v15H1zM32 17h31v15H32zM1 1h31v16H1zM32 1h31v16H32z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<rect x="1" y="48" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="31" height="15"/>
+<rect x="32" y="48" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="31" height="15"/>
+<rect x="1" y="32" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="31" height="16"/>
+<rect x="32" y="32" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="31" height="16"/>
+<rect x="1" y="17" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="31" height="15"/>
+<rect x="32" y="17" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="31" height="15"/>
+<rect x="1" y="1" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="31" height="16"/>
+<rect x="32" y="1" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="31" height="16"/>
+</svg>

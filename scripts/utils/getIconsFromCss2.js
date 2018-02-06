@@ -6,7 +6,7 @@ let CSSOM = require('css');
 module.exports = function(file, prefix, selector = "^\\.{prefix}([\\w\\d-]+):before") {
   var content = fs.readFileSync(file);
   selector = selector.replace('{prefix}', prefix);
-
+  
   var icons = {};
   var reg = new RegExp(selector);
   let css = CSSOM.parse(content.toString());
