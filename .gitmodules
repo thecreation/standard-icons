@@ -19,3 +19,6 @@
 [submodule "customs/framework7-icons"]
 	path = customs/framework7-icons
 	url = https://github.com/framework7io/framework7-icons.git
+[submodule "customs/zondicons"]
+	path = customs/zondicons
+	url = https://github.com/sschoger/zondicons.git

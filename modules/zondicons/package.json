@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "name": "@icon/zondicons",
+  "description": "TODO: fill in this description later",
+  "author": "Creation Studio Limited",
+  "license": "MIT",
+  "style": "index.scss",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/zondicons",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=zondicons",
+    "optimize": "../../scripts/module/optimize --module=zondicons"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ]
+}
