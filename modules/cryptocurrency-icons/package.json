@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "name": "@icon/cryptocurrency-icons",
+  "description": "TODO: fill in this description later",
+  "author": "Creation Studio Limited",
+  "license": "MIT",
+  "style": "index.scss",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/cryptocurrency-icons",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=cryptocurrency-icons",
+    "optimize": "../../scripts/module/optimize --module=cryptocurrency-icons"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "devDependencies": {
+    "cryptocurrency-icons": "git+https://github.com/cjdowner/cryptocurrency-icons.git"
+  }
+}
