@@ -1,0 +1,312 @@
+/**
+ * Evil Icons, 1.9.0
+ * Created by Alexander Madyankin
+ * http://evil-icons.io
+ * MIT License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "evil-icons";
+  src: url('./evil-icons.eot');
+  src: 
+    url('./evil-icons.eot?#iefix') format('embedded-opentype'),
+    url('./evil-icons.woff2') format('woff2'),
+    url('./evil-icons.woff') format('woff'),
+    url('./evil-icons.ttf') format('truetype'),
+    url('./evil-icons.svg#evil-icons') format('svg');
+}
+
+.evil-icons {
+  font-family: "evil-icons";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+
+.evil-icons-ei-archive::before {
+    content: "\ea01";
+}
+
+.evil-icons-ei-arrow-down::before {
+    content: "\ea02";
+}
+
+.evil-icons-ei-arrow-left::before {
+    content: "\ea03";
+}
+
+.evil-icons-ei-arrow-right::before {
+    content: "\ea04";
+}
+
+.evil-icons-ei-arrow-up::before {
+    content: "\ea05";
+}
+
+.evil-icons-ei-bell::before {
+    content: "\ea06";
+}
+
+.evil-icons-ei-calendar::before {
+    content: "\ea07";
+}
+
+.evil-icons-ei-camera::before {
+    content: "\ea08";
+}
+
+.evil-icons-ei-cart::before {
+    content: "\ea09";
+}
+
+.evil-icons-ei-chart::before {
+    content: "\ea0a";
+}
+
+.evil-icons-ei-check::before {
+    content: "\ea0b";
+}
+
+.evil-icons-ei-chevron-down::before {
+    content: "\ea0c";
+}
+
+.evil-icons-ei-chevron-left::before {
+    content: "\ea0d";
+}
+
+.evil-icons-ei-chevron-right::before {
+    content: "\ea0e";
+}
+
+.evil-icons-ei-chevron-up::before {
+    content: "\ea0f";
+}
+
+.evil-icons-ei-clock::before {
+    content: "\ea10";
+}
+
+.evil-icons-ei-close-o::before {
+    content: "\ea11";
+}
+
+.evil-icons-ei-close::before {
+    content: "\ea12";
+}
+
+.evil-icons-ei-comment::before {
+    content: "\ea13";
+}
+
+.evil-icons-ei-credit-card::before {
+    content: "\ea14";
+}
+
+.evil-icons-ei-envelope::before {
+    content: "\ea15";
+}
+
+.evil-icons-ei-exclamation::before {
+    content: "\ea16";
+}
+
+.evil-icons-ei-external-link::before {
+    content: "\ea17";
+}
+
+.evil-icons-ei-eye::before {
+    content: "\ea18";
+}
+
+.evil-icons-ei-gear::before {
+    content: "\ea19";
+}
+
+.evil-icons-ei-heart::before {
+    content: "\ea1a";
+}
+
+.evil-icons-ei-image::before {
+    content: "\ea1b";
+}
+
+.evil-icons-ei-like::before {
+    content: "\ea1c";
+}
+
+.evil-icons-ei-link::before {
+    content: "\ea1d";
+}
+
+.evil-icons-ei-location::before {
+    content: "\ea1e";
+}
+
+.evil-icons-ei-lock::before {
+    content: "\ea1f";
+}
+
+.evil-icons-ei-minus::before {
+    content: "\ea20";
+}
+
+.evil-icons-ei-navicon::before {
+    content: "\ea21";
+}
+
+.evil-icons-ei-paperclip::before {
+    content: "\ea22";
+}
+
+.evil-icons-ei-pencil::before {
+    content: "\ea23";
+}
+
+.evil-icons-ei-play::before {
+    content: "\ea24";
+}
+
+.evil-icons-ei-plus::before {
+    content: "\ea25";
+}
+
+.evil-icons-ei-pointer::before {
+    content: "\ea26";
+}
+
+.evil-icons-ei-question::before {
+    content: "\ea27";
+}
+
+.evil-icons-ei-redo::before {
+    content: "\ea28";
+}
+
+.evil-icons-ei-refresh::before {
+    content: "\ea29";
+}
+
+.evil-icons-ei-retweet::before {
+    content: "\ea2a";
+}
+
+.evil-icons-ei-sc-facebook::before {
+    content: "\ea2b";
+}
+
+.evil-icons-ei-sc-github::before {
+    content: "\ea2c";
+}
+
+.evil-icons-ei-sc-google-plus::before {
+    content: "\ea2d";
+}
+
+.evil-icons-ei-sc-instagram::before {
+    content: "\ea2e";
+}
+
+.evil-icons-ei-sc-linkedin::before {
+    content: "\ea2f";
+}
+
+.evil-icons-ei-sc-odnoklassniki::before {
+    content: "\ea30";
+}
+
+.evil-icons-ei-sc-pinterest::before {
+    content: "\ea31";
+}
+
+.evil-icons-ei-sc-skype::before {
+    content: "\ea32";
+}
+
+.evil-icons-ei-sc-soundcloud::before {
+    content: "\ea33";
+}
+
+.evil-icons-ei-sc-telegram::before {
+    content: "\ea34";
+}
+
+.evil-icons-ei-sc-tumblr::before {
+    content: "\ea35";
+}
+
+.evil-icons-ei-sc-twitter::before {
+    content: "\ea36";
+}
+
+.evil-icons-ei-sc-vimeo::before {
+    content: "\ea37";
+}
+
+.evil-icons-ei-sc-vk::before {
+    content: "\ea38";
+}
+
+.evil-icons-ei-sc-youtube::before {
+    content: "\ea39";
+}
+
+.evil-icons-ei-search::before {
+    content: "\ea3a";
+}
+
+.evil-icons-ei-share-apple::before {
+    content: "\ea3b";
+}
+
+.evil-icons-ei-share-google::before {
+    content: "\ea3c";
+}
+
+.evil-icons-ei-spinner-2::before {
+    content: "\ea3d";
+}
+
+.evil-icons-ei-spinner-3::before {
+    content: "\ea3e";
+}
+
+.evil-icons-ei-spinner::before {
+    content: "\ea3f";
+}
+
+.evil-icons-ei-star::before {
+    content: "\ea40";
+}
+
+.evil-icons-ei-tag::before {
+    content: "\ea41";
+}
+
+.evil-icons-ei-trash::before {
+    content: "\ea42";
+}
+
+.evil-icons-ei-trophy::before {
+    content: "\ea43";
+}
+
+.evil-icons-ei-undo::before {
+    content: "\ea44";
+}
+
+.evil-icons-ei-unlock::before {
+    content: "\ea45";
+}
+
+.evil-icons-ei-user::before {
+    content: "\ea46";
+}
