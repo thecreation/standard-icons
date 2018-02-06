@@ -16,8 +16,5 @@
   "keywords": [
     "icons",
     "icon"
-  ],
-  "devDependencies": {
-    "dripicons": "https://github.com/amitjakhu/dripicons.git"
-  }
+  ]
 }
