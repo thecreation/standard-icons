@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.0",
   "name": "@icon/caomei-icons",
   "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
-  "license": "MIT",
-  "style": "index.scss",
+  "author": "xiangsudian",
+  "license": "(OFL-1.1 AND MIT)",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/caomei-icons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +18,6 @@
   ],
   "devDependencies": {
     "caomei": "git+https://github.com/xiangsudian/CaoMei.git"
-  }
+  },
+  "homepage": "http://chuangzaoshi.com/caomei/"
 }

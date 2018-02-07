@@ -1,1 +1,12 @@
-<svg width="14" height="14" xmlns="http://www.w3.org/2000/svg"><path d="M13 7H7V1l2 2 3-3 2 2-3 3 2 2zM1 7h6v6l-2-2-3 3-2-2 3-3-2-2z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>compress</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="media-player" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="compress" fill="#000000">
+            <path d="M13,7 L7,7 L7,1 L9,3 L12,0 L14,2 L11,5 L13,7 Z M1,7 L7,7 L7,13 L5,11 L2,14 L0,12 L3,9 L1,7 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

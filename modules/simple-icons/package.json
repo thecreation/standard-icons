@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "1.2.19",
   "name": "@icon/simple-icons",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
-  "license": "MIT",
-  "style": "index.scss",
+  "description": "SVG icons for popular brands https://simpleicons.org",
+  "author": "Simple Icons Collaborators",
+  "license": "CC0",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/simple-icons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +18,6 @@
   ],
   "devDependencies": {
     "simple-icons": "^1.2.19"
-  }
+  },
+  "homepage": "https://www.simpleicons.org"
 }

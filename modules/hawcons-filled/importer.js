@@ -9,6 +9,7 @@ const copySvgs = require('../../scripts/utils/copySvgs');
 const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
+const jsonfile = require('../../scripts/utils/jsonfile');
 const fs = require('fs-extra');
 const config = require('../../config');
 const path = require('path');
@@ -49,4 +50,5 @@ module.exports = function() {
     return path.basename(name).replace(/^icon-(\d)-/i, '');
   });
   copyLicense(paths.dest, paths.license);
+  jsonfile(paths.dest, options);
 };

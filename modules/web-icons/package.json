@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "0.2.4",
   "name": "@icon/web-icons",
   "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
+  "author": "amazingSurge",
   "license": "MIT",
-  "style": "index.scss",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/web-icons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -18,6 +17,7 @@
     "icon"
   ],
   "devDependencies": {
-    "web-icons": "git+https://github.com/thecreation/web-icons.git"
-  }
+    "web-icons": "git+ssh://git@github.com/thecreation/web-icons.git"
+  },
+  "homepage": "https://github.com/amazingSurge/web-icons"
 }

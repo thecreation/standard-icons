@@ -1,10 +1,9 @@
 {
   "version": "0.0.1",
   "name": "@icon/elegant-icons",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
+  "description": "Elegant Themes' Elegant Icon font as a npm package",
+  "author": "Elegant Themes",
   "license": "MIT",
-  "style": "index.scss",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/elegant-icons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +18,6 @@
   ],
   "devDependencies": {
     "elegant-icons": "^0.0.1"
-  }
+  },
+  "homepage": "https://www.elegantthemes.com/blog/resources/elegant-icon-font"
 }

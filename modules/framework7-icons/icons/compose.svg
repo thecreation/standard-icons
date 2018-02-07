@@ -1,1 +1,19 @@
-<svg width="46" height="50" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd"><path d="M17.845 24.216l5.47 5.69-6.955 1.198zM40.94.904l5.656 5.657-3.535 3.535-5.657-5.657zM0 10h2v38H0z"/><path d="M0 46h38v2H0zm0-36h30l-2 2H0z"/><path d="M36 20l2-2v30h-2zm.185-14.142l1.697 1.697L19.497 25.94 17.8 24.243zm3.8 4l1.697 1.697L23.297 29.94 21.6 28.243z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="50px" viewBox="0 0 46 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>compose</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="compose" fill="#000000">
+            <polygon id="Triangle-3" points="17.8452148 24.2156372 23.3154297 29.906189 16.3598478 31.1040111"></polygon>
+            <rect id="Rectangle-24" transform="translate(42.000000, 5.500000) rotate(-315.000000) translate(-42.000000, -5.500000) " x="38" y="3" width="8" height="5"></rect>
+            <rect id="Rectangle-19" x="0" y="10" width="2" height="38"></rect>
+            <rect id="Rectangle-20" x="0" y="46" width="38" height="2"></rect>
+            <polygon id="Rectangle-21" points="0 10 30 10 28 12 0 12"></polygon>
+            <polygon id="Rectangle-22" points="36 20 38 18 38 48 36 48"></polygon>
+            <rect id="Rectangle-27" transform="translate(27.840965, 15.899495) rotate(-315.000000) translate(-27.840965, -15.899495) " x="26.6409651" y="2.89949494" width="2.4000001" height="26"></rect>
+            <rect id="Rectangle-27-Copy" transform="translate(31.641014, 19.899495) rotate(-315.000000) translate(-31.641014, -19.899495) " x="30.4410139" y="6.89949494" width="2.4000001" height="26"></rect>
+        </g>
+    </g>
+</svg>

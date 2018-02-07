@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><g fill="#231F20"><path d="M65.269 85.165H23.208l.221-28.143-6.32-.06L17.074 92h54.853V57.126h-6.658z"/><path d="M27.414 73.601h32.947v7.008H27.414zM28.187 60.984l32.97 3.183-.69 7.153-32.97-3.183zM31.203 46.715l31.877 8.996-1.951 6.914-31.877-8.996zM38.932 30.591l28.352 17.124-3.715 6.151-28.352-17.124zM68.509 46.43l-19.29-26.924 5.84-4.185 19.29 26.925zM70.378 9.182l7.086-1.185 5.462 32.67-7.086 1.184z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="layer1_1_">
+	<polygon fill="#231F20" points="65.269,85.165 23.208,85.165 23.429,57.022 17.109,56.962 17.074,92 71.927,92 71.927,57.126 
+		65.269,57.126 	"/>
+	<rect x="27.414" y="73.601" fill="#231F20" width="32.947" height="7.008"/>
+	
+		<rect x="27.765" y="62.557" transform="matrix(0.9954 0.0961 -0.0961 0.9954 6.5615 -3.9532)" fill="#231F20" width="33.122" height="7.186"/>
+	
+		<rect x="29.605" y="51.079" transform="matrix(0.9624 0.2716 -0.2716 0.9624 16.5844 -10.4838)" fill="#231F20" width="33.122" height="7.184"/>
+	
+		<rect x="34.687" y="38.636" transform="matrix(0.856 0.517 -0.517 0.856 29.2145 -20.4144)" fill="#231F20" width="33.122" height="7.186"/>
+	
+		<rect x="45.221" y="27.283" transform="matrix(-0.5824 -0.8129 0.8129 -0.5824 72.6673 99.0802)" fill="#231F20" width="33.122" height="7.185"/>
+	
+		<rect x="73.06" y="8.366" transform="matrix(0.9863 -0.1649 0.1649 0.9863 -3.0607 12.9782)" fill="#231F20" width="7.185" height="33.123"/>
+</g>
+</svg>

@@ -1,1 +1,14 @@
-<svg width="41" height="50" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M33.081 11.419c-7.029-7.03-18.426-7.03-25.455 0m0 25.455c7.03 7.03 18.426 7.03 25.455 0" stroke="#000" stroke-width="2"/><path fill="#000" d="M38.738 5.762l-12.02 12.02 13.788 1.768zM13.636 30.864l-12.02 12.02-1.769-13.788z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="50px" viewBox="0 0 41 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>reload</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reload" transform="translate(20.000000, 24.500000) rotate(-315.000000) translate(-20.000000, -24.500000) translate(2.000000, -2.000000)">
+            <path d="M18,8 C8.0588745,8 0,16.0588745 0,26 M18,44 L18,44 C27.9411255,44 36,35.9411255 36,26" id="Oval-45" stroke="#000000" stroke-width="2"></path>
+            <polygon id="Triangle-6" fill="#000000" transform="translate(23.500000, 8.500000) scale(-1, 1) translate(-23.500000, -8.500000) " points="29 0 29 17 18 8.5"></polygon>
+            <polygon id="Triangle-6-Copy" fill="#000000" points="18 35.5 18 52.5 7 44"></polygon>
+        </g>
+    </g>
+</svg>

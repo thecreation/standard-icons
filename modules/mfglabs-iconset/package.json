@@ -1,10 +1,9 @@
 {
   "version": "0.0.1",
   "name": "@icon/mfglabs-iconset",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
-  "license": "MIT",
-  "style": "index.scss",
+  "description": "Awesome web font icon by MFG Labs",
+  "author": "MfgLabs",
+  "license": "CC BY-SA",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/mfglabs-iconset",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -16,5 +15,6 @@
   "keywords": [
     "icons",
     "icon"
-  ]
+  ],
+  "homepage": "https://github.com/MfgLabs/mfglabs-iconset"
 }

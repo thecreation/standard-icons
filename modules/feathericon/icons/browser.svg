@@ -1,1 +1,12 @@
-<svg width="14" height="10" xmlns="http://www.w3.org/2000/svg"><path d="M0 1c0-1 1-1 1-1h12s1 0 1 1.003V9c0 1-1 1-1 1H1s-1 0-1-1V1zm1 2v6h12V3H1zm4-2v1h8V1H5zM1 1v1h1V1H1zm2 0v1h1V1H3z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>browser</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="browser" fill="#000000">
+            <path d="M0,1 C0,0 1,0 1,0 L13,0 C13,0 14,0 14,1.00280032 C14,1.00280035 14,9 14,9 C14,10 13,10 13,10 L1,10 C1,10 3.58061258e-18,10 0,9 C3.58061259e-18,9.01128674 0,1.05067945 0,1 Z M1,3 L1,9 L13,9 L13,3 L1,3 Z M5,1 L5,2 L13,2 L13,1 L5,1 Z M1,1 L1,2 L2,2 L2,1 L1,1 Z M3,1 L3,2 L4,2 L4,1 L3,1 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

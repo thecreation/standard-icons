@@ -1,1 +1,15 @@
-<svg width="46" height="50" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd"><path d="M39.81 8.619l1.415 1.414-2.121 2.121-1.415-1.414z"/><path d="M41.292 4.465l4.243 4.243-2.829 2.828-4.242-4.242zM21 0h4v5h-4z"/><path d="M23 50c12.703 0 23-10.297 23-23S35.703 4 23 4 0 14.297 0 27s10.297 23 23 23zm1-25.83V12h-2v12.17a3.001 3.001 0 0 0 0 5.66V34h2v-4.17a3.001 3.001 0 0 0 0-5.66z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="50px" viewBox="0 0 46 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>stopwatch_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stopwatch_fill" fill="#000000">
+            <rect id="Rectangle-115" transform="translate(39.456604, 10.386353) rotate(-315.000000) translate(-39.456604, -10.386353) " x="38.456604" y="8.88635254" width="2" height="3"></rect>
+            <rect id="Rectangle-116" transform="translate(41.999207, 8.001099) rotate(-315.000000) translate(-41.999207, -8.001099) " x="38.9992065" y="6.00109863" width="6" height="4"></rect>
+            <rect id="Rectangle-114" x="21" y="0" width="4" height="5"></rect>
+            <path d="M23,50 C35.7025492,50 46,39.7025492 46,27 C46,14.2974508 35.7025492,4 23,4 C10.2974508,4 0,14.2974508 0,27 C0,39.7025492 10.2974508,50 23,50 Z M24,24.1707057 L24,12 L22,12 L22,24.1707057 C20.8348076,24.5825421 20,25.6937812 20,27 C20,28.3062188 20.8348076,29.4174579 22,29.8292943 L22,34 L24,34 L24,29.8292943 C25.1651924,29.4174579 26,28.3062188 26,27 C26,25.6937812 25.1651924,24.5825421 24,24.1707057 L24,24.1707057 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "v2",
   "name": "@icon/dripicons",
   "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
-  "license": "MIT",
-  "style": "index.scss",
+  "author": "Amit Jakhu",
+  "license": "CC-BY-4.0",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/dripicons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"

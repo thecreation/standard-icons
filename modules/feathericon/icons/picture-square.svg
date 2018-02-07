@@ -1,1 +1,12 @@
-<svg width="14" height="14" xmlns="http://www.w3.org/2000/svg"><path d="M1 13c0-.015 11.993-.007 11.993-.007C13 12.993 13 1 13 1c0 .015-11.993.007-11.993.007C1 1.007 1 13 1 13zM0 1c0-1 1-1 1-1h12s1 0 1 1v12c0 1-1 1-1 1H1s-1 0-1-1V1zm4 7l2 2 4-4 2 2v4H2v-2l2-2zm.5-2a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z" fill="#000" fill-rule="nonzero"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>picture-square</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="picture-square" fill="#000000" fill-rule="nonzero">
+            <path d="M1,13 C1,12.9848565 12.9931545,12.9931043 12.9931545,12.9931043 C12.9998968,12.9931043 13,1 13,1 C13,1.01514354 1.00684547,1.00689571 1.00684547,1.00689571 C1.00010318,1.00689571 1,13 1,13 Z M0,1 C0,0 1,0 1,0 L13,0 C13,0 14,0 14,1 L14,13 C14,14 13,14 13,14 L1,14 C1,14 0,14 0,13 L0,1 Z M4,8 L6,10 L10,6 L12,8 L12,12 L2,12 L2,10 L4,8 Z M4.5,6 C5.32842712,6 6,5.32842712 6,4.5 C6,3.67157288 5.32842712,3 4.5,3 C3.67157288,3 3,3.67157288 3,4.5 C3,5.32842712 3.67157288,6 4.5,6 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

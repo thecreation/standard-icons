@@ -1,1 +1,12 @@
-<svg width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 0L7 12l-2.044-2L4 11V9l6-7-7 6-3-3z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>paper-plane</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="paper-plane" fill="#000000">
+            <polygon id="Shape" points="12 0 7 12 4.95599046 10 4 11 4 9 10 2 3 8 0 5"></polygon>
+        </g>
+    </g>
+</svg>

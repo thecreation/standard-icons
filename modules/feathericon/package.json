@@ -1,10 +1,11 @@
 {
-  "version": "0.0.1",
+  "version": "0.9.5",
   "name": "@icon/feathericon",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
+  "description": "Simple, scalable vector icon font for websites, apps.",
+  "author": {
+    "name": "featherplain"
+  },
   "license": "MIT",
-  "style": "index.scss",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/feathericon",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +20,6 @@
   ],
   "devDependencies": {
     "feathericon": "^0.9.5"
-  }
+  },
+  "homepage": "http://feathericon.com"
 }

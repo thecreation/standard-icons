@@ -1,10 +1,9 @@
 {
   "version": "0.0.1",
   "name": "@icon/zondicons",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
+  "description": "A set of free premium SVG icons for you to use on your digital products.",
+  "author": "Steve Schoger",
   "license": "MIT",
-  "style": "index.scss",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/zondicons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -16,5 +15,6 @@
   "keywords": [
     "icons",
     "icon"
-  ]
+  ],
+  "homepage": "http://www.zondicons.com/"
 }

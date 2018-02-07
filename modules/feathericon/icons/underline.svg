@@ -1,1 +1,12 @@
-<svg width="10" height="14" xmlns="http://www.w3.org/2000/svg"><path d="M0 0l2 .005L1.997 6c0 1.712 1.496 3 2.998 3C6.497 9 8 7.763 8 6V0h2v6c0 3-2.5 5-5 5S0 9 0 6V0zm0 12h10v2H0v-2z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>underline</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="underline" fill="#000000">
+            <path d="M-5.70654635e-14,0 L2,0.00494849747 C2,0.00494849747 1.99695322,4.28776934 1.99695322,6 C1.99695322,7.71223066 3.49345817,9 4.99513506,9 C6.49681194,9 8,7.7634768 8,6 C8,4.2365232 8,0 8,0 L10,0 C10,0 10,3 10,6 C10,9 7.5,11 5,11 C2.5,11 -5.70654635e-14,9 -5.70654635e-14,6 L-5.70654635e-14,0 Z M-2.22044605e-16,12 L10,12 L10,14 L-2.22044605e-16,14 L-2.22044605e-16,12 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

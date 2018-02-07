@@ -1,1 +1,13 @@
-<svg width="27" height="50" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd"><path d="M24.814 12.065l2.121 2.121L2.186 38.935.065 36.814z"/><path d="M2.186 12.065l24.749 24.749-2.121 2.121L.065 14.186z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="50px" viewBox="0 0 27 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="close" transform="translate(13.500000, 25.500000) rotate(-315.000000) translate(-13.500000, -25.500000) translate(-4.000000, 8.000000)" fill="#000000">
+            <rect id="Rectangle-67" x="16" y="5.68434189e-14" width="3" height="35"></rect>
+            <rect id="Rectangle-68" x="0" y="16" width="35" height="3"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg width="10" height="14" xmlns="http://www.w3.org/2000/svg"><path d="M0 1.007C0 .45.456 0 .995 0H7.5L10 2.5v10.493C10 13.55 9.544 14 9.005 14H.995A1 1 0 0 1 0 12.993V1.007zm1 11.986C1 13 9.005 13 9.005 13 8.997 13 9 4 9 4H6V1H.995C1.005 1 1 12.993 1 12.993zM7 1l2 2H7V1zM4 1h1v1H4V1zM3 2h1v1H3V2zm1 1h1v1H4V3zM3 4h1v1H3V4zm1 1h1v1H4V5zM3 6h1v1H3V6zm0 2l1-1 1 1v3H3V8z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>file-zip</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="file-types" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="file-zip" fill="#000000">
+            <path d="M0,1.00684547 C0,0.450780073 0.455664396,0 0.995397568,0 L7.5,0 L10,2.5 L10,12.9931545 C10,13.5492199 9.5443356,14 9.00460243,14 L0.995397568,14 C0.445654671,14 0,13.5500512 0,12.9931545 L0,1.00684547 Z M1,12.9931545 C1,12.9998968 9.00460243,13 9.00460243,13 C8.9970214,13 9,4 9,4 L6,4 L6,1 L0.995397568,1 C1.00550487,1 1,12.9931545 1,12.9931545 Z M7,1 L9,3 L7,3 L7,1 Z M4,1 L5,1 L5,2 L4,2 L4,1 Z M3,2 L4,2 L4,3 L3,3 L3,2 Z M4,3 L5,3 L5,4 L4,4 L4,3 Z M3,4 L4,4 L4,5 L3,5 L3,4 Z M4,5 L5,5 L5,6 L4,6 L4,5 Z M3,6 L4,6 L4,7 L3,7 L3,6 Z M3,8 L4,7 L5,8 L5,11 L3,11 L3,8 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

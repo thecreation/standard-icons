@@ -2,9 +2,8 @@
   "version": "0.0.1",
   "name": "@icon/dashicons",
   "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
-  "license": "MIT",
-  "style": "index.scss",
+  "author": "Wordpress",
+  "license": "GPL-2.0",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/dashicons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -16,5 +15,6 @@
   "keywords": [
     "icons",
     "icon"
-  ]
+  ],
+  "homepage": "http://developer.wordpress.org/resource/dashicons/"
 }

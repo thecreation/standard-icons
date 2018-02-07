@@ -1,1 +1,15 @@
-<svg width="38" height="50" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd"><path d="M36 13v34H2V13h12v-2H0v38h38V11H24v2h12z"/><path d="M18 1h2v32h-2z"/><path d="M10.5 26.414l8.486 8.485 1.414-1.414L11.915 25z"/><path d="M19.014 34.9l8.485-8.486L26.085 25 17.6 33.485z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="50px" viewBox="0 0 38 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>download</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="download" transform="translate(0.000000, 1.000000)" fill="#000000">
+            <polygon id="Combined-Shape" points="36 12 36 46 2 46 2 12 14 12 14 10 1 10 0 10 0 47 0 48 38 48 38 47 38 11 38 10 24 10 24 12 36 12"></polygon>
+            <rect id="Rectangle-4" x="18" y="0" width="2" height="32"></rect>
+            <rect id="Rectangle-5" transform="translate(15.449747, 28.949747) scale(1, -1) rotate(-45.000000) translate(-15.449747, -28.949747) " x="9.44974747" y="27.9497475" width="12" height="2"></rect>
+            <rect id="Rectangle-6" transform="translate(22.549723, 28.949747) scale(1, -1) rotate(-315.000000) translate(-22.549723, -28.949747) " x="16.5497231" y="27.9497475" width="12" height="2"></rect>
+        </g>
+    </g>
+</svg>

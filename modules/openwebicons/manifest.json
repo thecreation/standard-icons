@@ -1,6 +1,7 @@
 {
   "name": "openwebicons",
   "title": "OpenWeb Icons",
+  "description": "OpenWeb Icons",
   "version": "1.4.3",
   "class": "owi",
   "prefix": "owi-",

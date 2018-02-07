@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "1.0",
   "name": "@icon/linea-basic",
   "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
-  "license": "MIT",
-  "style": "index.scss",
+  "author": "Dario Ferrando",
+  "license": "CC0-1.0",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/linea-basic",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -16,5 +15,6 @@
   "keywords": [
     "icons",
     "icon"
-  ]
+  ],
+  "homepage": "http://www.linea.io/"
 }

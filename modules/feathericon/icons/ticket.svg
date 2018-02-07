@@ -1,1 +1,12 @@
-<svg width="14" height="8" xmlns="http://www.w3.org/2000/svg"><path d="M13.995 6S13 6 13 4s.995-2 .995-2V0H0v2s1 0 1 2-1 2-1 2v2h13.995V6zM2 7h10V1H2v6zm1-1h8V2H3v4z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>ticket</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="event" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ticket" fill="#000000">
+            <path d="M13.9955,6 C13.9955,6 12.9995,6 12.9995,4 C12.9995,2 13.9955,2 13.9955,2 L13.9955,0 L-0.0005,0 L-0.0005,2 C-0.0005,2 0.9995,2 0.9995,4 C0.9995,6 -0.0005,6 -0.0005,6 L-0.0005,8 L13.9955,8 L13.9955,6 Z M1.9995,7 L11.9995,7 L11.9995,1 L1.9995,1 L1.9995,7 Z M2.9995,6 L10.9995,6 L10.9995,2 L2.9995,2 L2.9995,6 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

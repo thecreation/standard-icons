@@ -1,1 +1,12 @@
-<svg width="6" height="11" xmlns="http://www.w3.org/2000/svg"><path d="M1 0L0 1l3.999 3.998L0 9l1 1 5-5.002z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="11px" viewBox="0 0 6 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-right</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="directional" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-right" fill="#000000">
+            <polygon id="Shape" points="1 8.8817842e-16 0 1 3.999 4.998 0 9 1 10 6 4.998"></polygon>
+        </g>
+    </g>
+</svg>

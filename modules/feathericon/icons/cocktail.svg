@@ -1,1 +1,12 @@
-<svg width="12" height="12" xmlns="http://www.w3.org/2000/svg"><path d="M5 7L0 2V0h12v2L7 7v4h3v1H2s-.003-1 0-1h3V7zM3 3h6l2-2H1l2 2z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>cocktail</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="food" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cocktail" fill="#000000">
+            <path d="M5,7 L0,2 L0,0 L12,0 L12,2 L7,7 L7,11 L10,11 L10,12 L2,12 C2,12 1.99742112,11 2,11 L5,11 L5,7 Z M3,3 L9,3 L11,1 L1,1 L3,3 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

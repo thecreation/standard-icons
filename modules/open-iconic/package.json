@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "1.1.1",
   "name": "@icon/open-iconic",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
-  "license": "MIT",
-  "style": "index.scss",
+  "description": "An open source icon set with marks in SVG, sprite, webfont and raster format",
+  "author": "Iconic",
+  "license": "MIT License",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/open-iconic",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +18,6 @@
   ],
   "devDependencies": {
     "open-iconic": "^1.1.1"
-  }
+  },
+  "homepage": "http://useiconic.com/open-iconic/"
 }

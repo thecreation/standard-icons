@@ -1,1 +1,13 @@
-<svg width="44" height="50" xmlns="http://www.w3.org/2000/svg"><path d="M0 21v19h44V20h-7.535H44v2H28.93a7.002 7.002 0 0 1-13.86 0H0v-1zm0-1l7.02-10h29.636L44 20z" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="50px" viewBox="0 0 44 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>drawer_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="drawer_fill" transform="translate(0.000000, 10.000000)" fill="#000000">
+            <path d="M0,11 L0,30 L44,30 L44,10 L36.4645556,10 L44,10 L44,12 L28.9291111,12 C28.4438815,15.3922941 25.5264719,18 22,18 C18.4735281,18 15.5561185,15.3922941 15.0708889,12 L0,12 L0,11 Z" id="Combined-Shape"></path>
+            <polygon id="Rectangle-60-Copy" points="0 10 7.01961616 0 36.6555638 0 44 10"></polygon>
+        </g>
+    </g>
+</svg>

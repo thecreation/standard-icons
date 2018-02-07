@@ -1,1 +1,12 @@
-<svg width="14" height="10" xmlns="http://www.w3.org/2000/svg"><path d="M9 .998A.997.997 0 0 0 8.002 0H.998A.997.997 0 0 0 0 .998v8.004c0 .552.447.998.998.998h7.004A.997.997 0 0 0 9 9.002V7.187l4.129 2.323c.485.273.871.043.871-.508V.998c0-.552-.39-.779-.871-.508L9 2.812V.998z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>video</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="video" fill="#000000">
+            <path d="M9,0.997544646 C9,0.446311399 8.55338405,0 8.00245535,0 L0.997544646,0 C0.446311399,0 0,0.446615951 0,0.997544646 L0,9.00245535 C0,9.5536886 0.446615951,10 0.997544646,10 L8.00245535,10 C8.5536886,10 9,9.55338405 9,9.00245535 L9,7.1875 L13.1286308,9.5098548 C13.6141434,9.78295565 14,9.55338405 14,9.00245535 L14,0.997544646 C14,0.446311399 13.6098747,0.21944548 13.1286308,0.490145199 L9,2.8125 L9,0.997544646 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

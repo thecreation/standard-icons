@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "1.9.0",
   "name": "@icon/evil-icons",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
+  "description": "Evil Icons is a set of SVG icons designed extensively for using in modern web projects",
+  "author": "Alexander Madyankin",
   "license": "MIT",
-  "style": "index.scss",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/evil-icons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +18,6 @@
   ],
   "devDependencies": {
     "evil-icons": "^1.9.0"
-  }
+  },
+  "homepage": "http://evil-icons.io"
 }

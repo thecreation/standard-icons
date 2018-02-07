@@ -45,6 +45,7 @@
     "icons": "^0.1.1",
     "install": "^0.10.2",
     "js-yaml": "^3.10.0",
+    "jsonfile": "^4.0.0",
     "jsonlint": "^1.6.2",
     "lerna": "^2.5.1",
     "lint-staged": "^6.0.0",

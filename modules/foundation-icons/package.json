@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "3.0.0",
   "name": "@icon/foundation-icons",
   "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
+  "author": "ZURB",
   "license": "MIT",
-  "style": "index.scss",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/foundation-icons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +18,6 @@
   ],
   "devDependencies": {
     "foundation-icon-fonts": "^0.1.1"
-  }
+  },
+  "homepage": "http://zurb.com/playground/foundation-icon-fonts-3"
 }

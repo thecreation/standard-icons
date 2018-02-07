@@ -8,6 +8,7 @@ const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const generateSvgs = require('../../scripts/utils/generateSvgs');
 const copyLicense = require('../../scripts/utils/copyLicense');
+const jsonfile = require('../../scripts/utils/jsonfile');
 const fs = require('fs-extra');
 const config = require('../../config');
 const path = require('path');
@@ -45,4 +46,5 @@ module.exports = function() {
   copyFonts(paths.dest, paths.fonts, options);
   copyLicense(paths.dest, path.join(options.source, 'LICENSE'));
   generateSvgs(paths.dest, options.name, options);
+  jsonfile(paths.dest, options);
 };

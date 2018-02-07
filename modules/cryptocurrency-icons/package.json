@@ -1,10 +1,9 @@
 {
   "version": "0.0.1",
   "name": "@icon/cryptocurrency-icons",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
-  "license": "MIT",
-  "style": "index.scss",
+  "description": "A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.",
+  "author": "Christopher Downer",
+  "license": "CC0-1.0",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/cryptocurrency-icons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +18,6 @@
   ],
   "devDependencies": {
     "cryptocurrency-icons": "git+https://github.com/cjdowner/cryptocurrency-icons.git"
-  }
+  },
+  "homepage": "https://github.com/cjdowner/cryptocurrency-icons"
 }

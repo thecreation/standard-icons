@@ -29,13 +29,16 @@
 }
 
 
-.mi-CheckmarkListviewLegacy:before {
+.mi-Accept:before {
+  content: "\EA01";
+}
+.mi-AcceptLegacy:before {
   content: "\EA01";
 }
 .mi-CheckmarkListviewLegacy:before {
   content: "\EA01";
 }
-.mi-CheckmarkListviewLegacy:before {
+.mi-CheckmarkMenuLegacy:before {
   content: "\EA01";
 }
 .mi-Accident:before {
@@ -44,7 +47,7 @@
 .mi-AccidentSolid:before {
   content: "\EA03";
 }
-.mi-AccountsLegacy:before {
+.mi-Accounts:before {
   content: "\EA04";
 }
 .mi-AccountsLegacy:before {
@@ -71,13 +74,13 @@
 .mi-ActionCenterQuietNotification:before {
   content: "\EA0B";
 }
-.mi-AddLegacy:before {
+.mi-Add:before {
   content: "\EA0C";
 }
 .mi-AddLegacy:before {
   content: "\EA0C";
 }
-.mi-AddFriendLegacy:before {
+.mi-AddFriend:before {
   content: "\EA0D";
 }
 .mi-AddFriendLegacy:before {
@@ -95,7 +98,7 @@
 .mi-AdjustHologram:before {
   content: "\EA11";
 }
-.mi-AdminLegacy:before {
+.mi-Admin:before {
   content: "\EA12";
 }
 .mi-AdminLegacy:before {
@@ -107,31 +110,31 @@
 .mi-AirplaneSolid:before {
   content: "\EA14";
 }
-.mi-AlignCenterLegacy:before {
+.mi-AlignCenter:before {
   content: "\EA15";
 }
 .mi-AlignCenterLegacy:before {
   content: "\EA15";
 }
-.mi-AlignLeftLegacy:before {
+.mi-AlignLeft:before {
   content: "\EA16";
 }
 .mi-AlignLeftLegacy:before {
   content: "\EA16";
 }
-.mi-AlignRightLegacy:before {
+.mi-AlignRight:before {
   content: "\EA17";
 }
 .mi-AlignRightLegacy:before {
   content: "\EA17";
 }
-.mi-AllAppsLegacy:before {
+.mi-AllApps:before {
   content: "\EA18";
 }
 .mi-AllAppsLegacy:before {
   content: "\EA18";
 }
-.mi-AllAppsMirrored:before {
+.mi-AllAppsLegacyMirrored:before {
   content: "\EA19";
 }
 .mi-AllAppsMirrored:before {
@@ -152,31 +155,37 @@
 .mi-AsteriskBadge12:before {
   content: "\EA1E";
 }
-.mi-AttachLegacy:before {
+.mi-Attach:before {
   content: "\EA1F";
 }
 .mi-AttachLegacy:before {
   content: "\EA1F";
 }
-.mi-AttachCameraLegacy:before {
+.mi-AttachCamera:before {
   content: "\EA20";
 }
 .mi-AttachCameraLegacy:before {
   content: "\EA20";
 }
-.mi-AudioLegacy:before {
+.mi-Audio:before {
   content: "\EA21";
 }
 .mi-AudioLegacy:before {
   content: "\EA21";
 }
-.mi-BackBttnArrow20Legacy:before {
+.mi-ArrowHTMLLegacy:before {
+  content: "\EA22";
+}
+.mi-Back:before {
   content: "\EA22";
 }
 .mi-BackBttnArrow20Legacy:before {
   content: "\EA22";
 }
-.mi-BackBttnArrow20Legacy:before {
+.mi-BackBttnArrow42Legacy:before {
+  content: "\EA22";
+}
+.mi-BackLegacy:before {
   content: "\EA22";
 }
 .mi-BackSpaceQWERTYLg:before {
@@ -188,7 +197,7 @@
 .mi-BackSpaceQWERTYSm:before {
   content: "\EA25";
 }
-.mi-BackToWindowLegacy:before {
+.mi-BackToWindow:before {
   content: "\EA26";
 }
 .mi-BackToWindowLegacy:before {
@@ -317,7 +326,7 @@
 .mi-BidiRtl:before {
   content: "\EA4F";
 }
-.mi-BlockContactLegacy:before {
+.mi-BlockContact:before {
   content: "\EA50";
 }
 .mi-BlockContactLegacy:before {
@@ -332,7 +341,7 @@
 .mi-BodyCam:before {
   content: "\EA53";
 }
-.mi-BoldLegacy:before {
+.mi-Bold:before {
   content: "\EA54";
 }
 .mi-BoldLegacy:before {
@@ -353,13 +362,13 @@
 .mi-BoldRussionLegacy:before {
   content: "\EA59";
 }
-.mi-BookmarksLegacy:before {
+.mi-Bookmarks:before {
   content: "\EA5A";
 }
 .mi-BookmarksLegacy:before {
   content: "\EA5A";
 }
-.mi-BookmarksMirrored:before {
+.mi-BookmarksLegacyMirrored:before {
   content: "\EA5B";
 }
 .mi-BookmarksMirrored:before {
@@ -371,7 +380,7 @@
 .mi-Broom:before {
   content: "\EA5D";
 }
-.mi-BrowsePhotosLegacy:before {
+.mi-BrowsePhotos:before {
   content: "\EA5E";
 }
 .mi-BrowsePhotosLegacy:before {
@@ -383,19 +392,22 @@
 .mi-BuildingEnergy:before {
   content: "\EA60";
 }
-.mi-ListLegacy:before {
+.mi-BulletedList:before {
+  content: "\EA61";
+}
+.mi-BulletedListLegacy:before {
   content: "\EA61";
 }
 .mi-ListLegacy:before {
   content: "\EA61";
 }
-.mi-ListLegacy:before {
-  content: "\EA61";
+.mi-:before {
+  content: "\EE18";
 }
-.mi-ListLegacyMirrored:before {
+.mi-BulletedListLegacyMirrored:before {
   content: "\EA62";
 }
-.mi-ListLegacyMirrored:before {
+.mi-BulletedListMirrored:before {
   content: "\EA62";
 }
 .mi-ListLegacyMirrored:before {
@@ -407,7 +419,7 @@
 .mi-BusSolid:before {
   content: "\EA64";
 }
-.mi-CCLegacy:before {
+.mi-CC:before {
   content: "\EA65";
 }
 .mi-CCLegacy:before {
@@ -419,7 +431,7 @@
 .mi-CCJapanLegacy:before {
   content: "\EA67";
 }
-.mi-CalculatorLegacy:before {
+.mi-Calculator:before {
   content: "\EA68";
 }
 .mi-CalculatorLegacy:before {
@@ -428,7 +440,7 @@
 .mi-CalculatorAddition:before {
   content: "\EA69";
 }
-.mi-CalculatorBackspace:before {
+.mi-BackSpaceQWERTY:before {
   content: "\EA6A";
 }
 .mi-CalculatorBackspace:before {
@@ -455,25 +467,25 @@
 .mi-CalculatorSubtract:before {
   content: "\EA71";
 }
-.mi-CalendarLegacy:before {
+.mi-Calendar:before {
   content: "\EA72";
 }
 .mi-CalendarLegacy:before {
   content: "\EA72";
 }
-.mi-CalendarDayLegacy:before {
+.mi-CalendarDay:before {
   content: "\EA73";
 }
 .mi-CalendarDayLegacy:before {
   content: "\EA73";
 }
-.mi-CalendarMirrored:before {
+.mi-CalendarLegacyMirrored:before {
   content: "\EA74";
 }
 .mi-CalendarMirrored:before {
   content: "\EA74";
 }
-.mi-CalendarReplyLegacy:before {
+.mi-CalendarReply:before {
   content: "\EA75";
 }
 .mi-CalendarReplyLegacy:before {
@@ -482,7 +494,7 @@
 .mi-CalendarSolid:before {
   content: "\EA76";
 }
-.mi-CalendarWeekLegacy:before {
+.mi-CalendarWeek:before {
   content: "\EA77";
 }
 .mi-CalendarWeekLegacy:before {
@@ -509,25 +521,25 @@
 .mi-CallForwardingMirrored:before {
   content: "\EA7E";
 }
-.mi-CameraLegacy:before {
+.mi-Camera:before {
   content: "\EA7F";
 }
 .mi-CameraLegacy:before {
   content: "\EA7F";
 }
-.mi-CancelLegacy:before {
+.mi-Cancel:before {
   content: "\EA80";
 }
 .mi-CancelLegacy:before {
   content: "\EA80";
 }
-.mi-CaptionLegacy:before {
+.mi-Caption:before {
   content: "\EA81";
 }
 .mi-CaptionLegacy:before {
   content: "\EA81";
 }
-.mi-DrivingMode:before {
+.mi-Car:before {
   content: "\EA82";
 }
 .mi-DrivingMode:before {
@@ -536,10 +548,10 @@
 .mi-CashDrawer:before {
   content: "\EA83";
 }
-.mi-MobileContactLegacy:before {
+.mi-CellPhone:before {
   content: "\EA84";
 }
-.mi-MobileContactLegacy:before {
+.mi-CellPhoneLegacy:before {
   content: "\EA84";
 }
 .mi-MobileContactLegacy:before {
@@ -548,7 +560,7 @@
 .mi-Certificate:before {
   content: "\EA85";
 }
-.mi-CharactersLegacy:before {
+.mi-Characters:before {
   content: "\EA86";
 }
 .mi-CharactersLegacy:before {
@@ -557,109 +569,139 @@
 .mi-ChatBubbles:before {
   content: "\EA87";
 }
-.mi-CheckMarkZeroWidthLegacy:before {
+.mi-CheckMark:before {
+  content: "\EA88";
+}
+.mi-CheckMarkLegacy:before {
   content: "\EA88";
 }
 .mi-CheckMarkZeroWidthLegacy:before {
   content: "\EA88";
 }
-.mi-CheckMarkZeroWidthLegacy:before {
-  content: "\EA88";
-}
-.mi-CheckboxLegacy:before {
+.mi-Checkbox:before {
   content: "\EA89";
 }
 .mi-CheckboxLegacy:before {
   content: "\EA89";
 }
-.mi-CheckboxCompositeLegacy:before {
+.mi-CheckboxComposite:before {
   content: "\EA8A";
 }
 .mi-CheckboxCompositeLegacy:before {
   content: "\EA8A";
 }
-.mi-CheckboxCompositeReversedLegacy:before {
+.mi-CheckboxCompositeReversed:before {
   content: "\EA8B";
 }
 .mi-CheckboxCompositeReversedLegacy:before {
   content: "\EA8B";
 }
-.mi-CheckboxFillZeroWidthLegacy:before {
+.mi-CheckboxFill:before {
+  content: "\EA8C";
+}
+.mi-CheckboxFillLegacy:before {
   content: "\EA8C";
 }
 .mi-CheckboxFillZeroWidthLegacy:before {
   content: "\EA8C";
 }
-.mi-CheckboxFillZeroWidthLegacy:before {
+.mi-PresenceChicklet:before {
   content: "\EA8C";
 }
-.mi-CheckboxIndeterminateLegacy:before {
+.mi-PresenceChickletLegacy:before {
+  content: "\EA8C";
+}
+.mi-CheckboxIndeterminate:before {
   content: "\EA8D";
 }
 .mi-CheckboxIndeterminateLegacy:before {
   content: "\EA8D";
 }
-.mi-ChevronDown2Legacy:before {
+.mi-ChevronDown:before {
+  content: "\EA8E";
+}
+.mi-ChevronDown1Legacy:before {
   content: "\EA8E";
 }
 .mi-ChevronDown2Legacy:before {
   content: "\EA8E";
 }
-.mi-ChevronDown2Legacy:before {
+.mi-ChevronDown3Legacy:before {
+  content: "\EA8E";
+}
+.mi-ChevronDown4Legacy:before {
   content: "\EA8E";
 }
 .mi-ChevronDownMed:before {
   content: "\EA8F";
 }
-.mi-ChevronDownSmall:before {
+.mi-ChevronDownSmLegacy:before {
   content: "\EA90";
 }
 .mi-ChevronDownSmall:before {
   content: "\EA90";
 }
-.mi-ChevronLeft1Legacy:before {
+.mi-ChevronFlipLeftLegacy:before {
+  content: "\EA91";
+}
+.mi-ChevronLeft:before {
   content: "\EA91";
 }
 .mi-ChevronLeft1Legacy:before {
   content: "\EA91";
 }
-.mi-ChevronLeft1Legacy:before {
+.mi-ChevronLeft2Legacy:before {
+  content: "\EA91";
+}
+.mi-ChevronLeft3Legacy:before {
   content: "\EA91";
 }
 .mi-ChevronLeftMed:before {
   content: "\EA92";
 }
-.mi-ChevronLeftSmall:before {
+.mi-ChevronLeftSmLegacy:before {
   content: "\EA93";
 }
 .mi-ChevronLeftSmall:before {
   content: "\EA93";
 }
-.mi-ChevronRight1Legacy:before {
+.mi-ChevronFlipRightLegacy:before {
+  content: "\EA94";
+}
+.mi-ChevronRight:before {
   content: "\EA94";
 }
 .mi-ChevronRight1Legacy:before {
   content: "\EA94";
 }
-.mi-ChevronRight1Legacy:before {
+.mi-ChevronRight2Legacy:before {
+  content: "\EA94";
+}
+.mi-ChevronRight3Legacy:before {
   content: "\EA94";
 }
 .mi-ChevronRightMed:before {
   content: "\EA95";
 }
-.mi-ChevronRightSmall:before {
+.mi-ChevronRightSmLegacy:before {
   content: "\EA96";
 }
 .mi-ChevronRightSmall:before {
   content: "\EA96";
 }
-.mi-ChevronUp1Legacy:before {
+.mi-ChevronFlipUpLegacy:before {
+  content: "\EA97";
+}
+.mi-ChevronUp:before {
   content: "\EA97";
 }
 .mi-ChevronUp1Legacy:before {
   content: "\EA97";
 }
-.mi-ChevronUp1Legacy:before {
+.mi-ChevronUp2Legacy:before {
+  content: "\EA97";
+}
+.mi-ChevronUp3Legacy:before {
   content: "\EA97";
 }
 .mi-ChevronUpMed:before {
@@ -725,7 +767,7 @@
 .mi-CityNext2:before {
   content: "\EAAC";
 }
-.mi-ClearLegacy:before {
+.mi-Clear:before {
   content: "\EAAD";
 }
 .mi-ClearLegacy:before {
@@ -737,13 +779,13 @@
 .mi-ClearAllInkMirrored:before {
   content: "\EAAF";
 }
-.mi-ClearSelectionLegacy:before {
+.mi-ClearSelection:before {
   content: "\EAB0";
 }
 .mi-ClearSelectionLegacy:before {
   content: "\EAB0";
 }
-.mi-ClearSelectionMirrored:before {
+.mi-ClearSelectionLegacyMirrored:before {
   content: "\EAB1";
 }
 .mi-ClearSelectionMirrored:before {
@@ -755,13 +797,13 @@
 .mi-ClockLegacy:before {
   content: "\EAB3";
 }
-.mi-ClosePaneLegacy:before {
+.mi-ClosePane:before {
   content: "\EAB4";
 }
 .mi-ClosePaneLegacy:before {
   content: "\EAB4";
 }
-.mi-ClosePaneMirrored:before {
+.mi-ClosePaneLegacyMirrored:before {
   content: "\EAB5";
 }
 .mi-ClosePaneMirrored:before {
@@ -776,7 +818,7 @@
 .mi-Code:before {
   content: "\EAB8";
 }
-.mi-ColorLegacy:before {
+.mi-Color:before {
   content: "\EAB9";
 }
 .mi-ColorLegacy:before {
@@ -788,7 +830,7 @@
 .mi-CommandPrompt:before {
   content: "\EABB";
 }
-.mi-CommentLegacy:before {
+.mi-Comment:before {
   content: "\EABC";
 }
 .mi-CommentLegacy:before {
@@ -815,7 +857,7 @@
 .mi-Connect:before {
   content: "\EAC3";
 }
-.mi-MiracastLogoLarge:before {
+.mi-ConnectApp:before {
   content: "\EAC4";
 }
 .mi-MiracastLogoLarge:before {
@@ -830,22 +872,22 @@
 .mi-ConstructionSolid:before {
   content: "\EAC7";
 }
-.mi-ContactLegacy:before {
+.mi-Contact:before {
+  content: "\EAC8";
+}
+.mi-Contact3Legacy:before {
   content: "\EAC8";
 }
 .mi-ContactLegacy:before {
   content: "\EAC8";
 }
-.mi-ContactLegacy:before {
-  content: "\EAC8";
-}
-.mi-Contact2Legacy:before {
+.mi-Contact2:before {
   content: "\EAC9";
 }
 .mi-Contact2Legacy:before {
   content: "\EAC9";
 }
-.mi-ContactInfoLegacy:before {
+.mi-ContactInfo:before {
   content: "\EACA";
 }
 .mi-ContactInfoLegacy:before {
@@ -854,7 +896,7 @@
 .mi-ContactInfoMirrored:before {
   content: "\EACB";
 }
-.mi-ContactPresenceLegacy:before {
+.mi-ContactPresence:before {
   content: "\EACC";
 }
 .mi-ContactPresenceLegacy:before {
@@ -863,7 +905,7 @@
 .mi-ContactSolid:before {
   content: "\EACD";
 }
-.mi-CopyLegacy:before {
+.mi-Copy:before {
   content: "\EACE";
 }
 .mi-CopyLegacy:before {
@@ -872,13 +914,13 @@
 .mi-Courthouse:before {
   content: "\EACF";
 }
-.mi-CropLegacy:before {
+.mi-Crop:before {
   content: "\EAD0";
 }
 .mi-CropLegacy:before {
   content: "\EAD0";
 }
-.mi-CutLegacy:before {
+.mi-Cut:before {
   content: "\EAD1";
 }
 .mi-CutLegacy:before {
@@ -911,7 +953,7 @@
 .mi-DefenderApp:before {
   content: "\EADA";
 }
-.mi-DeleteLegacy:before {
+.mi-Delete:before {
   content: "\EADB";
 }
 .mi-DeleteLegacy:before {
@@ -950,7 +992,7 @@
 .mi-Devices4:before {
   content: "\EAE6";
 }
-.mi-DevicesLegacy:before {
+.mi-Devices2:before {
   content: "\EAE7";
 }
 .mi-DevicesLegacy:before {
@@ -977,13 +1019,13 @@
 .mi-DirectAccess:before {
   content: "\EAEE";
 }
-.mi-DirectionsLegacy:before {
+.mi-Directions:before {
   content: "\EAEF";
 }
 .mi-DirectionsLegacy:before {
   content: "\EAEF";
 }
-.mi-DisableUpdatesLegacy:before {
+.mi-DisableUpdates:before {
   content: "\EAF0";
 }
 .mi-DisableUpdatesLegacy:before {
@@ -992,13 +1034,13 @@
 .mi-DisconnectDisplay:before {
   content: "\EAF1";
 }
-.mi-DisconnectDriveLegacy:before {
+.mi-DisconnectDrive:before {
   content: "\EAF2";
 }
 .mi-DisconnectDriveLegacy:before {
   content: "\EAF2";
 }
-.mi-DislikeLegacy:before {
+.mi-Dislike:before {
   content: "\EAF3";
 }
 .mi-DislikeLegacy:before {
@@ -1007,43 +1049,43 @@
 .mi-Dock:before {
   content: "\EAF4";
 }
-.mi-DockBottomLegacy:before {
+.mi-DockBottom:before {
   content: "\EAF5";
 }
 .mi-DockBottomLegacy:before {
   content: "\EAF5";
 }
-.mi-DockLeftLegacy:before {
+.mi-DockLeft:before {
   content: "\EAF6";
 }
 .mi-DockLeftLegacy:before {
   content: "\EAF6";
 }
-.mi-DockLeftMirrored:before {
+.mi-DockLeftLegacyMirrored:before {
   content: "\EAF7";
 }
 .mi-DockLeftMirrored:before {
   content: "\EAF7";
 }
-.mi-DockRightLegacy:before {
+.mi-DockRight:before {
   content: "\EAF8";
 }
 .mi-DockRightLegacy:before {
   content: "\EAF8";
 }
-.mi-DockRightMirrored:before {
+.mi-DockRightLegacyMirrored:before {
   content: "\EAF9";
 }
 .mi-DockRightMirrored:before {
   content: "\EAF9";
 }
-.mi-DocumentLegacy:before {
+.mi-Document:before {
   content: "\EAFA";
 }
 .mi-DocumentLegacy:before {
   content: "\EAFA";
 }
-.mi-DownLegacy:before {
+.mi-Down:before {
   content: "\EAFB";
 }
 .mi-DownLegacy:before {
@@ -1052,7 +1094,7 @@
 .mi-DownShiftKey:before {
   content: "\EAFC";
 }
-.mi-DownloadLegacy:before {
+.mi-Download:before {
   content: "\EAFD";
 }
 .mi-DownloadLegacy:before {
@@ -1076,19 +1118,19 @@
 .mi-DullSoundKey:before {
   content: "\EB03";
 }
-.mi-EaseOfAccessLegacy:before {
+.mi-EaseOfAccess:before {
   content: "\EB04";
 }
 .mi-EaseOfAccessLegacy:before {
   content: "\EB04";
 }
-.mi-EditLegacy:before {
+.mi-Edit:before {
   content: "\EB05";
 }
 .mi-EditLegacy:before {
   content: "\EB05";
 }
-.mi-EditMirrored:before {
+.mi-EditLegacyMirrored:before {
   content: "\EB06";
 }
 .mi-EditMirrored:before {
@@ -1097,13 +1139,13 @@
 .mi-Education:before {
   content: "\EB07";
 }
-.mi-EmojiLegacy:before {
+.mi-Emoji:before {
   content: "\EB08";
 }
 .mi-EmojiLegacy:before {
   content: "\EB08";
 }
-.mi-Emoji2Legacy:before {
+.mi-Emoji2:before {
   content: "\EB09";
 }
 .mi-Emoji2Legacy:before {
@@ -1166,13 +1208,13 @@
 .mi-EthernetWarning:before {
   content: "\EB1C";
 }
-.mi-ExpandTileLegacy:before {
+.mi-ExpandTile:before {
   content: "\EB1D";
 }
 .mi-ExpandTileLegacy:before {
   content: "\EB1D";
 }
-.mi-ExpandTileMirrored:before {
+.mi-ExpandTileLegacyMirrored:before {
   content: "\EB1E";
 }
 .mi-ExpandTileMirrored:before {
@@ -1181,10 +1223,10 @@
 .mi-ExploreContent:before {
   content: "\EB1F";
 }
-.mi-ImportMirrored:before {
+.mi-Export:before {
   content: "\EB20";
 }
-.mi-ImportMirrored:before {
+.mi-ImportLegacyMirrored:before {
   content: "\EB20";
 }
 .mi-ImportMirrored:before {
@@ -1193,25 +1235,37 @@
 .mi-FastForward:before {
   content: "\EB21";
 }
-.mi-FavoriteStarFill:before {
+.mi-Favorite2Legacy:before {
+  content: "\EB22";
+}
+.mi-FavoriteLegacy:before {
   content: "\EB22";
 }
 .mi-FavoriteStarFill:before {
   content: "\EB22";
 }
-.mi-FavoriteStarFill:before {
+.mi-RatingStarFillLegacy:before {
+  content: "\EB22";
+}
+.mi-RatingStarFillReducedPaddingHTMLLegacy:before {
   content: "\EB22";
 }
 .mi-FavoriteList:before {
   content: "\EB23";
 }
-.mi-OutlineStarLegacy:before {
+.mi-FavoriteInlineLegacy:before {
+  content: "\EB24";
+}
+.mi-FavoriteStar:before {
   content: "\EB24";
 }
 .mi-OutlineStarLegacy:before {
   content: "\EB24";
 }
-.mi-OutlineStarLegacy:before {
+.mi-RatingStarLegacy:before {
+  content: "\EB24";
+}
+.mi-Unfavorite2Legacy:before {
   content: "\EB24";
 }
 .mi-Feedback:before {
@@ -1232,7 +1286,7 @@
 .mi-FileExplorerApp:before {
   content: "\EB2A";
 }
-.mi-FilterLegacy:before {
+.mi-Filter:before {
   content: "\EB2B";
 }
 .mi-FilterLegacy:before {
@@ -1244,10 +1298,10 @@
 .mi-Fingerprint:before {
   content: "\EB2D";
 }
-.mi-FlagLegacy:before {
+.mi-EndPoint:before {
   content: "\EB2E";
 }
-.mi-FlagLegacy:before {
+.mi-Flag:before {
   content: "\EB2E";
 }
 .mi-FlagLegacy:before {
@@ -1271,19 +1325,19 @@
 .mi-Folder:before {
   content: "\EB34";
 }
-.mi-FolderLegacy:before {
+.mi-FolderFill:before {
   content: "\EB35";
 }
 .mi-FolderLegacy:before {
   content: "\EB35";
 }
-.mi-FontLegacy:before {
+.mi-Font:before {
   content: "\EB36";
 }
 .mi-FontLegacy:before {
   content: "\EB36";
 }
-.mi-FontColorLegacy:before {
+.mi-FontColor:before {
   content: "\EB37";
 }
 .mi-FontColorLegacy:before {
@@ -1292,19 +1346,19 @@
 .mi-FontColorKoreanLegacy:before {
   content: "\EB38";
 }
-.mi-FontDecreaseLegacy:before {
+.mi-FontDecrease:before {
   content: "\EB39";
 }
 .mi-FontDecreaseLegacy:before {
   content: "\EB39";
 }
-.mi-FontIncreaseLegacy:before {
+.mi-FontIncrease:before {
   content: "\EB3A";
 }
 .mi-FontIncreaseLegacy:before {
   content: "\EB3A";
 }
-.mi-FontSizeLegacy:before {
+.mi-FontSize:before {
   content: "\EB3B";
 }
 .mi-FontSizeLegacy:before {
@@ -1313,19 +1367,25 @@
 .mi-FontStyleKoreanLegacy:before {
   content: "\EB3C";
 }
-.mi-BackBttnMirroredArrow42Legacy:before {
+.mi-ArrowHTMLLegacyMirrored:before {
+  content: "\EB3D";
+}
+.mi-BackBttnMirroredArrow20Legacy:before {
   content: "\EB3D";
 }
 .mi-BackBttnMirroredArrow42Legacy:before {
   content: "\EB3D";
 }
-.mi-BackBttnMirroredArrow42Legacy:before {
+.mi-Forward:before {
+  content: "\EB3D";
+}
+.mi-ForwardLegacy:before {
   content: "\EB3D";
 }
 .mi-ForwardSm:before {
   content: "\EB3E";
 }
-.mi-FourBarsLegacy:before {
+.mi-FourBars:before {
   content: "\EB3F";
 }
 .mi-FourBarsLegacy:before {
@@ -1346,7 +1406,7 @@
 .mi-FullKatakana:before {
   content: "\EB44";
 }
-.mi-FullScreenLegacy:before {
+.mi-FullScreen:before {
   content: "\EB45";
 }
 .mi-FullScreenLegacy:before {
@@ -1361,31 +1421,31 @@
 .mi-GlobalNavButton:before {
   content: "\EB48";
 }
-.mi-GlobeLegacy:before {
+.mi-Globe:before {
   content: "\EB49";
 }
 .mi-GlobeLegacy:before {
   content: "\EB49";
 }
-.mi-GoLegacy:before {
+.mi-Go:before {
   content: "\EB4A";
 }
 .mi-GoLegacy:before {
   content: "\EB4A";
 }
-.mi-GoMirrored:before {
+.mi-GoLegacyMirrored:before {
   content: "\EB4B";
 }
 .mi-GoMirrored:before {
   content: "\EB4B";
 }
-.mi-GoToStartLegacy:before {
+.mi-GoToStart:before {
   content: "\EB4C";
 }
 .mi-GoToStartLegacy:before {
   content: "\EB4C";
 }
-.mi-GotoTodayLegacy:before {
+.mi-GotoToday:before {
   content: "\EB4D";
 }
 .mi-GotoTodayLegacy:before {
@@ -1430,7 +1490,7 @@
 .mi-Handwriting:before {
   content: "\EB5A";
 }
-.mi-HangUpLegacy:before {
+.mi-HangUp:before {
   content: "\EB5B";
 }
 .mi-HangUpLegacy:before {
@@ -1460,7 +1520,7 @@
 .mi-Health:before {
   content: "\EB63";
 }
-.mi-HeartLegacy:before {
+.mi-Heart:before {
   content: "\EB64";
 }
 .mi-HeartLegacy:before {
@@ -1469,40 +1529,40 @@
 .mi-HeartBroken:before {
   content: "\EB65";
 }
-.mi-HeartBrokenZeroWidthLegacy:before {
+.mi-HeartBrokenLegacy:before {
   content: "\EB66";
 }
 .mi-HeartBrokenZeroWidthLegacy:before {
   content: "\EB66";
 }
-.mi-HeartFillZeroWidthLegacy:before {
+.mi-HeartFill:before {
+  content: "\EB67";
+}
+.mi-HeartFillLegacy:before {
   content: "\EB67";
 }
 .mi-HeartFillZeroWidthLegacy:before {
   content: "\EB67";
 }
-.mi-HeartFillZeroWidthLegacy:before {
-  content: "\EB67";
-}
-.mi-HelpLegacy:before {
+.mi-Help:before {
   content: "\EB68";
 }
 .mi-HelpLegacy:before {
   content: "\EB68";
 }
-.mi-HelpMirrored:before {
+.mi-HelpLegacyMirrored:before {
   content: "\EB69";
 }
 .mi-HelpMirrored:before {
   content: "\EB69";
 }
-.mi-HideBccLegacy:before {
+.mi-HideBcc:before {
   content: "\EB6A";
 }
 .mi-HideBccLegacy:before {
   content: "\EB6A";
 }
-.mi-HighlightLegacy:before {
+.mi-Highlight:before {
   content: "\EB6B";
 }
 .mi-HighlightLegacy:before {
@@ -1517,7 +1577,7 @@
 .mi-History:before {
   content: "\EB6E";
 }
-.mi-HomeLegacy:before {
+.mi-Home:before {
   content: "\EB6F";
 }
 .mi-HomeLegacy:before {
@@ -1541,28 +1601,28 @@
 .mi-ImageExport:before {
   content: "\EB75";
 }
-.mi-ImportLegacy:before {
+.mi-ExportMirrored:before {
+  content: "\EB76";
+}
+.mi-Import:before {
   content: "\EB76";
 }
 .mi-ImportLegacy:before {
   content: "\EB76";
 }
-.mi-ImportLegacy:before {
-  content: "\EB76";
-}
-.mi-ImportAllLegacy:before {
+.mi-ImportAll:before {
   content: "\EB77";
 }
 .mi-ImportAllLegacy:before {
   content: "\EB77";
 }
-.mi-ImportAllMirrored:before {
+.mi-ImportAllLegacyMirrored:before {
   content: "\EB78";
 }
 .mi-ImportAllMirrored:before {
   content: "\EB78";
 }
-.mi-ImportantLegacy:before {
+.mi-Important:before {
   content: "\EB79";
 }
 .mi-ImportantLegacy:before {
@@ -1613,7 +1673,7 @@
 .mi-InsiderHubApp:before {
   content: "\EB88";
 }
-.mi-ItalicLegacy:before {
+.mi-Italic:before {
   content: "\EB89";
 }
 .mi-ItalicLegacy:before {
@@ -1652,7 +1712,7 @@
 .mi-Key12On:before {
   content: "\EB94";
 }
-.mi-KeyboardClassic:before {
+.mi-KeyBoardLegacy:before {
   content: "\EB95";
 }
 .mi-KeyboardClassic:before {
@@ -1682,13 +1742,13 @@
 .mi-KeyboardShortcut:before {
   content: "\EB9D";
 }
-.mi-KeyboardSplitLegacy:before {
+.mi-KeyboardSplit:before {
   content: "\EB9E";
 }
 .mi-KeyboardSplitLegacy:before {
   content: "\EB9E";
 }
-.mi-KeyboardStandardLegacy:before {
+.mi-KeyboardStandard:before {
   content: "\EB9F";
 }
 .mi-KeyboardStandardLegacy:before {
@@ -1727,7 +1787,7 @@
 .mi-Leaf:before {
   content: "\EBAA";
 }
-.mi-LeaveChatLegacy:before {
+.mi-LeaveChat:before {
   content: "\EBAB";
 }
 .mi-LeaveChatLegacy:before {
@@ -1745,7 +1805,7 @@
 .mi-LeftQuote:before {
   content: "\EBAF";
 }
-.mi-LibraryLegacy:before {
+.mi-Library:before {
   content: "\EBB0";
 }
 .mi-LibraryLegacy:before {
@@ -1754,7 +1814,7 @@
 .mi-Light:before {
   content: "\EBB1";
 }
-.mi-ToolTip:before {
+.mi-Lightbulb:before {
   content: "\EBB2";
 }
 .mi-ToolTip:before {
@@ -1763,22 +1823,22 @@
 .mi-LightningBolt:before {
   content: "\EBB3";
 }
-.mi-LikeLegacy:before {
+.mi-Like:before {
+  content: "\EBB4";
+}
+.mi-LikeInlineLegacy:before {
   content: "\EBB4";
 }
 .mi-LikeLegacy:before {
   content: "\EBB4";
 }
-.mi-LikeLegacy:before {
-  content: "\EBB4";
-}
-.mi-LikeDislikeLegacy:before {
+.mi-LikeDislike:before {
   content: "\EBB5";
 }
 .mi-LikeDislikeLegacy:before {
   content: "\EBB5";
 }
-.mi-LinkLegacy:before {
+.mi-Link:before {
   content: "\EBB6";
 }
 .mi-LinkLegacy:before {
@@ -1790,13 +1850,13 @@
 .mi-ListMirrored:before {
   content: "\EBB8";
 }
-.mi-LocationLegacy:before {
+.mi-Location:before {
   content: "\EBB9";
 }
 .mi-LocationLegacy:before {
   content: "\EBB9";
 }
-.mi-LockLegacy:before {
+.mi-Lock:before {
   content: "\EBBA";
 }
 .mi-LockLegacy:before {
@@ -1814,7 +1874,7 @@
 .mi-MagStripeReader:before {
   content: "\EBBE";
 }
-.mi-MailLegacy:before {
+.mi-Mail:before {
   content: "\EBBF";
 }
 .mi-MailLegacy:before {
@@ -1823,52 +1883,52 @@
 .mi-MailBadge12:before {
   content: "\EBC0";
 }
-.mi-MailMessageLegacy:before {
+.mi-MailFill:before {
+  content: "\EBC1";
+}
+.mi-MailFillLegacy:before {
   content: "\EBC1";
 }
 .mi-MailMessageLegacy:before {
   content: "\EBC1";
 }
-.mi-MailMessageLegacy:before {
-  content: "\EBC1";
-}
-.mi-MailForwardLegacy:before {
+.mi-MailForward:before {
   content: "\EBC2";
 }
 .mi-MailForwardLegacy:before {
   content: "\EBC2";
 }
-.mi-MailForwardMirrored:before {
+.mi-MailForwardLegacyMirrored:before {
   content: "\EBC3";
 }
 .mi-MailForwardMirrored:before {
   content: "\EBC3";
 }
-.mi-MailReplyLegacy:before {
+.mi-MailReply:before {
   content: "\EBC4";
 }
 .mi-MailReplyLegacy:before {
   content: "\EBC4";
 }
-.mi-MailReplyAllLegacy:before {
+.mi-MailReplyAll:before {
   content: "\EBC5";
 }
 .mi-MailReplyAllLegacy:before {
   content: "\EBC5";
 }
-.mi-MailReplyAllMirrored:before {
+.mi-MailReplyAllLegacyMirrored:before {
   content: "\EBC6";
 }
 .mi-MailReplyAllMirrored:before {
   content: "\EBC6";
 }
-.mi-MailReplyMirrored:before {
+.mi-MailReplyLegacyMirrored:before {
   content: "\EBC7";
 }
 .mi-MailReplyMirrored:before {
   content: "\EBC7";
 }
-.mi-ManageLegacy:before {
+.mi-Manage:before {
   content: "\EBC8";
 }
 .mi-ManageLegacy:before {
@@ -1883,7 +1943,7 @@
 .mi-MapDirections:before {
   content: "\EBCB";
 }
-.mi-MapDriveLegacy:before {
+.mi-MapDrive:before {
   content: "\EBCC";
 }
 .mi-MapDriveLegacy:before {
@@ -1892,13 +1952,13 @@
 .mi-MapLayers:before {
   content: "\EBCD";
 }
-.mi-MapPin:before {
+.mi-MapLegacy:before {
   content: "\EBCE";
 }
 .mi-MapPin:before {
   content: "\EBCE";
 }
-.mi-MapPinLegacy:before {
+.mi-MapPin2:before {
   content: "\EBCF";
 }
 .mi-MapPinLegacy:before {
@@ -1919,16 +1979,16 @@
 .mi-Megaphone:before {
   content: "\EBD4";
 }
-.mi-MemoLegacy:before {
+.mi-Memo:before {
   content: "\EBD5";
 }
 .mi-MemoLegacy:before {
   content: "\EBD5";
 }
-.mi-MessageLegacy:before {
+.mi-CommentInlineLegacy:before {
   content: "\EBD6";
 }
-.mi-MessageLegacy:before {
+.mi-Message:before {
   content: "\EBD6";
 }
 .mi-MessageLegacy:before {
@@ -1949,7 +2009,7 @@
 .mi-MicSleep:before {
   content: "\EBDB";
 }
-.mi-MicrophoneLegacy:before {
+.mi-Microphone:before {
   content: "\EBDC";
 }
 .mi-MicrophoneLegacy:before {
@@ -2123,7 +2183,7 @@
 .mi-MobileTablet:before {
   content: "\EC14";
 }
-.mi-MoreLegacy:before {
+.mi-More:before {
   content: "\EC15";
 }
 .mi-MoreLegacy:before {
@@ -2132,7 +2192,7 @@
 .mi-Mouse:before {
   content: "\EC16";
 }
-.mi-MoveToFolderLegacy:before {
+.mi-MoveToFolder:before {
   content: "\EC17";
 }
 .mi-MoveToFolderLegacy:before {
@@ -2141,13 +2201,13 @@
 .mi-Movies:before {
   content: "\EC18";
 }
-.mi-MultiSelectLegacy:before {
+.mi-MultiSelect:before {
   content: "\EC19";
 }
 .mi-MultiSelectLegacy:before {
   content: "\EC19";
 }
-.mi-MultiSelectMirrored:before {
+.mi-MultiSelectLegacyMirrored:before {
   content: "\EC1A";
 }
 .mi-MultiSelectMirrored:before {
@@ -2177,7 +2237,7 @@
 .mi-MusicAlbum:before {
   content: "\EC22";
 }
-.mi-MusicInfoLegacy:before {
+.mi-MusicInfo:before {
   content: "\EC23";
 }
 .mi-MusicInfoLegacy:before {
@@ -2186,7 +2246,7 @@
 .mi-MusicNote:before {
   content: "\EC24";
 }
-.mi-MuteLegacy:before {
+.mi-Mute:before {
   content: "\EC25";
 }
 .mi-MuteLegacy:before {
@@ -2225,7 +2285,7 @@
 .mi-NUIFPStartSlideAction:before {
   content: "\EC30";
 }
-.mi-NUIFPStartSlideHand:before {
+.mi-NUIFPPressRepeatHand:before {
   content: "\EC31";
 }
 .mi-NUIFPStartSlideHand:before {
@@ -2258,19 +2318,19 @@
 .mi-NetworkTower:before {
   content: "\EC3A";
 }
-.mi-NewFolderLegacy:before {
+.mi-NewFolder:before {
   content: "\EC3B";
 }
 .mi-NewFolderLegacy:before {
   content: "\EC3B";
 }
-.mi-NewWindowLegacy:before {
+.mi-NewWindow:before {
   content: "\EC3C";
 }
 .mi-NewWindowLegacy:before {
   content: "\EC3C";
 }
-.mi-NextLegacy:before {
+.mi-Next:before {
   content: "\EC3D";
 }
 .mi-NextLegacy:before {
@@ -2279,67 +2339,67 @@
 .mi-OEM:before {
   content: "\EC3E";
 }
-.mi-OneBarLegacy:before {
+.mi-OneBar:before {
   content: "\EC3F";
 }
 .mi-OneBarLegacy:before {
   content: "\EC3F";
 }
-.mi-OpenFileLegacy:before {
+.mi-OpenFile:before {
   content: "\EC40";
 }
 .mi-OpenFileLegacy:before {
   content: "\EC40";
 }
-.mi-OpenInNewWindowLegacy:before {
+.mi-OpenInNewWindow:before {
   content: "\EC41";
 }
 .mi-OpenInNewWindowLegacy:before {
   content: "\EC41";
 }
-.mi-OpenLocalLegacy:before {
+.mi-OpenLocal:before {
   content: "\EC42";
 }
 .mi-OpenLocalLegacy:before {
   content: "\EC42";
 }
-.mi-OpenPaneLegacy:before {
+.mi-OpenPane:before {
   content: "\EC43";
 }
 .mi-OpenPaneLegacy:before {
   content: "\EC43";
 }
-.mi-OpenPaneMirrored:before {
+.mi-OpenPaneLegacyMirrored:before {
   content: "\EC44";
 }
 .mi-OpenPaneMirrored:before {
   content: "\EC44";
 }
-.mi-OpenWithLegacy:before {
+.mi-OpenWith:before {
   content: "\EC45";
 }
 .mi-OpenWithLegacy:before {
   content: "\EC45";
 }
-.mi-OpenWithMirrored:before {
+.mi-OpenWithLegacyMirrored:before {
   content: "\EC46";
 }
 .mi-OpenWithMirrored:before {
   content: "\EC46";
 }
-.mi-OrientationLegacy:before {
+.mi-Orientation:before {
   content: "\EC47";
 }
 .mi-OrientationLegacy:before {
   content: "\EC47";
 }
-.mi-OtherUserLegacy:before {
+.mi-OtherUser:before {
   content: "\EC48";
 }
 .mi-OtherUserLegacy:before {
   content: "\EC48";
 }
-.mi-PC1Legacy:before {
+.mi-PC1:before {
   content: "\EC49";
 }
 .mi-PC1Legacy:before {
@@ -2351,7 +2411,7 @@
 .mi-Package:before {
   content: "\EC4B";
 }
-.mi-PageLegacy:before {
+.mi-Page:before {
   content: "\EC4C";
 }
 .mi-PageLegacy:before {
@@ -2363,7 +2423,7 @@
 .mi-PageRight:before {
   content: "\EC4E";
 }
-.mi-PageSolid:before {
+.mi-PageFillLegacy:before {
   content: "\EC4F";
 }
 .mi-PageSolid:before {
@@ -2390,13 +2450,13 @@
 .mi-PasswordKeyShow:before {
   content: "\EC56";
 }
-.mi-PasteLegacy:before {
+.mi-Paste:before {
   content: "\EC57";
 }
 .mi-PasteLegacy:before {
   content: "\EC57";
 }
-.mi-PauseLegacy:before {
+.mi-Pause:before {
   content: "\EC58";
 }
 .mi-PauseLegacy:before {
@@ -2420,7 +2480,7 @@
 .mi-Pencil:before {
   content: "\EC5E";
 }
-.mi-PeopleLegacy:before {
+.mi-People:before {
   content: "\EC5F";
 }
 .mi-PeopleLegacy:before {
@@ -2429,7 +2489,7 @@
 .mi-PeriodKey:before {
   content: "\EC60";
 }
-.mi-PermissionsLegacy:before {
+.mi-Permissions:before {
   content: "\EC61";
 }
 .mi-PermissionsLegacy:before {
@@ -2441,13 +2501,13 @@
 .mi-Personalize:before {
   content: "\EC63";
 }
-.mi-PhoneLegacy:before {
+.mi-Phone:before {
   content: "\EC64";
 }
 .mi-PhoneLegacy:before {
   content: "\EC64";
 }
-.mi-PhoneBookLegacy:before {
+.mi-PhoneBook:before {
   content: "\EC65";
 }
 .mi-PhoneBookLegacy:before {
@@ -2459,7 +2519,7 @@
 .mi-Photo2:before {
   content: "\EC67";
 }
-.mi-PictureLegacy:before {
+.mi-Picture:before {
   content: "\EC68";
 }
 .mi-PictureLegacy:before {
@@ -2468,7 +2528,7 @@
 .mi-PieSingle:before {
   content: "\EC69";
 }
-.mi-PinLegacy:before {
+.mi-Pin:before {
   content: "\EC6A";
 }
 .mi-PinLegacy:before {
@@ -2486,7 +2546,7 @@
 .mi-PlaceFolderLegacy:before {
   content: "\EC6E";
 }
-.mi-PlayLegacy:before {
+.mi-Play:before {
   content: "\EC6F";
 }
 .mi-PlayLegacy:before {
@@ -2516,7 +2576,7 @@
 .mi-PoliceCar:before {
   content: "\EC77";
 }
-.mi-PostUpdateLegacy:before {
+.mi-PostUpdate:before {
   content: "\EC78";
 }
 .mi-PostUpdateLegacy:before {
@@ -2525,31 +2585,31 @@
 .mi-PowerButton:before {
   content: "\EC79";
 }
-.mi-PresenceChickletVideoLegacy:before {
+.mi-PresenceChickletVideo:before {
   content: "\EC7A";
 }
 .mi-PresenceChickletVideoLegacy:before {
   content: "\EC7A";
 }
-.mi-PreviewLegacy:before {
+.mi-Preview:before {
   content: "\EC7B";
 }
 .mi-PreviewLegacy:before {
   content: "\EC7B";
 }
-.mi-PreviewLinkLegacy:before {
+.mi-PreviewLink:before {
   content: "\EC7C";
 }
 .mi-PreviewLinkLegacy:before {
   content: "\EC7C";
 }
-.mi-PreviousLegacy:before {
+.mi-Previous:before {
   content: "\EC7D";
 }
 .mi-PreviousLegacy:before {
   content: "\EC7D";
 }
-.mi-PrintLegacy:before {
+.mi-Print:before {
   content: "\EC7E";
 }
 .mi-PrintLegacy:before {
@@ -2564,7 +2624,7 @@
 .mi-PrintfaxPrinterFile:before {
   content: "\EC81";
 }
-.mi-PriorityLegacy:before {
+.mi-Priority:before {
   content: "\EC82";
 }
 .mi-PriorityLegacy:before {
@@ -2579,7 +2639,7 @@
 .mi-Projector:before {
   content: "\EC85";
 }
-.mi-ProtectedDocumentLegacy:before {
+.mi-ProtectedDocument:before {
   content: "\EC86";
 }
 .mi-ProtectedDocumentLegacy:before {
@@ -2654,7 +2714,7 @@
 .mi-RadioBullet2:before {
   content: "\EC9D";
 }
-.mi-ReadLegacy:before {
+.mi-Read:before {
   content: "\EC9E";
 }
 .mi-ReadLegacy:before {
@@ -2666,19 +2726,19 @@
 .mi-ReceiptPrinter:before {
   content: "\ECA0";
 }
-.mi-Recent:before {
+.mi-LengthLegacy:before {
   content: "\ECA1";
 }
 .mi-Recent:before {
   content: "\ECA1";
 }
-.mi-RecordLegacy:before {
+.mi-Record:before {
   content: "\ECA2";
 }
 .mi-RecordLegacy:before {
   content: "\ECA2";
 }
-.mi-RedoLegacy:before {
+.mi-Redo:before {
   content: "\ECA3";
 }
 .mi-RedoLegacy:before {
@@ -2690,13 +2750,16 @@
 .mi-ReduceTileLegacyMirrored:before {
   content: "\ECA5";
 }
-.mi-RepeatAll:before {
+.mi-Refresh:before {
+  content: "\ECA6";
+}
+.mi-RefreshLegacy:before {
   content: "\ECA6";
 }
 .mi-RepeatAll:before {
   content: "\ECA6";
 }
-.mi-RepeatAll:before {
+.mi-RepeatAllLegacy:before {
   content: "\ECA6";
 }
 .mi-RememberedDevice:before {
@@ -2708,13 +2771,13 @@
 .mi-ReminderFill:before {
   content: "\ECA9";
 }
-.mi-RemoteLegacy:before {
+.mi-Remote:before {
   content: "\ECAA";
 }
 .mi-RemoteLegacy:before {
   content: "\ECAA";
 }
-.mi-RemoveLegacy:before {
+.mi-Remove:before {
   content: "\ECAB";
 }
 .mi-RemoveLegacy:before {
@@ -2723,25 +2786,25 @@
 .mi-RemoveFrom:before {
   content: "\ECAC";
 }
-.mi-RenameLegacy:before {
+.mi-Rename:before {
   content: "\ECAD";
 }
 .mi-RenameLegacy:before {
   content: "\ECAD";
 }
-.mi-RepairLegacy:before {
+.mi-Repair:before {
   content: "\ECAE";
 }
 .mi-RepairLegacy:before {
   content: "\ECAE";
 }
-.mi-RepeatOneLegacy:before {
+.mi-RepeatOne:before {
   content: "\ECAF";
 }
 .mi-RepeatOneLegacy:before {
   content: "\ECAF";
 }
-.mi-ReplyLegacy:before {
+.mi-Reply:before {
   content: "\ECB0";
 }
 .mi-ReplyLegacy:before {
@@ -2750,7 +2813,7 @@
 .mi-ReplyMirrored:before {
   content: "\ECB1";
 }
-.mi-ReportHackedLegacy:before {
+.mi-ReportHacked:before {
   content: "\ECB2";
 }
 .mi-ReportHackedLegacy:before {
@@ -2762,7 +2825,7 @@
 .mi-ResetDrive:before {
   content: "\ECB4";
 }
-.mi-ReshareLegacy:before {
+.mi-Reshare:before {
   content: "\ECB5";
 }
 .mi-ReshareLegacy:before {
@@ -2816,7 +2879,7 @@
 .mi-ReturnKeySm:before {
   content: "\ECC5";
 }
-.mi-ReturnToWindowLegacy:before {
+.mi-ReturnToWindow:before {
   content: "\ECC6";
 }
 .mi-ReturnToWindowLegacy:before {
@@ -2870,7 +2933,7 @@
 .mi-Rotate:before {
   content: "\ECD6";
 }
-.mi-RotateCameraLegacy:before {
+.mi-RotateCamera:before {
   content: "\ECD7";
 }
 .mi-RotateCameraLegacy:before {
@@ -2909,13 +2972,13 @@
 .mi-SIPUndock:before {
   content: "\ECE2";
 }
-.mi-SaveLegacy:before {
+.mi-Save:before {
   content: "\ECE3";
 }
 .mi-SaveLegacy:before {
   content: "\ECE3";
 }
-.mi-SaveAsLegacy:before {
+.mi-SaveAs:before {
   content: "\ECE4";
 }
 .mi-SaveAsLegacy:before {
@@ -2924,13 +2987,13 @@
 .mi-SaveCopy:before {
   content: "\ECE5";
 }
-.mi-SaveLocalLegacy:before {
+.mi-SaveLocal:before {
   content: "\ECE6";
 }
 .mi-SaveLocalLegacy:before {
   content: "\ECE6";
 }
-.mi-ScanLegacy:before {
+.mi-Scan:before {
   content: "\ECE7";
 }
 .mi-ScanLegacy:before {
@@ -2942,10 +3005,10 @@
 .mi-ScrollUpDown:before {
   content: "\ECE9";
 }
-.mi-SearchboxLegacy:before {
+.mi-FindLegacy:before {
   content: "\ECEA";
 }
-.mi-SearchboxLegacy:before {
+.mi-Search:before {
   content: "\ECEA";
 }
 .mi-SearchboxLegacy:before {
@@ -2954,7 +3017,7 @@
 .mi-SearchAndApps:before {
   content: "\ECEB";
 }
-.mi-SelectAllLegacy:before {
+.mi-SelectAll:before {
   content: "\ECEC";
 }
 .mi-SelectAllLegacy:before {
@@ -2963,7 +3026,7 @@
 .mi-SemanticZoomLegacy:before {
   content: "\ECED";
 }
-.mi-SendLegacy:before {
+.mi-Send:before {
   content: "\ECEE";
 }
 .mi-SendLegacy:before {
@@ -2981,19 +3044,19 @@
 .mi-Sensor:before {
   content: "\ECF2";
 }
-.mi-SetTileLegacy:before {
+.mi-SetTile:before {
   content: "\ECF3";
 }
 .mi-SetTileLegacy:before {
   content: "\ECF3";
 }
-.mi-SetlockScreenLegacy:before {
+.mi-SetlockScreen:before {
   content: "\ECF4";
 }
 .mi-SetlockScreenLegacy:before {
   content: "\ECF4";
 }
-.mi-SettingsLegacy:before {
+.mi-Settings:before {
   content: "\ECF5";
 }
 .mi-SettingsLegacy:before {
@@ -3011,7 +3074,7 @@
 .mi-ShareBroadband:before {
   content: "\ECF9";
 }
-.mi-ShopLegacy:before {
+.mi-Shop:before {
   content: "\ECFA";
 }
 .mi-ShopLegacy:before {
@@ -3026,25 +3089,25 @@
 .mi-ShowAllFiles3Legacy:before {
   content: "\ECFD";
 }
-.mi-ShowBccLegacy:before {
+.mi-ShowBcc:before {
   content: "\ECFE";
 }
 .mi-ShowBccLegacy:before {
   content: "\ECFE";
 }
-.mi-ShowResultsLegacy:before {
+.mi-ShowResults:before {
   content: "\ECFF";
 }
 .mi-ShowResultsLegacy:before {
   content: "\ECFF";
 }
-.mi-ShowResultsMirrored:before {
+.mi-ShowResultsLegacyMirrored:before {
   content: "\ED00";
 }
 .mi-ShowResultsMirrored:before {
   content: "\ED00";
 }
-.mi-ShuffleLegacy:before {
+.mi-Shuffle:before {
   content: "\ED01";
 }
 .mi-ShuffleLegacy:before {
@@ -3086,7 +3149,7 @@
 .mi-SliderThumb:before {
   content: "\ED0D";
 }
-.mi-SlideshowLegacy:before {
+.mi-Slideshow:before {
   content: "\ED0E";
 }
 .mi-SlideshowLegacy:before {
@@ -3098,7 +3161,7 @@
 .mi-SmartcardVirtual:before {
   content: "\ED10";
 }
-.mi-SortLegacy:before {
+.mi-Sort:before {
   content: "\ED11";
 }
 .mi-SortLegacy:before {
@@ -3194,7 +3257,7 @@
 .mi-StockUp:before {
   content: "\ED2F";
 }
-.mi-StopLegacy:before {
+.mi-Stop:before {
   content: "\ED30";
 }
 .mi-StopLegacy:before {
@@ -3227,7 +3290,7 @@
 .mi-StreamingEnterprise:before {
   content: "\ED39";
 }
-.mi-StreetLegacy:before {
+.mi-Street:before {
   content: "\ED3A";
 }
 .mi-StreetLegacy:before {
@@ -3263,13 +3326,13 @@
 .mi-SwipeRevealArt:before {
   content: "\ED44";
 }
-.mi-SwitchLegacy:before {
+.mi-Switch:before {
   content: "\ED45";
 }
 .mi-SwitchLegacy:before {
   content: "\ED45";
 }
-.mi-SwitchAppsLegacy:before {
+.mi-SwitchApps:before {
   content: "\ED46";
 }
 .mi-SwitchAppsLegacy:before {
@@ -3278,7 +3341,7 @@
 .mi-SwitchUser:before {
   content: "\ED47";
 }
-.mi-SyncLegacy:before {
+.mi-Sync:before {
   content: "\ED48";
 }
 .mi-SyncLegacy:before {
@@ -3290,7 +3353,7 @@
 .mi-SyncError:before {
   content: "\ED4A";
 }
-.mi-SyncFolderLegacy:before {
+.mi-SyncFolder:before {
   content: "\ED4B";
 }
 .mi-SyncFolderLegacy:before {
@@ -3314,7 +3377,7 @@
 .mi-TabletSelected:before {
   content: "\ED51";
 }
-.mi-TagLegacy:before {
+.mi-Tag:before {
   content: "\ED52";
 }
 .mi-TagLegacy:before {
@@ -3332,7 +3395,7 @@
 .mi-ThoughtBubble:before {
   content: "\ED56";
 }
-.mi-ThreeBarsLegacy:before {
+.mi-ThreeBars:before {
   content: "\ED57";
 }
 .mi-ThreeBarsLegacy:before {
@@ -3362,7 +3425,7 @@
 .mi-Touch:before {
   content: "\ED5F";
 }
-.mi-TouchPointerLegacy:before {
+.mi-TouchPointer:before {
   content: "\ED60";
 }
 .mi-TouchPointerLegacy:before {
@@ -3395,25 +3458,25 @@
 .mi-TreeFolderFolderOpenFill:before {
   content: "\ED69";
 }
-.mi-TrimLegacy:before {
+.mi-Trim:before {
   content: "\ED6A";
 }
 .mi-TrimLegacy:before {
   content: "\ED6A";
 }
-.mi-TwoBarsLegacy:before {
+.mi-TwoBars:before {
   content: "\ED6B";
 }
 .mi-TwoBarsLegacy:before {
   content: "\ED6B";
 }
-.mi-TwoPageLegacy:before {
+.mi-TwoPage:before {
   content: "\ED6C";
 }
 .mi-TwoPageLegacy:before {
   content: "\ED6C";
 }
-.mi-TypeLegacy:before {
+.mi-Type:before {
   content: "\ED6D";
 }
 .mi-TypeLegacy:before {
@@ -3428,7 +3491,7 @@
 .mi-USBSafeConnect:before {
   content: "\ED70";
 }
-.mi-UnderlineLegacy:before {
+.mi-Underline:before {
   content: "\ED71";
 }
 .mi-UnderlineLegacy:before {
@@ -3449,13 +3512,13 @@
 .mi-UnderscoreSpace:before {
   content: "\ED76";
 }
-.mi-UndoLegacy:before {
+.mi-Undo:before {
   content: "\ED77";
 }
 .mi-UndoLegacy:before {
   content: "\ED77";
 }
-.mi-UnfavoriteLegacy:before {
+.mi-Unfavorite:before {
   content: "\ED78";
 }
 .mi-UnfavoriteLegacy:before {
@@ -3464,25 +3527,25 @@
 .mi-Unit:before {
   content: "\ED79";
 }
-.mi-UnlockLegacy:before {
+.mi-Unlock:before {
   content: "\ED7A";
 }
 .mi-UnlockLegacy:before {
   content: "\ED7A";
 }
-.mi-UnpinLegacy:before {
+.mi-Unpin:before {
   content: "\ED7B";
 }
 .mi-UnpinLegacy:before {
   content: "\ED7B";
 }
-.mi-UnsyncFolderLegacy:before {
+.mi-UnsyncFolder:before {
   content: "\ED7C";
 }
 .mi-UnsyncFolderLegacy:before {
   content: "\ED7C";
 }
-.mi-UpLegacy:before {
+.mi-Up:before {
   content: "\ED7D";
 }
 .mi-UpLegacy:before {
@@ -3497,10 +3560,10 @@
 .mi-UpdateRestore:before {
   content: "\ED80";
 }
-.mi-UploadSkyDriveLegacy:before {
+.mi-Upload:before {
   content: "\ED81";
 }
-.mi-UploadSkyDriveLegacy:before {
+.mi-UploadLegacy:before {
   content: "\ED81";
 }
 .mi-UploadSkyDriveLegacy:before {
@@ -3512,40 +3575,40 @@
 .mi-Vibrate:before {
   content: "\ED83";
 }
-.mi-VideoLegacy:before {
+.mi-Video:before {
+  content: "\ED84";
+}
+.mi-VideoInlineLegacy:before {
   content: "\ED84";
 }
 .mi-VideoLegacy:before {
   content: "\ED84";
 }
-.mi-VideoLegacy:before {
-  content: "\ED84";
-}
-.mi-VideoChatLegacy:before {
+.mi-VideoChat:before {
   content: "\ED85";
 }
 .mi-VideoChatLegacy:before {
   content: "\ED85";
 }
-.mi-ViewLegacy:before {
+.mi-RevealPasswordLegacy:before {
+  content: "\ED86";
+}
+.mi-View:before {
   content: "\ED86";
 }
 .mi-ViewLegacy:before {
   content: "\ED86";
 }
-.mi-ViewLegacy:before {
-  content: "\ED86";
+.mi-ShowAllFilesLegacy:before {
+  content: "\ED87";
 }
-.mi-ViewAllLegacy:before {
+.mi-ViewAll:before {
   content: "\ED87";
 }
 .mi-ViewAllLegacy:before {
   content: "\ED87";
 }
-.mi-ViewAllLegacy:before {
-  content: "\ED87";
-}
-.mi-VolumeLegacy:before {
+.mi-Volume:before {
   content: "\ED88";
 }
 .mi-VolumeLegacy:before {
@@ -3575,7 +3638,7 @@
 .mi-Warning:before {
   content: "\ED90";
 }
-.mi-WebcamLegacy:before {
+.mi-Webcam:before {
   content: "\ED91";
 }
 .mi-WebcamLegacy:before {
@@ -3638,7 +3701,7 @@
 .mi-WifiEthernet:before {
   content: "\EDA4";
 }
-.mi-WifiHotspot:before {
+.mi-InternetSharing:before {
   content: "\EDA5";
 }
 .mi-WifiHotspot:before {
@@ -3674,7 +3737,7 @@
 .mi-WorkSolid:before {
   content: "\EDAF";
 }
-.mi-WorldLegacy:before {
+.mi-World:before {
   content: "\EDB0";
 }
 .mi-WorldLegacy:before {
@@ -3683,19 +3746,19 @@
 .mi-XboxOneConsole:before {
   content: "\EDB1";
 }
-.mi-ZeroBarsLegacy:before {
+.mi-ZeroBars:before {
   content: "\EDB2";
 }
 .mi-ZeroBarsLegacy:before {
   content: "\EDB2";
 }
-.mi-ZoomLegacy:before {
+.mi-Zoom:before {
   content: "\EDB3";
 }
 .mi-ZoomLegacy:before {
   content: "\EDB3";
 }
-.mi-ZoomInLegacy:before {
+.mi-ZoomIn:before {
   content: "\EDB4";
 }
 .mi-ZoomInLegacy:before {
@@ -3704,7 +3767,7 @@
 .mi-ZoomMode:before {
   content: "\EDB5";
 }
-.mi-ZoomOutLegacy:before {
+.mi-ZoomOut:before {
   content: "\EDB6";
 }
 .mi-ZoomOutLegacy:before {
@@ -3761,7 +3824,7 @@
 .mi-bluetooth:before {
   content: "\EDC7";
 }
-.mi-bitcoin:before {
+.mi-btc:before {
   content: "\EDC8";
 }
 .mi-bitcoin:before {
@@ -3839,7 +3902,7 @@
 .mi-eercast:before {
   content: "\EDE0";
 }
-.mi-ge:before {
+.mi-empire:before {
   content: "\EDE1";
 }
 .mi-ge:before {
@@ -3854,7 +3917,7 @@
 .mi-facebook-official:before {
   content: "\EDE4";
 }
-.mi-facebook-f:before {
+.mi-facebook:before {
   content: "\EDE5";
 }
 .mi-facebook-f:before {
@@ -3908,7 +3971,7 @@
 .mi-google:before {
   content: "\EDF5";
 }
-.mi-gittip:before {
+.mi-gratipay:before {
   content: "\EDF6";
 }
 .mi-gittip:before {
@@ -4013,10 +4076,10 @@
 .mi-ravelry:before {
   content: "\EE17";
 }
-.mi-resistance:before {
+.mi-rebel:before {
   content: "\EE18";
 }
-.mi-resistance:before {
+.mi-ra:before {
   content: "\EE18";
 }
 .mi-resistance:before {
@@ -4121,7 +4184,7 @@
 .mi-weibo:before {
   content: "\EE39";
 }
-.mi-wechat:before {
+.mi-weixin:before {
   content: "\EE3A";
 }
 .mi-wechat:before {

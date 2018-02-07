@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "1.3.2",
   "name": "@icon/weather-icons",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
+  "description": "189 weather themed icons inspired by Font Awesome and ready for Bootstrap",
+  "author": "Erik Flowers",
   "license": "MIT",
-  "style": "index.scss",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/weather-icons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +18,6 @@
   ],
   "devDependencies": {
     "weather-icons": "^1.3.2"
-  }
+  },
+  "homepage": "http://erikflowers.github.io/weather-icons/"
 }

@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "3.0.0",
   "name": "@icon/ionicons",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
+  "description": "Premium icons for Ionic.",
+  "author": "Ben Sperry",
   "license": "MIT",
-  "style": "index.scss",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/ionicons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +18,6 @@
   ],
   "devDependencies": {
     "ionicons": "^3.0.0"
-  }
+  },
+  "homepage": "http://ionicons.com/"
 }

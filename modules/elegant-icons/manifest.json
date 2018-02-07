@@ -1,6 +1,7 @@
 {
   "name": "elegant-icons",
   "title": "Elegant Icons",
+  "description": "Elegant Themes&#x27; Elegant Icon font as a npm package",
   "version": "0.0.1",
   "class": "ei",
   "prefix": "ei-",

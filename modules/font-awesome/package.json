@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "4.7.0",
   "name": "@icon/font-awesome",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
-  "license": "MIT",
-  "style": "index.scss",
+  "description": "The iconic font and CSS framework",
+  "author": "Dave Gandy",
+  "license": "(OFL-1.1 AND MIT)",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/font-awesome",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +18,6 @@
   ],
   "devDependencies": {
     "font-awesome": "^4.7.0"
-  }
+  },
+  "homepage": "http://fontawesome.io/"
 }

@@ -1,1 +1,5 @@
-<svg height="1000" width="660" xmlns="http://www.w3.org/2000/svg"><path d="M660 484L330 864 0 484h192V134h276v350h192"/></svg>
+<svg height="1000px" width="660px" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M660 484c0 0 -330 380 -330 380c0 0 -330 -380 -330 -380c0 0 192 0 192 0c0 0 0 -350 0 -350c0 0 276 0 276 0c0 0 0 350 0 350c0 0 192 0 192 0c0 0 0 0 0 0" />
+  </g>
+</svg>

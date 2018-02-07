@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.1",
   "name": "@icon/linearicons",
-  "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
-  "license": "MIT",
-  "style": "index.scss",
+  "description": "Linearicons is the highest quality set of line icons, matching with minimalist UI designs in iOS.",
+  "author": "Perxis",
+  "license": "CC BY-SA 4.0",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/linearicons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -19,5 +18,6 @@
   ],
   "devDependencies": {
     "linearicons": "^1.0.1"
-  }
+  },
+  "homepage": "https://linearicons.com/free"
 }

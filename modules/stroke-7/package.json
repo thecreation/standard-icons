@@ -1,10 +1,9 @@
 {
-  "version": "0.0.1",
+  "version": "1.2.0",
   "name": "@icon/stroke-7",
   "description": "TODO: fill in this description later",
-  "author": "Creation Studio Limited",
+  "author": "The Pixeden Team",
   "license": "MIT",
-  "style": "index.scss",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/stroke-7",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -16,5 +15,6 @@
   "keywords": [
     "icons",
     "icon"
-  ]
+  ],
+  "homepage": "http://themes-pixeden.com/font-demos/7-stroke/"
 }
