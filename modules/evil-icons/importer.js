@@ -45,6 +45,6 @@ function callback() {
 }
 
 module.exports = function() {
-  copySvgs(paths.svgsDest, paths.svgs, options.svgs);
+  copySvgs(paths.svgsDest, paths.svgs, options.svgs, 'ei-');
   generateFontsFromSvg(paths.dest, options, callback);
 };

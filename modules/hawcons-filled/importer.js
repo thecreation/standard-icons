@@ -23,7 +23,7 @@ let options = {
   title: 'Hawcons filled',
   homepage: 'http://www.hawcons.com',
   author: 'Yannick Lung',
-  version: '2.0',
+  version: '2.0.0',
   classifiable: false,
 };
 

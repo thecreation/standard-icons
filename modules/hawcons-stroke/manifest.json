@@ -1,9 +1,9 @@
 {
   "name": "hawcons-stroke",
   "title": "Hawcons stroke",
-  "version": "2.0",
-  "class": "hfi",
-  "prefix": "hfi-",
+  "version": "2.0.0",
+  "class": "hst",
+  "prefix": "hst-",
   "homepage": "http://www.hawcons.com",
   "author": "Yannick Lung",
   "license": "",

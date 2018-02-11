@@ -2,7 +2,7 @@
   "version": "0.9.5",
   "name": "@icon/payment-webfont",
   "description": "An SVG webfont full of main payment system icons",
-  "author": "Creation Studio Limited",
+  "author": "Orlando TM Merone, Leo Di Donato, Leonardo Grasso",
   "license": "CC0-1.0",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/payment-webfont",
   "bugs": {

@@ -17,8 +17,8 @@ const path = require('path');
 let options = {
   source: path.join(config.sets.customs, '150-outlined-icons'),
   name: 'outlined-icons',
-  class: 'oi',
-  prefix: 'oi-',
+  class: 'oui',
+  prefix: 'oui-',
   className: 'OutlinedIcons',
   title: 'Outlined Icons',
   homepage: 'http://freebiesbug.com/psd-freebies/150-free-outlined-icons-psd-ai-svg-webfont/',

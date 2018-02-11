@@ -20,6 +20,7 @@ let options = {
   prefix: 'wb-',
   className: 'WebIcons',
   title: 'Web Icons',
+  author: 'thecreation',
   homepage: 'https://github.com/thecreation/web-icons',
   classifiable: false
 };
@@ -36,7 +37,7 @@ let paths = {
 let info = extraFromJson(paths.package, ['homepage', 'version', 'author', 'licenses']);
 
 options.license = info.licenses[0].type;
-options.author = info.author.name;
+// options.author = info.author.name;
 // options.homepage = info.homepage;
 options.description = info.description;
 options.version = info.version;

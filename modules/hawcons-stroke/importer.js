@@ -17,13 +17,13 @@ const path = require('path');
 let options = {
   source: path.join(config.sets.customs, 'Hawcons', 'Font', 'Stroke'),
   name: 'hawcons-stroke',
-  class: 'hfi',
-  prefix: 'hfi-',
+  class: 'hst',
+  prefix: 'hst-',
   className: 'HawconsStroke',
   title: 'Hawcons stroke',
   homepage: 'http://www.hawcons.com',
   author: 'Yannick Lung',
-  version: '2.0',
+  version: '2.0.0',
   classifiable: false,
 };
 

@@ -29,10 +29,10 @@ let paths = {
   dest: __dirname
 };
 
-let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);
+let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'authors', 'license']);
 
 options.license = info.license;
-options.author = info.author;
+options.author = info.authors[0].name + ', '+ info.authors[1].name + ', ' + info.authors[2].name;
 options.homepage = info.homepage;
 options.description = info.description;
 options.version = info.version;
