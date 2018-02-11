@@ -22,6 +22,7 @@ let options = {
   className: 'CaomeiIcons',
   title: 'Caomei Icons',
   author: 'xiangsudian',
+  homepage: 'http://chuangzaoshi.com/icon/',
   classifiable: true
 };
 
@@ -38,7 +39,7 @@ let info = extraFromJson(paths.package, ['homepage', 'description', 'version', '
 
 options.license = info.license;
 options.author = info.author.name;
-options.homepage = info.homepage;
+// options.homepage = info.homepage;
 // options.description = info.description;
 options.version = info.version;
 options.fonts = getFonts(paths.fonts);

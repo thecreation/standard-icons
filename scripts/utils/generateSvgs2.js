@@ -107,7 +107,9 @@ function getIconSvg(params, size) {
 }
 
 var svgo = new SVGO({
-  removeViewBox: true
+  plugins: [{
+    removeViewBox: false
+  }]
 });
 
 function generateSvg(name, params) {

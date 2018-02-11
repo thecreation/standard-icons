@@ -85,7 +85,7 @@ function getIconSvg(params, size) {
   
   const BASE_WIDTH = PIXEL_WIDTH * PIXEL;
   const BASE_HEIGHT = PIXEL_HEIGHT * PIXEL;
-  
+
   var options = optionsForSize(PIXEL_WIDTH, PIXEL_HEIGHT, 
     parseInt((BASE_WIDTH / BASE_HEIGHT) * size), size,
     params.addPadding);
@@ -96,7 +96,7 @@ function getIconSvg(params, size) {
   let height = BASE_HEIGHT + paddingBottom + paddingTop;
   
   const result =
-`<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
+`<svg width="${size}" height="${size}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
   <g transform="translate(${shiftX} ${shiftY})">
   <g transform="scale(1 -1) translate(0 -1280)">
   <path d="${path}" fill="${color}" />
@@ -107,17 +107,18 @@ function getIconSvg(params, size) {
 }
 
 var svgo = new SVGO({
-  removeViewBox: true
+  plugins: [{
+    removeViewBox: false
+  }]
 });
 
-function generateSvg(name, params) {
+function generateSvg(name, params, size) {
   let svgFolder = pathModule.join(params.destFolder, 'icons');
   mkdirp.sync(svgFolder);
 
   return new Promise(function(resolve, reject) {
     var outSvg = fs.createWriteStream(pathModule.join(svgFolder, name + '.svg'));
-    svgo.optimize(getIconSvg(params)).then(function(result) {
-      outSvg.write('<?xml version="1.0" encoding="utf-8"?>' +'\n'); 
+    svgo.optimize(getIconSvg(params, size)).then(function(result) {
       outSvg.end(result.data);
       resolve();
     })
@@ -126,10 +127,11 @@ function generateSvg(name, params) {
 
 function generateIcon(params) {
   var name = params.name;
+  var size = params.size;
   console.log('Generating', name);
   var workChain = [];
   if (params.generateSvg) {
-    workChain.push(generateSvg(name, params));
+    workChain.push(generateSvg(name, params, size));
   }
   return Promise.all(workChain).then(function() {
     return {name: name}
@@ -172,6 +174,8 @@ module.exports = function(dest, filename, options) {
         advWidth: glyph.data['horiz-adv-x'] || 1536,
         path: glyph.data.d,
         generateSvg: true,
+        color: '#000',
+        size: 64,
         destFolder: dest
       });
     }));

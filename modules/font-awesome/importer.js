@@ -28,7 +28,7 @@ let paths = {
   package: path.join(options.source, 'package.json'),
   css: path.join(options.source, 'css', 'font-awesome.css'),
   fonts: path.join(options.source, 'fonts'),
-  url: 'http://fontawesome.io/icons/',
+  url: 'https://fontawesome.com/v4.7.0/icons/',
   dest: __dirname,
   svgsDest: path.join(__dirname, 'icons')
 };

@@ -6,7 +6,11 @@ const SVGO = require('svgo');
 const colors = require('colors');
 const expand = require('glob-expand');
 
-let svgo = new SVGO();
+let svgo = new SVGO({
+  plugins: [{
+    removeViewBox: false
+  }]
+});
 
 const optimize = (file) => {
   fs.readFile(file, 'utf8', function(err, data) {
