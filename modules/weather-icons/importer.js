@@ -20,7 +20,8 @@ let options = {
   className: 'WeatherIcons',
   title: 'Weather icons',
   author: 'Erik Flowers',
-  classifiable: true
+  classifiable: true,
+  glyph_adv: false
 };
 
 let paths = {

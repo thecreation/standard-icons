@@ -22,7 +22,7 @@ let options = {
   className: 'Dripicons',
   title: 'Dripicons',
   author: 'Amit Jakhu',
-  version: 'v2',
+  version: '2.0.0',
   classifiable: false
 };
 

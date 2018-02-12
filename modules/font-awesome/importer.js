@@ -21,7 +21,8 @@ let options = {
   prefix: 'fa-',
   className: 'FontAwesome',
   title: 'Font Awesome',
-  classifiable: true
+  classifiable: true,
+  isFontawesome: true
 };
 
 let paths = {
