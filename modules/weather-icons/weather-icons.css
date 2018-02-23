@@ -1,5 +1,5 @@
 /**
- * Weather icons, 1.3.2
+ * Weather icons, 2.0.10
  * Created by Erik Flowers
  * http://erikflowers.github.io/weather-icons/
  * MIT License
@@ -10,7 +10,7 @@
   font-family: "weather-icons";
   src: url('weather-icons.eot');
   src: url('weather-icons.eot?#iefix') format('eot'),
-
+    url('weather-icons.woff2') format('woff2'),
     url('weather-icons.woff') format('woff'),
     url('weather-icons.ttf') format('truetype'),
     url('weather-icons.svg#weather-icons') format('svg');

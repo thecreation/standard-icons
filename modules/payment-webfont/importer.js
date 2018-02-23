@@ -19,8 +19,7 @@ let options = {
   class: 'pw',
   prefix: 'pw-',
   className: 'Payment-webfont',
-  classifiable: false,
-  glyph_adv: false
+  classifiable: false
 };
 
 let paths = {

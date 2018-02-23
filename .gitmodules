@@ -25,3 +25,6 @@
 [submodule "customs/payment-webfont"]
 	path = customs/payment-webfont
 	url = https://github.com/orlandotm/payment-webfont.git
+[submodule "customs/weather-icons"]
+	path = customs/weather-icons
+	url = https://github.com/erikflowers/weather-icons.git

@@ -1,8 +1,8 @@
 {
   "name": "weather-icons",
   "title": "Weather icons",
-  "description": "189 weather themed icons inspired by Font Awesome and ready for Bootstrap",
-  "version": "1.3.2",
+  "description": "222 weather themed icons inspired by Font Awesome and ready for Bootstrap",
+  "version": "2.0.10",
   "class": "wi",
   "prefix": "wi-",
   "homepage": "http://erikflowers.github.io/weather-icons/",
