@@ -1,7 +1,7 @@
 {
   "name": "entypo",
   "title": "Entypo",
-  "version": "1.0",
+  "version": "1.0.0",
   "class": "entypo",
   "prefix": "entypo-",
   "homepage": "http://www.entypo.com",
@@ -294,7 +294,7 @@
     "smashing": "smashing",
     "sweden": "sweden",
     "db-shape": "db-shape",
-    "logo-db": "logo-db",
+    "logo-db": "logo-db"
   }
 }
 

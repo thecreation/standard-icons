@@ -186,7 +186,7 @@
     "shield": "shield",
     "circle": "circle",
     "square-rounded": "square-rounded",
-    "square": "square",
+    "square": "square"
   }
   ,
   "categories": {
@@ -216,19 +216,19 @@
       "funeral-home",
       "cemetery",
       "park",
-      "lodging",
+      "lodging"
     ],
     "Toilets": [
       "female",
       "male",
       "unisex",
-      "toilet",
+      "toilet"
     ],
     "Food": [
       "bakery",
       "cafe",
       "restaurant",
-      "food",
+      "food"
     ],
     "Stores": [
       "liquor-store",
@@ -247,7 +247,7 @@
       "movie-rental",
       "grocery-or-supermarket",
       "florist",
-      "laundry",
+      "laundry"
     ],
     "Activities": [
       "abseiling",
@@ -295,7 +295,7 @@
       "snow-shoeing",
       "snow",
       "snowboarding",
-      "snowmobile",
+      "snowmobile"
     ],
     "Transport": [
       "train-station",
@@ -309,7 +309,7 @@
       "car-repair",
       "car-wash",
       "airport",
-      "taxi-stand",
+      "taxi-stand"
     ],
     "Health": [
       "health",
@@ -318,7 +318,7 @@
       "hospital",
       "pharmacy",
       "physiotherapist",
-      "veterinary-care",
+      "veterinary-care"
     ],
     "Entertainment": [
       "bar",
@@ -328,7 +328,7 @@
       "movie-theater",
       "night-club",
       "zoo",
-      "bowling-alley",
+      "bowling-alley"
     ],
     "Services": [
       "storage",
@@ -338,14 +338,14 @@
       "plumber",
       "roofing-contractor",
       "general-contractor",
-      "locksmith",
+      "locksmith"
     ],
     "Business": [
       "insurance-agency",
       "lawyer",
       "real-estate-agency",
       "travel-agency",
-      "accounting",
+      "accounting"
     ],
     "Government": [
       "courthouse",
@@ -354,14 +354,14 @@
       "embassy",
       "city-hall",
       "fire-station",
-      "police",
+      "police"
     ],
     "Religious": [
       "place-of-worship",
       "church",
       "mosque",
       "synagogue",
-      "hindu-temple",
+      "hindu-temple"
     ],
     "Accessibility": [
       "wheelchair",
@@ -372,7 +372,7 @@
       "low-vision-access",
       "braille",
       "audio-description",
-      "assistive-listening-system",
+      "assistive-listening-system"
     ],
     "User Interface": [
       "search",
@@ -384,7 +384,7 @@
       "crosshairs",
       "compass",
       "expand",
-      "fullscreen",
+      "fullscreen"
     ],
     "Marker Icons": [
       "map-pin",
@@ -393,8 +393,8 @@
       "shield",
       "circle",
       "square-rounded",
-      "square",
-    ],
+      "square"
+    ]
   }
 }
 

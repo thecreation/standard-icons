@@ -2,7 +2,7 @@
   "name": "micon",
   "title": "Micon",
   "description": "Micon, The iconic windows 10 font and CSS toolkit.",
-  "version": "",
+  "version": "2.2.155",
   "class": "mi",
   "prefix": "mi-",
   "homepage": "http://xtoolkit.github.io/Micon/",
@@ -1411,7 +1411,7 @@
     "yelp": "yelp",
     "yoast": "yoast",
     "youtube-play": "youtube-play",
-    "youtube": "youtube",
+    "youtube": "youtube"
   }
 }
 

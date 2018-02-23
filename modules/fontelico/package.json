@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.0",
   "name": "@icon/fontelico",
   "description": "TODO: fill in this description later",
   "author": "Crowdsourced, for Fontello project",
@@ -16,5 +16,5 @@
     "icons",
     "icon"
   ],
-  "homepage": "http://fontello.com"
+  "homepage": "http://fontello.github.io/fontelico.font/demo.html"
 }

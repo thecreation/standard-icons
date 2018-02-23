@@ -1,7 +1,7 @@
 {
   "name": "feather",
   "title": "Feather",
-  "version": "1.1",
+  "version": "1.1.0",
   "class": "fe",
   "prefix": "fe-",
   "homepage": "http://colebemis.com/feather/",
@@ -252,7 +252,7 @@
     "gitlab": "gitlab",
     "sliders": "sliders",
     "star-on": "star-on",
-    "heart-on": "heart-on",
+    "heart-on": "heart-on"
   }
 }
 

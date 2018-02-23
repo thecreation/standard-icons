@@ -1,10 +1,10 @@
 {
   "name": "fontelico",
   "title": "Fontelico",
-  "version": "",
+  "version": "1.0.0",
   "class": "emo",
   "prefix": "emo-",
-  "homepage": "http://fontello.com",
+  "homepage": "http://fontello.github.io/fontelico.font/demo.html",
   "author": "Crowdsourced, for Fontello project",
   "license": "SIL",
   "style": "fontelico.css",
@@ -44,7 +44,7 @@
     "crown": "crown",
     "crown-plus": "crown-plus",
     "crown-minus": "crown-minus",
-    "marquee": "marquee",
+    "marquee": "marquee"
   }
 }
 

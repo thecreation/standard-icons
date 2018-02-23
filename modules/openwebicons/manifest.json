@@ -104,7 +104,7 @@
     "ofl-share": "ofl-share",
     "ofl-embedding": "ofl-embedding",
     "ofl-renaming": "ofl-renaming",
-    "ofl-selling": "ofl-selling",
+    "ofl-selling": "ofl-selling"
   }
   ,
   "categories": {
@@ -170,7 +170,7 @@
       "opendesign",
       "gnusocial",
       "mastodon",
-      "mastodon-simple",
+      "mastodon-simple"
     ],
     "HTML5 Icons": [
       "html5",
@@ -181,7 +181,7 @@
       "offline-storage",
       "multimedia",
       "3deffects",
-      "perfintegration",
+      "perfintegration"
     ],
     "Creative Commons Icons": [
       "cc",
@@ -194,14 +194,14 @@
       "cc-public",
       "cc-zero",
       "cc-share",
-      "cc-remix",
+      "cc-remix"
     ],
     "Microformats Icons": [
       "microformats",
       "hcard-download",
       "hcard-add",
       "hresume",
-      "hatom",
+      "hatom"
     ],
     "SIL Open Font License - Icons": [
       "ofl",
@@ -209,8 +209,8 @@
       "ofl-share",
       "ofl-embedding",
       "ofl-renaming",
-      "ofl-selling",
-    ],
+      "ofl-selling"
+    ]
   }
 }
 

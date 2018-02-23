@@ -24,7 +24,7 @@ let options = {
 };
 
 let paths = {
-  bower: path.join(options.source, 'bower.json'),
+  package: path.join(options.source, 'package.json'),
   css: path.join(options.source, 'dist', 'micon', 'css', 'micon.css'),
   fonts: path.join(options.source, 'dist', 'micon', 'fonts'),
   svgs1: path.join(options.source, 'icons', 'mdl2'),
@@ -33,10 +33,10 @@ let paths = {
   svgsDest: path.join(__dirname, 'icons')
 };
 
-let info = extraFromJson(paths.bower, ['homepage', 'description', 'version', 'authors', 'license']);
+let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);
 
 options.license = info.license;
-options.author = info.authors[0].name;
+options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
 options.version = info.version;

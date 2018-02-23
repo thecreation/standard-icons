@@ -24,7 +24,7 @@ let options = {
   author: 'Dario Ferrando',
   homepage: 'http://www.linea.io/',
   classifiable: false,
-  version: '1.0'
+  version: '1.0.0'
 };
 
 let paths = {

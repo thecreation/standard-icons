@@ -1,7 +1,7 @@
 {
   "name": "linea-software",
   "title": "Linea software",
-  "version": "1.0",
+  "version": "1.0.0",
   "class": "linea",
   "prefix": "linea-",
   "homepage": "http://www.linea.io/",
@@ -110,7 +110,7 @@
     "software-vertical-align-top": "software-vertical-align-top",
     "software-vertical-distribute-bottom": "software-vertical-distribute-bottom",
     "software-vertical-distribute-center": "software-vertical-distribute-center",
-    "software-vertical-distribute-top": "software-vertical-distribute-top",
+    "software-vertical-distribute-top": "software-vertical-distribute-top"
   }
 }
 

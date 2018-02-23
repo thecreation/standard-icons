@@ -23,6 +23,7 @@ let options = {
   title: 'Caomei Icons',
   author: 'xiangsudian',
   homepage: 'http://chuangzaoshi.com/icon/',
+  version: '1.2.8',
   classifiable: true
 };
 
@@ -40,8 +41,8 @@ let info = extraFromJson(paths.package, ['homepage', 'description', 'version', '
 options.license = info.license;
 options.author = info.author.name;
 // options.homepage = info.homepage;
-// options.description = info.description;
-options.version = info.version;
+options.description = info.description;
+// options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 
 module.exports = function() {

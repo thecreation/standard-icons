@@ -1,10 +1,10 @@
 {
   "name": "hawcons-stroke",
   "title": "Hawcons stroke",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "class": "hst",
   "prefix": "hst-",
-  "homepage": "http://www.hawcons.com",
+  "homepage": "http://hawcons.com/preview/",
   "author": "Yannick Lung",
   "license": "",
   "style": "hawcons-stroke.css",
@@ -442,7 +442,7 @@
     "document-file-dmg": "document-file-dmg",
     "document-file-iso": "document-file-iso",
     "document-file-rar": "document-file-rar",
-    "document-file-gif": "document-file-gif",
+    "document-file-gif": "document-file-gif"
   }
 }
 

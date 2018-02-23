@@ -23,7 +23,7 @@ let options = {
   title: 'Dashicons',
   author: 'Wordpress',
   homepage: 'http://developer.wordpress.org/resource/dashicons/',
-  version: '',
+  version: '0.9.0',
   classifiable: true
 };
 

@@ -22,6 +22,7 @@ let options = {
   className: 'Dripicons',
   title: 'Dripicons',
   author: 'Amit Jakhu',
+  homepage: 'https://github.com/amitjakhu/dripicons',
   version: '2.0.0',
   classifiable: false
 };

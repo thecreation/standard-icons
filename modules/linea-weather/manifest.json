@@ -1,7 +1,7 @@
 {
   "name": "linea-weather",
   "title": "Linea weather",
-  "version": "1.0",
+  "version": "1.0.0",
   "class": "linea",
   "prefix": "linea-",
   "homepage": "http://www.linea.io/",
@@ -95,7 +95,7 @@
     "weather-wind-sun": "weather-wind-sun",
     "weather-wind-sw": "weather-wind-sw",
     "weather-wind-w": "weather-wind-w",
-    "weather-windgust": "weather-windgust",
+    "weather-windgust": "weather-windgust"
   }
 }
 

@@ -23,7 +23,7 @@ let options = {
   title: 'Gonzocons',
   homepage: 'http://www.gonzodesign.nl/gonzocons/',
   author: 'Jan Rajtoral',
-  version: '2.0',
+  version: '2.0.0',
   classifiable: false,
 };
 

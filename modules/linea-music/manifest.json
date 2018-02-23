@@ -1,7 +1,7 @@
 {
   "name": "linea-music",
   "title": "Linea music",
-  "version": "1.0",
+  "version": "1.0.0",
   "class": "linea",
   "prefix": "linea-",
   "homepage": "http://www.linea.io/",
@@ -40,7 +40,7 @@
     "music-stop-button": "music-stop-button",
     "music-tape": "music-tape",
     "music-volume-down": "music-volume-down",
-    "music-volume-up": "music-volume-up",
+    "music-volume-up": "music-volume-up"
   }
 }
 

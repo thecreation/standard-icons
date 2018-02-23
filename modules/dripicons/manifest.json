@@ -4,7 +4,7 @@
   "version": "2.0.0",
   "class": "dripicons",
   "prefix": "dripicons-",
-  "homepage": "",
+  "homepage": "https://github.com/amitjakhu/dripicons",
   "author": "Amit Jakhu",
   "license": "CC-BY-4.0",
   "style": "dripicons.css",
@@ -210,7 +210,7 @@
     "wifi": "wifi",
     "wrong": "wrong",
     "zoom-in": "zoom-in",
-    "zoom-out": "zoom-out",
+    "zoom-out": "zoom-out"
   }
 }
 

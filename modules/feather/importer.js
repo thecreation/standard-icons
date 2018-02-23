@@ -22,7 +22,7 @@ let options = {
   author: 'colebemis',
   homepage: 'http://colebemis.com/feather/',
   className: 'Feather',
-  version: '1.1',
+  version: '1.1.0',
   classifiable: false
 };
 

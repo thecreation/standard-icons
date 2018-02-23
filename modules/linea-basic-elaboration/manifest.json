@@ -1,7 +1,7 @@
 {
   "name": "linea-basic-elaboration",
   "title": "Linea Basic Elaboration",
-  "version": "1.0",
+  "version": "1.0.0",
   "class": "linea",
   "prefix": "linea-",
   "homepage": "http://www.linea.io/",
@@ -155,7 +155,7 @@
     "basic-elaboration-todolist-remove": "basic-elaboration-todolist-remove",
     "basic-elaboration-todolist-search": "basic-elaboration-todolist-search",
     "basic-elaboration-todolist-star": "basic-elaboration-todolist-star",
-    "basic-elaboration-todolist-upload": "basic-elaboration-todolist-upload",
+    "basic-elaboration-todolist-upload": "basic-elaboration-todolist-upload"
   }
 }
 

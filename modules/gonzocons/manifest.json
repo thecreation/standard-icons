@@ -1,7 +1,7 @@
 {
   "name": "gonzocons",
   "title": "Gonzocons",
-  "version": "2.0",
+  "version": "2.0.0",
   "class": "gon",
   "prefix": "gon-",
   "homepage": "http://www.gonzodesign.nl/gonzocons/",
@@ -110,7 +110,7 @@
     "video": "video",
     "vimeo": "vimeo",
     "wordpress": "wordpress",
-    "youtube": "youtube",
+    "youtube": "youtube"
   }
 }
 

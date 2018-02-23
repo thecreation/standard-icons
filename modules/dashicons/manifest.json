@@ -1,7 +1,7 @@
 {
   "name": "dashicons",
   "title": "Dashicons",
-  "version": "",
+  "version": "0.9.0",
   "class": "dashicons",
   "prefix": "dashicons-",
   "homepage": "http://developer.wordpress.org/resource/dashicons/",
@@ -243,7 +243,7 @@
     "thumbs-up": "thumbs up",
     "thumbs-down": "thumbs down",
     "layout": "layout",
-    "paperclip": "paperclip",
+    "paperclip": "paperclip"
   }
   ,
   "categories": {
@@ -267,7 +267,7 @@
       "admin-collapse",
       "filter",
       "admin-customizer",
-      "admin-multisite",
+      "admin-multisite"
     ],
     "Welcome Screen": [
       "welcome-write-blog",
@@ -275,7 +275,7 @@
       "welcome-view-site",
       "welcome-widgets-menus",
       "welcome-comments",
-      "welcome-learn-more",
+      "welcome-learn-more"
     ],
     "Post Formats": [
       "format-aside",
@@ -291,7 +291,7 @@
       "images-alt2",
       "video-alt",
       "video-alt2",
-      "video-alt3",
+      "video-alt3"
     ],
     "Media": [
       "media-archive",
@@ -313,7 +313,7 @@
       "controls-skipback",
       "controls-repeat",
       "controls-volumeon",
-      "controls-volumeoff",
+      "controls-volumeoff"
     ],
     "Image Editing": [
       "image-crop",
@@ -324,7 +324,7 @@
       "image-flip-horizontal",
       "image-filter",
       "undo",
-      "redo",
+      "redo"
     ],
     "TinyMCE": [
       "editor-bold",
@@ -357,7 +357,7 @@
       "editor-break",
       "editor-code",
       "editor-paragraph",
-      "editor-table",
+      "editor-table"
     ],
     "Posts Screen": [
       "align-left",
@@ -373,7 +373,7 @@
       "post-status",
       "edit",
       "trash",
-      "sticky",
+      "sticky"
     ],
     "Sorting": [
       "external",
@@ -395,7 +395,7 @@
       "list-view",
       "exerpt-view",
       "grid-view",
-      "move",
+      "move"
     ],
     "Social": [
       "share",
@@ -408,7 +408,7 @@
       "facebook",
       "facebook-alt",
       "googleplus",
-      "networking",
+      "networking"
     ],
     "WordPress.org Specific: Jobs, Profiles, WordCamps": [
       "hammer",
@@ -422,7 +422,7 @@
       "clipboard",
       "heart",
       "megaphone",
-      "schedule",
+      "schedule"
     ],
     "Products": [
       "wordpress",
@@ -434,16 +434,16 @@
       "cart",
       "feedback",
       "cloud",
-      "translation",
+      "translation"
     ],
     "Taxonomies": [
       "tag",
-      "category",
+      "category"
     ],
     "Widgets": [
       "archive",
       "tagcloud",
-      "text",
+      "text"
     ],
     "Notifications": [
       "yes",
@@ -458,7 +458,7 @@
       "star-half",
       "star-empty",
       "flag",
-      "warning",
+      "warning"
     ],
     "Misc": [
       "location",
@@ -508,8 +508,8 @@
       "thumbs-up",
       "thumbs-down",
       "layout",
-      "paperclip",
-    ],
+      "paperclip"
+    ]
   }
 }
 

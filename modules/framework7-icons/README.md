@@ -3,8 +3,6 @@
 [![npm version](https://img.shields.io/npm/v/@icon/framework7-icons.svg)](https://www.npmjs.org/package/@icon/framework7-icons)
 [![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
-> TODO: fill in this description later
-
 This repository is a module of the full [icon][icon] repository.
 
 ## Install

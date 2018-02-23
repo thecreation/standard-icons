@@ -21,9 +21,9 @@ let options = {
   prefix: 'hfi-',
   className: 'HawconsFilled',
   title: 'Hawcons filled',
-  homepage: 'http://www.hawcons.com',
+  homepage: 'http://hawcons.com/preview/',
   author: 'Yannick Lung',
-  version: '2.0.0',
+  version: '1.0.0',
   classifiable: false,
 };
 

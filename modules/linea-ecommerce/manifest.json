@@ -1,7 +1,7 @@
 {
   "name": "linea-ecommerce",
   "title": "Linea ecommerce",
-  "version": "1.0",
+  "version": "1.0.0",
   "class": "linea",
   "prefix": "linea-",
   "homepage": "http://www.linea.io/",
@@ -95,7 +95,7 @@
     "ecommerce-wallet": "ecommerce-wallet",
     "ecommerce-won": "ecommerce-won",
     "ecommerce-yen": "ecommerce-yen",
-    "ecommerce-yen2": "ecommerce-yen2",
+    "ecommerce-yen2": "ecommerce-yen2"
   }
 }
 
