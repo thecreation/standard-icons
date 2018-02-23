@@ -361,7 +361,7 @@
     "pinterest-alt": "pinterest-alt",
     "themify-logo": "themify-logo",
     "themify-favicon": "themify-favicon",
-    "themify-favicon-alt": "themify-favicon-alt"
+    "themify-favicon-alt": "themify-favicon-alt",
   }
   ,
   "categories": {
@@ -398,7 +398,7 @@
       "hand-point-down",
       "back-right",
       "back-left",
-      "exchange-vertical"
+      "exchange-vertical",
     ],
     "Web App Icons": [
       "wand",
@@ -590,7 +590,7 @@
       "rocket",
       "new-window",
       "rss",
-      "rss-alt"
+      "rss-alt",
     ],
     "Control Icons": [
       "control-stop",
@@ -603,7 +603,7 @@
       "control-skip-forward",
       "control-skip-backward",
       "control-record",
-      "control-eject"
+      "control-eject",
     ],
     "Text Editor": [
       "paragraph",
@@ -619,7 +619,7 @@
       "align-justify",
       "align-center",
       "quote-right",
-      "quote-left"
+      "quote-left",
     ],
     "Layout Icons": [
       "layout-width-full",
@@ -683,7 +683,7 @@
       "layout-grid2-alt",
       "layout-column4-alt",
       "layout-column3-alt",
-      "layout-column2-alt"
+      "layout-column2-alt",
     ],
     "Brand Icons": [
       "flickr",
@@ -726,8 +726,8 @@
       "pinterest-alt",
       "themify-logo",
       "themify-favicon",
-      "themify-favicon-alt"
-    ]
+      "themify-favicon-alt",
+    ],
   }
 }
 

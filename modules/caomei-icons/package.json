@@ -1,5 +1,5 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.8-0",
   "name": "@icon/caomei-icons",
   "description": "为开发者设计的一套免费开源图标库",
   "author": "xiangsudian",
@@ -19,5 +19,8 @@
   "devDependencies": {
     "caomei": "git+https://github.com/xiangsudian/CaoMei.git"
   },
-  "homepage": "http://chuangzaoshi.com/icon/"
+  "homepage": "http://chuangzaoshi.com/icon/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

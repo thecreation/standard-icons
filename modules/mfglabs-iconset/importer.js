@@ -22,7 +22,8 @@ let options = {
   title: 'Mfglabs iconset',
   author: 'MfgLabs',
   version: '',
-  classifiable: false
+  classifiable: false,
+  isAdv: true
 };
 
 let paths = {

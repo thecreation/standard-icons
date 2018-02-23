@@ -30,7 +30,7 @@ function getGlyph(file) {
     })
 }
 
-function getGlyphs(file) {
+function getGlyphs(file, isAdv) {
   let SVG_FILE = require.resolve(file);
   return getGlyph(SVG_FILE).then(function(glyph) {
     return readFile(SVG_FILE)
@@ -43,12 +43,21 @@ function getGlyphs(file) {
       })
       .map(function(xmlGlyph) {
         if (xmlGlyph.$.unicode) {
-          return {
-            advWidth: xmlGlyph.$['horiz-adv-x'] || glyph.advWidth,
-            descent: glyph.descent,
-            data: xmlGlyph.$,
-            content: xmlGlyph.$.unicode.charCodeAt(0)
-          };
+          if (isAdv) {
+            return {
+              advWidth: glyph.advWidth,
+              descent: glyph.descent,
+              data: xmlGlyph.$,
+              content: xmlGlyph.$.unicode.charCodeAt(0)
+            }
+          }else {
+            return {
+              advWidth: xmlGlyph.$['horiz-adv-x'] || glyph.advWidth,
+              descent: glyph.descent,
+              data: xmlGlyph.$,
+              content: xmlGlyph.$.unicode.charCodeAt(0)
+            }
+          }
         }
       })
       .then(function(fontData) {
@@ -137,7 +146,7 @@ function hexToDec(hex) {
 }
 
 module.exports = function(dest, filename, options) {
-  return getGlyphs(`${dest}/${filename}.svg`).then(function(fontData) {
+  return getGlyphs(`${dest}/${filename}.svg`, options.isAdv).then(function(fontData) {
     let icons = new Array();
     for (let i in options.icons) {
       if (options.icons[i].content != undefined) {
