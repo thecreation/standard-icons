@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1-0",
+  "version": "0.0.2",
   "name": "@icon/elegant-icons",
   "description": "Elegant Themes' Elegant Icon font as a npm package",
   "author": "Elegant Themes",
@@ -19,5 +19,8 @@
   "devDependencies": {
     "elegant-icons": "^0.0.1"
   },
-  "homepage": "https://www.elegantthemes.com/blog/resources/elegant-icon-font"
+  "homepage": "https://www.elegantthemes.com/blog/resources/elegant-icon-font",
+  "publishConfig": {
+    "access": "public"
+  }
 }

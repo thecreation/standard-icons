@@ -1,5 +1,4 @@
 {
-  "private": true,
   "scripts": {
     "start": "fractal start --sync",
     "bootstrap": "lerna bootstrap --hoist",

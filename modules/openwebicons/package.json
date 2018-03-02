@@ -19,5 +19,8 @@
   "devDependencies": {
     "openwebicons": "^1.4.3"
   },
-  "homepage": "http://pfefferle.github.io/openwebicons/"
+  "homepage": "http://pfefferle.github.io/openwebicons/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

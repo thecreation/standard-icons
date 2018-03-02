@@ -2,11 +2,11 @@
   "name": "caomei-icons",
   "title": "Caomei Icons",
   "description": "为开发者设计的一套免费开源图标库",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "class": "czs",
   "prefix": "czs-",
   "homepage": "http://chuangzaoshi.com/icon/",
-  "author": "xiangsudian",
+  "author": "Xiangsudian",
   "license": "(OFL-1.1 AND MIT)",
   "style": "caomei-icons.css",
   "count": "327",
@@ -339,8 +339,7 @@
     "qzone": "qzone",
     "zhihu": "zhihu",
     "chuangzaoshi": "chuangzaoshi"
-  }
-  ,
+  },
   "categories": {
     "Development icon": [
       "server",

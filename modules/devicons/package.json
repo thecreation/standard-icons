@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0-0",
+  "version": "1.8.2",
   "name": "@icon/devicons",
   "description": "An iconic font made for developers",
   "author": "Theodore Vorillas",
@@ -19,5 +19,8 @@
   "devDependencies": {
     "devicons": "^1.8.0"
   },
-  "homepage": "http://vorillaz.github.io/devicons/"
+  "homepage": "http://vorillaz.github.io/devicons/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

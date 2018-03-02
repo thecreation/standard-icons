@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-0",
+  "version": "1.0.1-0",
   "name": "@icon/hawcons-stroke",
   "description": "TODO: fill in this description later",
   "author": "Yannick Lung",
@@ -16,5 +16,8 @@
     "icons",
     "icon"
   ],
-  "homepage": "http://hawcons.com/preview/"
+  "homepage": "http://hawcons.com/preview/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

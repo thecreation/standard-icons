@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0-0",
+  "version": "1.0.1",
   "name": "@icon/entypo",
-  "description": "TODO: fill in this description later",
+  "description": "Entypo, the premium pictograms",
   "author": "Daniel Buce",
   "license": "SIL",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/entypo",
@@ -16,5 +16,8 @@
     "icons",
     "icon"
   ],
-  "homepage": "http://www.entypo.com"
+  "homepage": "http://www.entypo.com",
+  "publishConfig": {
+    "access": "public"
+  }
 }

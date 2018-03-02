@@ -1,7 +1,8 @@
 {
   "name": "dripicons",
   "title": "Dripicons",
-  "version": "2.0.0",
+  "description": "Dripicons V2 is available for free for use in both personal and commercial projects.",
+  "version": "2.0.2",
   "class": "dripicons",
   "prefix": "dripicons-",
   "homepage": "https://github.com/amitjakhu/dripicons",
@@ -210,7 +211,7 @@
     "wifi": "wifi",
     "wrong": "wrong",
     "zoom-in": "zoom-in",
-    "zoom-out": "zoom-out",
+    "zoom-out": "zoom-out"
   }
 }
 

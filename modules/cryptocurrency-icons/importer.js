@@ -8,6 +8,7 @@ const copySvgs = require('../../scripts/utils/copySvgs');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const generateFontsFromSvg = require('../../scripts/utils/generateFontsFromSvg');
 const jsonfile = require('../../scripts/utils/jsonfile');
+const generateSvgs = require('../../scripts/utils/generateSvgs');
 const fs = require('fs-extra');
 const path = require('path');
 
@@ -18,6 +19,7 @@ let options = {
   prefix: 'cryptocurrency-icons-',
   className: 'Cryptocurrency Icons',
   title: 'Cryptocurrency Icons',
+  version: '0.0.3',
   classifiable: false
 };
 
@@ -34,7 +36,7 @@ options.license = info.license;
 options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
-options.version = info.version;
+// options.version = info.version;
 options.svgs = getSvgs(paths.svgs);
 
 function callback() {
@@ -43,6 +45,7 @@ function callback() {
   generateJson(paths.dest, options.className, options);
   copyLicense(paths.dest, path.join(options.source, 'README.md'));
   jsonfile(paths.dest, options);
+  generateSvgs(paths.dest, options.name, options);
 }
 
 module.exports = function() {

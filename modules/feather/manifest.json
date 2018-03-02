@@ -1,12 +1,13 @@
 {
   "name": "feather",
   "title": "Feather",
-  "version": "1.1.0",
+  "description": "Simply beautiful open source icons",
+  "version": "1.1.2",
   "class": "fe",
   "prefix": "fe-",
   "homepage": "http://colebemis.com/feather/",
   "author": "colebemis",
-  "license": "",
+  "license": "MIT",
   "style": "feather.css",
   "count": "242",
   "classifiable": false,
@@ -252,7 +253,7 @@
     "gitlab": "gitlab",
     "sliders": "sliders",
     "star-on": "star-on",
-    "heart-on": "heart-on",
+    "heart-on": "heart-on"
   }
 }
 

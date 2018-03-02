@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0-0",
+  "version": "1.9.2",
   "name": "@icon/evil-icons",
   "description": "Evil Icons is a set of SVG icons designed extensively for using in modern web projects",
   "author": "Alexander Madyankin",
@@ -19,5 +19,8 @@
   "devDependencies": {
     "evil-icons": "^1.9.0"
   },
-  "homepage": "http://evil-icons.io"
+  "homepage": "http://evil-icons.io",
+  "publishConfig": {
+    "access": "public"
+  }
 }

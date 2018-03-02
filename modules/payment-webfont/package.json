@@ -16,5 +16,8 @@
     "icons",
     "icon"
   ],
-  "homepage": "https://github.com/orlandotm/payment-webfont"
+  "homepage": "https://github.com/orlandotm/payment-webfont",
+  "publishConfig": {
+    "access": "public"
+  }
 }

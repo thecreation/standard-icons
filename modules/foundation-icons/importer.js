@@ -22,7 +22,9 @@ let options = {
   prefix: 'fi-',
   className: 'FoundationIcons',
   title: 'Foundation Icons',
+  description: "Foundation icon fonts",
   homepage: 'http://zurb.com/playground/foundation-icon-fonts-3',
+  version: '3.0.2',
   author: 'ZURB',
   classifiable: true
 };
@@ -38,7 +40,7 @@ let paths = {
   svgsDest: path.join(__dirname, 'icons')
 };
 
-options =  Object.assign(options, extraFromJson(paths.bower, ['version']));
+// options =  Object.assign(options, extraFromJson(paths.bower, ['version']));
 
 options.license = detectLicense(paths.license);
 options.fonts = getFonts(paths.fonts);

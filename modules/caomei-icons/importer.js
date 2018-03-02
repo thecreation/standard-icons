@@ -21,9 +21,9 @@ let options = {
   prefix: 'czs-',
   className: 'CaomeiIcons',
   title: 'Caomei Icons',
-  author: 'xiangsudian',
+  author: 'Xiangsudian',
   homepage: 'http://chuangzaoshi.com/icon/',
-  version: '1.2.8',
+  version: '1.2.9',
   classifiable: true
 };
 
@@ -39,7 +39,7 @@ let paths = {
 let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);
 
 options.license = info.license;
-options.author = info.author.name;
+// options.author = info.author.name;
 // options.homepage = info.homepage;
 options.description = info.description;
 // options.version = info.version;

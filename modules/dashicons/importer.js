@@ -4,12 +4,15 @@ const prepareIcons = require('../../scripts/utils/prepareIcons');
 const extraFromJson = require('../../scripts/utils/extraFromJson');
 const detectLicense = require('../../scripts/utils/detectLicense');
 const getIconsFromUrl = require('../../scripts/utils/getIconsFromUrl');
+const getIconsFromCss3 = require('../../scripts/utils/getIconsFromCss3');
 const getSvgs = require('../../scripts/utils/getSvgs');
 const copySvgs = require('../../scripts/utils/copySvgs');
 const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const jsonfile = require('../../scripts/utils/jsonfile');
+const generateFontsFromSvg = require('../../scripts/utils/generateFontsFromSvg');
+const generateSvgs = require('../../scripts/utils/generateSvgs');
 const fs = require('fs-extra');
 const config = require('../../config');
 const path = require('path');
@@ -23,7 +26,8 @@ let options = {
   title: 'Dashicons',
   author: 'Wordpress',
   homepage: 'http://developer.wordpress.org/resource/dashicons/',
-  version: '0.9.0',
+  description: "Dashicons, the WordPress admin icon font.",
+  version: '0.9.3',
   classifiable: true
 };
 
@@ -42,6 +46,13 @@ options =  Object.assign(options, extraFromJson(paths.package, ['homepage']));
 options.license = detectLicense(paths.license);
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
+
+function callback() {
+  options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'dashicons-');
+  generateSvgs(paths.dest, options.name, options);
+  copyLicense(paths.dest, path.join(options.source, 'gpl.txt'));
+  jsonfile(paths.dest, options);
+}
 
 module.exports = function() {
   getIconsFromUrl(paths.url, function($) {
@@ -70,7 +81,6 @@ module.exports = function() {
     generateJson(paths.dest, options.className, options);
     copyFonts(paths.dest, paths.fonts, options);
     copySvgs(paths.svgsDest, paths.svgs, options.svgs);
-    copyLicense(paths.dest, path.join(options.source, 'gpl.txt'));
-    jsonfile(paths.dest, options);
+    generateFontsFromSvg(paths.dest, options, callback);
   });
 };

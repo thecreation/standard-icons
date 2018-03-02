@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-0",
+  "version": "1.0.1-0",
   "name": "@icon/linea-music",
   "description": "TODO: fill in this description later",
   "author": "Dario Ferrando",
@@ -16,5 +16,8 @@
     "icons",
     "icon"
   ],
-  "homepage": "http://www.linea.io/"
+  "homepage": "http://www.linea.io/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

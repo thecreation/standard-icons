@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="42px" height="50px" viewBox="0 0 42 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
-    <title>redo</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="redo" transform="translate(21.000000, 25.000000) scale(-1, 1) translate(-21.000000, -25.000000) translate(0.000000, 6.000000)">
-            <polygon id="Triangle-6" fill="#000000" points="11 0.5 11 17.5 0 9"></polygon>
-            <path d="M27,37 L27,37 C34.7319865,37 41,30.7319865 41,23 C41,15.2680135 34.7319865,9 27,9" id="Oval-31" stroke="#000000" stroke-width="2"></path>
-            <rect id="Rectangle-74" fill="#000000" x="11" y="8" width="16" height="2"></rect>
-            <rect id="Rectangle-74-Copy" fill="#000000" x="2" y="36" width="25" height="2"></rect>
-        </g>
-    </g>
-</svg>
+<svg width="42" height="50" viewBox="0 0 42 50" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M31 6.5v17L42 15z"/><path d="M15 43C7.268 43 1 36.732 1 29s6.268-14 14-14" stroke="#000" stroke-width="2"/><path fill="#000" d="M31 14H15v2h16zM40 42H15v2h25z"/></g></svg>

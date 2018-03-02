@@ -21,9 +21,10 @@ let options = {
   prefix: 'dripicons-',
   className: 'Dripicons',
   title: 'Dripicons',
+  description: "Dripicons V2 is available for free for use in both personal and commercial projects.",
   author: 'Amit Jakhu',
   homepage: 'https://github.com/amitjakhu/dripicons',
-  version: '2.0.0',
+  version: '2.0.2',
   classifiable: false
 };
 

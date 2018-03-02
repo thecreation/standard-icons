@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="51px" height="50px" viewBox="0 0 51 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
-    <title>layers</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="layers" transform="translate(0.000000, 1.000000)">
-            <polygon id="Rectangle-99" fill="#000000" points="4.97379915e-13 27 4.3203125 24 5.90039062 25.3499756 3.40039062 27.0999756 26 44.4500122 47.7001953 27.0999756 45.2998047 25.3499756 46.8496094 24 51 27 26 47"></polygon>
-            <polygon id="Path-24" stroke="#000000" stroke-width="2" points="2 18 26 36.5 49 18 26 1.5"></polygon>
-        </g>
-    </g>
-</svg>
+<svg width="51" height="50" viewBox="0 0 51 50" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#000" d="M0 28l4.32-3 1.58 1.35-2.5 1.75L26 45.45 47.7 28.1l-2.4-1.75L46.85 25 51 28 26 48z"/><path stroke="#000" stroke-width="2" d="M2 19l24 18.5L49 19 26 2.5z"/></g></svg>

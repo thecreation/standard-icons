@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>upload</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="upload" fill="#000000">
-            <path d="M2,7 L1,6 L5,2 L9,6 L8,7 L6,5 L6,12 L4,12 L4,5 L2,7 Z M0,0 L10,0 L10,1 L0,1 L0,0 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="10" height="12" viewBox="0 0 10 12" xmlns="http://www.w3.org/2000/svg"><path d="M2 7L1 6l4-4 4 4-1 1-2-2v7H4V5L2 7zM0 0h10v1H0V0z" fill="#000" fill-rule="evenodd"/></svg>

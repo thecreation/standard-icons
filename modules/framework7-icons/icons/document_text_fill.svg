@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="34px" height="46px" viewBox="0 0 34 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
-    <title>document_text_fill</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="document_text_fill" fill="#000000">
-            <path d="M34,17.0184373 L34,46 L0,46 L0,0 L16,0.0177215725 L16,18 L17,18 L34,18 L34,17.0184373 L34,17.0184373 Z M6,24 L28,24 L28,26 L6,26 L6,24 Z M6,18 L12,18 L12,20 L6,20 L6,18 Z M6,12 L12,12 L12,14 L6,14 L6,12 Z M6,30 L28,30 L28,32 L6,32 L6,30 Z M6,36 L28,36 L28,38 L6,38 L6,36 Z" id="Combined-Shape"></path>
-            <polygon id="Path" points="33.9631884 16 18.0104577 0.019948352 18 0.0199367691 18 16 33.9631884 16"></polygon>
-        </g>
-    </g>
-</svg>
+<svg width="34" height="46" viewBox="0 0 34 46" xmlns="http://www.w3.org/2000/svg"><g fill="#000" fill-rule="evenodd"><path d="M34 17.018V46H0V0l16 .018V18h18v-.982zM6 24h22v2H6v-2zm0-6h6v2H6v-2zm0-6h6v2H6v-2zm0 18h22v2H6v-2zm0 6h22v2H6v-2z"/><path d="M33.963 16L18.01.02H18V16h15.963z"/></g></svg>

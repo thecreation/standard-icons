@@ -22,8 +22,9 @@ let options = {
   className: 'Gonzocons',
   title: 'Gonzocons',
   homepage: 'http://www.gonzodesign.nl/gonzocons/',
+  description: "An Icon Font designed by Jan Rajtoral, gonzodesign.nl",
   author: 'Jan Rajtoral',
-  version: '2.0.0',
+  version: '2.0.2',
   classifiable: false,
 };
 

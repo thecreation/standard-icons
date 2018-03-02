@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="56px" height="50px" viewBox="0 0 56 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
-    <title>collection</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="collection" fill="#000000">
-            <path d="M2,47 L2,10 L54,10 L54,47 L2,47 L2,47 Z M0,48 L0,8 L1,8 L55,8 L56,8 L56,49 L55,49 L0,49 L0,48 L0,48 Z" id="Combined-Shape"></path>
-            <rect id="Rectangle-32" x="9" y="0" width="38" height="2"></rect>
-            <rect id="Rectangle-31" x="5" y="4" width="46" height="2"></rect>
-        </g>
-    </g>
-</svg>
+<svg width="56" height="50" viewBox="0 0 56 50" xmlns="http://www.w3.org/2000/svg"><g fill="#000" fill-rule="evenodd"><path d="M2 47V10h52v37H2zm-2 1V8h56v41H0v-1zM9 0h38v2H9zM5 4h46v2H5z"/></g></svg>

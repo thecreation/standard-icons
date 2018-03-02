@@ -17,6 +17,8 @@ module.exports = function(dest, options, done) {
     author: `${options.author}`,
     homepage: `${options.homepage}`,
     license: `${options.license}`,
+    fontHeight: 128,
+    normalize: true,
     formats: ['svg', 'ttf', 'eot', 'woff', 'woff2'],
     glyphTransformFn: obj => {
       obj.name;
@@ -30,6 +32,8 @@ module.exports = function(dest, options, done) {
     fs.writeFileSync(`${dest}/${options.name}.woff`, new Buffer(result.woff));
     fs.writeFileSync(`${dest}/${options.name}.woff2`, new Buffer(result.woff2));
     console.log(colors.green('Icon generated.'));
-    done();
+    if (done) {
+      done();
+    }
   })
 }

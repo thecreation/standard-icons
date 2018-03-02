@@ -2,11 +2,11 @@
   "name": "feathericon",
   "title": "Feathericon",
   "description": "Simple, scalable vector icon font for websites, apps.",
-  "version": "0.9.5",
+  "version": "0.9.7",
   "class": "fei",
   "prefix": "fei-",
   "homepage": "http://feathericon.com",
-  "author": "[object Object]",
+  "author": "Featherplain",
   "license": "MIT",
   "style": "feathericon.css",
   "count": "236",
@@ -247,7 +247,7 @@
     "wordpress": "wordpress",
     "wordpress-alt": "wordpress-alt",
     "wrench": "wrench",
-    "youtube": "youtube",
+    "youtube": "youtube"
   }
 }
 

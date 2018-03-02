@@ -19,5 +19,8 @@
   "devDependencies": {
     "micon-font": "git+https://github.com/xtoolkit/Micon.git"
   },
-  "homepage": "http://xtoolkit.github.io/Micon/"
+  "homepage": "http://xtoolkit.github.io/Micon/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0-0",
+  "version": "2.0.2",
   "name": "@icon/dripicons",
-  "description": "TODO: fill in this description later",
+  "description": "Dripicons V2 is available for free for use in both personal and commercial projects.",
   "author": "Amit Jakhu",
   "license": "CC-BY-4.0",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/dripicons",
@@ -16,5 +16,8 @@
     "icons",
     "icon"
   ],
-  "homepage": "https://github.com/amitjakhu/dripicons"
+  "homepage": "https://github.com/amitjakhu/dripicons",
+  "publishConfig": {
+    "access": "public"
+  }
 }

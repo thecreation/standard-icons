@@ -17,6 +17,7 @@ let options = {
   prefix: 'evil-icons-',
   className: 'EvilIcons',
   title: 'Evil Icons',
+  version: '1.9.2',
   classifiable: false
 };
 
@@ -33,7 +34,7 @@ options.license = info.license;
 options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
-options.version = info.version;
+// options.version = info.version;
 options.svgs = getSvgs(paths.svgs);
 
 function callback() {

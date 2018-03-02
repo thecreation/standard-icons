@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>crop</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="production" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="crop" fill="#000000">
-            <path d="M12,10 L14,10 L14,12 L12,12 L12,14 L10,14 L10,12 L3,12 C2,12 2,11 2,11 L2,4 L0,4 L0,2 L2,2 L2,0 L4,0 L4,2 L11,2 L12,1 L13,2 L12,3 L12,10 Z M4,4 L9,4 L4,9 L4,4 Z M10,10 L5,10 L10,5 L10,10 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M12 10h2v2h-2v2h-2v-2H3c-1 0-1-1-1-1V4H0V2h2V0h2v2h7l1-1 1 1-1 1v7zM4 4h5L4 9V4zm6 6H5l5-5v5z" fill="#000" fill-rule="evenodd"/></svg>

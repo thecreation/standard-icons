@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2-0",
+  "version": "0.0.3-0",
   "name": "@icon/zondicons",
   "description": "A set of free premium SVG icons for you to use on your digital products.",
   "author": "Steve Schoger",
@@ -16,5 +16,8 @@
     "icons",
     "icon"
   ],
-  "homepage": "http://www.zondicons.com/"
+  "homepage": "http://www.zondicons.com/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="22px" height="50px" viewBox="0 0 22 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
-    <title>volume_mute</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="volume_mute" transform="translate(0.000000, 10.000000)" fill="#000000">
-            <path d="M8.89990234,7.60327502 L21.046936,0.128177365 C21.5180163,-0.161718195 21.8999023,0.0587957702 21.8999023,0.601520663 L21.8999023,27.6050294 C21.8999023,28.1563452 21.5248575,28.3436286 21.0768318,28.033457 L8.89990234,19.603275 L1.9973917,19.603275 C0.894262725,19.603275 0,18.7013247 0,17.5947448 L0,9.61180522 C0,8.50252462 0.895857811,7.60327502 1.9973917,7.60327502 L8.89990234,7.60327502 Z M1.9699892,9.61166171 L9.5,9.61166171 L20,3 L20,25 L9.5,17.6102295 L1.9699892,17.6102295 L1.9699892,9.61166171 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="22" height="50" viewBox="0 0 22 50" xmlns="http://www.w3.org/2000/svg"><path d="M8.9 17.603l12.147-7.475c.471-.29.853-.07.853.474v27.003c0 .551-.375.739-.823.428L8.9 29.603H1.997A2.005 2.005 0 0 1 0 27.595v-7.983c0-1.11.896-2.009 1.997-2.009H8.9zm-6.93 2.009H9.5L20 13v22L9.5 27.61H1.97v-7.998z" fill="#000" fill-rule="evenodd"/></svg>

@@ -1,5 +1,5 @@
 {
-  "version": "0.9.0-0",
+  "version": "0.9.0",
   "name": "@icon/framework7-icons",
   "description": "Free iOS-icons font for Framework7",
   "author": "Vladimir Kharlampidi",
@@ -16,5 +16,8 @@
     "icons",
     "icon"
   ],
-  "homepage": "http://framework7.io/icons/"
+  "homepage": "http://framework7.io/icons/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

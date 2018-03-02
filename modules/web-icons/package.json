@@ -1,5 +1,5 @@
 {
-  "version": "0.2.4-0",
+  "version": "0.2.5-0",
   "name": "@icon/web-icons",
   "description": "TODO: fill in this description later",
   "author": "thecreation",
@@ -19,5 +19,8 @@
   "devDependencies": {
     "web-icons": "git+ssh://git@github.com/thecreation/web-icons.git"
   },
-  "homepage": "https://github.com/thecreation/web-icons"
+  "homepage": "https://github.com/thecreation/web-icons",
+  "publishConfig": {
+    "access": "public"
+  }
 }

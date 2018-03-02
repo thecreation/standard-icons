@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1-0",
+  "version": "1.1.2-0",
   "name": "@icon/open-iconic",
   "description": "An open source icon set with marks in SVG, sprite, webfont and raster format",
   "author": "Iconic",
@@ -19,5 +19,8 @@
   "devDependencies": {
     "open-iconic": "^1.1.1"
   },
-  "homepage": "http://useiconic.com/open-iconic/"
+  "homepage": "http://useiconic.com/open-iconic/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

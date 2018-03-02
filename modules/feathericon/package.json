@@ -1,10 +1,8 @@
 {
-  "version": "0.9.5-0",
+  "version": "0.9.7",
   "name": "@icon/feathericon",
   "description": "Simple, scalable vector icon font for websites, apps.",
-  "author": {
-    "name": "featherplain"
-  },
+  "author": "Featherplain",
   "license": "MIT",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/feathericon",
   "bugs": {
@@ -21,5 +19,8 @@
   "devDependencies": {
     "feathericon": "^0.9.5"
   },
-  "homepage": "http://feathericon.com"
+  "homepage": "http://feathericon.com",
+  "publishConfig": {
+    "access": "public"
+  }
 }

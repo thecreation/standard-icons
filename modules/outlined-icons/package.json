@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2-0",
+  "version": "0.0.3-0",
   "name": "@icon/outlined-icons",
   "description": "TODO: fill in this description later",
   "author": "Dario Ferrando.",
@@ -16,5 +16,8 @@
     "icons",
     "icon"
   ],
-  "homepage": "http://freebiesbug.com/psd-freebies/150-free-outlined-icons-psd-ai-svg-webfont/"
+  "homepage": "http://freebiesbug.com/psd-freebies/150-free-outlined-icons-psd-ai-svg-webfont/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -1,7 +1,7 @@
 {
-  "version": "0.9.0-0",
+  "version": "0.9.3",
   "name": "@icon/dashicons",
-  "description": "TODO: fill in this description later",
+  "description": "Dashicons, the WordPress admin icon font.",
   "author": "Wordpress",
   "license": "GPL-2.0",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/dashicons",
@@ -16,5 +16,8 @@
     "icons",
     "icon"
   ],
-  "homepage": "http://developer.wordpress.org/resource/dashicons/"
+  "homepage": "http://developer.wordpress.org/resource/dashicons/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

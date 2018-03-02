@@ -16,5 +16,8 @@
     "icons",
     "icon"
   ],
-  "homepage": "https://github.com/MfgLabs/mfglabs-iconset"
+  "homepage": "https://github.com/MfgLabs/mfglabs-iconset",
+  "publishConfig": {
+    "access": "public"
+  }
 }

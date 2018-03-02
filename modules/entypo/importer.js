@@ -20,7 +20,8 @@ let options = {
   class: 'entypo',
   prefix: 'entypo-',
   className: 'Entypo',
-  version: '1.0.0',
+  description: "Entypo, the premium pictograms",
+  version: '1.0.1',
   classifiable: false
 };
 

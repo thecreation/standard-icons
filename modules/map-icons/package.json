@@ -1,5 +1,5 @@
 {
-  "version": "3.0.3-0",
+  "version": "3.0.4-0",
   "name": "@icon/map-icons",
   "description": "An icon font for use with Google Maps API and Google Places API using SVG markers and icon labels",
   "author": {
@@ -21,5 +21,8 @@
   "devDependencies": {
     "map-icons": "^3.0.3"
   },
-  "homepage": "https://github.com/scottdejonge/Map-Icons#readme"
+  "homepage": "https://github.com/scottdejonge/Map-Icons#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }

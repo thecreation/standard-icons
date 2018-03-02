@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>difference</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="production" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="difference" fill="#000000">
-            <path d="M4,4 L0.997030139,4 C0.453036308,4 0,4.4463856 0,4.99703014 L0,11.0029699 C0,11.5469637 0.446385598,12 0.997030139,12 L7.00296986,12 C7.54696369,12 8,11.5536144 8,11.0029699 L8,8 L11.0029699,8 C11.5469637,8 12,7.5536144 12,7.00296986 L12,0.997030139 C12,0.453036308 11.5536144,0 11.0029699,0 L4.99703014,0 C4.45303631,0 4,0.446385598 4,0.997030139 L4,4 Z M1,5 L4,5 L4,7.00296986 C4,7.44999981 4.44999981,8 5,8 L7,8 L7,11 L1,11 L1,5 Z M11,7 L8,7 L8,4.99703014 C8,4.44999981 7.44999981,4 7,4 L5,4 L5,1 L11,1 L11,7 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="M4 4H.997C.453 4 0 4.446 0 4.997v6.006c0 .544.446.997.997.997h6.006c.544 0 .997-.446.997-.997V8h3.003c.544 0 .997-.446.997-.997V.997C12 .453 11.554 0 11.003 0H4.997C4.453 0 4 .446 4 .997V4zM1 5h3v2.003C4 7.45 4.45 8 5 8h2v3H1V5zm10 2H8V4.997C8 4.45 7.45 4 7 4H5V1h6v6z" fill="#000" fill-rule="evenodd"/></svg>

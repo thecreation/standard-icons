@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="34px" height="50px" viewBox="0 0 34 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
-    <title>flag</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="flag" transform="translate(0.000000, 5.000000)" stroke="#000000" stroke-width="2">
-            <path d="M1,2 L1,22 C1,22 3,20 7,20 C11,20 19.454115,22.8251583 24,23 C28.545885,23.1748417 33,22 33,22 L33,2 C33,2 29,4 24,4 C19,4 11,1 7,1 C3,1 1,2 1,2 Z" id="Path-19"></path>
-            <path d="M1,22 L1,40" id="Path-20"></path>
-        </g>
-    </g>
-</svg>
+<svg width="34" height="50" viewBox="0 0 34 50" xmlns="http://www.w3.org/2000/svg"><g stroke="#000" stroke-width="2" fill="none" fill-rule="evenodd"><path d="M1 7v20s2-2 6-2 12.454 2.825 17 3c4.546.175 9-1 9-1V7s-4 2-9 2S11 6 7 6 1 7 1 7zM1 27v18"/></g></svg>

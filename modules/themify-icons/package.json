@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1-0",
+  "version": "1.0.2-0",
   "name": "@icon/themify-icons",
   "description": "TODO: fill in this description later",
   "author": "Themify",
@@ -16,5 +16,8 @@
     "icons",
     "icon"
   ],
-  "homepage": "http://themify.me/themify-icons"
+  "homepage": "http://themify.me/themify-icons",
+  "publishConfig": {
+    "access": "public"
+  }
 }

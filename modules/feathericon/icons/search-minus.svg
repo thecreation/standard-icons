@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>search-minus</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="search-minus" fill="#000000">
-            <path d="M8.85700408,9.85700408 L13,14 L14,13 L9.85700408,8.85700408 C10.5736833,7.92821055 11,6.76389108 11,5.5 C11,2.46243388 8.53756612,0 5.5,0 C2.46243388,0 0,2.46243388 0,5.5 C0,8.53756612 2.46243388,11 5.5,11 C6.76389108,11 7.92821055,10.5736833 8.85700408,9.85700408 L8.85700408,9.85700408 Z M5.5,9.5 C7.709139,9.5 9.5,7.709139 9.5,5.5 C9.5,3.290861 7.709139,1.5 5.5,1.5 C3.290861,1.5 1.5,3.290861 1.5,5.5 C1.5,7.709139 3.290861,9.5 5.5,9.5 Z M8,5 L8,6 L3,6 L3,5 L8,5 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M8.857 9.857L13 14l1-1-4.143-4.143a5.5 5.5 0 1 0-1 1zM5.5 9.5a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 5v1H3V5h5z" fill="#000" fill-rule="evenodd"/></svg>

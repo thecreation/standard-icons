@@ -21,6 +21,7 @@ let options = {
   prefix: 'fa-',
   className: 'FontAwesome',
   title: 'Font Awesome',
+  version: '4.7.1',
   classifiable: true,
   isFontawesome: true
 };
@@ -40,7 +41,7 @@ options.license = info.license;
 options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
-options.version = info.version;
+// options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 
 module.exports = function() {

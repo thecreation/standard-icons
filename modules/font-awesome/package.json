@@ -1,5 +1,5 @@
 {
-  "version": "4.7.0-0",
+  "version": "4.7.1",
   "name": "@icon/font-awesome",
   "description": "The iconic font and CSS framework",
   "author": "Dave Gandy",
@@ -19,5 +19,8 @@
   "devDependencies": {
     "font-awesome": "^4.7.0"
   },
-  "homepage": "http://fontawesome.io/"
+  "homepage": "http://fontawesome.io/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

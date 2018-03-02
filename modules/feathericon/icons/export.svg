@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="14px" viewBox="0 0 12 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>export</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="export" fill="#000000">
-            <path d="M0,6.00247329 C0,5.44882258 0.455760956,5 1.00247329,5 L3,5 L3,6.00247329 L1.00247329,6.00247329 L1.00247329,13 L11,13 L11,6.00247329 L9,6.00247329 L9,5 L10.9975267,5 C11.5511774,5 12,5.45576096 12,6.00247329 L12,12.9975267 C12,13.5511774 11.544239,14 10.9975267,14 L1.00247329,14 C0.448822582,14 0,13.544239 0,12.9975267 L0,6.00247329 Z M5,11 L5,3 L4,4 L3,3 L6,2.84217094e-14 L9,3 L8,4 L7,3 L7,11 L5,11 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="12" height="14" viewBox="0 0 12 14" xmlns="http://www.w3.org/2000/svg"><path d="M0 6.002C0 5.45.456 5 1.002 5H3v1.002H1.002V13H11V6.002H9V5h1.998C11.55 5 12 5.456 12 6.002v6.996C12 13.55 11.544 14 10.998 14H1.002A1.007 1.007 0 0 1 0 12.998V6.002zM5 11V3L4 4 3 3l3-3 3 3-1 1-1-1v8H5z" fill="#000" fill-rule="evenodd"/></svg>

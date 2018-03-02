@@ -19,5 +19,8 @@
   "devDependencies": {
     "ionicons": "^3.0.0"
   },
-  "homepage": "http://ionicons.com/"
+  "homepage": "http://ionicons.com/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

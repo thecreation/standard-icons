@@ -21,8 +21,10 @@ let options = {
   prefix: 'fe-',
   author: 'colebemis',
   homepage: 'http://colebemis.com/feather/',
+  description: "Simply beautiful open source icons",
   className: 'Feather',
-  version: '1.1.0',
+  license: 'MIT',
+  version: '1.1.2',
   classifiable: false
 };
 
@@ -37,7 +39,7 @@ let paths = {
 
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
-options.license = detectLicense(paths.license);
+// options.license = detectLicense(paths.license);
 
 module.exports = function() {
   options.icons = getIconsFromCss(paths.css, 'icon-');

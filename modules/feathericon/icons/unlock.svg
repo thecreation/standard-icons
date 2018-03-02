@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="14px" viewBox="0 0 10 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>unlock</title>
-    <desc>Created with sketchtool.</desc>
-    <defs></defs>
-    <g id="web-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="unlock" fill="#000000">
-            <path d="M2,6 L2,3 C2,3 2,4.2862638e-16 5,0 C8,0 8,3 8,3 L8,4 L6,4 L6,3 C6,3 6.11136529,2 5,2 C4,2 4,3 4,3 L4,6 L6,6 L8,6 L9,6 C10,6 10,7 10,7 L10,13 C10,13 10,14 9,14 L1,14 C2.13162821e-14,14 2.13162821e-14,13 2.13162821e-14,13 L2.13162821e-14,7 C2.13162821e-14,7 2.13162821e-14,6 1,6 L2,6 Z M2,8 L2,12 L3,12 L3,8 L2,8 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="10" height="14" viewBox="0 0 10 14" xmlns="http://www.w3.org/2000/svg"><path d="M2 6V3s0-3 3-3 3 3 3 3v1H6V3s.111-1-1-1C4 2 4 3 4 3v3h5c1 0 1 1 1 1v6s0 1-1 1H1c-1 0-1-1-1-1V7s0-1 1-1h1zm0 2v4h1V8H2z" fill="#000" fill-rule="evenodd"/></svg>

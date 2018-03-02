@@ -2,7 +2,7 @@
   "name": "font-awesome",
   "title": "Font Awesome",
   "description": "The iconic font and CSS framework",
-  "version": "4.7.0",
+  "version": "4.7.1",
   "class": "fa",
   "prefix": "fa-",
   "homepage": "http://fontawesome.io/",
@@ -797,9 +797,8 @@
     "hospital-o": "hospital-o",
     "medkit": "medkit",
     "stethoscope": "stethoscope",
-    "user-md": "user-md",
-  }
-  ,
+    "user-md": "user-md"
+  },
   "categories": {
     "Web Application Icons": [
       "address-book",
@@ -1252,7 +1251,7 @@
       "window-maximize",
       "window-minimize",
       "window-restore",
-      "wrench",
+      "wrench"
     ],
     "Accessibility Icons": [
       "american-sign-language-interpreting",
@@ -1273,7 +1272,7 @@
       "universal-access",
       "volume-control-phone",
       "wheelchair",
-      "wheelchair-alt",
+      "wheelchair-alt"
     ],
     "Hand Icons": [
       "hand-grab-o",
@@ -1292,7 +1291,7 @@
       "thumbs-down",
       "thumbs-o-down",
       "thumbs-o-up",
-      "thumbs-up",
+      "thumbs-up"
     ],
     "Transportation Icons": [
       "ambulance",
@@ -1312,7 +1311,7 @@
       "train",
       "truck",
       "wheelchair",
-      "wheelchair-alt",
+      "wheelchair-alt"
     ],
     "Gender Icons": [
       "genderless",
@@ -1328,7 +1327,7 @@
       "transgender-alt",
       "venus",
       "venus-double",
-      "venus-mars",
+      "venus-mars"
     ],
     "File Type Icons": [
       "file",
@@ -1348,14 +1347,14 @@
       "file-text-o",
       "file-video-o",
       "file-word-o",
-      "file-zip-o",
+      "file-zip-o"
     ],
     "Spinner Icons": [
       "circle-o-notch",
       "cog",
       "gear",
       "refresh",
-      "spinner",
+      "spinner"
     ],
     "Form Control Icons": [
       "check-square",
@@ -1368,7 +1367,7 @@
       "plus-square",
       "plus-square-o",
       "square",
-      "square-o",
+      "square-o"
     ],
     "Payment Icons": [
       "cc-amex",
@@ -1382,14 +1381,14 @@
       "credit-card",
       "credit-card-alt",
       "google-wallet",
-      "paypal",
+      "paypal"
     ],
     "Chart Icons": [
       "area-chart",
       "bar-chart",
       "bar-chart-o",
       "line-chart",
-      "pie-chart",
+      "pie-chart"
     ],
     "Currency Icons": [
       "bitcoin",
@@ -1418,7 +1417,7 @@
       "usd",
       "viacoin",
       "won",
-      "yen",
+      "yen"
     ],
     "Text Editor Icons": [
       "align-center",
@@ -1469,7 +1468,7 @@
       "th-list",
       "underline",
       "undo",
-      "unlink",
+      "unlink"
     ],
     "Directional Icons": [
       "angle-double-down",
@@ -1524,7 +1523,7 @@
       "toggle-down",
       "toggle-left",
       "toggle-right",
-      "toggle-up",
+      "toggle-up"
     ],
     "Video Player Icons": [
       "arrows-alt",
@@ -1547,7 +1546,7 @@
       "stop",
       "stop-circle",
       "stop-circle-o",
-      "youtube-play",
+      "youtube-play"
     ],
     "Brand Icons": [
       "500px",
@@ -1738,7 +1737,7 @@
       "yoast",
       "youtube",
       "youtube-play",
-      "youtube-square",
+      "youtube-square"
     ],
     "Medical Icons": [
       "ambulance",
@@ -1752,8 +1751,8 @@
       "stethoscope",
       "user-md",
       "wheelchair",
-      "wheelchair-alt",
-    ],
+      "wheelchair-alt"
+    ]
   }
 }
 
