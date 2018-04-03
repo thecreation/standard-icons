@@ -53,10 +53,10 @@ There are many ways/formats of how to use linea-ecommerce. The fastest and recom
   </head>
 ```
 
-> Place linea-ecommerce with `<i>` tag in your html like this. Icon class names are to be used with the `linea` class prefix.
+> Place linea-ecommerce with `<i>` tag in your html like this. Icon class names are to be used with the `lec` class prefix.
 
 ```
-  <i class="linea linea-ecommerce-bag"></i>
+  <i class="lec lec-ecommerce-bag"></i>
 ```
 
 

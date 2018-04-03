@@ -53,10 +53,10 @@ There are many ways/formats of how to use linea-music. The fastest and recommend
   </head>
 ```
 
-> Place linea-music with `<i>` tag in your html like this. Icon class names are to be used with the `linea` class prefix.
+> Place linea-music with `<i>` tag in your html like this. Icon class names are to be used with the `lmu` class prefix.
 
 ```
-  <i class="linea linea-music-bell"></i>
+  <i class="lmu lmu-music-bell"></i>
 ```
 
 

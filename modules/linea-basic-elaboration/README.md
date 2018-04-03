@@ -53,10 +53,10 @@ There are many ways/formats of how to use linea-basic-elaboration. The fastest a
   </head>
 ```
 
-> Place linea-basic-elaboration with `<i>` tag in your html like this. Icon class names are to be used with the `linea` class prefix.
+> Place linea-basic-elaboration with `<i>` tag in your html like this. Icon class names are to be used with the `lbae` class prefix.
 
 ```
-  <i class="linea linea-basic-elaboration-bookmark-plus"></i>
+  <i class="lbae lbae-basic-elaboration-bookmark-plus"></i>
 ```
 
 

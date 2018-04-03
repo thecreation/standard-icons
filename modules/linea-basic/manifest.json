@@ -1,9 +1,10 @@
 {
   "name": "linea-basic",
   "title": "Linea basic",
-  "version": "1.0.0",
-  "class": "linea",
-  "prefix": "linea-",
+  "description": "Linea Iconset a free outline iconset  featuring 730+ Icons.",
+  "version": "1.0.2",
+  "class": "lba",
+  "prefix": "lba-",
   "homepage": "http://www.linea.io/",
   "author": "Dario Ferrando",
   "license": "CC0-1.0",
@@ -145,7 +146,7 @@
     "basic-webpage-img-txt": "basic-webpage-img-txt",
     "basic-webpage-multiple": "basic-webpage-multiple",
     "basic-webpage-txt": "basic-webpage-txt",
-    "basic-world": "basic-world",
+    "basic-world": "basic-world"
   }
 }
 

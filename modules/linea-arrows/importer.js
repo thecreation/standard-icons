@@ -17,14 +17,15 @@ const path = require('path');
 let options = {
   source: path.join(config.sets.customs, 'Linea-Iconset', '_arrows'),
   name: 'linea-arrows',
-  class: 'linea',
-  prefix: 'linea-',
+  class: 'lar',
+  prefix: 'lar-',
   className: 'LineaArrows',
   title: 'Linea Arrows',
   author: 'Dario Ferrando',
   homepage: 'http://www.linea.io/',
+  description: 'Linea Iconset a free outline iconset  featuring 730+ Icons.',
   classifiable: false,
-  version: '1.0.0'
+  version: '1.0.2'
 };
 
 let paths = {

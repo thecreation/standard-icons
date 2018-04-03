@@ -1,12 +1,13 @@
 {
   "name": "outlined-icons",
   "title": "Outlined Icons",
-  "version": "",
+  "description": "Outlined icon fonts.",
+  "version": "0.0.4",
   "class": "oui",
   "prefix": "oui-",
   "homepage": "http://freebiesbug.com/psd-freebies/150-free-outlined-icons-psd-ai-svg-webfont/",
   "author": "Dario Ferrando.",
-  "license": "",
+  "license": "MIT",
   "style": "outlined-icons.css",
   "count": "150",
   "classifiable": false,
@@ -160,7 +161,7 @@
     "battery-4": "battery-4",
     "chronometer": "chronometer",
     "clock": "clock",
-    "blackboard-graph": "blackboard-graph",
+    "blackboard-graph": "blackboard-graph"
   }
 }
 

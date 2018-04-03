@@ -2,7 +2,7 @@
   "name": "material-icons",
   "title": "Material Design Iconic",
   "description": "Material Design Iconic Font and CSS toolkit",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "class": "zmdi",
   "prefix": "zmdi-",
   "homepage": "https://zavoloklom.github.io/material-design-iconic-font/",
@@ -788,9 +788,8 @@
     "satellite": "satellite",
     "tap-and-play": "tap-and-play",
     "vibration": "vibration",
-    "voicemail": "voicemail",
-  }
-  ,
+    "voicemail": "voicemail"
+  },
   "categories": {
     "Web Application": [
       "3d-rotation",
@@ -1035,7 +1034,7 @@
       "window-restore",
       "wrench",
       "zoom-in",
-      "zoom-out",
+      "zoom-out"
     ],
     "Notifications": [
       "alert-circle-o",
@@ -1052,7 +1051,7 @@
       "notifications-none",
       "notifications-off",
       "notifications-paused",
-      "notifications",
+      "notifications"
     ],
     "Person": [
       "account-add",
@@ -1078,7 +1077,7 @@
       "mood-bad",
       "mood",
       "run",
-      "walk",
+      "walk"
     ],
     "File": [
       "cloud-box",
@@ -1100,7 +1099,7 @@
       "folder-star",
       "folder",
       "gif",
-      "upload",
+      "upload"
     ],
     "Editor": [
       "border-all",
@@ -1149,7 +1148,7 @@
       "text-format",
       "transform",
       "undo",
-      "wrap-text",
+      "wrap-text"
     ],
     "Comment": [
       "comment-alert",
@@ -1164,7 +1163,7 @@
       "comment-text",
       "comment-video",
       "comment",
-      "comments",
+      "comments"
     ],
     "Form": [
       "check-all",
@@ -1189,7 +1188,7 @@
       "star-circle",
       "star-half",
       "star-outline",
-      "star",
+      "star"
     ],
     "Hardware": [
       "bluetooth-connected",
@@ -1298,7 +1297,7 @@
       "wifi-lock",
       "wifi-off",
       "wifi-outline",
-      "wifi",
+      "wifi"
     ],
     "Directional": [
       "arrow-left-bottom",
@@ -1342,7 +1341,7 @@
       "trending-flat",
       "trending-up",
       "unfold-less",
-      "unfold-more",
+      "unfold-more"
     ],
     "Map (aliases)": [
       "bike",
@@ -1398,7 +1397,7 @@
       "pin-help",
       "pin-off",
       "pin",
-      "traffic",
+      "traffic"
     ],
     "View": [
       "apps",
@@ -1422,7 +1421,7 @@
       "view-toc",
       "view-web",
       "view-week",
-      "widgets",
+      "widgets"
     ],
     "Date / Time": [
       "alarm-check",
@@ -1441,7 +1440,7 @@
       "time-restore",
       "time",
       "timer-off",
-      "timer",
+      "timer"
     ],
     "Social": [
       "android-alt",
@@ -1514,7 +1513,7 @@
       "xbox",
       "yahoo",
       "youtube-play",
-      "youtube",
+      "youtube"
     ],
     "Image": [
       "aspect-ratio-alt",
@@ -1572,7 +1571,7 @@
       "texture",
       "tonality",
       "vignette",
-      "wb-auto",
+      "wb-auto"
     ],
     "Audio / Video": [
       "eject-alt",
@@ -1607,7 +1606,7 @@
       "volume-down",
       "volume-mute",
       "volume-off",
-      "volume-up",
+      "volume-up"
     ],
     "Numbers": [
       "n-1-square",
@@ -1622,7 +1621,7 @@
       "plus-2",
       "sec-10",
       "sec-3",
-      "zero",
+      "zero"
     ],
     "Other": [
       "airline-seat-flat-angled",
@@ -1655,8 +1654,8 @@
       "satellite",
       "tap-and-play",
       "vibration",
-      "voicemail",
-    ],
+      "voicemail"
+    ]
   }
 }
 

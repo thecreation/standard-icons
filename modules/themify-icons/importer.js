@@ -24,8 +24,9 @@ let options = {
   className: 'ThemifyIcons',
   title: 'Themify icons',
   author: 'Themify',
-  version: '1.0.1',
+  version: '1.0.3',
   homepage: 'http://themify.me/themify-icons',
+  description: 'Themify Icon Font',
   classifiable: true
 };
 

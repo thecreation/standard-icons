@@ -1,10 +1,8 @@
 {
-  "version": "3.0.4-0",
+  "version": "3.0.4",
   "name": "@icon/map-icons",
   "description": "An icon font for use with Google Maps API and Google Places API using SVG markers and icon labels",
-  "author": {
-    "name": "Scott DeJonge"
-  },
+  "author": "Scott DeJonge",
   "license": "ISC",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/map-icons",
   "bugs": {

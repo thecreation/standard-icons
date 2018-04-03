@@ -53,10 +53,10 @@ There are many ways/formats of how to use linea-arrows. The fastest and recommen
   </head>
 ```
 
-> Place linea-arrows with `<i>` tag in your html like this. Icon class names are to be used with the `linea` class prefix.
+> Place linea-arrows with `<i>` tag in your html like this. Icon class names are to be used with the `lar` class prefix.
 
 ```
-  <i class="linea linea-arrows-check"></i>
+  <i class="lar lar-arrows-check"></i>
 ```
 
 

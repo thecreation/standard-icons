@@ -1,9 +1,10 @@
 {
   "name": "linea-ecommerce",
   "title": "Linea ecommerce",
-  "version": "1.0.0",
-  "class": "linea",
-  "prefix": "linea-",
+  "description": "Linea Iconset a free outline iconset  featuring 730+ Icons.",
+  "version": "1.0.2",
+  "class": "lec",
+  "prefix": "lec-",
   "homepage": "http://www.linea.io/",
   "author": "Dario Ferrando",
   "license": "CC0-1.0",
@@ -95,7 +96,7 @@
     "ecommerce-wallet": "ecommerce-wallet",
     "ecommerce-won": "ecommerce-won",
     "ecommerce-yen": "ecommerce-yen",
-    "ecommerce-yen2": "ecommerce-yen2",
+    "ecommerce-yen2": "ecommerce-yen2"
   }
 }
 

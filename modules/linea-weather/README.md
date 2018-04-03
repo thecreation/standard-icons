@@ -53,10 +53,10 @@ There are many ways/formats of how to use linea-weather. The fastest and recomme
   </head>
 ```
 
-> Place linea-weather with `<i>` tag in your html like this. Icon class names are to be used with the `linea` class prefix.
+> Place linea-weather with `<i>` tag in your html like this. Icon class names are to be used with the `lwe` class prefix.
 
 ```
-  <i class="linea linea-weather-aquarius"></i>
+  <i class="lwe lwe-weather-aquarius"></i>
 ```
 
 

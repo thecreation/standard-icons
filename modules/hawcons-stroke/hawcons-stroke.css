@@ -1,8 +1,8 @@
 /**
- * Hawcons stroke, 1.0.0
+ * Hawcons stroke, 1.0.2
  * Created by Yannick Lung
  * http://hawcons.com/preview/
-
+ * MIT License
  */
 @charset "UTF-8";
 
@@ -596,7 +596,7 @@
 .hst-cloud-fog:before {
   content: "\e6e0";
 }
-.hst--cloud-sun-fog:before {
+.hst-cloud-sun-fog:before {
   content: "\e6e1";
 }
 .hst-cloud-moon-fog:before {

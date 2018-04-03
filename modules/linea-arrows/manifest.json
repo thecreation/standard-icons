@@ -1,9 +1,10 @@
 {
   "name": "linea-arrows",
   "title": "Linea Arrows",
-  "version": "1.0.0",
-  "class": "linea",
-  "prefix": "linea-",
+  "description": "Linea Iconset a free outline iconset  featuring 730+ Icons.",
+  "version": "1.0.2",
+  "class": "lar",
+  "prefix": "lar-",
   "homepage": "http://www.linea.io/",
   "author": "Dario Ferrando",
   "license": "CC0-1.0",
@@ -146,7 +147,7 @@
     "arrows-up-double-33": "arrows-up-double-33",
     "arrows-upleft": "arrows-upleft",
     "arrows-upright": "arrows-upright",
-    "arrows-vertical": "arrows-vertical",
+    "arrows-vertical": "arrows-vertical"
   }
 }
 

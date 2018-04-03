@@ -2,12 +2,12 @@
   "name": "zondicons",
   "title": "Zondicons",
   "description": "A set of free premium SVG icons for you to use on your digital products.",
-  "version": "",
+  "version": "0.0.4",
   "class": "zondicons",
   "prefix": "zondicons-",
   "homepage": "http://www.zondicons.com/",
   "author": "Steve Schoger",
-  "license": "",
+  "license": "MIT",
   "style": "zondicons.css",
   "count": "220",
   "classifiable": false,
@@ -231,7 +231,7 @@
     "window": "window",
     "wrench": "wrench",
     "zoom-in": "zoom-in",
-    "zoom-out": "zoom-out",
+    "zoom-out": "zoom-out"
   }
 }
 

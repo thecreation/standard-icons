@@ -20,7 +20,8 @@ let options = {
   prefix: 'wb-',
   className: 'WebIcons',
   title: 'Web Icons',
-  author: 'thecreation',
+  author: 'Thecreation',
+  version: '0.2.5',
   homepage: 'https://github.com/thecreation/web-icons',
   classifiable: false
 };
@@ -34,13 +35,13 @@ let paths = {
   svgsDest: path.join(__dirname, 'icons')
 };
 
-let info = extraFromJson(paths.package, ['homepage', 'version', 'author', 'licenses']);
+let info = extraFromJson(paths.package, ['homepage', 'version', 'author', 'licenses', 'description']);
 
 options.license = info.licenses[0].type;
 // options.author = info.author.name;
 // options.homepage = info.homepage;
 options.description = info.description;
-options.version = info.version;
+// options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 

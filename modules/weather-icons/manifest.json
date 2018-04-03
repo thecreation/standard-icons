@@ -2,7 +2,7 @@
   "name": "weather-icons",
   "title": "Weather icons",
   "description": "222 weather themed icons inspired by Font Awesome and ready for Bootstrap",
-  "version": "2.0.10",
+  "version": "2.0.12",
   "class": "wi",
   "prefix": "wi-",
   "homepage": "http://erikflowers.github.io/weather-icons/",
@@ -230,9 +230,8 @@
     "wind-beaufort-9": "wind-beaufort-9",
     "wind-beaufort-10": "wind-beaufort-10",
     "wind-beaufort-11": "wind-beaufort-11",
-    "wind-beaufort-12": "wind-beaufort-12",
-  }
-  ,
+    "wind-beaufort-12": "wind-beaufort-12"
+  },
   "categories": {
     "Daytime": [
       "day-sunny",
@@ -260,7 +259,7 @@
       "solar-eclipse",
       "hot",
       "day-cloudy-high",
-      "day-light-wind",
+      "day-light-wind"
     ],
     "Nighttime": [
       "night-clear",
@@ -306,7 +305,7 @@
       "thunderstorm",
       "night-alt-cloudy-high",
       "night-cloudy-high",
-      "night-alt-partly-cloudy",
+      "night-alt-partly-cloudy"
     ],
     "Neutral": [
       "cloud",
@@ -348,7 +347,7 @@
       "gale-warning",
       "storm-warning",
       "hurricane-warning",
-      "wind-direction",
+      "wind-direction"
     ],
     "Miscellaneous": [
       "alien",
@@ -373,7 +372,7 @@
       "barometer",
       "humidity",
       "na",
-      "train",
+      "train"
     ],
     "Moon Phases": [
       "moon-new",
@@ -431,7 +430,7 @@
       "moon-alt-waning-crescent-3",
       "moon-alt-waning-crescent-4",
       "moon-alt-waning-crescent-5",
-      "moon-alt-waning-crescent-6",
+      "moon-alt-waning-crescent-6"
     ],
     "Time": [
       "time-1",
@@ -445,7 +444,7 @@
       "time-9",
       "time-10",
       "time-11",
-      "time-12",
+      "time-12"
     ],
     "Directional Arrows": [
       "direction-up",
@@ -455,7 +454,7 @@
       "direction-down",
       "direction-down-left",
       "direction-left",
-      "direction-up-left",
+      "direction-up-left"
     ],
     "Beaufort Wind Scale": [
       "wind-beaufort-0",
@@ -470,8 +469,8 @@
       "wind-beaufort-9",
       "wind-beaufort-10",
       "wind-beaufort-11",
-      "wind-beaufort-12",
-    ],
+      "wind-beaufort-12"
+    ]
   }
 }
 

@@ -1,5 +1,5 @@
 /**
- * Linea music, 1.0.0
+ * Linea music, 1.0.2
  * Created by Dario Ferrando
  * http://www.linea.io/
  * CC0-1.0 License
@@ -16,7 +16,7 @@
     url('linea-music.svg#linea-music') format('svg');
 }
 
-.linea {
+.lmu {
   font-family: "linea-music";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -29,94 +29,94 @@
 }
 
 
-.linea-music-beginning-button:before {
+.lmu-music-beginning-button:before {
   content: "a";
 }
-.linea-music-bell:before {
+.lmu-music-bell:before {
   content: "b";
 }
-.linea-music-cd:before {
+.lmu-music-cd:before {
   content: "c";
 }
-.linea-music-diapason:before {
+.lmu-music-diapason:before {
   content: "d";
 }
-.linea-music-eject-button:before {
+.lmu-music-eject-button:before {
   content: "e";
 }
-.linea-music-end-button:before {
+.lmu-music-end-button:before {
   content: "f";
 }
-.linea-music-fastforward-button:before {
+.lmu-music-fastforward-button:before {
   content: "g";
 }
-.linea-music-headphones:before {
+.lmu-music-headphones:before {
   content: "h";
 }
-.linea-music-ipod:before {
+.lmu-music-ipod:before {
   content: "i";
 }
-.linea-music-loudspeaker:before {
+.lmu-music-loudspeaker:before {
   content: "j";
 }
-.linea-music-microphone:before {
+.lmu-music-microphone:before {
   content: "k";
 }
-.linea-music-microphone-old:before {
+.lmu-music-microphone-old:before {
   content: "l";
 }
-.linea-music-mixer:before {
+.lmu-music-mixer:before {
   content: "m";
 }
-.linea-music-mute:before {
+.lmu-music-mute:before {
   content: "n";
 }
-.linea-music-note-multiple:before {
+.lmu-music-note-multiple:before {
   content: "o";
 }
-.linea-music-note-single:before {
+.lmu-music-note-single:before {
   content: "p";
 }
-.linea-music-pause-button:before {
+.lmu-music-pause-button:before {
   content: "q";
 }
-.linea-music-play-button:before {
+.lmu-music-play-button:before {
   content: "r";
 }
-.linea-music-playlist:before {
+.lmu-music-playlist:before {
   content: "s";
 }
-.linea-music-radio-ghettoblaster:before {
+.lmu-music-radio-ghettoblaster:before {
   content: "t";
 }
-.linea-music-radio-portable:before {
+.lmu-music-radio-portable:before {
   content: "u";
 }
-.linea-music-record:before {
+.lmu-music-record:before {
   content: "v";
 }
-.linea-music-recordplayer:before {
+.lmu-music-recordplayer:before {
   content: "w";
 }
-.linea-music-repeat-button:before {
+.lmu-music-repeat-button:before {
   content: "x";
 }
-.linea-music-rewind-button:before {
+.lmu-music-rewind-button:before {
   content: "y";
 }
-.linea-music-shuffle-button:before {
+.lmu-music-shuffle-button:before {
   content: "z";
 }
-.linea-music-stop-button:before {
+.lmu-music-stop-button:before {
   content: "A";
 }
-.linea-music-tape:before {
+.lmu-music-tape:before {
   content: "B";
 }
-.linea-music-volume-down:before {
+.lmu-music-volume-down:before {
   content: "C";
 }
-.linea-music-volume-up:before {
+.lmu-music-volume-up:before {
   content: "D";
 }
 

@@ -1,12 +1,13 @@
 {
   "name": "stroke-7",
   "title": "Stroke Icons 7",
-  "version": "1.2.0",
+  "description": "Icon Font - Stroke Icons 7 - by Pixeden",
+  "version": "1.2.1",
   "class": "s7",
   "prefix": "s7-",
   "homepage": "http://themes-pixeden.com/font-demos/7-stroke/",
   "author": "The Pixeden Team",
-  "license": "",
+  "license": "PIXEDEN license",
   "style": "stroke-7.css",
   "count": "202",
   "classifiable": false,
@@ -212,7 +213,7 @@
     "anchor": "anchor",
     "albums": "albums",
     "alarm": "alarm",
-    "airplay": "airplay",
+    "airplay": "airplay"
   }
 }
 

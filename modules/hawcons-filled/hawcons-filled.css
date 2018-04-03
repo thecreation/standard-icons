@@ -1,8 +1,8 @@
 /**
- * Hawcons filled, 1.0.0
+ * Hawcons filled, 1.0.3
  * Created by Yannick Lung
  * http://hawcons.com/preview/
-
+ * MIT License
  */
 @charset "UTF-8";
 
@@ -596,7 +596,7 @@
 .hfi-cloud-fog:before {
   content: "\e6e0";
 }
-.hfi--cloud-sun-fog:before {
+.hfi-cloud-sun-fog:before {
   content: "\e6e1";
 }
 .hfi-cloud-moon-fog:before {

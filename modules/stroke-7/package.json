@@ -1,9 +1,9 @@
 {
-  "version": "1.2.1-0",
+  "version": "1.2.1",
   "name": "@icon/stroke-7",
-  "description": "TODO: fill in this description later",
+  "description": "Icon Font - Stroke Icons 7 - by Pixeden",
   "author": "The Pixeden Team",
-  "license": "MIT",
+  "license": "PIXEDEN license",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/stroke-7",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"

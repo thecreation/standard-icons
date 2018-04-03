@@ -22,6 +22,7 @@ let options = {
   prefix: 'map-icon-',
   className: 'MapIcons',
   title: 'Map Icons',
+  version: '3.0.4',
   classifiable: true
 };
 
@@ -38,10 +39,10 @@ let paths = {
 let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);
 
 options.license = info.license;
-options.author = info.author;
+options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
-options.version = info.version;
+// options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 

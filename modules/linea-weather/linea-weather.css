@@ -1,5 +1,5 @@
 /**
- * Linea weather, 1.0.0
+ * Linea weather, 1.0.2
  * Created by Dario Ferrando
  * http://www.linea.io/
  * CC0-1.0 License
@@ -16,7 +16,7 @@
     url('linea-weather.svg#linea-weather') format('svg');
 }
 
-.linea {
+.lwe {
   font-family: "linea-weather";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -29,259 +29,259 @@
 }
 
 
-.linea-weather-aquarius:before {
+.lwe-weather-aquarius:before {
   content: "\e000";
 }
-.linea-weather-aries:before {
+.lwe-weather-aries:before {
   content: "\e001";
 }
-.linea-weather-cancer:before {
+.lwe-weather-cancer:before {
   content: "\e002";
 }
-.linea-weather-capricorn:before {
+.lwe-weather-capricorn:before {
   content: "\e003";
 }
-.linea-weather-cloud:before {
+.lwe-weather-cloud:before {
   content: "\e004";
 }
-.linea-weather-cloud-drop:before {
+.lwe-weather-cloud-drop:before {
   content: "\e005";
 }
-.linea-weather-cloud-lightning:before {
+.lwe-weather-cloud-lightning:before {
   content: "\e006";
 }
-.linea-weather-cloud-snowflake:before {
+.lwe-weather-cloud-snowflake:before {
   content: "\e007";
 }
-.linea-weather-downpour-fullmoon:before {
+.lwe-weather-downpour-fullmoon:before {
   content: "\e008";
 }
-.linea-weather-downpour-halfmoon:before {
+.lwe-weather-downpour-halfmoon:before {
   content: "\e009";
 }
-.linea-weather-downpour-sun:before {
+.lwe-weather-downpour-sun:before {
   content: "\e00a";
 }
-.linea-weather-drop:before {
+.lwe-weather-drop:before {
   content: "\e00b";
 }
-.linea-weather-first-quarter:before {
+.lwe-weather-first-quarter:before {
   content: "\e00c";
 }
-.linea-weather-fog:before {
+.lwe-weather-fog:before {
   content: "\e00d";
 }
-.linea-weather-fog-fullmoon:before {
+.lwe-weather-fog-fullmoon:before {
   content: "\e00e";
 }
-.linea-weather-fog-halfmoon:before {
+.lwe-weather-fog-halfmoon:before {
   content: "\e00f";
 }
-.linea-weather-fog-sun:before {
+.lwe-weather-fog-sun:before {
   content: "\e010";
 }
-.linea-weather-fullmoon:before {
+.lwe-weather-fullmoon:before {
   content: "\e011";
 }
-.linea-weather-gemini:before {
+.lwe-weather-gemini:before {
   content: "\e012";
 }
-.linea-weather-hail:before {
+.lwe-weather-hail:before {
   content: "\e013";
 }
-.linea-weather-hail-fullmoon:before {
+.lwe-weather-hail-fullmoon:before {
   content: "\e014";
 }
-.linea-weather-hail-halfmoon:before {
+.lwe-weather-hail-halfmoon:before {
   content: "\e015";
 }
-.linea-weather-hail-sun:before {
+.lwe-weather-hail-sun:before {
   content: "\e016";
 }
-.linea-weather-last-quarter:before {
+.lwe-weather-last-quarter:before {
   content: "\e017";
 }
-.linea-weather-leo:before {
+.lwe-weather-leo:before {
   content: "\e018";
 }
-.linea-weather-libra:before {
+.lwe-weather-libra:before {
   content: "\e019";
 }
-.linea-weather-lightning:before {
+.lwe-weather-lightning:before {
   content: "\e01a";
 }
-.linea-weather-mistyrain:before {
+.lwe-weather-mistyrain:before {
   content: "\e01b";
 }
-.linea-weather-mistyrain-fullmoon:before {
+.lwe-weather-mistyrain-fullmoon:before {
   content: "\e01c";
 }
-.linea-weather-mistyrain-halfmoon:before {
+.lwe-weather-mistyrain-halfmoon:before {
   content: "\e01d";
 }
-.linea-weather-mistyrain-sun:before {
+.lwe-weather-mistyrain-sun:before {
   content: "\e01e";
 }
-.linea-weather-moon:before {
+.lwe-weather-moon:before {
   content: "\e01f";
 }
-.linea-weather-moondown-full:before {
+.lwe-weather-moondown-full:before {
   content: "\e020";
 }
-.linea-weather-moondown-half:before {
+.lwe-weather-moondown-half:before {
   content: "\e021";
 }
-.linea-weather-moonset-full:before {
+.lwe-weather-moonset-full:before {
   content: "\e022";
 }
-.linea-weather-moonset-half:before {
+.lwe-weather-moonset-half:before {
   content: "\e023";
 }
-.linea-weather-move2:before {
+.lwe-weather-move2:before {
   content: "\e024";
 }
-.linea-weather-newmoon:before {
+.lwe-weather-newmoon:before {
   content: "\e025";
 }
-.linea-weather-pisces:before {
+.lwe-weather-pisces:before {
   content: "\e026";
 }
-.linea-weather-rain:before {
+.lwe-weather-rain:before {
   content: "\e027";
 }
-.linea-weather-rain-fullmoon:before {
+.lwe-weather-rain-fullmoon:before {
   content: "\e028";
 }
-.linea-weather-rain-halfmoon:before {
+.lwe-weather-rain-halfmoon:before {
   content: "\e029";
 }
-.linea-weather-rain-sun:before {
+.lwe-weather-rain-sun:before {
   content: "\e02a";
 }
-.linea-weather-sagittarius:before {
+.lwe-weather-sagittarius:before {
   content: "\e02b";
 }
-.linea-weather-scorpio:before {
+.lwe-weather-scorpio:before {
   content: "\e02c";
 }
-.linea-weather-snow:before {
+.lwe-weather-snow:before {
   content: "\e02d";
 }
-.linea-weather-snow-fullmoon:before {
+.lwe-weather-snow-fullmoon:before {
   content: "\e02e";
 }
-.linea-weather-snow-halfmoon:before {
+.lwe-weather-snow-halfmoon:before {
   content: "\e02f";
 }
-.linea-weather-snow-sun:before {
+.lwe-weather-snow-sun:before {
   content: "\e030";
 }
-.linea-weather-snowflake:before {
+.lwe-weather-snowflake:before {
   content: "\e031";
 }
-.linea-weather-star:before {
+.lwe-weather-star:before {
   content: "\e032";
 }
-.linea-weather-storm-11:before {
+.lwe-weather-storm-11:before {
   content: "\e033";
 }
-.linea-weather-storm-32:before {
+.lwe-weather-storm-32:before {
   content: "\e034";
 }
-.linea-weather-storm-fullmoon:before {
+.lwe-weather-storm-fullmoon:before {
   content: "\e035";
 }
-.linea-weather-storm-halfmoon:before {
+.lwe-weather-storm-halfmoon:before {
   content: "\e036";
 }
-.linea-weather-storm-sun:before {
+.lwe-weather-storm-sun:before {
   content: "\e037";
 }
-.linea-weather-sun:before {
+.lwe-weather-sun:before {
   content: "\e038";
 }
-.linea-weather-sundown:before {
+.lwe-weather-sundown:before {
   content: "\e039";
 }
-.linea-weather-sunset:before {
+.lwe-weather-sunset:before {
   content: "\e03a";
 }
-.linea-weather-taurus:before {
+.lwe-weather-taurus:before {
   content: "\e03b";
 }
-.linea-weather-tempest:before {
+.lwe-weather-tempest:before {
   content: "\e03c";
 }
-.linea-weather-tempest-fullmoon:before {
+.lwe-weather-tempest-fullmoon:before {
   content: "\e03d";
 }
-.linea-weather-tempest-halfmoon:before {
+.lwe-weather-tempest-halfmoon:before {
   content: "\e03e";
 }
-.linea-weather-tempest-sun:before {
+.lwe-weather-tempest-sun:before {
   content: "\e03f";
 }
-.linea-weather-variable-fullmoon:before {
+.lwe-weather-variable-fullmoon:before {
   content: "\e040";
 }
-.linea-weather-variable-halfmoon:before {
+.lwe-weather-variable-halfmoon:before {
   content: "\e041";
 }
-.linea-weather-variable-sun:before {
+.lwe-weather-variable-sun:before {
   content: "\e042";
 }
-.linea-weather-virgo:before {
+.lwe-weather-virgo:before {
   content: "\e043";
 }
-.linea-weather-waning-cresent:before {
+.lwe-weather-waning-cresent:before {
   content: "\e044";
 }
-.linea-weather-waning-gibbous:before {
+.lwe-weather-waning-gibbous:before {
   content: "\e045";
 }
-.linea-weather-waxing-cresent:before {
+.lwe-weather-waxing-cresent:before {
   content: "\e046";
 }
-.linea-weather-waxing-gibbous:before {
+.lwe-weather-waxing-gibbous:before {
   content: "\e047";
 }
-.linea-weather-wind:before {
+.lwe-weather-wind:before {
   content: "\e048";
 }
-.linea-weather-wind-e:before {
+.lwe-weather-wind-e:before {
   content: "\e049";
 }
-.linea-weather-wind-fullmoon:before {
+.lwe-weather-wind-fullmoon:before {
   content: "\e04a";
 }
-.linea-weather-wind-halfmoon:before {
+.lwe-weather-wind-halfmoon:before {
   content: "\e04b";
 }
-.linea-weather-wind-n:before {
+.lwe-weather-wind-n:before {
   content: "\e04c";
 }
-.linea-weather-wind-ne:before {
+.lwe-weather-wind-ne:before {
   content: "\e04d";
 }
-.linea-weather-wind-nw:before {
+.lwe-weather-wind-nw:before {
   content: "\e04e";
 }
-.linea-weather-wind-s:before {
+.lwe-weather-wind-s:before {
   content: "\e04f";
 }
-.linea-weather-wind-se:before {
+.lwe-weather-wind-se:before {
   content: "\e050";
 }
-.linea-weather-wind-sun:before {
+.lwe-weather-wind-sun:before {
   content: "\e051";
 }
-.linea-weather-wind-sw:before {
+.lwe-weather-wind-sw:before {
   content: "\e052";
 }
-.linea-weather-wind-w:before {
+.lwe-weather-wind-w:before {
   content: "\e053";
 }
-.linea-weather-windgust:before {
+.lwe-weather-windgust:before {
   content: "\e054";
 }
 

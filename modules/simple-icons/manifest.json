@@ -2,7 +2,7 @@
   "name": "simple-icons",
   "title": "Simple Icons",
   "description": "SVG icons for popular brands https://simpleicons.org",
-  "version": "1.2.19",
+  "version": "1.2.22",
   "class": "si",
   "prefix": "si-",
   "homepage": "https://www.simpleicons.org",
@@ -410,7 +410,7 @@
     "zapier": "zapier",
     "zendesk": "zendesk",
     "zerply": "zerply",
-    "zillow": "zillow",
+    "zillow": "zillow"
   }
 }
 

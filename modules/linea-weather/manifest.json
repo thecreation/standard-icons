@@ -1,9 +1,10 @@
 {
   "name": "linea-weather",
   "title": "Linea weather",
-  "version": "1.0.0",
-  "class": "linea",
-  "prefix": "linea-",
+  "description": "Linea Iconset a free outline iconset  featuring 730+ Icons.",
+  "version": "1.0.2",
+  "class": "lwe",
+  "prefix": "lwe-",
   "homepage": "http://www.linea.io/",
   "author": "Dario Ferrando",
   "license": "CC0-1.0",
@@ -95,7 +96,7 @@
     "weather-wind-sun": "weather-wind-sun",
     "weather-wind-sw": "weather-wind-sw",
     "weather-wind-w": "weather-wind-w",
-    "weather-windgust": "weather-windgust",
+    "weather-windgust": "weather-windgust"
   }
 }
 

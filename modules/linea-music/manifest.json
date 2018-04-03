@@ -1,9 +1,10 @@
 {
   "name": "linea-music",
   "title": "Linea music",
-  "version": "1.0.0",
-  "class": "linea",
-  "prefix": "linea-",
+  "description": "Linea Iconset a free outline iconset  featuring 730+ Icons.",
+  "version": "1.0.2",
+  "class": "lmu",
+  "prefix": "lmu-",
   "homepage": "http://www.linea.io/",
   "author": "Dario Ferrando",
   "license": "CC0-1.0",
@@ -40,7 +41,7 @@
     "music-stop-button": "music-stop-button",
     "music-tape": "music-tape",
     "music-volume-down": "music-volume-down",
-    "music-volume-up": "music-volume-up",
+    "music-volume-up": "music-volume-up"
   }
 }
 

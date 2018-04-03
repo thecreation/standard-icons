@@ -17,14 +17,15 @@ const path = require('path');
 let options = {
   source: path.join(config.sets.customs, 'Linea-Iconset', '_weather'),
   name: 'linea-weather',
-  class: 'linea',
-  prefix: 'linea-',
+  class: 'lwe',
+  prefix: 'lwe-',
   className: 'LineaWeather',
   title: 'Linea weather',
   author: 'Dario Ferrando',
+  description: 'Linea Iconset a free outline iconset  featuring 730+ Icons.',
   homepage: 'http://www.linea.io/',
   classifiable: false,
-  version: '1.0.0'
+  version: '1.0.2'
 };
 
 let paths = {

@@ -1,5 +1,5 @@
 /**
- * Micon, 2.2.155
+ * Micon, 2.2.2
  * Created by Mehdi HosseinZade
  * http://xtoolkit.github.io/Micon/
  * MIT License
@@ -401,9 +401,6 @@
 .mi-ListLegacy:before {
   content: "\EA61";
 }
-.mi-:before {
-  content: "\EE18";
-}
 .mi-BulletedListLegacyMirrored:before {
   content: "\EA62";
 }
@@ -611,6 +608,9 @@
 .mi-PresenceChickletLegacy:before {
   content: "\EA8C";
 }
+.mi-ResizeMouseLarge:before {
+  content: "\EA8C";
+}
 .mi-CheckboxIndeterminate:before {
   content: "\EA8D";
 }
@@ -630,6 +630,15 @@
   content: "\EA8E";
 }
 .mi-ChevronDown4Legacy:before {
+  content: "\EA8E";
+}
+.mi-ChevronFlipDownLegacy:before {
+  content: "\EA8E";
+}
+.mi-ScrollChevronDownBoldLegacy:before {
+  content: "\EA8E";
+}
+.mi-ScrollChevronDownLegacy:before {
   content: "\EA8E";
 }
 .mi-ChevronDownMed:before {
@@ -656,6 +665,15 @@
 .mi-ChevronLeft3Legacy:before {
   content: "\EA91";
 }
+.mi-ChevronLeft4Legacy:before {
+  content: "\EA91";
+}
+.mi-ScrollChevronLeftBoldLegacy:before {
+  content: "\EA91";
+}
+.mi-ScrollChevronLeftLegacy:before {
+  content: "\EA91";
+}
 .mi-ChevronLeftMed:before {
   content: "\EA92";
 }
@@ -680,6 +698,15 @@
 .mi-ChevronRight3Legacy:before {
   content: "\EA94";
 }
+.mi-ChevronRight4Legacy:before {
+  content: "\EA94";
+}
+.mi-ScrollChevronRightBoldLegacy:before {
+  content: "\EA94";
+}
+.mi-ScrollChevronRightLegacy:before {
+  content: "\EA94";
+}
 .mi-ChevronRightMed:before {
   content: "\EA95";
 }
@@ -702,6 +729,15 @@
   content: "\EA97";
 }
 .mi-ChevronUp3Legacy:before {
+  content: "\EA97";
+}
+.mi-ChevronUp4Legacy:before {
+  content: "\EA97";
+}
+.mi-ScrollChevronUpBoldLegacy:before {
+  content: "\EA97";
+}
+.mi-ScrollChevronUpLegacy:before {
   content: "\EA97";
 }
 .mi-ChevronUpMed:before {
@@ -1248,6 +1284,15 @@
   content: "\EB22";
 }
 .mi-RatingStarFillReducedPaddingHTMLLegacy:before {
+  content: "\EB22";
+}
+.mi-RatingStarFillSmallLegacy:before {
+  content: "\EB22";
+}
+.mi-RatingStarFillZeroWidthLegacy:before {
+  content: "\EB22";
+}
+.mi-SolidStarLegacy:before {
   content: "\EB22";
 }
 .mi-FavoriteList:before {

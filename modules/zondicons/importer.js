@@ -19,6 +19,8 @@ let options = {
   prefix: 'zondicons-',
   className: 'Zondicons',
   title: 'Zondicons',
+  version: '0.0.4',
+  license: 'MIT',
   author: 'Steve Schoger',
   homepage: 'http://www.zondicons.com/',
   description: 'A set of free premium SVG icons for you to use on your digital products.',

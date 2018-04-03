@@ -53,10 +53,10 @@ There are many ways/formats of how to use linea-software. The fastest and recomm
   </head>
 ```
 
-> Place linea-software with `<i>` tag in your html like this. Icon class names are to be used with the `linea` class prefix.
+> Place linea-software with `<i>` tag in your html like this. Icon class names are to be used with the `lso` class prefix.
 
 ```
-  <i class="linea linea-software-crop"></i>
+  <i class="lso lso-software-crop"></i>
 ```
 
 

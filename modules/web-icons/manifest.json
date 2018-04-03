@@ -1,11 +1,12 @@
 {
   "name": "web-icons",
   "title": "Web Icons",
-  "version": "0.2.4",
+  "description": "A brand icons collection font",
+  "version": "0.2.5",
   "class": "wb",
   "prefix": "wb-",
   "homepage": "https://github.com/thecreation/web-icons",
-  "author": "thecreation",
+  "author": "Thecreation",
   "license": "MIT",
   "style": "web-icons.css",
   "count": "170",
@@ -180,7 +181,7 @@
     "thumb-down": "thumb-down",
     "small-point": "small-point",
     "medium-point": "medium-point",
-    "large-point": "large-point",
+    "large-point": "large-point"
   }
 }
 

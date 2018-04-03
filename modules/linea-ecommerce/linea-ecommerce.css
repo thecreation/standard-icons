@@ -1,5 +1,5 @@
 /**
- * Linea ecommerce, 1.0.0
+ * Linea ecommerce, 1.0.2
  * Created by Dario Ferrando
  * http://www.linea.io/
  * CC0-1.0 License
@@ -16,7 +16,7 @@
     url('linea-ecommerce.svg#linea-ecommerce') format('svg');
 }
 
-.linea {
+.lec {
   font-family: "linea-ecommerce";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -29,259 +29,259 @@
 }
 
 
-.linea-ecommerce-bag:before {
+.lec-ecommerce-bag:before {
   content: "a";
 }
-.linea-ecommerce-bag-check:before {
+.lec-ecommerce-bag-check:before {
   content: "b";
 }
-.linea-ecommerce-bag-cloud:before {
+.lec-ecommerce-bag-cloud:before {
   content: "c";
 }
-.linea-ecommerce-bag-download:before {
+.lec-ecommerce-bag-download:before {
   content: "d";
 }
-.linea-ecommerce-bag-minus:before {
+.lec-ecommerce-bag-minus:before {
   content: "e";
 }
-.linea-ecommerce-bag-plus:before {
+.lec-ecommerce-bag-plus:before {
   content: "f";
 }
-.linea-ecommerce-bag-refresh:before {
+.lec-ecommerce-bag-refresh:before {
   content: "g";
 }
-.linea-ecommerce-bag-remove:before {
+.lec-ecommerce-bag-remove:before {
   content: "h";
 }
-.linea-ecommerce-bag-search:before {
+.lec-ecommerce-bag-search:before {
   content: "i";
 }
-.linea-ecommerce-bag-upload:before {
+.lec-ecommerce-bag-upload:before {
   content: "j";
 }
-.linea-ecommerce-banknote:before {
+.lec-ecommerce-banknote:before {
   content: "k";
 }
-.linea-ecommerce-banknotes:before {
+.lec-ecommerce-banknotes:before {
   content: "l";
 }
-.linea-ecommerce-basket:before {
+.lec-ecommerce-basket:before {
   content: "m";
 }
-.linea-ecommerce-basket-check:before {
+.lec-ecommerce-basket-check:before {
   content: "n";
 }
-.linea-ecommerce-basket-cloud:before {
+.lec-ecommerce-basket-cloud:before {
   content: "o";
 }
-.linea-ecommerce-basket-download:before {
+.lec-ecommerce-basket-download:before {
   content: "p";
 }
-.linea-ecommerce-basket-minus:before {
+.lec-ecommerce-basket-minus:before {
   content: "q";
 }
-.linea-ecommerce-basket-plus:before {
+.lec-ecommerce-basket-plus:before {
   content: "r";
 }
-.linea-ecommerce-basket-refresh:before {
+.lec-ecommerce-basket-refresh:before {
   content: "s";
 }
-.linea-ecommerce-basket-remove:before {
+.lec-ecommerce-basket-remove:before {
   content: "t";
 }
-.linea-ecommerce-basket-search:before {
+.lec-ecommerce-basket-search:before {
   content: "u";
 }
-.linea-ecommerce-basket-upload:before {
+.lec-ecommerce-basket-upload:before {
   content: "v";
 }
-.linea-ecommerce-bath:before {
+.lec-ecommerce-bath:before {
   content: "w";
 }
-.linea-ecommerce-cart:before {
+.lec-ecommerce-cart:before {
   content: "x";
 }
-.linea-ecommerce-cart-check:before {
+.lec-ecommerce-cart-check:before {
   content: "y";
 }
-.linea-ecommerce-cart-cloud:before {
+.lec-ecommerce-cart-cloud:before {
   content: "z";
 }
-.linea-ecommerce-cart-content:before {
+.lec-ecommerce-cart-content:before {
   content: "A";
 }
-.linea-ecommerce-cart-download:before {
+.lec-ecommerce-cart-download:before {
   content: "B";
 }
-.linea-ecommerce-cart-minus:before {
+.lec-ecommerce-cart-minus:before {
   content: "C";
 }
-.linea-ecommerce-cart-plus:before {
+.lec-ecommerce-cart-plus:before {
   content: "D";
 }
-.linea-ecommerce-cart-refresh:before {
+.lec-ecommerce-cart-refresh:before {
   content: "E";
 }
-.linea-ecommerce-cart-remove:before {
+.lec-ecommerce-cart-remove:before {
   content: "F";
 }
-.linea-ecommerce-cart-search:before {
+.lec-ecommerce-cart-search:before {
   content: "G";
 }
-.linea-ecommerce-cart-upload:before {
+.lec-ecommerce-cart-upload:before {
   content: "H";
 }
-.linea-ecommerce-cent:before {
+.lec-ecommerce-cent:before {
   content: "I";
 }
-.linea-ecommerce-colon:before {
+.lec-ecommerce-colon:before {
   content: "J";
 }
-.linea-ecommerce-creditcard:before {
+.lec-ecommerce-creditcard:before {
   content: "K";
 }
-.linea-ecommerce-diamond:before {
+.lec-ecommerce-diamond:before {
   content: "L";
 }
-.linea-ecommerce-dollar:before {
+.lec-ecommerce-dollar:before {
   content: "M";
 }
-.linea-ecommerce-euro:before {
+.lec-ecommerce-euro:before {
   content: "N";
 }
-.linea-ecommerce-franc:before {
+.lec-ecommerce-franc:before {
   content: "O";
 }
-.linea-ecommerce-gift:before {
+.lec-ecommerce-gift:before {
   content: "P";
 }
-.linea-ecommerce-graph1:before {
+.lec-ecommerce-graph1:before {
   content: "Q";
 }
-.linea-ecommerce-graph2:before {
+.lec-ecommerce-graph2:before {
   content: "R";
 }
-.linea-ecommerce-graph3:before {
+.lec-ecommerce-graph3:before {
   content: "S";
 }
-.linea-ecommerce-graph-decrease:before {
+.lec-ecommerce-graph-decrease:before {
   content: "T";
 }
-.linea-ecommerce-graph-increase:before {
+.lec-ecommerce-graph-increase:before {
   content: "U";
 }
-.linea-ecommerce-guarani:before {
+.lec-ecommerce-guarani:before {
   content: "V";
 }
-.linea-ecommerce-kips:before {
+.lec-ecommerce-kips:before {
   content: "W";
 }
-.linea-ecommerce-lira:before {
+.lec-ecommerce-lira:before {
   content: "X";
 }
-.linea-ecommerce-megaphone:before {
+.lec-ecommerce-megaphone:before {
   content: "Y";
 }
-.linea-ecommerce-money:before {
+.lec-ecommerce-money:before {
   content: "Z";
 }
-.linea-ecommerce-naira:before {
+.lec-ecommerce-naira:before {
   content: "0";
 }
-.linea-ecommerce-pesos:before {
+.lec-ecommerce-pesos:before {
   content: "1";
 }
-.linea-ecommerce-pound:before {
+.lec-ecommerce-pound:before {
   content: "2";
 }
-.linea-ecommerce-receipt:before {
+.lec-ecommerce-receipt:before {
   content: "3";
 }
-.linea-ecommerce-receipt-bath:before {
+.lec-ecommerce-receipt-bath:before {
   content: "4";
 }
-.linea-ecommerce-receipt-cent:before {
+.lec-ecommerce-receipt-cent:before {
   content: "5";
 }
-.linea-ecommerce-receipt-dollar:before {
+.lec-ecommerce-receipt-dollar:before {
   content: "6";
 }
-.linea-ecommerce-receipt-euro:before {
+.lec-ecommerce-receipt-euro:before {
   content: "7";
 }
-.linea-ecommerce-receipt-franc:before {
+.lec-ecommerce-receipt-franc:before {
   content: "8";
 }
-.linea-ecommerce-receipt-guarani:before {
+.lec-ecommerce-receipt-guarani:before {
   content: "9";
 }
-.linea-ecommerce-receipt-kips:before {
+.lec-ecommerce-receipt-kips:before {
   content: "!";
 }
-.linea-ecommerce-receipt-lira:before {
+.lec-ecommerce-receipt-lira:before {
   content: "\"";
 }
-.linea-ecommerce-receipt-naira:before {
+.lec-ecommerce-receipt-naira:before {
   content: "#";
 }
-.linea-ecommerce-receipt-pesos:before {
+.lec-ecommerce-receipt-pesos:before {
   content: "$";
 }
-.linea-ecommerce-receipt-pound:before {
+.lec-ecommerce-receipt-pound:before {
   content: "%";
 }
-.linea-ecommerce-receipt-rublo:before {
+.lec-ecommerce-receipt-rublo:before {
   content: "&";
 }
-.linea-ecommerce-receipt-rupee:before {
+.lec-ecommerce-receipt-rupee:before {
   content: "'";
 }
-.linea-ecommerce-receipt-tugrik:before {
+.lec-ecommerce-receipt-tugrik:before {
   content: "(";
 }
-.linea-ecommerce-receipt-won:before {
+.lec-ecommerce-receipt-won:before {
   content: ")";
 }
-.linea-ecommerce-receipt-yen:before {
+.lec-ecommerce-receipt-yen:before {
   content: "*";
 }
-.linea-ecommerce-receipt-yen2:before {
+.lec-ecommerce-receipt-yen2:before {
   content: "+";
 }
-.linea-ecommerce-recept-colon:before {
+.lec-ecommerce-recept-colon:before {
   content: ",";
 }
-.linea-ecommerce-rublo:before {
+.lec-ecommerce-rublo:before {
   content: "-";
 }
-.linea-ecommerce-rupee:before {
+.lec-ecommerce-rupee:before {
   content: ".";
 }
-.linea-ecommerce-safe:before {
+.lec-ecommerce-safe:before {
   content: "/";
 }
-.linea-ecommerce-sale:before {
+.lec-ecommerce-sale:before {
   content: ":";
 }
-.linea-ecommerce-sales:before {
+.lec-ecommerce-sales:before {
   content: ";";
 }
-.linea-ecommerce-ticket:before {
+.lec-ecommerce-ticket:before {
   content: "<";
 }
-.linea-ecommerce-tugriks:before {
+.lec-ecommerce-tugriks:before {
   content: "=";
 }
-.linea-ecommerce-wallet:before {
+.lec-ecommerce-wallet:before {
   content: ">";
 }
-.linea-ecommerce-won:before {
+.lec-ecommerce-won:before {
   content: "?";
 }
-.linea-ecommerce-yen:before {
+.lec-ecommerce-yen:before {
   content: "@";
 }
-.linea-ecommerce-yen2:before {
+.lec-ecommerce-yen2:before {
   content: "[";
 }
 

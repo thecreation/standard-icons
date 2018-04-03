@@ -20,6 +20,7 @@ let options = {
   prefix: 'mi-',
   className: 'Micon',
   title: 'Micon',
+  version: '2.2.2',
   classifiable: false
 };
 
@@ -39,7 +40,7 @@ options.license = info.license;
 options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
-options.version = info.version;
+// options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs1 = getSvgs(paths.svgs1);
 options.svgs2 = getSvgs(paths.svgs2);

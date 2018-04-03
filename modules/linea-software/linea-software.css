@@ -1,5 +1,5 @@
 /**
- * Linea software, 1.0.0
+ * Linea software, 1.0.2
  * Created by Dario Ferrando
  * http://www.linea.io/
  * CC0-1.0 License
@@ -16,7 +16,7 @@
     url('linea-software.svg#linea-software') format('svg');
 }
 
-.linea {
+.lso {
   font-family: "linea-software";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -29,304 +29,304 @@
 }
 
 
-.linea-software-add-vectorpoint:before {
+.lso-software-add-vectorpoint:before {
   content: "a";
 }
-.linea-software-box-oval:before {
+.lso-software-box-oval:before {
   content: "b";
 }
-.linea-software-box-polygon:before {
+.lso-software-box-polygon:before {
   content: "c";
 }
-.linea-software-box-rectangle:before {
+.lso-software-box-rectangle:before {
   content: "d";
 }
-.linea-software-box-roundedrectangle:before {
+.lso-software-box-roundedrectangle:before {
   content: "e";
 }
-.linea-software-character:before {
+.lso-software-character:before {
   content: "f";
 }
-.linea-software-crop:before {
+.lso-software-crop:before {
   content: "g";
 }
-.linea-software-eyedropper:before {
+.lso-software-eyedropper:before {
   content: "h";
 }
-.linea-software-font-allcaps:before {
+.lso-software-font-allcaps:before {
   content: "i";
 }
-.linea-software-font-baseline-shift:before {
+.lso-software-font-baseline-shift:before {
   content: "j";
 }
-.linea-software-font-horizontal-scale:before {
+.lso-software-font-horizontal-scale:before {
   content: "k";
 }
-.linea-software-font-kerning:before {
+.lso-software-font-kerning:before {
   content: "l";
 }
-.linea-software-font-leading:before {
+.lso-software-font-leading:before {
   content: "m";
 }
-.linea-software-font-size:before {
+.lso-software-font-size:before {
   content: "n";
 }
-.linea-software-font-smallcapital:before {
+.lso-software-font-smallcapital:before {
   content: "o";
 }
-.linea-software-font-smallcaps:before {
+.lso-software-font-smallcaps:before {
   content: "p";
 }
-.linea-software-font-strikethrough:before {
+.lso-software-font-strikethrough:before {
   content: "q";
 }
-.linea-software-font-tracking:before {
+.lso-software-font-tracking:before {
   content: "r";
 }
-.linea-software-font-underline:before {
+.lso-software-font-underline:before {
   content: "s";
 }
-.linea-software-font-vertical-scale:before {
+.lso-software-font-vertical-scale:before {
   content: "t";
 }
-.linea-software-horizontal-align-center:before {
+.lso-software-horizontal-align-center:before {
   content: "u";
 }
-.linea-software-horizontal-align-left:before {
+.lso-software-horizontal-align-left:before {
   content: "v";
 }
-.linea-software-horizontal-align-right:before {
+.lso-software-horizontal-align-right:before {
   content: "w";
 }
-.linea-software-horizontal-distribute-center:before {
+.lso-software-horizontal-distribute-center:before {
   content: "x";
 }
-.linea-software-horizontal-distribute-left:before {
+.lso-software-horizontal-distribute-left:before {
   content: "y";
 }
-.linea-software-horizontal-distribute-right:before {
+.lso-software-horizontal-distribute-right:before {
   content: "z";
 }
-.linea-software-indent-firstline:before {
+.lso-software-indent-firstline:before {
   content: "A";
 }
-.linea-software-indent-left:before {
+.lso-software-indent-left:before {
   content: "B";
 }
-.linea-software-indent-right:before {
+.lso-software-indent-right:before {
   content: "C";
 }
-.linea-software-lasso:before {
+.lso-software-lasso:before {
   content: "D";
 }
-.linea-software-layers1:before {
+.lso-software-layers1:before {
   content: "E";
 }
-.linea-software-layers2:before {
+.lso-software-layers2:before {
   content: "F";
 }
-.linea-software-layout:before {
+.lso-software-layout:before {
   content: "G";
 }
-.linea-software-layout-2columns:before {
+.lso-software-layout-2columns:before {
   content: "H";
 }
-.linea-software-layout-3columns:before {
+.lso-software-layout-3columns:before {
   content: "I";
 }
-.linea-software-layout-4boxes:before {
+.lso-software-layout-4boxes:before {
   content: "J";
 }
-.linea-software-layout-4columns:before {
+.lso-software-layout-4columns:before {
   content: "K";
 }
-.linea-software-layout-4lines:before {
+.lso-software-layout-4lines:before {
   content: "L";
 }
-.linea-software-layout-8boxes:before {
+.lso-software-layout-8boxes:before {
   content: "M";
 }
-.linea-software-layout-header:before {
+.lso-software-layout-header:before {
   content: "N";
 }
-.linea-software-layout-header-2columns:before {
+.lso-software-layout-header-2columns:before {
   content: "O";
 }
-.linea-software-layout-header-3columns:before {
+.lso-software-layout-header-3columns:before {
   content: "P";
 }
-.linea-software-layout-header-4boxes:before {
+.lso-software-layout-header-4boxes:before {
   content: "Q";
 }
-.linea-software-layout-header-4columns:before {
+.lso-software-layout-header-4columns:before {
   content: "R";
 }
-.linea-software-layout-header-complex:before {
+.lso-software-layout-header-complex:before {
   content: "S";
 }
-.linea-software-layout-header-complex2:before {
+.lso-software-layout-header-complex2:before {
   content: "T";
 }
-.linea-software-layout-header-complex3:before {
+.lso-software-layout-header-complex3:before {
   content: "U";
 }
-.linea-software-layout-header-complex4:before {
+.lso-software-layout-header-complex4:before {
   content: "V";
 }
-.linea-software-layout-header-sideleft:before {
+.lso-software-layout-header-sideleft:before {
   content: "W";
 }
-.linea-software-layout-header-sideright:before {
+.lso-software-layout-header-sideright:before {
   content: "X";
 }
-.linea-software-layout-sidebar-left:before {
+.lso-software-layout-sidebar-left:before {
   content: "Y";
 }
-.linea-software-layout-sidebar-right:before {
+.lso-software-layout-sidebar-right:before {
   content: "Z";
 }
-.linea-software-magnete:before {
+.lso-software-magnete:before {
   content: "0";
 }
-.linea-software-pages:before {
+.lso-software-pages:before {
   content: "1";
 }
-.linea-software-paintbrush:before {
+.lso-software-paintbrush:before {
   content: "2";
 }
-.linea-software-paintbucket:before {
+.lso-software-paintbucket:before {
   content: "3";
 }
-.linea-software-paintroller:before {
+.lso-software-paintroller:before {
   content: "4";
 }
-.linea-software-paragraph:before {
+.lso-software-paragraph:before {
   content: "5";
 }
-.linea-software-paragraph-align-left:before {
+.lso-software-paragraph-align-left:before {
   content: "6";
 }
-.linea-software-paragraph-align-right:before {
+.lso-software-paragraph-align-right:before {
   content: "7";
 }
-.linea-software-paragraph-center:before {
+.lso-software-paragraph-center:before {
   content: "8";
 }
-.linea-software-paragraph-justify-all:before {
+.lso-software-paragraph-justify-all:before {
   content: "9";
 }
-.linea-software-paragraph-justify-center:before {
+.lso-software-paragraph-justify-center:before {
   content: "!";
 }
-.linea-software-paragraph-justify-left:before {
+.lso-software-paragraph-justify-left:before {
   content: "\"";
 }
-.linea-software-paragraph-justify-right:before {
+.lso-software-paragraph-justify-right:before {
   content: "#";
 }
-.linea-software-paragraph-space-after:before {
+.lso-software-paragraph-space-after:before {
   content: "$";
 }
-.linea-software-paragraph-space-before:before {
+.lso-software-paragraph-space-before:before {
   content: "%";
 }
-.linea-software-pathfinder-exclude:before {
+.lso-software-pathfinder-exclude:before {
   content: "&";
 }
-.linea-software-pathfinder-intersect:before {
+.lso-software-pathfinder-intersect:before {
   content: "'";
 }
-.linea-software-pathfinder-subtract:before {
+.lso-software-pathfinder-subtract:before {
   content: "(";
 }
-.linea-software-pathfinder-unite:before {
+.lso-software-pathfinder-unite:before {
   content: ")";
 }
-.linea-software-pen:before {
+.lso-software-pen:before {
   content: "*";
 }
-.linea-software-pen-add:before {
+.lso-software-pen-add:before {
   content: "+";
 }
-.linea-software-pen-remove:before {
+.lso-software-pen-remove:before {
   content: ",";
 }
-.linea-software-pencil:before {
+.lso-software-pencil:before {
   content: "-";
 }
-.linea-software-polygonallasso:before {
+.lso-software-polygonallasso:before {
   content: ".";
 }
-.linea-software-reflect-horizontal:before {
+.lso-software-reflect-horizontal:before {
   content: "/";
 }
-.linea-software-reflect-vertical:before {
+.lso-software-reflect-vertical:before {
   content: ":";
 }
-.linea-software-remove-vectorpoint:before {
+.lso-software-remove-vectorpoint:before {
   content: ";";
 }
-.linea-software-scale-expand:before {
+.lso-software-scale-expand:before {
   content: "<";
 }
-.linea-software-scale-reduce:before {
+.lso-software-scale-reduce:before {
   content: "=";
 }
-.linea-software-selection-oval:before {
+.lso-software-selection-oval:before {
   content: ">";
 }
-.linea-software-selection-polygon:before {
+.lso-software-selection-polygon:before {
   content: "?";
 }
-.linea-software-selection-rectangle:before {
+.lso-software-selection-rectangle:before {
   content: "@";
 }
-.linea-software-selection-roundedrectangle:before {
+.lso-software-selection-roundedrectangle:before {
   content: "[";
 }
-.linea-software-shape-oval:before {
+.lso-software-shape-oval:before {
   content: "]";
 }
-.linea-software-shape-polygon:before {
+.lso-software-shape-polygon:before {
   content: "^";
 }
-.linea-software-shape-rectangle:before {
+.lso-software-shape-rectangle:before {
   content: "_";
 }
-.linea-software-shape-roundedrectangle:before {
+.lso-software-shape-roundedrectangle:before {
   content: "`";
 }
-.linea-software-slice:before {
+.lso-software-slice:before {
   content: "{";
 }
-.linea-software-transform-bezier:before {
+.lso-software-transform-bezier:before {
   content: "|";
 }
-.linea-software-vector-box:before {
+.lso-software-vector-box:before {
   content: "}";
 }
-.linea-software-vector-composite:before {
+.lso-software-vector-composite:before {
   content: "~";
 }
-.linea-software-vector-line:before {
+.lso-software-vector-line:before {
   content: "\\";
 }
-.linea-software-vertical-align-bottom:before {
+.lso-software-vertical-align-bottom:before {
   content: "\e000";
 }
-.linea-software-vertical-align-center:before {
+.lso-software-vertical-align-center:before {
   content: "\e001";
 }
-.linea-software-vertical-align-top:before {
+.lso-software-vertical-align-top:before {
   content: "\e002";
 }
-.linea-software-vertical-distribute-bottom:before {
+.lso-software-vertical-distribute-bottom:before {
   content: "\e003";
 }
-.linea-software-vertical-distribute-center:before {
+.lso-software-vertical-distribute-center:before {
   content: "\e004";
 }
-.linea-software-vertical-distribute-top:before {
+.lso-software-vertical-distribute-top:before {
   content: "\e005";
 }
 
