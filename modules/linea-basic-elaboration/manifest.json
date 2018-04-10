@@ -2,7 +2,7 @@
   "name": "linea-basic-elaboration",
   "title": "Linea Basic Elaboration",
   "description": "Linea Iconset a free outline iconset  featuring 730+ Icons.",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "class": "lbae",
   "prefix": "lbae-",
   "homepage": "http://www.linea.io/",
@@ -12,7 +12,7 @@
   "count": "145",
   "classifiable": false,
   "icons": {
-    "basic-elaboration-bookmark-checck": "basic-elaboration-bookmark-checck",
+    "basic-elaboration-bookmark-check": "basic-elaboration-bookmark-check",
     "basic-elaboration-bookmark-minus": "basic-elaboration-bookmark-minus",
     "basic-elaboration-bookmark-plus": "basic-elaboration-bookmark-plus",
     "basic-elaboration-bookmark-remove": "basic-elaboration-bookmark-remove",

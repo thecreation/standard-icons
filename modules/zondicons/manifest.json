@@ -2,7 +2,7 @@
   "name": "zondicons",
   "title": "Zondicons",
   "description": "A set of free premium SVG icons for you to use on your digital products.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "class": "zondicons",
   "prefix": "zondicons-",
   "homepage": "http://www.zondicons.com/",
@@ -231,7 +231,7 @@
     "window": "window",
     "wrench": "wrench",
     "zoom-in": "zoom-in",
-    "zoom-out": "zoom-out"
+    "zoom-out": "zoom-out",
   }
 }
 

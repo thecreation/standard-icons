@@ -21,7 +21,7 @@ let options = {
   className: 'MfglabsIconset',
   title: 'Mfglabs iconset',
   author: 'MfgLabs',
-  version: '',
+  version: '0.0.3',
   classifiable: false,
   isAdv: true
 };

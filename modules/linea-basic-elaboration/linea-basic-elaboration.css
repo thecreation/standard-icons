@@ -1,5 +1,5 @@
 /**
- * Linea Basic Elaboration, 1.0.2
+ * Linea Basic Elaboration, 1.0.5
  * Created by Dario Ferrando
  * http://www.linea.io/
  * CC0-1.0 License
@@ -29,7 +29,7 @@
 }
 
 
-.lbae-basic-elaboration-bookmark-checck:before {
+.lbae-basic-elaboration-bookmark-check:before {
   content: "a";
 }
 .lbae-basic-elaboration-bookmark-minus:before {

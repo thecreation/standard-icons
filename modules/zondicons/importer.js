@@ -19,7 +19,7 @@ let options = {
   prefix: 'zondicons-',
   className: 'Zondicons',
   title: 'Zondicons',
-  version: '0.0.4',
+  version: '0.0.5',
   license: 'MIT',
   author: 'Steve Schoger',
   homepage: 'http://www.zondicons.com/',

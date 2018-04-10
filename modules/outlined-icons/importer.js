@@ -23,7 +23,7 @@ let options = {
   title: 'Outlined Icons',
   homepage: 'http://freebiesbug.com/psd-freebies/150-free-outlined-icons-psd-ai-svg-webfont/',
   author: 'Dario Ferrando.',
-  version: '0.0.4',
+  version: '0.0.6',
   description: 'Outlined icon fonts.',
   license: 'MIT',
   classifiable: false,

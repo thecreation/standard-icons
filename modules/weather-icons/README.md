@@ -17,7 +17,7 @@ npm install --save @icon/weather-icons
 
 There are many ways/formats of how to use weather-icons. The fastest and recommended way is via SVG directly. Or use the webfont version if you want to include all icons at once:
 
-### SVG icons – when you need just a few icons in your project
+### SVG icons -- when you need just a few icons in your project
 
   1. If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
 
@@ -31,7 +31,7 @@ There are many ways/formats of how to use weather-icons. The fastest and recomme
   <img height="32" width="32" src="https://unpkg.com/@icon/weather-icons/icons/day-sunny.svg" />
 ```
 
-### Icons font – ideal when you want to include all icons at once
+### Icons font -- ideal when you want to include all icons at once
 
   1. Install `@icon/weather-icons` with this command. In the `<head>` of your html, reference the location to your `weather-icons.css`.
 
@@ -68,10 +68,16 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 Weather-icons is copyright by Erik Flowers.
 
-[MIT](./LICENSE) &copy; [Creation Studio Limited](https://creationstudio.com/)
+- Weather Icons is licensed under the [SIL OFL 1.1][SIL]
 
-[icon]: https://github.com/icon/icon
-[docs]: http://icon.github.io/
+- Weather Icons code are licensed under the [MIT License][MIT]
+
+- Weather Icons documentation is licensed under the [CC BY 3.0 License][CCBY3.0]
+
+[CCBY3.0]: http://creativecommons.org/licenses/by/3.0/
+[MIT]: https://opensource.org/licenses/mit-license.html
+[SIL]: http://scripts.sil.org/OFL
+[icon]: https://github.com/thecreation/icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/

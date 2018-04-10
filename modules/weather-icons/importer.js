@@ -21,7 +21,7 @@ let options = {
   prefix: 'wi-',
   className: 'WeatherIcons',
   title: 'Weather icons',
-  version: '2.0.12',
+  version: '2.0.13',
   author: 'Erik Flowers',
   classifiable: true
 };

@@ -1,5 +1,5 @@
 /**
- * Foundation Icons, 3.0.2
+ * Foundation Icons, 3.0.6
  * Created by ZURB
  * http://zurb.com/playground/foundation-icon-fonts-3
  * MIT License
@@ -725,8 +725,8 @@
 .fi-social-windows:before {
   content: "\f1e6";
 }
-.fi-social-xbox-20:before {
-  content: "";
+.fi-social-xbox:before {
+  content: "\f1e7";
 }
 .fi-social-yahoo:before {
   content: "\f1e8";

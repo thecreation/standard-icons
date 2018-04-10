@@ -1,5 +1,5 @@
 /**
- * Linea Arrows, 1.0.2
+ * Linea Arrows, 1.0.5
  * Created by Dario Ferrando
  * http://www.linea.io/
  * CC0-1.0 License
@@ -221,7 +221,7 @@
 .lar-arrows-left:before {
   content: "\e03f";
 }
-.lar-arrows-left-double-32:before {
+.lar-arrows-left-double:before {
   content: "\e040";
 }
 .lar-arrows-minus:before {
@@ -425,7 +425,7 @@
 .lar-arrows-up:before {
   content: "\e083";
 }
-.lar-arrows-up-double-33:before {
+.lar-arrows-up-double:before {
   content: "\e084";
 }
 .lar-arrows-upleft:before {

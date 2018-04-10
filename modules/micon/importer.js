@@ -1,4 +1,4 @@
-const generateCss = require('../../scripts/utils/generateCss');
+ const generateCss = require('../../scripts/utils/generateCss');
 const generateJson = require('../../scripts/utils/generateJson');
 const prepareIcons = require('../../scripts/utils/prepareIcons');
 const extraFromJson = require('../../scripts/utils/extraFromJson');
@@ -20,7 +20,7 @@ let options = {
   prefix: 'mi-',
   className: 'Micon',
   title: 'Micon',
-  version: '2.2.2',
+  version: '2.2.4',
   classifiable: false
 };
 

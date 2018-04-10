@@ -21,6 +21,7 @@ let options = {
   prefix: 'owi-',
   className: 'OpenWebIcons',
   title: 'OpenWeb Icons',
+  version: '1.4.4',
   classifiable: true
 };
 
@@ -38,7 +39,7 @@ options.license = info.license;
 options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
-options.version = info.version;
+// options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 
 module.exports = function() {

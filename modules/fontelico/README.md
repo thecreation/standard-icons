@@ -17,7 +17,7 @@ npm install --save @icon/fontelico
 
 There are many ways/formats of how to use fontelico. The fastest and recommended way is via SVG directly. Or use the webfont version if you want to include all icons at once:
 
-### SVG icons – when you need just a few icons in your project
+### SVG icons -- when you need just a few icons in your project
 
   1. If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
 
@@ -31,7 +31,7 @@ There are many ways/formats of how to use fontelico. The fastest and recommended
   <img height="32" width="32" src="https://unpkg.com/@icon/fontelico/icons/happy.svg" />
 ```
 
-### Icons font – ideal when you want to include all icons at once
+### Icons font -- ideal when you want to include all icons at once
 
   1. Install `@icon/fontelico` with this command. In the `<head>` of your html, reference the location to your `fontelico.css`.
 
@@ -68,10 +68,11 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 Fontelico is copyright by Crowdsourced.
 
-[MIT](./LICENSE) &copy; [Creation Studio Limited](https://creationstudio.com/)
+- Font is distributed under [SIL licence](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
 
-[icon]: https://github.com/icon/icon
-[docs]: http://icon.github.io/
+- All icons are distributed under [CC BY licence](http://creativecommons.org/licenses/by-sa/3.0/).
+
+[icon]: https://github.com/thecreation/icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/

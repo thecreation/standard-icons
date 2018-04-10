@@ -22,7 +22,7 @@ let options = {
   className: 'MaterialIcons',
   title: 'Material Design Iconic',
   author: 'Sergey Kupletsky',
-  version: '2.2.1',
+  version: '2.2.2',
   classifiable: true
 };
 

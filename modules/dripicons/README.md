@@ -17,7 +17,7 @@ npm install --save @icon/dripicons
 
 There are many ways/formats of how to use dripicons. The fastest and recommended way is via SVG directly. Or use the webfont version if you want to include all icons at once:
 
-### SVG icons – when you need just a few icons in your project
+### SVG icons -- when you need just a few icons in your project
 
   1. If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
 
@@ -31,7 +31,7 @@ There are many ways/formats of how to use dripicons. The fastest and recommended
   <img height="32" width="32" src="https://unpkg.com/@icon/dripicons/icons/alarm.svg" />
 ```
 
-### Icons font – ideal when you want to include all icons at once
+### Icons font -- ideal when you want to include all icons at once
 
   1. Install `@icon/dripicons` with this command. In the `<head>` of your html, reference the location to your `dripicons.css`.
 
@@ -68,10 +68,10 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 Dripicons is copyright by Amit Jakhu.
 
-[MIT](./LICENSE) &copy; [Creation Studio Limited](https://creationstudio.com/)
+Dripicons is licensed under the [CC-BY-4.0][license].
 
-[icon]: https://github.com/icon/icon
-[docs]: http://icon.github.io/
+[license]: http://creativecommons.org/licenses/by-sa/4.0/
+[icon]: https://github.com/thecreation/icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/

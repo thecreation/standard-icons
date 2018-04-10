@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "@icon/entypo",
   "description": "Entypo, the premium pictograms",
   "author": "Daniel Buce",
-  "license": "SIL",
+  "license": "(SIL and CC BY-SA)",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/entypo",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"

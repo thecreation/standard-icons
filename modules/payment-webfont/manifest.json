@@ -1,8 +1,8 @@
 {
   "name": "payment-webfont",
-  "title": "",
+  "title": "Payment Webfont",
   "description": "An SVG webfont full of main payment system icons",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "class": "pw",
   "prefix": "pw-",
   "homepage": "https://github.com/orlandotm/payment-webfont",

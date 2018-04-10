@@ -24,7 +24,7 @@ let options = {
   title: 'Foundation Icons',
   description: "Foundation icon fonts",
   homepage: 'http://zurb.com/playground/foundation-icon-fonts-3',
-  version: '3.0.2',
+  version: '3.0.6',
   author: 'ZURB',
   classifiable: true
 };
@@ -70,7 +70,7 @@ module.exports = function() {
         });
       });
     });
-
+    console.log(icons)
     return icons;
   }).then(function(icons){
     options.icons = icons;
@@ -78,7 +78,7 @@ module.exports = function() {
     generateCss(paths.dest, options.name, options);
     generateJson(paths.dest, options.className, options);
     copyFonts(paths.dest, paths.fonts, options);
-    copySvgs(paths.svgsDest, paths.svgs, options.svgs, function(name) {
+    copySvgs(paths.svgsDest, paths.svgs, options.svgs, null , function(name) {
       return path.basename(name).replace('fi-', '');
     });
     jsonfile(paths.dest, options);

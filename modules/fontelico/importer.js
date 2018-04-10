@@ -22,7 +22,7 @@ let options = {
   className: 'Fontelico',
   description: 'Fontello project',
   homepage: 'http://fontello.github.io/fontelico.font/demo.html',
-  version: '1.0.1',
+  version: '1.0.3',
   classifiable: false
 };
 
@@ -54,6 +54,6 @@ module.exports = function() {
   generateCss(paths.dest, options.name, options);
   generateJson(paths.dest, options.className, options);
   copyFonts(paths.dest, paths.fonts, options);
-  copySvgs(paths.svgsDest, paths.svgs, options.svgs);
+  copySvgs(paths.svgsDest, paths.svgs, options.svgs, 'emo-');
   jsonfile(paths.dest, options);
 };

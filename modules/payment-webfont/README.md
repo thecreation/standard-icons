@@ -17,7 +17,7 @@ npm install --save @icon/payment-webfont
 
 There are many ways/formats of how to use payment-webfont. The fastest and recommended way is via SVG directly. Or use the webfont version if you want to include all icons at once:
 
-### SVG icons – when you need just a few icons in your project
+### SVG icons -- when you need just a few icons in your project
 
   1. If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
 
@@ -31,7 +31,7 @@ There are many ways/formats of how to use payment-webfont. The fastest and recom
   <img height="32" width="32" src="https://unpkg.com/@icon/payment-webfont/icons/clickandbuy.svg" />
 ```
 
-### Icons font – ideal when you want to include all icons at once
+### Icons font -- ideal when you want to include all icons at once
 
   1. Install `@icon/payment-webfont` with this command. In the `<head>` of your html, reference the location to your `payment-webfont.css`.
 
@@ -68,10 +68,10 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 Payment-webfont is copyright by Orlando TM Merone, Leo Di Donato, Leonardo Grasso.
 
-[MIT](./LICENSE) &copy; [Creation Studio Limited](https://creationstudio.com/)
+- Payment Webfont is licensed under the [CC0-1.0][license].
 
-[icon]: https://github.com/icon/icon
-[docs]: http://icon.github.io/
+[license]: https://github.com/thecreation/icons/blob/master/modules/payment-webfont/LICENSE
+[icon]: https://github.com/thecreation/icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/
