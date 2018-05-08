@@ -1,7 +1,6 @@
 # @icon/entypo
 
 [![npm version](https://img.shields.io/npm/v/@icon/entypo.svg)](https://www.npmjs.org/package/@icon/entypo)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,11 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Entypo is copyright by Daniel Buce.
-
-- All icons are distributed under [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) licence.
-
-- Font is distributed under [SIL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) licence.
+Entypo is copyright by Daniel Buce, all icons are distributed under [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) licence, Font is distributed under [SIL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) licence.
 
 [icon]: https://github.com/thecreation/icons
 [npm]: https://www.npmjs.com/

@@ -1,7 +1,6 @@
 # @icon/ionicons
 
 [![npm version](https://img.shields.io/npm/v/@icon/ionicons.svg)](https://www.npmjs.org/package/@icon/ionicons)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,9 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Ionicons is copyright by Ben Sperry.
-
-- Ionicons is licensed under the [MIT][license].
+Ionicons is copyright by Ben Sperry, licensed under the [MIT][license].
 
 [license]: https://opensource.org/licenses/MIT
 [icon]: https://github.com/thecreation/icons

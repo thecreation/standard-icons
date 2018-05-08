@@ -21,7 +21,7 @@ let options = {
   className: 'Linearicons',
   title: 'Linearicons free',
   author: 'Perxis',
-  version: '1.0.4',
+  version: '1.0.5',
   classifiable: false
 };
 

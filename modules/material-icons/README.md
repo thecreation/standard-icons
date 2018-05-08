@@ -1,7 +1,6 @@
 # @icon/material-icons
 
 [![npm version](https://img.shields.io/npm/v/@icon/material-icons.svg)](https://www.npmjs.org/package/@icon/material-icons)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,11 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Material-icons is copyright by Sergey Kupletsky.
-
-- Material Icons font is licensed under the [SIL OFL 1.1][SIL]
-
-- Material Icons code are licensed under the [MIT License][MIT]
+Material-icons is copyright by Sergey Kupletsky, font is licensed under the [SIL OFL 1.1][SIL], code is licensed under the [MIT License][MIT].
 
 [MIT]: https://opensource.org/licenses/MIT
 [SIL]: http://scripts.sil.org/OFL

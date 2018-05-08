@@ -20,7 +20,7 @@ let options = {
   prefix: 'ion-',
   className: 'Ionicons',
   title: 'Ionicons',
-  version: '3.0.3',
+  version: '3.0.4',
   classifiable: false
 };
 

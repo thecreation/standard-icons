@@ -1,7 +1,6 @@
 # @icon/stroke-7
 
 [![npm version](https://img.shields.io/npm/v/@icon/stroke-7.svg)](https://www.npmjs.org/package/@icon/stroke-7)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,9 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Stroke-7 is copyright by The Pixeden Team.
-
-- Stroke-7 is licensed under the [PIXEDEN license][license].
+Stroke-7 is copyright by The Pixeden Team, licensed under the [PIXEDEN license][license].
 
 [license]: https://github.com/thecreation/icons/blob/master/modules/stroke-7/LICENSE
 [icon]: https://github.com/thecreation/icons

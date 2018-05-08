@@ -1,7 +1,6 @@
 # @icon/linea-music
 
 [![npm version](https://img.shields.io/npm/v/@icon/linea-music.svg)](https://www.npmjs.org/package/@icon/linea-music)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,9 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Linea-music is copyright by Dario Ferrando.
-
-- Linea Music is licensed under the [CC0-1.0][license].
+Linea-music is copyright by Dario Ferrando, licensed under the [CC0-1.0][license].
 
 [license]: https://github.com/thecreation/icons/blob/master/modules/linea-music/LICENSE
 [icon]: https://github.com/thecreation/icons

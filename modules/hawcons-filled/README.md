@@ -1,7 +1,6 @@
 # @icon/hawcons-filled
 
 [![npm version](https://img.shields.io/npm/v/@icon/hawcons-filled.svg)](https://www.npmjs.org/package/@icon/hawcons-filled)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,9 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Hawcons-filled is copyright by Yannick Lung.
-
-- Hawcons Filled is licensed under the [MIT][license].
+Hawcons-filled is copyright by Yannick Lung, licensed under the [MIT][license].
 
 [license]: https://github.com/thecreation/icons/blob/master/modules/hawcons-filled/LICENSE
 [icon]: https://github.com/thecreation/icons

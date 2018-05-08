@@ -19,7 +19,7 @@ let options = {
   prefix: 'cryptocurrency-icons-',
   className: 'Cryptocurrency Icons',
   title: 'Cryptocurrency Icons',
-  version: '0.0.5',
+  version: '0.0.6',
   classifiable: false
 };
 

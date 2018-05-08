@@ -27,7 +27,7 @@ let options = {
   author: 'Wordpress',
   homepage: 'http://developer.wordpress.org/resource/dashicons/',
   description: "Dashicons, the WordPress admin icon font.",
-  version: '0.9.6',
+  version: '0.9.7',
   classifiable: true
 };
 

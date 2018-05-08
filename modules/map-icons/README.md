@@ -1,7 +1,6 @@
 # @icon/map-icons
 
 [![npm version](https://img.shields.io/npm/v/@icon/map-icons.svg)](https://www.npmjs.org/package/@icon/map-icons)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,9 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Map-icons is copyright by Scott DeJonge.
-
-- Map Icons is licensed under the [MIT][license].
+Map-icons is copyright by Scott DeJonge, licensed under the [MIT][license].
 
 [license]: https://github.com/thecreation/icons/blob/master/modules/map-icons/LICENSE
 [icon]: https://github.com/thecreation/icons

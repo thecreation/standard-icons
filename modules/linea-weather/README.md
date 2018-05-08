@@ -1,7 +1,6 @@
 # @icon/linea-weather
 
 [![npm version](https://img.shields.io/npm/v/@icon/linea-weather.svg)](https://www.npmjs.org/package/@icon/linea-weather)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,9 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Linea-weather is copyright by Dario Ferrando.
-
-- Linea Weather is licensed under the [CC0-1.0][license].
+Linea-weather is copyright by Dario Ferrando, licensed under the [CC0-1.0][license].
 
 [license]: https://github.com/thecreation/icons/blob/master/modules/linea-weather/LICENSE
 [icon]: https://github.com/thecreation/icons

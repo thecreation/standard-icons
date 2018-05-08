@@ -1,7 +1,6 @@
 # @icon/gonzocons
 
 [![npm version](https://img.shields.io/npm/v/@icon/gonzocons.svg)](https://www.npmjs.org/package/@icon/gonzocons)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,9 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Gonzocons is copyright by Jan Rajtoral.
-
-- Gonzocons is licensed under the [CC-BY-3.0][license].
+Gonzocons is copyright by Jan Rajtoral, licensed under the [CC-BY-3.0][license].
 
 [license]: http://creativecommons.org/licenses/by-sa/3.0/
 [icon]: https://github.com/thecreation/icons

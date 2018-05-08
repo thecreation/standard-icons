@@ -1,7 +1,6 @@
 # @icon/fontelico
 
 [![npm version](https://img.shields.io/npm/v/@icon/fontelico.svg)](https://www.npmjs.org/package/@icon/fontelico)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,11 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Fontelico is copyright by Crowdsourced.
-
-- Font is distributed under [SIL licence](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
-
-- All icons are distributed under [CC BY licence](http://creativecommons.org/licenses/by-sa/3.0/).
+Fontelico is copyright by Crowdsourced, Font is distributed under [SIL licence](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL), All icons are distributed under [CC BY licence](http://creativecommons.org/licenses/by-sa/3.0/).
 
 [icon]: https://github.com/thecreation/icons
 [npm]: https://www.npmjs.com/

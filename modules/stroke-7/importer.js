@@ -23,7 +23,7 @@ let options = {
   title: 'Stroke Icons 7',
   author: 'The Pixeden Team',
   homepage: 'http://themes-pixeden.com/font-demos/7-stroke/',
-  version: '1.2.2',
+  version: '1.2.3',
   license: 'PIXEDEN license',
   description: 'Icon Font - Stroke Icons 7 - by Pixeden',
   classifiable: false

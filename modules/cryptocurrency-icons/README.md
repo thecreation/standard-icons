@@ -1,7 +1,6 @@
 # @icon/cryptocurrency-icons
 
 [![npm version](https://img.shields.io/npm/v/@icon/cryptocurrency-icons.svg)](https://www.npmjs.org/package/@icon/cryptocurrency-icons)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,9 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Cryptocurrency-icons is copyright by Christopher Downer.
-
-- Cryptocurrency icons is licensed under the [CC0-1.0 License][license].
+Cryptocurrency-icons is copyright by Christopher Downer, licensed under the [CC0-1.0 License][license].
 
 [license]: https://creativecommons.org/publicdomain/zero/1.0/
 [icon]: https://github.com/thecreation/icons

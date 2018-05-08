@@ -1,7 +1,6 @@
 # @icon/dripicons
 
 [![npm version](https://img.shields.io/npm/v/@icon/dripicons.svg)](https://www.npmjs.org/package/@icon/dripicons)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,9 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Dripicons is copyright by Amit Jakhu.
-
-Dripicons is licensed under the [CC-BY-4.0][license].
+Dripicons is copyright by Amit Jakhu, licensed under the [CC-BY-4.0][license].
 
 [license]: http://creativecommons.org/licenses/by-sa/4.0/
 [icon]: https://github.com/thecreation/icons

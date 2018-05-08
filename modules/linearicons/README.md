@@ -1,7 +1,6 @@
 # @icon/linearicons
 
 [![npm version](https://img.shields.io/npm/v/@icon/linearicons.svg)](https://www.npmjs.org/package/@icon/linearicons)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,9 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Linearicons is copyright by Perxis.
-
-- Linearicons is licensed under the [Creative Commons License][license].
+Linearicons is copyright by Perxis, licensed under the [Creative Commons License][license].
 
 [license]: https://linearicons.com/free#license
 [icon]: https://github.com/thecreation/icons

@@ -1,7 +1,6 @@
 # @icon/themify-icons
 
 [![npm version](https://img.shields.io/npm/v/@icon/themify-icons.svg)](https://www.npmjs.org/package/@icon/themify-icons)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,11 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Themify-icons is copyright by Themify.
-
-- Themify Icons font is licensed under the [SIL OFL 1.1][SIL]
-
-- Themify Icons code are licensed under the [MIT License][MIT]
+Themify-icons is copyright by Themify, font is licensed under the [SIL OFL 1.1][SIL], code are licensed under the [MIT License][MIT].
 
 [MIT]: https://opensource.org/licenses/MIT
 [SIL]: http://scripts.sil.org/OFL

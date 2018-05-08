@@ -20,7 +20,7 @@ let options = {
   prefix: 'oi-',
   className: 'OpenIconic',
   title: 'Open iconic',
-  version: '1.1.3',
+  version: '1.1.4',
   classifiable: false
 };
 

@@ -1,7 +1,7 @@
 # @icon/font-awesome
 
 [![npm version](https://img.shields.io/npm/v/@icon/font-awesome.svg)](https://www.npmjs.org/package/@icon/font-awesome)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
+
 This repository is a module of the full [icon][icon] repository.
 
 ## Install
@@ -65,13 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Font-awesome is copyright by Dave Gandy.
-
-- The Font Awesome font is licensed under the [SIL OFL 1.1][SIL]
-
-- Font Awesome CSS, LESS, and Sass files are licensed under the [MIT License][MIT]
-
-- The Font Awesome documentation is licensed under the [CC BY 3.0 License][CCBY3.0]
+Font-awesome is copyright by Dave Gandy. Font is licensed under the [SIL OFL 1.1][SIL]. CSS, LESS, and Sass files are licensed under the [MIT License][MIT]. Documentation is licensed under the [CC BY 3.0 License][CCBY3.0].
 
 [CCBY3.0]: http://creativecommons.org/licenses/by/3.0/
 [MIT]: https://opensource.org/licenses/mit-license.html

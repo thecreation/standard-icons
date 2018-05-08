@@ -1,7 +1,6 @@
 # @icon/dashicons
 
 [![npm version](https://img.shields.io/npm/v/@icon/dashicons.svg)](https://www.npmjs.org/package/@icon/dashicons)
-[![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -66,9 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-Dashicons is copyright by Wordpress.
-
-- Dashicons is licensed under the [GPL-2.0][license].
+Dashicons is copyright by Wordpress, licensed under the [GPL-2.0][license].
 
 [license]: https://github.com/thecreation/icons/blob/master/modules/dashicons/LICENSE
 [icon]: https://github.com/thecreation/icons

@@ -22,7 +22,7 @@ let options = {
   className: 'Fontelico',
   description: 'Fontello project',
   homepage: 'http://fontello.github.io/fontelico.font/demo.html',
-  version: '1.0.3',
+  version: '1.0.4',
   classifiable: false
 };
 
