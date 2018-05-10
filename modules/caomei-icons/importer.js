@@ -23,7 +23,7 @@ let options = {
   title: 'Caomei Icons',
   author: 'Xiangsudian',
   homepage: 'http://chuangzaoshi.com/icon/',
-  version: '1.2.14',
+  version: '1.2.8-1',
   classifiable: true
 };
 

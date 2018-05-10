@@ -24,7 +24,7 @@ let options = {
   title: 'Foundation Icons',
   description: "Foundation icon fonts",
   homepage: 'http://zurb.com/playground/foundation-icon-fonts-3',
-  version: '3.0.7',
+  version: '3.0.0-1',
   author: 'ZURB',
   classifiable: true
 };

@@ -21,7 +21,7 @@ let options = {
   homepage: 'https://www.elegantthemes.com/blog/resources/elegant-icon-font',
   className: 'ElegantIcons',
   title: 'Elegant Icons',
-  version: '0.0.4',
+  version: '0.0.1-2',
   classifiable: false
 };
 

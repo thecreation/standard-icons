@@ -21,7 +21,7 @@ let options = {
   prefix: 'fa-',
   className: 'FontAwesome',
   title: 'Font Awesome',
-  version: '4.7.3',
+  version: '4.7.0-1',
   classifiable: true,
   isFontawesome: true
 };

@@ -17,7 +17,7 @@ let options = {
   prefix: 'evil-icons-',
   className: 'EvilIcons',
   title: 'Evil Icons',
-  version: '1.9.4',
+  version: '1.9.0-1',
   classifiable: false
 };
 

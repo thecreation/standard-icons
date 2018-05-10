@@ -24,7 +24,7 @@ let options = {
   description: "Dripicons V2 is available for free for use in both personal and commercial projects.",
   author: 'Amit Jakhu',
   homepage: 'https://github.com/amitjakhu/dripicons',
-  version: '2.0.5',
+  version: '2.0.0-1',
   classifiable: false
 };
 

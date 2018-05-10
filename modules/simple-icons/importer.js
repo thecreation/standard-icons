@@ -18,7 +18,7 @@ let options = {
   prefix: 'si-',
   className: 'SimpleIcons',
   title: 'Simple Icons',
-  version: '1.2.24',
+  version: '1.2.19-1',
   classifiable: false
 };
 
