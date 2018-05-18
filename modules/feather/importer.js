@@ -24,7 +24,7 @@ let options = {
   description: "Simply beautiful open source icons",
   className: 'Feather',
   license: 'MIT',
-  version: '1.1.0-1',
+  version: '1.1.0-2',
   classifiable: false
 };
 

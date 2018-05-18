@@ -22,7 +22,7 @@ let options = {
   prefix: 'map-icon-',
   className: 'MapIcons',
   title: 'Map Icons',
-  version: '3.0.3-1',
+  version: '3.0.3-2',
   license: 'MIT',
   classifiable: true
 };

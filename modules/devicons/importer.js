@@ -20,7 +20,7 @@ let options = {
   prefix: 'devicons-',
   className: 'Devicons',
   title: 'Devicons',
-  version: '1.8.0-1',
+  version: '1.8.0-2',
   classifiable: false
 };
 

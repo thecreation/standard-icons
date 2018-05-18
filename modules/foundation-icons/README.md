@@ -18,44 +18,44 @@ There are many ways/formats of how to use foundation-icons. The fastest and reco
 
 ### SVG icons -- when you need just a few icons in your project
 
-  1. If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
+1 . If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
 
 ```
-  <img height="32" width="32" src="@icon/foundation-icons/icons/heart.svg" />
+<img height="32" width="32" src="@icon/foundation-icons/icons/heart.svg" />
 ```
 
-  2. Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/foundation-icons` npm package in the URL like the following:
+2 . Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/foundation-icons` npm package in the URL like the following:
 
 ```
-  <img height="32" width="32" src="https://unpkg.com/@icon/foundation-icons/icons/heart.svg" />
+<img height="32" width="32" src="https://unpkg.com/@icon/foundation-icons/icons/heart.svg" />
 ```
 
 ### Icons font -- ideal when you want to include all icons at once
 
-  1. Install `@icon/foundation-icons` with this command. In the `<head>` of your html, reference the location to your `foundation-icons.css`.
+1 . Install `@icon/foundation-icons` with this command. In the `<head>` of your html, reference the location to your `foundation-icons.css`.
 
 ```
-  <head>
-  ...
-  <link rel="stylesheet" href="@icon/foundation-icons/foundation-icons.css">
-  ...
-  </head>
+<head>
+...
+<link rel="stylesheet" href="@icon/foundation-icons/foundation-icons.css">
+...
+</head>
 ```
 
-  2. Use [unpkg.com][Unpkg] to load directly foundation-icons without installing anything:
+2 . Use [unpkg.com][Unpkg] to load directly foundation-icons without installing anything:
 
 ```
-  <head>
-  ...
-  <link rel="stylesheet" href="https://unpkg.com/@icon/foundation-icons/foundation-icons.css">
-  ...
-  </head>
+<head>
+...
+<link rel="stylesheet" href="https://unpkg.com/@icon/foundation-icons/foundation-icons.css">
+...
+</head>
 ```
 
 > Place foundation-icons with `<i>` tag in your html like this. Icon class names are to be used with the `fi` class prefix.
 
 ```
-  <i class="fi fi-heart"></i>
+<i class="fi fi-heart"></i>
 ```
 
 

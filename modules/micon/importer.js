@@ -20,7 +20,7 @@ let options = {
   prefix: 'mi-',
   className: 'Micon',
   title: 'Micon',
-  version: '2.2.155-1',
+  version: '2.2.155-2',
   classifiable: false
 };
 

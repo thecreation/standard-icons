@@ -18,44 +18,44 @@ There are many ways/formats of how to use linea-weather. The fastest and recomme
 
 ### SVG icons -- when you need just a few icons in your project
 
-  1. If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
+1 . If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
 
 ```
-  <img height="32" width="32" src="@icon/linea-weather/icons/weather-aquarius.svg" />
+<img height="32" width="32" src="@icon/linea-weather/icons/weather-aquarius.svg" />
 ```
 
-  2. Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/linea-weather` npm package in the URL like the following:
+2 . Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/linea-weather` npm package in the URL like the following:
 
 ```
-  <img height="32" width="32" src="https://unpkg.com/@icon/linea-weather/icons/weather-aquarius.svg" />
+<img height="32" width="32" src="https://unpkg.com/@icon/linea-weather/icons/weather-aquarius.svg" />
 ```
 
 ### Icons font -- ideal when you want to include all icons at once
 
-  1. Install `@icon/linea-weather` with this command. In the `<head>` of your html, reference the location to your `linea-weather.css`.
+1 . Install `@icon/linea-weather` with this command. In the `<head>` of your html, reference the location to your `linea-weather.css`.
 
 ```
-  <head>
-  ...
-  <link rel="stylesheet" href="@icon/linea-weather/linea-weather.css">
-  ...
-  </head>
+<head>
+...
+<link rel="stylesheet" href="@icon/linea-weather/linea-weather.css">
+...
+</head>
 ```
 
-  2. Use [unpkg.com][Unpkg] to load directly linea-weather without installing anything:
+2 . Use [unpkg.com][Unpkg] to load directly linea-weather without installing anything:
 
 ```
-  <head>
-  ...
-  <link rel="stylesheet" href="https://unpkg.com/@icon/linea-weather/linea-weather.css">
-  ...
-  </head>
+<head>
+...
+<link rel="stylesheet" href="https://unpkg.com/@icon/linea-weather/linea-weather.css">
+...
+</head>
 ```
 
 > Place linea-weather with `<i>` tag in your html like this. Icon class names are to be used with the `lwe` class prefix.
 
 ```
-  <i class="lwe lwe-weather-aquarius"></i>
+<i class="lwe lwe-weather-aquarius"></i>
 ```
 
 

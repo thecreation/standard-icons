@@ -21,7 +21,7 @@ let options = {
   prefix: 'entypo-',
   className: 'Entypo',
   description: "Entypo, the premium pictograms",
-  version: '1.0.0-1',
+  version: '1.0.0-3',
   classifiable: false
 };
 

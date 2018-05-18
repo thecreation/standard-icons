@@ -18,44 +18,44 @@ There are many ways/formats of how to use linea-software. The fastest and recomm
 
 ### SVG icons -- when you need just a few icons in your project
 
-  1. If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
+1 . If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
 
 ```
-  <img height="32" width="32" src="@icon/linea-software/icons/software-crop.svg" />
+<img height="32" width="32" src="@icon/linea-software/icons/software-crop.svg" />
 ```
 
-  2. Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/linea-software` npm package in the URL like the following:
+2 . Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/linea-software` npm package in the URL like the following:
 
 ```
-  <img height="32" width="32" src="https://unpkg.com/@icon/linea-software/icons/software-crop.svg" />
+<img height="32" width="32" src="https://unpkg.com/@icon/linea-software/icons/software-crop.svg" />
 ```
 
 ### Icons font -- ideal when you want to include all icons at once
 
-  1. Install `@icon/linea-software` with this command. In the `<head>` of your html, reference the location to your `linea-software.css`.
+1 . Install `@icon/linea-software` with this command. In the `<head>` of your html, reference the location to your `linea-software.css`.
 
 ```
-  <head>
-  ...
-  <link rel="stylesheet" href="@icon/linea-software/linea-software.css">
-  ...
-  </head>
+<head>
+...
+<link rel="stylesheet" href="@icon/linea-software/linea-software.css">
+...
+</head>
 ```
 
-  2. Use [unpkg.com][Unpkg] to load directly linea-software without installing anything:
+2 . Use [unpkg.com][Unpkg] to load directly linea-software without installing anything:
 
 ```
-  <head>
-  ...
-  <link rel="stylesheet" href="https://unpkg.com/@icon/linea-software/linea-software.css">
-  ...
-  </head>
+<head>
+...
+<link rel="stylesheet" href="https://unpkg.com/@icon/linea-software/linea-software.css">
+...
+</head>
 ```
 
 > Place linea-software with `<i>` tag in your html like this. Icon class names are to be used with the `lso` class prefix.
 
 ```
-  <i class="lso lso-software-crop"></i>
+<i class="lso lso-software-crop"></i>
 ```
 
 

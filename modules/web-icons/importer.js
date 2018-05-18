@@ -21,7 +21,7 @@ let options = {
   className: 'WebIcons',
   title: 'Web Icons',
   author: 'Thecreation',
-  version: '0.2.4-1',
+  version: '0.2.4-2',
   homepage: 'https://github.com/thecreation/web-icons',
   classifiable: false
 };
