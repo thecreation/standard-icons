@@ -52,10 +52,10 @@ There are many ways/formats of how to use map-icons. The fastest and recommended
 </head>
 ```
 
-> Place map-icons with `<i>` tag in your html like this. Icon class names are to be used with the `map-icon` class prefix.
+> Place map-icons with `<i>` tag in your html like this. Icon class names are to be used with the `mai` class prefix.
 
 ```
-<i class="map-icon map-icon-bank"></i>
+<i class="mai mai-bank"></i>
 ```
 
 

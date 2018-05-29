@@ -13,11 +13,11 @@ const path = require('path');
 let options = {
   source: path.join(`${__dirname}/node_modules/`, 'evil-icons'),
   name: 'evil-icons',
-  class: 'evil-icons',
-  prefix: 'evil-icons-',
+  class: 'evil',
+  prefix: 'evil-',
   className: 'EvilIcons',
   title: 'Evil Icons',
-  version: '1.9.0-2',
+  version: '1.9.0-3',
   classifiable: false
 };
 
@@ -38,7 +38,7 @@ options.description = info.description;
 options.svgs = getSvgs(paths.svgs);
 
 function callback() {
-  options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'evil-icons-');
+  options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'evil-');
   options = prepareIcons(options);
   generateJson(paths.dest, options.className, options);
   copyLicense(paths.dest, path.join(options.source, 'LICENSE.txt'));

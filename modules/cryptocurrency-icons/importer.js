@@ -15,11 +15,11 @@ const path = require('path');
 let options = {
   source: path.join(`${__dirname}/node_modules/`, 'cryptocurrency-icons'),
   name: 'cryptocurrency-icons',
-  class: 'cryptocurrency-icons',
-  prefix: 'cryptocurrency-icons-',
+  class: 'crypto',
+  prefix: 'crypto-',
   className: 'Cryptocurrency Icons',
   title: 'Cryptocurrency Icons',
-  version: '0.0.1-2',
+  version: '0.0.1-4',
   classifiable: false
 };
 
@@ -40,7 +40,7 @@ options.description = info.description;
 options.svgs = getSvgs(paths.svgs);
 
 function callback() {
-  options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'cryptocurrency-icons-');
+  options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'crypto-');
   options = prepareIcons(options);
   generateJson(paths.dest, options.className, options);
   copyLicense(paths.dest, path.join(options.source, 'README.md'));

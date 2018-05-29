@@ -52,10 +52,10 @@ There are many ways/formats of how to use cryptocurrency-icons. The fastest and 
 </head>
 ```
 
-> Place cryptocurrency-icons with `<i>` tag in your html like this. Icon class names are to be used with the `cryptocurrency-icons` class prefix.
+> Place cryptocurrency-icons with `<i>` tag in your html like this. Icon class names are to be used with the `crypto` class prefix.
 
 ```
-<i class="cryptocurrency-icons cryptocurrency-icons-act"></i>
+<i class="crypto crypto-act"></i>
 ```
 
 

@@ -18,11 +18,11 @@ const path = require('path');
 let options = {
   source: path.join(`${__dirname}/node_modules/`, 'map-icons'),
   name: 'map-icons',
-  class: 'map-icon',
-  prefix: 'map-icon-',
+  class: 'mai',
+  prefix: 'mai-',
   className: 'MapIcons',
   title: 'Map Icons',
-  version: '3.0.3-2',
+  version: '3.0.3-3',
   license: 'MIT',
   classifiable: true
 };

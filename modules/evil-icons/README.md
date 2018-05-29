@@ -52,10 +52,10 @@ There are many ways/formats of how to use evil-icons. The fastest and recommende
 </head>
 ```
 
-> Place evil-icons with `<i>` tag in your html like this. Icon class names are to be used with the `evil-icons` class prefix.
+> Place evil-icons with `<i>` tag in your html like this. Icon class names are to be used with the `evil` class prefix.
 
 ```
-<i class="evil-icons evil-icons-archive"></i>
+<i class="evil evil-archive"></i>
 ```
 
 

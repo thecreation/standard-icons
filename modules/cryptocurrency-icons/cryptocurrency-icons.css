@@ -1,5 +1,5 @@
 /**
- * Cryptocurrency Icons, 0.0.1-2
+ * Cryptocurrency Icons, 0.0.1-4
  * Created by Christopher Downer
  * https://github.com/cjdowner/cryptocurrency-icons
  * CC0-1.0 License
@@ -17,7 +17,7 @@
     url('./cryptocurrency-icons.svg#cryptocurrency-icons') format('svg');
 }
 
-.cryptocurrency-icons {
+.crypto {
   font-family: "cryptocurrency-icons";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -31,926 +31,926 @@
 
 
 
-.cryptocurrency-icons-act::before {
+.crypto-act::before {
     content: "\ea01";
 }
 
-.cryptocurrency-icons-ada::before {
+.crypto-ada::before {
     content: "\ea02";
 }
 
-.cryptocurrency-icons-adx::before {
+.crypto-adx::before {
     content: "\ea03";
 }
 
-.cryptocurrency-icons-ae::before {
+.crypto-ae::before {
     content: "\ea04";
 }
 
-.cryptocurrency-icons-aion::before {
+.crypto-aion::before {
     content: "\ea05";
 }
 
-.cryptocurrency-icons-amp::before {
+.crypto-amp::before {
     content: "\ea06";
 }
 
-.cryptocurrency-icons-ant::before {
+.crypto-ant::before {
     content: "\ea07";
 }
 
-.cryptocurrency-icons-ardr::before {
+.crypto-ardr::before {
     content: "\ea08";
 }
 
-.cryptocurrency-icons-ark::before {
+.crypto-ark::before {
     content: "\ea09";
 }
 
-.cryptocurrency-icons-ast::before {
+.crypto-ast::before {
     content: "\ea0a";
 }
 
-.cryptocurrency-icons-atm::before {
+.crypto-atm::before {
     content: "\ea0b";
 }
 
-.cryptocurrency-icons-bat::before {
+.crypto-bat::before {
     content: "\ea0c";
 }
 
-.cryptocurrency-icons-bay::before {
+.crypto-bay::before {
     content: "\ea0d";
 }
 
-.cryptocurrency-icons-bcc::before {
+.crypto-bcc::before {
     content: "\ea0e";
 }
 
-.cryptocurrency-icons-bch::before {
+.crypto-bch::before {
     content: "\ea0f";
 }
 
-.cryptocurrency-icons-bcn::before {
+.crypto-bcn::before {
     content: "\ea10";
 }
 
-.cryptocurrency-icons-bco::before {
+.crypto-bco::before {
     content: "\ea11";
 }
 
-.cryptocurrency-icons-bdl::before {
+.crypto-bdl::before {
     content: "\ea12";
 }
 
-.cryptocurrency-icons-bela::before {
+.crypto-bela::before {
     content: "\ea13";
 }
 
-.cryptocurrency-icons-blcn::before {
+.crypto-blcn::before {
     content: "\ea14";
 }
 
-.cryptocurrency-icons-blk::before {
+.crypto-blk::before {
     content: "\ea15";
 }
 
-.cryptocurrency-icons-block::before {
+.crypto-block::before {
     content: "\ea16";
 }
 
-.cryptocurrency-icons-bnb::before {
+.crypto-bnb::before {
     content: "\ea17";
 }
 
-.cryptocurrency-icons-bnt::before {
+.crypto-bnt::before {
     content: "\ea18";
 }
 
-.cryptocurrency-icons-bq::before {
+.crypto-bq::before {
     content: "\ea19";
 }
 
-.cryptocurrency-icons-bqx::before {
+.crypto-bqx::before {
     content: "\ea1a";
 }
 
-.cryptocurrency-icons-btc::before {
+.crypto-btc::before {
     content: "\ea1b";
 }
 
-.cryptocurrency-icons-btcd::before {
+.crypto-btcd::before {
     content: "\ea1c";
 }
 
-.cryptocurrency-icons-btcz::before {
+.crypto-btcz::before {
     content: "\ea1d";
 }
 
-.cryptocurrency-icons-btg::before {
+.crypto-btg::before {
     content: "\ea1e";
 }
 
-.cryptocurrency-icons-btm::before {
+.crypto-btm::before {
     content: "\ea1f";
 }
 
-.cryptocurrency-icons-bts::before {
+.crypto-bts::before {
     content: "\ea20";
 }
 
-.cryptocurrency-icons-btx::before {
+.crypto-btx::before {
     content: "\ea21";
 }
 
-.cryptocurrency-icons-burst::before {
+.crypto-burst::before {
     content: "\ea22";
 }
 
-.cryptocurrency-icons-cdn::before {
+.crypto-cdn::before {
     content: "\ea23";
 }
 
-.cryptocurrency-icons-clam::before {
+.crypto-clam::before {
     content: "\ea24";
 }
 
-.cryptocurrency-icons-cloak::before {
+.crypto-cloak::before {
     content: "\ea25";
 }
 
-.cryptocurrency-icons-cnd::before {
+.crypto-cnd::before {
     content: "\ea26";
 }
 
-.cryptocurrency-icons-cnx::before {
+.crypto-cnx::before {
     content: "\ea27";
 }
 
-.cryptocurrency-icons-cny::before {
+.crypto-cny::before {
     content: "\ea28";
 }
 
-.cryptocurrency-icons-cred::before {
+.crypto-cred::before {
     content: "\ea29";
 }
 
-.cryptocurrency-icons-crpt::before {
+.crypto-crpt::before {
     content: "\ea2a";
 }
 
-.cryptocurrency-icons-cvc::before {
+.crypto-cvc::before {
     content: "\ea2b";
 }
 
-.cryptocurrency-icons-dash::before {
+.crypto-dash::before {
     content: "\ea2c";
 }
 
-.cryptocurrency-icons-dat::before {
+.crypto-dat::before {
     content: "\ea2d";
 }
 
-.cryptocurrency-icons-data::before {
+.crypto-data::before {
     content: "\ea2e";
 }
 
-.cryptocurrency-icons-dbc::before {
+.crypto-dbc::before {
     content: "\ea2f";
 }
 
-.cryptocurrency-icons-dcn::before {
+.crypto-dcn::before {
     content: "\ea30";
 }
 
-.cryptocurrency-icons-dcr::before {
+.crypto-dcr::before {
     content: "\ea31";
 }
 
-.cryptocurrency-icons-dent::before {
+.crypto-dent::before {
     content: "\ea32";
 }
 
-.cryptocurrency-icons-dgb::before {
+.crypto-dgb::before {
     content: "\ea33";
 }
 
-.cryptocurrency-icons-dgd::before {
+.crypto-dgd::before {
     content: "\ea34";
 }
 
-.cryptocurrency-icons-doge::before {
+.crypto-doge::before {
     content: "\ea35";
 }
 
-.cryptocurrency-icons-drgn::before {
+.crypto-drgn::before {
     content: "\ea36";
 }
 
-.cryptocurrency-icons-edg::before {
+.crypto-edg::before {
     content: "\ea37";
 }
 
-.cryptocurrency-icons-edoge::before {
+.crypto-edoge::before {
     content: "\ea38";
 }
 
-.cryptocurrency-icons-elf::before {
+.crypto-elf::before {
     content: "\ea39";
 }
 
-.cryptocurrency-icons-ella::before {
+.crypto-ella::before {
     content: "\ea3a";
 }
 
-.cryptocurrency-icons-emc::before {
+.crypto-emc::before {
     content: "\ea3b";
 }
 
-.cryptocurrency-icons-emc2::before {
+.crypto-emc2::before {
     content: "\ea3c";
 }
 
-.cryptocurrency-icons-eng::before {
+.crypto-eng::before {
     content: "\ea3d";
 }
 
-.cryptocurrency-icons-eos::before {
+.crypto-eos::before {
     content: "\ea3e";
 }
 
-.cryptocurrency-icons-etc::before {
+.crypto-etc::before {
     content: "\ea3f";
 }
 
-.cryptocurrency-icons-eth::before {
+.crypto-eth::before {
     content: "\ea40";
 }
 
-.cryptocurrency-icons-ethos::before {
+.crypto-ethos::before {
     content: "\ea41";
 }
 
-.cryptocurrency-icons-etn::before {
+.crypto-etn::before {
     content: "\ea42";
 }
 
-.cryptocurrency-icons-etp::before {
+.crypto-etp::before {
     content: "\ea43";
 }
 
-.cryptocurrency-icons-eur::before {
+.crypto-eur::before {
     content: "\ea44";
 }
 
-.cryptocurrency-icons-evx::before {
+.crypto-evx::before {
     content: "\ea45";
 }
 
-.cryptocurrency-icons-exmo::before {
+.crypto-exmo::before {
     content: "\ea46";
 }
 
-.cryptocurrency-icons-exp::before {
+.crypto-exp::before {
     content: "\ea47";
 }
 
-.cryptocurrency-icons-fair::before {
+.crypto-fair::before {
     content: "\ea48";
 }
 
-.cryptocurrency-icons-fct::before {
+.crypto-fct::before {
     content: "\ea49";
 }
 
-.cryptocurrency-icons-fil::before {
+.crypto-fil::before {
     content: "\ea4a";
 }
 
-.cryptocurrency-icons-fldc::before {
+.crypto-fldc::before {
     content: "\ea4b";
 }
 
-.cryptocurrency-icons-flo::before {
+.crypto-flo::before {
     content: "\ea4c";
 }
 
-.cryptocurrency-icons-fun::before {
+.crypto-fun::before {
     content: "\ea4d";
 }
 
-.cryptocurrency-icons-game::before {
+.crypto-game::before {
     content: "\ea4e";
 }
 
-.cryptocurrency-icons-gas::before {
+.crypto-gas::before {
     content: "\ea4f";
 }
 
-.cryptocurrency-icons-gbp::before {
+.crypto-gbp::before {
     content: "\ea50";
 }
 
-.cryptocurrency-icons-gbx::before {
+.crypto-gbx::before {
     content: "\ea51";
 }
 
-.cryptocurrency-icons-gbyte::before {
+.crypto-gbyte::before {
     content: "\ea52";
 }
 
-.cryptocurrency-icons-gno::before {
+.crypto-gno::before {
     content: "\ea53";
 }
 
-.cryptocurrency-icons-gnt::before {
+.crypto-gnt::before {
     content: "\ea54";
 }
 
-.cryptocurrency-icons-grc::before {
+.crypto-grc::before {
     content: "\ea55";
 }
 
-.cryptocurrency-icons-grs::before {
+.crypto-grs::before {
     content: "\ea56";
 }
 
-.cryptocurrency-icons-gup::before {
+.crypto-gup::before {
     content: "\ea57";
 }
 
-.cryptocurrency-icons-gvt::before {
+.crypto-gvt::before {
     content: "\ea58";
 }
 
-.cryptocurrency-icons-gxs::before {
+.crypto-gxs::before {
     content: "\ea59";
 }
 
-.cryptocurrency-icons-hpb::before {
+.crypto-hpb::before {
     content: "\ea5a";
 }
 
-.cryptocurrency-icons-hsr::before {
+.crypto-hsr::before {
     content: "\ea5b";
 }
 
-.cryptocurrency-icons-huc::before {
+.crypto-huc::before {
     content: "\ea5c";
 }
 
-.cryptocurrency-icons-hush::before {
+.crypto-hush::before {
     content: "\ea5d";
 }
 
-.cryptocurrency-icons-icn::before {
+.crypto-icn::before {
     content: "\ea5e";
 }
 
-.cryptocurrency-icons-icx::before {
+.crypto-icx::before {
     content: "\ea5f";
 }
 
-.cryptocurrency-icons-ignis::before {
+.crypto-ignis::before {
     content: "\ea60";
 }
 
-.cryptocurrency-icons-ins::before {
+.crypto-ins::before {
     content: "\ea61";
 }
 
-.cryptocurrency-icons-iost::before {
+.crypto-iost::before {
     content: "\ea62";
 }
 
-.cryptocurrency-icons-jpy::before {
+.crypto-jpy::before {
     content: "\ea63";
 }
 
-.cryptocurrency-icons-kcs::before {
+.crypto-kcs::before {
     content: "\ea64";
 }
 
-.cryptocurrency-icons-kin::before {
+.crypto-kin::before {
     content: "\ea65";
 }
 
-.cryptocurrency-icons-kmd::before {
+.crypto-kmd::before {
     content: "\ea66";
 }
 
-.cryptocurrency-icons-knc::before {
+.crypto-knc::before {
     content: "\ea67";
 }
 
-.cryptocurrency-icons-krb::before {
+.crypto-krb::before {
     content: "\ea68";
 }
 
-.cryptocurrency-icons-lbc::before {
+.crypto-lbc::before {
     content: "\ea69";
 }
 
-.cryptocurrency-icons-link::before {
+.crypto-link::before {
     content: "\ea6a";
 }
 
-.cryptocurrency-icons-lkk::before {
+.crypto-lkk::before {
     content: "\ea6b";
 }
 
-.cryptocurrency-icons-lrc::before {
+.crypto-lrc::before {
     content: "\ea6c";
 }
 
-.cryptocurrency-icons-lsk::before {
+.crypto-lsk::before {
     content: "\ea6d";
 }
 
-.cryptocurrency-icons-ltc::before {
+.crypto-ltc::before {
     content: "\ea6e";
 }
 
-.cryptocurrency-icons-maid::before {
+.crypto-maid::before {
     content: "\ea6f";
 }
 
-.cryptocurrency-icons-mana::before {
+.crypto-mana::before {
     content: "\ea70";
 }
 
-.cryptocurrency-icons-mcap::before {
+.crypto-mcap::before {
     content: "\ea71";
 }
 
-.cryptocurrency-icons-mco::before {
+.crypto-mco::before {
     content: "\ea72";
 }
 
-.cryptocurrency-icons-med::before {
+.crypto-med::before {
     content: "\ea73";
 }
 
-.cryptocurrency-icons-miota::before {
+.crypto-miota::before {
     content: "\ea74";
 }
 
-.cryptocurrency-icons-mkr::before {
+.crypto-mkr::before {
     content: "\ea75";
 }
 
-.cryptocurrency-icons-mln::before {
+.crypto-mln::before {
     content: "\ea76";
 }
 
-.cryptocurrency-icons-mnx::before {
+.crypto-mnx::before {
     content: "\ea77";
 }
 
-.cryptocurrency-icons-mona::before {
+.crypto-mona::before {
     content: "\ea78";
 }
 
-.cryptocurrency-icons-mtl::before {
+.crypto-mtl::before {
     content: "\ea79";
 }
 
-.cryptocurrency-icons-music::before {
+.crypto-music::before {
     content: "\ea7a";
 }
 
-.cryptocurrency-icons-nano::before {
+.crypto-nano::before {
     content: "\ea7b";
 }
 
-.cryptocurrency-icons-nas::before {
+.crypto-nas::before {
     content: "\ea7c";
 }
 
-.cryptocurrency-icons-nav::before {
+.crypto-nav::before {
     content: "\ea7d";
 }
 
-.cryptocurrency-icons-ndz::before {
+.crypto-ndz::before {
     content: "\ea7e";
 }
 
-.cryptocurrency-icons-nebl::before {
+.crypto-nebl::before {
     content: "\ea7f";
 }
 
-.cryptocurrency-icons-neo::before {
+.crypto-neo::before {
     content: "\ea80";
 }
 
-.cryptocurrency-icons-neos::before {
+.crypto-neos::before {
     content: "\ea81";
 }
 
-.cryptocurrency-icons-ngc::before {
+.crypto-ngc::before {
     content: "\ea82";
 }
 
-.cryptocurrency-icons-nlc2::before {
+.crypto-nlc2::before {
     content: "\ea83";
 }
 
-.cryptocurrency-icons-nlg::before {
+.crypto-nlg::before {
     content: "\ea84";
 }
 
-.cryptocurrency-icons-nmc::before {
+.crypto-nmc::before {
     content: "\ea85";
 }
 
-.cryptocurrency-icons-nxs::before {
+.crypto-nxs::before {
     content: "\ea86";
 }
 
-.cryptocurrency-icons-nxt::before {
+.crypto-nxt::before {
     content: "\ea87";
 }
 
-.cryptocurrency-icons-omg::before {
+.crypto-omg::before {
     content: "\ea88";
 }
 
-.cryptocurrency-icons-omni::before {
+.crypto-omni::before {
     content: "\ea89";
 }
 
-.cryptocurrency-icons-ost::before {
+.crypto-ost::before {
     content: "\ea8a";
 }
 
-.cryptocurrency-icons-ox::before {
+.crypto-ox::before {
     content: "\ea8b";
 }
 
-.cryptocurrency-icons-pac::before {
+.crypto-pac::before {
     content: "\ea8c";
 }
 
-.cryptocurrency-icons-part::before {
+.crypto-part::before {
     content: "\ea8d";
 }
 
-.cryptocurrency-icons-pasl::before {
+.crypto-pasl::before {
     content: "\ea8e";
 }
 
-.cryptocurrency-icons-pay::before {
+.crypto-pay::before {
     content: "\ea8f";
 }
 
-.cryptocurrency-icons-pink::before {
+.crypto-pink::before {
     content: "\ea90";
 }
 
-.cryptocurrency-icons-pirl::before {
+.crypto-pirl::before {
     content: "\ea91";
 }
 
-.cryptocurrency-icons-pivx::before {
+.crypto-pivx::before {
     content: "\ea92";
 }
 
-.cryptocurrency-icons-plr::before {
+.crypto-plr::before {
     content: "\ea93";
 }
 
-.cryptocurrency-icons-poe::before {
+.crypto-poe::before {
     content: "\ea94";
 }
 
-.cryptocurrency-icons-pot::before {
+.crypto-pot::before {
     content: "\ea95";
 }
 
-.cryptocurrency-icons-powr::before {
+.crypto-powr::before {
     content: "\ea96";
 }
 
-.cryptocurrency-icons-ppc::before {
+.crypto-ppc::before {
     content: "\ea97";
 }
 
-.cryptocurrency-icons-ppp::before {
+.crypto-ppp::before {
     content: "\ea98";
 }
 
-.cryptocurrency-icons-ppt::before {
+.crypto-ppt::before {
     content: "\ea99";
 }
 
-.cryptocurrency-icons-prl::before {
+.crypto-prl::before {
     content: "\ea9a";
 }
 
-.cryptocurrency-icons-pura::before {
+.crypto-pura::before {
     content: "\ea9b";
 }
 
-.cryptocurrency-icons-qash::before {
+.crypto-qash::before {
     content: "\ea9c";
 }
 
-.cryptocurrency-icons-qiwi::before {
+.crypto-qiwi::before {
     content: "\ea9d";
 }
 
-.cryptocurrency-icons-qlc::before {
+.crypto-qlc::before {
     content: "\ea9e";
 }
 
-.cryptocurrency-icons-qsp::before {
+.crypto-qsp::before {
     content: "\ea9f";
 }
 
-.cryptocurrency-icons-qtum::before {
+.crypto-qtum::before {
     content: "\eaa0";
 }
 
-.cryptocurrency-icons-rads::before {
+.crypto-rads::before {
     content: "\eaa1";
 }
 
-.cryptocurrency-icons-rcn::before {
+.crypto-rcn::before {
     content: "\eaa2";
 }
 
-.cryptocurrency-icons-rdd::before {
+.crypto-rdd::before {
     content: "\eaa3";
 }
 
-.cryptocurrency-icons-rdn::before {
+.crypto-rdn::before {
     content: "\eaa4";
 }
 
-.cryptocurrency-icons-rep::before {
+.crypto-rep::before {
     content: "\eaa5";
 }
 
-.cryptocurrency-icons-req::before {
+.crypto-req::before {
     content: "\eaa6";
 }
 
-.cryptocurrency-icons-rhoc::before {
+.crypto-rhoc::before {
     content: "\eaa7";
 }
 
-.cryptocurrency-icons-ric::before {
+.crypto-ric::before {
     content: "\eaa8";
 }
 
-.cryptocurrency-icons-rise::before {
+.crypto-rise::before {
     content: "\eaa9";
 }
 
-.cryptocurrency-icons-rlc::before {
+.crypto-rlc::before {
     content: "\eaaa";
 }
 
-.cryptocurrency-icons-rpx::before {
+.crypto-rpx::before {
     content: "\eaab";
 }
 
-.cryptocurrency-icons-rub::before {
+.crypto-rub::before {
     content: "\eaac";
 }
 
-.cryptocurrency-icons-salt::before {
+.crypto-salt::before {
     content: "\eaad";
 }
 
-.cryptocurrency-icons-san::before {
+.crypto-san::before {
     content: "\eaae";
 }
 
-.cryptocurrency-icons-sbd::before {
+.crypto-sbd::before {
     content: "\eaaf";
 }
 
-.cryptocurrency-icons-sberbank::before {
+.crypto-sberbank::before {
     content: "\eab0";
 }
 
-.cryptocurrency-icons-sc::before {
+.crypto-sc::before {
     content: "\eab1";
 }
 
-.cryptocurrency-icons-sky::before {
+.crypto-sky::before {
     content: "\eab2";
 }
 
-.cryptocurrency-icons-smart::before {
+.crypto-smart::before {
     content: "\eab3";
 }
 
-.cryptocurrency-icons-sngls::before {
+.crypto-sngls::before {
     content: "\eab4";
 }
 
-.cryptocurrency-icons-snt::before {
+.crypto-snt::before {
     content: "\eab5";
 }
 
-.cryptocurrency-icons-sphtx::before {
+.crypto-sphtx::before {
     content: "\eab6";
 }
 
-.cryptocurrency-icons-srn::before {
+.crypto-srn::before {
     content: "\eab7";
 }
 
-.cryptocurrency-icons-start::before {
+.crypto-start::before {
     content: "\eab8";
 }
 
-.cryptocurrency-icons-steem::before {
+.crypto-steem::before {
     content: "\eab9";
 }
 
-.cryptocurrency-icons-storj::before {
+.crypto-storj::before {
     content: "\eaba";
 }
 
-.cryptocurrency-icons-storm::before {
+.crypto-storm::before {
     content: "\eabb";
 }
 
-.cryptocurrency-icons-strat::before {
+.crypto-strat::before {
     content: "\eabc";
 }
 
-.cryptocurrency-icons-sub::before {
+.crypto-sub::before {
     content: "\eabd";
 }
 
-.cryptocurrency-icons-sys::before {
+.crypto-sys::before {
     content: "\eabe";
 }
 
-.cryptocurrency-icons-taas::before {
+.crypto-taas::before {
     content: "\eabf";
 }
 
-.cryptocurrency-icons-tau::before {
+.crypto-tau::before {
     content: "\eac0";
 }
 
-.cryptocurrency-icons-tkn::before {
+.crypto-tkn::before {
     content: "\eac1";
 }
 
-.cryptocurrency-icons-tnc::before {
+.crypto-tnc::before {
     content: "\eac2";
 }
 
-.cryptocurrency-icons-trig::before {
+.crypto-trig::before {
     content: "\eac3";
 }
 
-.cryptocurrency-icons-trx::before {
+.crypto-trx::before {
     content: "\eac4";
 }
 
-.cryptocurrency-icons-tzc::before {
+.crypto-tzc::before {
     content: "\eac5";
 }
 
-.cryptocurrency-icons-ubq::before {
+.crypto-ubq::before {
     content: "\eac6";
 }
 
-.cryptocurrency-icons-usd::before {
+.crypto-usd::before {
     content: "\eac7";
 }
 
-.cryptocurrency-icons-usdt::before {
+.crypto-usdt::before {
     content: "\eac8";
 }
 
-.cryptocurrency-icons-ven::before {
+.crypto-ven::before {
     content: "\eac9";
 }
 
-.cryptocurrency-icons-veri::before {
+.crypto-veri::before {
     content: "\eaca";
 }
 
-.cryptocurrency-icons-via::before {
+.crypto-via::before {
     content: "\eacb";
 }
 
-.cryptocurrency-icons-vivo::before {
+.crypto-vivo::before {
     content: "\eacc";
 }
 
-.cryptocurrency-icons-vrc::before {
+.crypto-vrc::before {
     content: "\eacd";
 }
 
-.cryptocurrency-icons-vtc::before {
+.crypto-vtc::before {
     content: "\eace";
 }
 
-.cryptocurrency-icons-wabi::before {
+.crypto-wabi::before {
     content: "\eacf";
 }
 
-.cryptocurrency-icons-waves::before {
+.crypto-waves::before {
     content: "\ead0";
 }
 
-.cryptocurrency-icons-wax::before {
+.crypto-wax::before {
     content: "\ead1";
 }
 
-.cryptocurrency-icons-wtc::before {
+.crypto-wtc::before {
     content: "\ead2";
 }
 
-.cryptocurrency-icons-xbc::before {
+.crypto-xbc::before {
     content: "\ead3";
 }
 
-.cryptocurrency-icons-xcp::before {
+.crypto-xcp::before {
     content: "\ead4";
 }
 
-.cryptocurrency-icons-xdn::before {
+.crypto-xdn::before {
     content: "\ead5";
 }
 
-.cryptocurrency-icons-xem::before {
+.crypto-xem::before {
     content: "\ead6";
 }
 
-.cryptocurrency-icons-xlm::before {
+.crypto-xlm::before {
     content: "\ead7";
 }
 
-.cryptocurrency-icons-xmg::before {
+.crypto-xmg::before {
     content: "\ead8";
 }
 
-.cryptocurrency-icons-xmr::before {
+.crypto-xmr::before {
     content: "\ead9";
 }
 
-.cryptocurrency-icons-xmy::before {
+.crypto-xmy::before {
     content: "\eada";
 }
 
-.cryptocurrency-icons-xp::before {
+.crypto-xp::before {
     content: "\eadb";
 }
 
-.cryptocurrency-icons-xpa::before {
+.crypto-xpa::before {
     content: "\eadc";
 }
 
-.cryptocurrency-icons-xpm::before {
+.crypto-xpm::before {
     content: "\eadd";
 }
 
-.cryptocurrency-icons-xrp::before {
+.crypto-xrp::before {
     content: "\eade";
 }
 
-.cryptocurrency-icons-xtz::before {
+.crypto-xtz::before {
     content: "\eadf";
 }
 
-.cryptocurrency-icons-xuc::before {
+.crypto-xuc::before {
     content: "\eae0";
 }
 
-.cryptocurrency-icons-xvc::before {
+.crypto-xvc::before {
     content: "\eae1";
 }
 
-.cryptocurrency-icons-xvg::before {
+.crypto-xvg::before {
     content: "\eae2";
 }
 
-.cryptocurrency-icons-xzc::before {
+.crypto-xzc::before {
     content: "\eae3";
 }
 
-.cryptocurrency-icons-zcl::before {
+.crypto-zcl::before {
     content: "\eae4";
 }
 
-.cryptocurrency-icons-zec::before {
+.crypto-zec::before {
     content: "\eae5";
 }
 
-.cryptocurrency-icons-zen::before {
+.crypto-zen::before {
     content: "\eae6";
 }
 
-.cryptocurrency-icons-zrx::before {
+.crypto-zrx::before {
     content: "\eae7";
 }

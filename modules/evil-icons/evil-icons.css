@@ -1,5 +1,5 @@
 /**
- * Evil Icons, 1.9.0-2
+ * Evil Icons, 1.9.0-3
  * Created by Alexander Madyankin
  * http://evil-icons.io
  * MIT License
@@ -17,7 +17,7 @@
     url('./evil-icons.svg#evil-icons') format('svg');
 }
 
-.evil-icons {
+.evil {
   font-family: "evil-icons";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -31,282 +31,282 @@
 
 
 
-.evil-icons-archive::before {
+.evil-archive::before {
     content: "\ea01";
 }
 
-.evil-icons-arrow-down::before {
+.evil-arrow-down::before {
     content: "\ea02";
 }
 
-.evil-icons-arrow-left::before {
+.evil-arrow-left::before {
     content: "\ea03";
 }
 
-.evil-icons-arrow-right::before {
+.evil-arrow-right::before {
     content: "\ea04";
 }
 
-.evil-icons-arrow-up::before {
+.evil-arrow-up::before {
     content: "\ea05";
 }
 
-.evil-icons-bell::before {
+.evil-bell::before {
     content: "\ea06";
 }
 
-.evil-icons-calendar::before {
+.evil-calendar::before {
     content: "\ea07";
 }
 
-.evil-icons-camera::before {
+.evil-camera::before {
     content: "\ea08";
 }
 
-.evil-icons-cart::before {
+.evil-cart::before {
     content: "\ea09";
 }
 
-.evil-icons-chart::before {
+.evil-chart::before {
     content: "\ea0a";
 }
 
-.evil-icons-check::before {
+.evil-check::before {
     content: "\ea0b";
 }
 
-.evil-icons-chevron-down::before {
+.evil-chevron-down::before {
     content: "\ea0c";
 }
 
-.evil-icons-chevron-left::before {
+.evil-chevron-left::before {
     content: "\ea0d";
 }
 
-.evil-icons-chevron-right::before {
+.evil-chevron-right::before {
     content: "\ea0e";
 }
 
-.evil-icons-chevron-up::before {
+.evil-chevron-up::before {
     content: "\ea0f";
 }
 
-.evil-icons-clock::before {
+.evil-clock::before {
     content: "\ea10";
 }
 
-.evil-icons-close-o::before {
+.evil-close-o::before {
     content: "\ea11";
 }
 
-.evil-icons-close::before {
+.evil-close::before {
     content: "\ea12";
 }
 
-.evil-icons-comment::before {
+.evil-comment::before {
     content: "\ea13";
 }
 
-.evil-icons-credit-card::before {
+.evil-credit-card::before {
     content: "\ea14";
 }
 
-.evil-icons-envelope::before {
+.evil-envelope::before {
     content: "\ea15";
 }
 
-.evil-icons-exclamation::before {
+.evil-exclamation::before {
     content: "\ea16";
 }
 
-.evil-icons-external-link::before {
+.evil-external-link::before {
     content: "\ea17";
 }
 
-.evil-icons-eye::before {
+.evil-eye::before {
     content: "\ea18";
 }
 
-.evil-icons-gear::before {
+.evil-gear::before {
     content: "\ea19";
 }
 
-.evil-icons-heart::before {
+.evil-heart::before {
     content: "\ea1a";
 }
 
-.evil-icons-image::before {
+.evil-image::before {
     content: "\ea1b";
 }
 
-.evil-icons-like::before {
+.evil-like::before {
     content: "\ea1c";
 }
 
-.evil-icons-link::before {
+.evil-link::before {
     content: "\ea1d";
 }
 
-.evil-icons-location::before {
+.evil-location::before {
     content: "\ea1e";
 }
 
-.evil-icons-lock::before {
+.evil-lock::before {
     content: "\ea1f";
 }
 
-.evil-icons-minus::before {
+.evil-minus::before {
     content: "\ea20";
 }
 
-.evil-icons-navicon::before {
+.evil-navicon::before {
     content: "\ea21";
 }
 
-.evil-icons-paperclip::before {
+.evil-paperclip::before {
     content: "\ea22";
 }
 
-.evil-icons-pencil::before {
+.evil-pencil::before {
     content: "\ea23";
 }
 
-.evil-icons-play::before {
+.evil-play::before {
     content: "\ea24";
 }
 
-.evil-icons-plus::before {
+.evil-plus::before {
     content: "\ea25";
 }
 
-.evil-icons-pointer::before {
+.evil-pointer::before {
     content: "\ea26";
 }
 
-.evil-icons-question::before {
+.evil-question::before {
     content: "\ea27";
 }
 
-.evil-icons-redo::before {
+.evil-redo::before {
     content: "\ea28";
 }
 
-.evil-icons-refresh::before {
+.evil-refresh::before {
     content: "\ea29";
 }
 
-.evil-icons-retweet::before {
+.evil-retweet::before {
     content: "\ea2a";
 }
 
-.evil-icons-sc-facebook::before {
+.evil-sc-facebook::before {
     content: "\ea2b";
 }
 
-.evil-icons-sc-github::before {
+.evil-sc-github::before {
     content: "\ea2c";
 }
 
-.evil-icons-sc-google-plus::before {
+.evil-sc-google-plus::before {
     content: "\ea2d";
 }
 
-.evil-icons-sc-instagram::before {
+.evil-sc-instagram::before {
     content: "\ea2e";
 }
 
-.evil-icons-sc-linkedin::before {
+.evil-sc-linkedin::before {
     content: "\ea2f";
 }
 
-.evil-icons-sc-odnoklassniki::before {
+.evil-sc-odnoklassniki::before {
     content: "\ea30";
 }
 
-.evil-icons-sc-pinterest::before {
+.evil-sc-pinterest::before {
     content: "\ea31";
 }
 
-.evil-icons-sc-skype::before {
+.evil-sc-skype::before {
     content: "\ea32";
 }
 
-.evil-icons-sc-soundcloud::before {
+.evil-sc-soundcloud::before {
     content: "\ea33";
 }
 
-.evil-icons-sc-telegram::before {
+.evil-sc-telegram::before {
     content: "\ea34";
 }
 
-.evil-icons-sc-tumblr::before {
+.evil-sc-tumblr::before {
     content: "\ea35";
 }
 
-.evil-icons-sc-twitter::before {
+.evil-sc-twitter::before {
     content: "\ea36";
 }
 
-.evil-icons-sc-vimeo::before {
+.evil-sc-vimeo::before {
     content: "\ea37";
 }
 
-.evil-icons-sc-vk::before {
+.evil-sc-vk::before {
     content: "\ea38";
 }
 
-.evil-icons-sc-youtube::before {
+.evil-sc-youtube::before {
     content: "\ea39";
 }
 
-.evil-icons-search::before {
+.evil-search::before {
     content: "\ea3a";
 }
 
-.evil-icons-share-apple::before {
+.evil-share-apple::before {
     content: "\ea3b";
 }
 
-.evil-icons-share-google::before {
+.evil-share-google::before {
     content: "\ea3c";
 }
 
-.evil-icons-spinner-2::before {
+.evil-spinner-2::before {
     content: "\ea3d";
 }
 
-.evil-icons-spinner-3::before {
+.evil-spinner-3::before {
     content: "\ea3e";
 }
 
-.evil-icons-spinner::before {
+.evil-spinner::before {
     content: "\ea3f";
 }
 
-.evil-icons-star::before {
+.evil-star::before {
     content: "\ea40";
 }
 
-.evil-icons-tag::before {
+.evil-tag::before {
     content: "\ea41";
 }
 
-.evil-icons-trash::before {
+.evil-trash::before {
     content: "\ea42";
 }
 
-.evil-icons-trophy::before {
+.evil-trophy::before {
     content: "\ea43";
 }
 
-.evil-icons-undo::before {
+.evil-undo::before {
     content: "\ea44";
 }
 
-.evil-icons-unlock::before {
+.evil-unlock::before {
     content: "\ea45";
 }
 
-.evil-icons-user::before {
+.evil-user::before {
     content: "\ea46";
 }
