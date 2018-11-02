@@ -9,3 +9,4 @@ _site
 *.lerna_backup
 .changelog
 dist
+yarn.lock

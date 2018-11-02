@@ -2,7 +2,6 @@
   "private": true,
   "workspaces": [
     "modules/*",
-    "modules/*/samples",
     "tools/*"
   ],
   "scripts": {
@@ -21,10 +20,10 @@
   "devDependencies": {
     "@frctl/fractal": "git+ssh://git@github.com/thecreation/fractal.git",
     "autoprefixer": "^9.3.1",
-    "babel-core": "^6.26.3",
     "babel-eslint": "^10.0.1",
-    "babel-plugin-external-helpers": "^6.22.0",
-    "babel-preset-env": "^1.7.0",
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-external-helpers": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
     "bluebird": "^3.5.2",
     "chalk": "^2.4.1",
     "cheerio": "^1.0.0-rc.2",
