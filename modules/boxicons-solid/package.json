@@ -1,0 +1,27 @@
+{
+  "version": "1.7.1-1",
+  "name": "@icon/boxicons-solid",
+  "description": "High Quality web friendly icons",
+  "author": "Atisa",
+  "license": "(CC-4.0 OR SIL-OFL-1.1 OR MIT)",
+  "style": "index.scss",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/boxicons-solid",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=boxicons-solid",
+    "optimize": "../../scripts/module/optimize --module=boxicons-solid"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "devDependencies": {
+    "boxicons": "^1.7.1"
+  },
+  "homepage": "https://github.com/atisawd/boxicons#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,8 +1,21 @@
 {
-  "lerna": "2.5.1",
-  "packages": [
-    "modules/*",
-    "tools/*"
-  ],
-  "version": "independent"
+  "lerna": "3.4.3",
+  "version": "independent",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "publishConfig": {
+    "access": "public"
+  },
+  "ignoreChanges": [
+  	"**/__mocks__/**",
+    "**/node_modules/**",
+    "**/.babelrc",
+    "**/.markdownrc",
+    "**/.npmignore",
+    "**/.sassrc.js",
+    "**/*.hbs",
+    "**/package-lock.json",
+    "**/*.md",
+    "**/*.config.json"
+  ]
 }
