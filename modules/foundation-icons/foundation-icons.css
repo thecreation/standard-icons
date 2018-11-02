@@ -725,8 +725,8 @@
 .fi-social-windows:before {
   content: "\f1e6";
 }
-.fi-social-xbox:before {
-  content: "\f1e7";
+.fi-social-xbox-20:before {
+  content: "";
 }
 .fi-social-yahoo:before {
   content: "\f1e8";

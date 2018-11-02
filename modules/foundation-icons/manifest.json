@@ -244,7 +244,7 @@
     "social-twitter": "social-twitter",
     "social-vimeo": "social-vimeo",
     "social-windows": "social-windows",
-    "social-xbox": "social-xbox",
+    "social-xbox-20": "social-xbox-20",
     "social-yahoo": "social-yahoo",
     "social-yelp": "social-yelp",
     "social-youtube": "social-youtube",
@@ -292,8 +292,9 @@
     "map": "map",
     "clipboard": "clipboard",
     "clipboard-pencil": "clipboard-pencil",
-    "clipboard-notes": "clipboard-notes"
-  },
+    "clipboard-notes": "clipboard-notes",
+  }
+  ,
   "categories": {
     "General Icons": [
       "heart",
@@ -368,13 +369,15 @@
       "css3",
       "layout",
       "web",
-      "foundation"
+      "foundation",
     ],
     "Page Icons": [
       "page",
       "page-csv",
       "page-export-csv",
+      "page-export-csv",
       "page-export",
+      "page-export-csv",
       "page-export-doc",
       "page-export-pdf",
       "page-add",
@@ -384,7 +387,7 @@
       "page-search",
       "page-copy",
       "page-filled",
-      "page-multiple"
+      "page-multiple",
     ],
     "Arrow Icons": [
       "arrow-up",
@@ -394,7 +397,7 @@
       "arrows-out",
       "arrows-in",
       "arrows-expand",
-      "arrows-compress"
+      "arrows-compress",
     ],
     "People Icons": [
       "torso",
@@ -404,7 +407,7 @@
       "torsos-male-female",
       "torsos-all",
       "torsos-all-female",
-      "torso-business"
+      "torso-business",
     ],
     "Device Icons": [
       "monitor",
@@ -413,7 +416,7 @@
       "tablet-landscape",
       "mobile",
       "mobile-signal",
-      "usb"
+      "usb",
     ],
     "Text Editor Icons": [
       "bold",
@@ -439,7 +442,7 @@
       "paint-bucket",
       "link",
       "unlink",
-      "quote"
+      "quote",
     ],
     "Media Control Icons": [
       "play",
@@ -457,7 +460,7 @@
       "loop",
       "shuffle",
       "eject",
-      "rewind-ten"
+      "rewind-ten",
     ],
     "Ecommerce Icons": [
       "dollar",
@@ -475,7 +478,7 @@
       "price-tag",
       "pricetag-multiple",
       "shopping-bag",
-      "dollar-bill"
+      "dollar-bill",
     ],
     "Accessibility Icons": [
       "wheelchair",
@@ -492,7 +495,7 @@
       "female",
       "male-female",
       "male-symbol",
-      "female-symbol"
+      "female-symbol",
     ],
     "Social &amp; Brand Icons": [
       "social-500px",
@@ -546,12 +549,12 @@
       "social-twitter",
       "social-vimeo",
       "social-windows",
-      "social-xbox",
+      "social-xbox-20",
       "social-yahoo",
       "social-yelp",
       "social-youtube",
       "social-zerply",
-      "social-zurb"
+      "social-zurb",
     ],
     "Miscellaneous Icons": [
       "compass",
@@ -596,8 +599,8 @@
       "map",
       "clipboard",
       "clipboard-pencil",
-      "clipboard-notes"
-    ]
+      "clipboard-notes",
+    ],
   }
 }
 

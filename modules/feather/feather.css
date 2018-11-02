@@ -755,4 +755,94 @@
 .fe-heart-on:before {
   content: "\e90c";
 }
+.fe-archive:before {
+  content: "\e90d";
+}
+.fe-arrow-down-circle:before {
+  content: "\e90e";
+}
+.fe-arrow-up-circle:before {
+  content: "\e90f";
+}
+.fe-arrow-left-circle:before {
+  content: "\e910";
+}
+.fe-arrow-right-circle:before {
+  content: "\e911";
+}
+.fe-bar-chart-line-:before {
+  content: "\e912";
+}
+.fe-bar-chart-line:before {
+  content: "\e913";
+}
+.fe-book-open:before {
+  content: "\e914";
+}
+.fe-code:before {
+  content: "\e915";
+}
+.fe-database:before {
+  content: "\e916";
+}
+.fe-dollar-sign:before {
+  content: "\e917";
+}
+.fe-folder-plus:before {
+  content: "\e918";
+}
+.fe-gift:before {
+  content: "\e919";
+}
+.fe-folder-minus:before {
+  content: "\e91a";
+}
+.fe-git-commit:before {
+  content: "\e91b";
+}
+.fe-git-branch:before {
+  content: "\e91c";
+}
+.fe-git-pull-request:before {
+  content: "\e91d";
+}
+.fe-git-merge:before {
+  content: "\e91e";
+}
+.fe-linkedin:before {
+  content: "\e91f";
+}
+.fe-hard-drive:before {
+  content: "\e920";
+}
+.fe-more-vertical-:before {
+  content: "\e921";
+}
+.fe-more-horizontal-:before {
+  content: "\e922";
+}
+.fe-rss:before {
+  content: "\e923";
+}
+.fe-send:before {
+  content: "\e924";
+}
+.fe-shield-off:before {
+  content: "\e925";
+}
+.fe-shopping-bag:before {
+  content: "\e926";
+}
+.fe-terminal:before {
+  content: "\e927";
+}
+.fe-truck:before {
+  content: "\e928";
+}
+.fe-zap-off:before {
+  content: "\e929";
+}
+.fe-youtube:before {
+  content: "\e92a";
+}
 

@@ -1,11 +1,6 @@
 {
   "lerna": "3.4.3",
   "version": "independent",
-  "npmClient": "yarn",
-  "useWorkspaces": true,
-  "publishConfig": {
-    "access": "public"
-  },
   "ignoreChanges": [
     "**/node_modules/**",
     "**/.npmignore",
@@ -13,5 +8,9 @@
     "**/package-lock.json",
     "**/*.md",
     "**/*.config.json"
+  ],
+  "packages": [
+    "modules/*",
+    "tools/*"
   ]
 }
