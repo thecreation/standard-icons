@@ -1,0 +1,27 @@
+{
+  "version": "1.0.2-1",
+  "name": "@icon/eva-fill-icons",
+  "description": "Eva Icons - beautifully crafted Open Source UI icons for common actions and items.",
+  "author": "akveo",
+  "license": "MIT",
+  "style": "index.scss",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/eva-fill-icons",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=eva-fill-icons",
+    "optimize": "../../scripts/module/optimize --module=eva-fill-icons"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "devDependencies": {
+    "eva-icons": "^1.0.2"
+  },
+  "homepage": "https://github.com/akveo/eva-icons#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}

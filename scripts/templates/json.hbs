@@ -15,20 +15,39 @@
   "classifiable": {{classifiable}},
   "icons": {
     {{#each icons}}
+    {{#equal @index ../icons}}
+    "{{name}}": "{{title}}"
+    {{else}}
     "{{name}}": "{{title}}",
+    {{/equal}}
     {{/each}}
   }
   {{#if classifiable}}
   ,
   "categories": {
     {{#each categories}}
+    {{#equal @index ../categories}}
     "{{@key}}": [
       {{#each this}}
+      {{#equal @index ../this}}
+      "{{this}}"
+      {{else}}
       "{{this}}",
+      {{/equal}}
+      {{/each}}
+    ]
+    {{else}}
+    "{{@key}}": [
+      {{#each this}}
+      {{#equal @index ../this}}
+      "{{this}}"
+      {{else}}
+      "{{this}}",
+      {{/equal}}
       {{/each}}
     ],
+    {{/equal}}
     {{/each}}
   }
   {{/if}}
 }
-

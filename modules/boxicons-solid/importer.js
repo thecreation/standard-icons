@@ -15,11 +15,11 @@ const path = require('path');
 
 let options = {
   source: path.join(`${__dirname}/node_modules/`, 'boxicons'),
-  name: 'boxicons',
-  class: 'bx',
+  name: 'boxicons-solid',
+  class: 'bxs',
   prefix: 'bxs-',
-  className: 'Boxicons',
-  title: 'Boxicons',
+  className: 'BoxiconsSolid',
+  title: 'Boxicons Solid',
   version: '1.7.1-1',
   classifiable: false
 };

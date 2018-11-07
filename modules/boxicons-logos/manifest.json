@@ -1,14 +1,14 @@
 {
-  "name": "boxicons",
-  "title": "Boxicons",
+  "name": "boxicons-logos",
+  "title": "Boxicons Logos",
   "description": "High Quality web friendly icons",
   "version": "1.7.1-1",
-  "class": "bx",
+  "class": "bxl",
   "prefix": "bxl-",
   "homepage": "https://github.com/atisawd/boxicons#readme",
   "author": "Atisa",
   "license": "(CC-4.0 OR SIL-OFL-1.1 OR MIT)",
-  "style": "boxicons.css",
+  "style": "boxicons-logos.css",
   "count": "35",
   "classifiable": false,
   "icons": {
@@ -46,7 +46,6 @@
     "vk": "vk",
     "whatsapp": "whatsapp",
     "windows": "windows",
-    "youtube": "youtube",
+    "youtube": "youtube"
   }
 }
-

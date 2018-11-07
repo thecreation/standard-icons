@@ -1,14 +1,14 @@
 {
-  "name": "boxicons",
-  "title": "Boxicons",
+  "name": "boxicons-regular",
+  "title": "Boxicons Regular",
   "description": "High Quality web friendly icons",
   "version": "1.7.1-1",
-  "class": "bx",
+  "class": "bxr",
   "prefix": "bxr-",
   "homepage": "https://github.com/atisawd/boxicons#readme",
   "author": "Atisa",
   "license": "(CC-4.0 OR SIL-OFL-1.1 OR MIT)",
-  "style": "boxicons.css",
+  "style": "boxicons-regular.css",
   "count": "470",
   "classifiable": false,
   "icons": {
@@ -481,7 +481,6 @@
     "x-circle": "x-circle",
     "zap": "zap",
     "zoom-in": "zoom-in",
-    "zoom-out": "zoom-out",
+    "zoom-out": "zoom-out"
   }
 }
-

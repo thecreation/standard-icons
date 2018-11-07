@@ -1,0 +1,137 @@
+/**
+ * Boxicons Logos, 1.7.1-1
+ * Created by Atisa
+ * https://github.com/atisawd/boxicons#readme
+ * (CC-4.0 OR SIL-OFL-1.1 OR MIT) License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "boxicons-logos";
+  src: url('boxicons-logos.eot');
+  src: url('boxicons-logos.eot?#iefix') format('eot'),
+    url('boxicons-logos.woff2') format('woff2'),
+    url('boxicons-logos.woff') format('woff'),
+    url('boxicons-logos.ttf') format('truetype'),
+    url('boxicons-logos.svg#boxicons-logos') format('svg');
+}
+
+.bxl {
+  font-family: "boxicons-logos";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+.bxl-android:before {
+  content: "\e900";
+}
+.bxl-apple:before {
+  content: "\e901";
+}
+.bxl-behance:before {
+  content: "\e902";
+}
+.bxl-bitcoin:before {
+  content: "\e903";
+}
+.bxl-blogger:before {
+  content: "\e904";
+}
+.bxl-discord:before {
+  content: "\e905";
+}
+.bxl-dribbble:before {
+  content: "\e906";
+}
+.bxl-facebook:before {
+  content: "\e907";
+}
+.bxl-facebook-square:before {
+  content: "\e908";
+}
+.bxl-github:before {
+  content: "\e909";
+}
+.bxl-google:before {
+  content: "\e90a";
+}
+.bxl-google-plus:before {
+  content: "\e90b";
+}
+.bxl-google-plus-circle:before {
+  content: "\e90c";
+}
+.bxl-instagram:before {
+  content: "\e90d";
+}
+.bxl-linkedin:before {
+  content: "\e90e";
+}
+.bxl-linkedin-square:before {
+  content: "\e90f";
+}
+.bxl-medium:before {
+  content: "\e910";
+}
+.bxl-medium-square:before {
+  content: "\e911";
+}
+.bxl-messenger:before {
+  content: "\e912";
+}
+.bxl-pinterest:before {
+  content: "\e913";
+}
+.bxl-play-store:before {
+  content: "\e914";
+}
+.bxl-pocket:before {
+  content: "\e915";
+}
+.bxl-reddit:before {
+  content: "\e916";
+}
+.bxl-skype:before {
+  content: "\e917";
+}
+.bxl-slack:before {
+  content: "\e918";
+}
+.bxl-slack-rounded:before {
+  content: "\e919";
+}
+.bxl-tumblr:before {
+  content: "\e91a";
+}
+.bxl-twitch:before {
+  content: "\e91b";
+}
+.bxl-twitter:before {
+  content: "\e91c";
+}
+.bxl-twitter-square:before {
+  content: "\e91d";
+}
+.bxl-vimeo:before {
+  content: "\e91e";
+}
+.bxl-vk:before {
+  content: "\e91f";
+}
+.bxl-whatsapp:before {
+  content: "\e920";
+}
+.bxl-windows:before {
+  content: "\e921";
+}
+.bxl-youtube:before {
+  content: "\e922";
+}
+

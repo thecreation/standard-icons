@@ -47,7 +47,9 @@ module.exports = function() {
   generateCss(paths.dest, options.name, options);
   generateJson(paths.dest, options.className, options);
   copyFonts(paths.dest, paths.fonts, options);
-  copySvgs(paths.svgsDest, paths.svgs, options.svgs);
+  copySvgs(paths.svgsDest, paths.svgs, options.svgs, '', function(file) {
+    return file.replace(/_/g, '-');
+  });
   copyLicense(paths.dest, paths.license);
   jsonfile(paths.dest, options);
 };
