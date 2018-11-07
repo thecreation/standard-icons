@@ -1,5 +1,5 @@
 {
-  "version": "1.7.1-1",
+  "version": "1.8.0-2",
   "name": "@icon/boxicons-regular",
   "description": "High Quality web friendly icons",
   "author": "Atisa",
@@ -18,7 +18,7 @@
     "icon"
   ],
   "devDependencies": {
-    "boxicons": "^1.7.1"
+    "boxicons": "^1.8.1"
   },
   "homepage": "https://github.com/atisawd/boxicons#readme",
   "publishConfig": {

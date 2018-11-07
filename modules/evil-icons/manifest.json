@@ -2,7 +2,7 @@
   "name": "evil-icons",
   "title": "Evil Icons",
   "description": "Evil Icons is a set of SVG icons designed extensively for using in modern web projects",
-  "version": "1.9.0-3",
+  "version": "1.10.1-4",
   "class": "evil",
   "prefix": "evil-",
   "homepage": "http://evil-icons.io",
@@ -28,8 +28,8 @@
     "chevron-right": "chevron-right",
     "chevron-up": "chevron-up",
     "clock": "clock",
-    "close-o": "close-o",
     "close": "close",
+    "close-o": "close-o",
     "comment": "comment",
     "credit-card": "credit-card",
     "envelope": "envelope",
@@ -72,9 +72,9 @@
     "search": "search",
     "share-apple": "share-apple",
     "share-google": "share-google",
+    "spinner": "spinner",
     "spinner-2": "spinner-2",
     "spinner-3": "spinner-3",
-    "spinner": "spinner",
     "star": "star",
     "tag": "tag",
     "trash": "trash",
@@ -84,4 +84,3 @@
     "user": "user"
   }
 }
-

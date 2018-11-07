@@ -1,1 +1,11 @@
-<svg width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="M4 4H.997C.453 4 0 4.446 0 4.997v6.006c0 .544.446.997.997.997h6.006c.544 0 .997-.446.997-.997V8h3.003c.544 0 .997-.446.997-.997V.997C12 .453 11.554 0 11.003 0H4.997C4.453 0 4 .446 4 .997V4zm0 0h3c.45 0 1 .45 1 .997V8H4.997C4.45 8 4 7.45 4 7V4z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>intersect</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="production" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="intersect" fill="#000000">
+            <path d="M15,15 L15,19 C15,20.1045695 14.1045695,21 13,21 L5,21 C3.8954305,21 3,20.1045695 3,19 L3,11 C3,9.8954305 3.8954305,9 5,9 L9,9 L9,5 C9,3.8954305 9.8954305,3 11,3 L19,3 C20.1045695,3 21,3.8954305 21,5 L21,13 C21,14.1045695 20.1045695,15 19,15 L15,15 Z M10,14 L14,14 L14,10 L10,10 L10,14 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

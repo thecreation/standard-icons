@@ -1,1 +1,11 @@
-<svg width="16" height="10" viewBox="0 0 16 10" xmlns="http://www.w3.org/2000/svg"><path d="M9.411 8.82L5.903 0H3.977L0 10h1.463a.625.625 0 0 0 .403-.131.655.655 0 0 0 .22-.29l.757-2.041h4.194l.756 2.04a.642.642 0 0 0 .63.422H9.88v-.002h.108a.468.468 0 0 0 .445-.301l.54-1.458h2.996l.54 1.458a.459.459 0 0 0 .45.301H16l-2.84-7.143h-1.376L9.41 8.821zm1.908-1.52h2.305s-1.108-3.047-1.155-3.215c-.047.168-1.15 3.216-1.15 3.216zM3.326 6.225h3.228S5.002 1.957 4.937 1.722c-.066.235-1.611 4.502-1.611 4.502z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>text-size</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="text-size" fill="#000000">
+            <path d="M13.5004086,16.493803 L15.9083428,9.27000046 L18.0895999,9.27000046 L21,17.9950289 L19.0319589,17.9950289 L18.463322,16.0682518 L15.4968123,16.0682518 L14.8540685,17.9950289 L14.0011712,17.9950289 L14.0028294,18 L11.2960768,18 L10.514,15.35 L6.434,15.35 L5.55,18 L3,18 L7,6 L10,6 L13.5004086,16.493803 Z M7,13 L10,13 L8.496,9 L7,13 Z M15.9083428,14.3596004 L18.0895999,14.3596004 L16.996063,11.4512576 L15.9083428,14.3596004 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

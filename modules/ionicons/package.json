@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0-4",
+  "version": "4.4.7-5",
   "name": "@icon/ionicons",
   "description": "Premium icons for Ionic.",
   "author": "Ben Sperry",
@@ -17,7 +17,7 @@
     "icon"
   ],
   "devDependencies": {
-    "ionicons": "^3.0.0"
+    "ionicons": "^4.4.7"
   },
   "homepage": "http://ionicons.com/",
   "publishConfig": {

@@ -1,5 +1,5 @@
 {
-  "version": "0.9.5-3",
+  "version": "1.0.2-4",
   "name": "@icon/feathericon",
   "description": "Simple, scalable vector icon font for websites, apps.",
   "author": "Featherplain",
@@ -17,9 +17,9 @@
     "icon"
   ],
   "devDependencies": {
-    "feathericon": "^0.9.5"
+    "feathericon": "^1.0.2"
   },
-  "homepage": "http://feathericon.com",
+  "homepage": "https://feathericon.com",
   "publishConfig": {
     "access": "public"
   }

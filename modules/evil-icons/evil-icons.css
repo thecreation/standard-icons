@@ -1,5 +1,5 @@
 /**
- * Evil Icons, 1.9.0-3
+ * Evil Icons, 1.10.1-4
  * Created by Alexander Madyankin
  * http://evil-icons.io
  * MIT License
@@ -30,283 +30,282 @@
 }
 
 
-
 .evil-archive::before {
-    content: "\ea01";
+  content: "\ea01";
 }
 
 .evil-arrow-down::before {
-    content: "\ea02";
+  content: "\ea02";
 }
 
 .evil-arrow-left::before {
-    content: "\ea03";
+  content: "\ea03";
 }
 
 .evil-arrow-right::before {
-    content: "\ea04";
+  content: "\ea04";
 }
 
 .evil-arrow-up::before {
-    content: "\ea05";
+  content: "\ea05";
 }
 
 .evil-bell::before {
-    content: "\ea06";
+  content: "\ea06";
 }
 
 .evil-calendar::before {
-    content: "\ea07";
+  content: "\ea07";
 }
 
 .evil-camera::before {
-    content: "\ea08";
+  content: "\ea08";
 }
 
 .evil-cart::before {
-    content: "\ea09";
+  content: "\ea09";
 }
 
 .evil-chart::before {
-    content: "\ea0a";
+  content: "\ea0a";
 }
 
 .evil-check::before {
-    content: "\ea0b";
+  content: "\ea0b";
 }
 
 .evil-chevron-down::before {
-    content: "\ea0c";
+  content: "\ea0c";
 }
 
 .evil-chevron-left::before {
-    content: "\ea0d";
+  content: "\ea0d";
 }
 
 .evil-chevron-right::before {
-    content: "\ea0e";
+  content: "\ea0e";
 }
 
 .evil-chevron-up::before {
-    content: "\ea0f";
+  content: "\ea0f";
 }
 
 .evil-clock::before {
-    content: "\ea10";
-}
-
-.evil-close-o::before {
-    content: "\ea11";
+  content: "\ea10";
 }
 
 .evil-close::before {
-    content: "\ea12";
+  content: "\ea11";
+}
+
+.evil-close-o::before {
+  content: "\ea12";
 }
 
 .evil-comment::before {
-    content: "\ea13";
+  content: "\ea13";
 }
 
 .evil-credit-card::before {
-    content: "\ea14";
+  content: "\ea14";
 }
 
 .evil-envelope::before {
-    content: "\ea15";
+  content: "\ea15";
 }
 
 .evil-exclamation::before {
-    content: "\ea16";
+  content: "\ea16";
 }
 
 .evil-external-link::before {
-    content: "\ea17";
+  content: "\ea17";
 }
 
 .evil-eye::before {
-    content: "\ea18";
+  content: "\ea18";
 }
 
 .evil-gear::before {
-    content: "\ea19";
+  content: "\ea19";
 }
 
 .evil-heart::before {
-    content: "\ea1a";
+  content: "\ea1a";
 }
 
 .evil-image::before {
-    content: "\ea1b";
+  content: "\ea1b";
 }
 
 .evil-like::before {
-    content: "\ea1c";
+  content: "\ea1c";
 }
 
 .evil-link::before {
-    content: "\ea1d";
+  content: "\ea1d";
 }
 
 .evil-location::before {
-    content: "\ea1e";
+  content: "\ea1e";
 }
 
 .evil-lock::before {
-    content: "\ea1f";
+  content: "\ea1f";
 }
 
 .evil-minus::before {
-    content: "\ea20";
+  content: "\ea20";
 }
 
 .evil-navicon::before {
-    content: "\ea21";
+  content: "\ea21";
 }
 
 .evil-paperclip::before {
-    content: "\ea22";
+  content: "\ea22";
 }
 
 .evil-pencil::before {
-    content: "\ea23";
+  content: "\ea23";
 }
 
 .evil-play::before {
-    content: "\ea24";
+  content: "\ea24";
 }
 
 .evil-plus::before {
-    content: "\ea25";
+  content: "\ea25";
 }
 
 .evil-pointer::before {
-    content: "\ea26";
+  content: "\ea26";
 }
 
 .evil-question::before {
-    content: "\ea27";
+  content: "\ea27";
 }
 
 .evil-redo::before {
-    content: "\ea28";
+  content: "\ea28";
 }
 
 .evil-refresh::before {
-    content: "\ea29";
+  content: "\ea29";
 }
 
 .evil-retweet::before {
-    content: "\ea2a";
+  content: "\ea2a";
 }
 
 .evil-sc-facebook::before {
-    content: "\ea2b";
+  content: "\ea2b";
 }
 
 .evil-sc-github::before {
-    content: "\ea2c";
+  content: "\ea2c";
 }
 
 .evil-sc-google-plus::before {
-    content: "\ea2d";
+  content: "\ea2d";
 }
 
 .evil-sc-instagram::before {
-    content: "\ea2e";
+  content: "\ea2e";
 }
 
 .evil-sc-linkedin::before {
-    content: "\ea2f";
+  content: "\ea2f";
 }
 
 .evil-sc-odnoklassniki::before {
-    content: "\ea30";
+  content: "\ea30";
 }
 
 .evil-sc-pinterest::before {
-    content: "\ea31";
+  content: "\ea31";
 }
 
 .evil-sc-skype::before {
-    content: "\ea32";
+  content: "\ea32";
 }
 
 .evil-sc-soundcloud::before {
-    content: "\ea33";
+  content: "\ea33";
 }
 
 .evil-sc-telegram::before {
-    content: "\ea34";
+  content: "\ea34";
 }
 
 .evil-sc-tumblr::before {
-    content: "\ea35";
+  content: "\ea35";
 }
 
 .evil-sc-twitter::before {
-    content: "\ea36";
+  content: "\ea36";
 }
 
 .evil-sc-vimeo::before {
-    content: "\ea37";
+  content: "\ea37";
 }
 
 .evil-sc-vk::before {
-    content: "\ea38";
+  content: "\ea38";
 }
 
 .evil-sc-youtube::before {
-    content: "\ea39";
+  content: "\ea39";
 }
 
 .evil-search::before {
-    content: "\ea3a";
+  content: "\ea3a";
 }
 
 .evil-share-apple::before {
-    content: "\ea3b";
+  content: "\ea3b";
 }
 
 .evil-share-google::before {
-    content: "\ea3c";
-}
-
-.evil-spinner-2::before {
-    content: "\ea3d";
-}
-
-.evil-spinner-3::before {
-    content: "\ea3e";
+  content: "\ea3c";
 }
 
 .evil-spinner::before {
-    content: "\ea3f";
+  content: "\ea3d";
+}
+
+.evil-spinner-2::before {
+  content: "\ea3e";
+}
+
+.evil-spinner-3::before {
+  content: "\ea3f";
 }
 
 .evil-star::before {
-    content: "\ea40";
+  content: "\ea40";
 }
 
 .evil-tag::before {
-    content: "\ea41";
+  content: "\ea41";
 }
 
 .evil-trash::before {
-    content: "\ea42";
+  content: "\ea42";
 }
 
 .evil-trophy::before {
-    content: "\ea43";
+  content: "\ea43";
 }
 
 .evil-undo::before {
-    content: "\ea44";
+  content: "\ea44";
 }
 
 .evil-unlock::before {
-    content: "\ea45";
+  content: "\ea45";
 }
 
 .evil-user::before {
-    content: "\ea46";
+  content: "\ea46";
 }

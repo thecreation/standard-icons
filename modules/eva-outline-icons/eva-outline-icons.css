@@ -1,5 +1,5 @@
 /**
- * Eva Outline Icons, 1.0.2-1
+ * Eva Outline Icons, 1.1.0-2
  * Created by akveo
  * https://github.com/akveo/eva-icons#readme
  * MIT License
@@ -30,727 +30,727 @@
 
 
 .evao-activity-outline:before {
-  content: "\eaf6";
+  content: "\ea02";
 }
 .evao-alert-circle-outline:before {
-  content: "\eaf7";
+  content: "\ea04";
 }
 .evao-alert-triangle-outline:before {
-  content: "\eaf8";
+  content: "\ea06";
 }
 .evao-archive-outline:before {
-  content: "\eaf9";
+  content: "\ea08";
 }
 .evao-arrow-back-outline:before {
-  content: "\eafa";
+  content: "\ea0a";
 }
 .evao-arrow-circle-down-outline:before {
-  content: "\eafb";
+  content: "\ea0c";
 }
 .evao-arrow-circle-left-outline:before {
-  content: "\eafc";
+  content: "\ea0e";
 }
 .evao-arrow-circle-right-outline:before {
-  content: "\eafd";
+  content: "\ea10";
 }
 .evao-arrow-circle-up-outline:before {
-  content: "\eafe";
+  content: "\ea12";
 }
 .evao-arrow-down-outline:before {
-  content: "\eaff";
+  content: "\ea14";
 }
 .evao-arrow-downward-outline:before {
-  content: "\eb00";
+  content: "\ea16";
 }
 .evao-arrow-forward-outline:before {
-  content: "\eb01";
+  content: "\ea18";
 }
 .evao-arrow-ios-back-outline:before {
-  content: "\eb02";
+  content: "\ea1a";
 }
 .evao-arrow-ios-downward-outline:before {
-  content: "\eb03";
+  content: "\ea1c";
 }
 .evao-arrow-ios-forward-outline:before {
-  content: "\eb04";
+  content: "\ea1e";
 }
 .evao-arrow-ios-upward-outline:before {
-  content: "\eb05";
+  content: "\ea20";
 }
 .evao-arrow-left-outline:before {
-  content: "\eb06";
+  content: "\ea22";
 }
 .evao-arrow-right-outline:before {
-  content: "\eb07";
+  content: "\ea24";
 }
 .evao-arrow-up-outline:before {
-  content: "\eb08";
+  content: "\ea26";
 }
 .evao-arrow-upward-outline:before {
-  content: "\eb09";
+  content: "\ea28";
 }
 .evao-arrowhead-down-outline:before {
-  content: "\eb0a";
+  content: "\ea2a";
 }
 .evao-arrowhead-left-outline:before {
-  content: "\eb0b";
+  content: "\ea2c";
 }
 .evao-arrowhead-right-outline:before {
-  content: "\eb0c";
+  content: "\ea2e";
 }
 .evao-arrowhead-up-outline:before {
-  content: "\eb0d";
+  content: "\ea30";
 }
 .evao-at-outline:before {
-  content: "\eb0e";
+  content: "\ea32";
 }
 .evao-attach-2-outline:before {
-  content: "\eb0f";
+  content: "\ea35";
 }
 .evao-attach-outline:before {
-  content: "\eb10";
+  content: "\ea36";
 }
 .evao-award-outline:before {
-  content: "\eb11";
+  content: "\ea38";
 }
 .evao-backspace-outline:before {
-  content: "\eb12";
+  content: "\ea3a";
 }
 .evao-bar-chart-2-outline:before {
-  content: "\eb13";
+  content: "\ea3d";
 }
 .evao-bar-chart-outline:before {
-  content: "\eb14";
+  content: "\ea3e";
 }
 .evao-battery-outline:before {
-  content: "\eb15";
+  content: "\ea40";
 }
 .evao-behance-outline:before {
-  content: "\eb16";
+  content: "\ea42";
 }
 .evao-bell-off-outline:before {
-  content: "\eb17";
+  content: "\ea45";
 }
 .evao-bell-outline:before {
-  content: "\eb18";
+  content: "\ea46";
 }
 .evao-bluetooth-outline:before {
-  content: "\eb19";
+  content: "\ea48";
 }
 .evao-book-open-outline:before {
-  content: "\eb1a";
+  content: "\ea4b";
 }
 .evao-book-outline:before {
-  content: "\eb1b";
+  content: "\ea4c";
 }
 .evao-bookmark-outline:before {
-  content: "\eb1c";
+  content: "\ea4e";
 }
 .evao-briefcase-outline:before {
-  content: "\eb1d";
+  content: "\ea50";
 }
 .evao-browser-outline:before {
-  content: "\eb1e";
+  content: "\ea52";
 }
 .evao-brush-outline:before {
-  content: "\eb1f";
+  content: "\ea54";
 }
 .evao-bulb-outline:before {
-  content: "\eb20";
+  content: "\ea56";
 }
 .evao-calendar-outline:before {
-  content: "\eb21";
+  content: "\ea58";
 }
 .evao-camera-outline:before {
-  content: "\eb22";
+  content: "\ea5a";
 }
 .evao-car-outline:before {
-  content: "\eb23";
+  content: "\ea5c";
 }
 .evao-cast-outline:before {
-  content: "\eb24";
+  content: "\ea5e";
 }
 .evao-charging-outline:before {
-  content: "\eb25";
+  content: "\ea60";
 }
 .evao-checkmark-circle-2-outline:before {
-  content: "\eb26";
+  content: "\ea64";
 }
 .evao-checkmark-circle-outline:before {
-  content: "\eb27";
+  content: "\ea65";
 }
 .evao-checkmark-outline:before {
-  content: "\eb28";
+  content: "\ea66";
 }
 .evao-checkmark-square-2-outline:before {
-  content: "\eb29";
+  content: "\ea69";
 }
 .evao-checkmark-square-outline:before {
-  content: "\eb2a";
+  content: "\ea6a";
 }
 .evao-chevron-down-outline:before {
-  content: "\eb2b";
+  content: "\ea6c";
 }
 .evao-chevron-left-outline:before {
-  content: "\eb2c";
+  content: "\ea6e";
 }
 .evao-chevron-right-outline:before {
-  content: "\eb2d";
+  content: "\ea70";
 }
 .evao-chevron-up-outline:before {
-  content: "\eb2e";
+  content: "\ea72";
 }
 .evao-clipboard-outline:before {
-  content: "\eb2f";
+  content: "\ea74";
 }
 .evao-clock-outline:before {
-  content: "\eb30";
+  content: "\ea76";
 }
 .evao-close-circle-outline:before {
-  content: "\eb31";
+  content: "\ea79";
 }
 .evao-close-outline:before {
-  content: "\eb32";
+  content: "\ea7a";
 }
 .evao-close-square-outline:before {
-  content: "\eb33";
+  content: "\ea7c";
 }
 .evao-cloud-download-outline:before {
-  content: "\eb34";
+  content: "\ea7e";
 }
 .evao-cloud-upload-outline:before {
-  content: "\eb35";
+  content: "\ea80";
 }
 .evao-code-download-outline:before {
-  content: "\eb36";
+  content: "\ea83";
 }
 .evao-code-outline:before {
-  content: "\eb37";
+  content: "\ea84";
 }
 .evao-collapse-outline:before {
-  content: "\eb38";
+  content: "\ea86";
 }
 .evao-color-palette-outline:before {
-  content: "\eb39";
+  content: "\ea88";
 }
 .evao-color-picker-outline:before {
-  content: "\eb3a";
+  content: "\ea8a";
 }
 .evao-compass-outline:before {
-  content: "\eb3b";
+  content: "\ea8c";
 }
 .evao-copy-outline:before {
-  content: "\eb3c";
+  content: "\ea8e";
 }
 .evao-corner-down-left-outline:before {
-  content: "\eb3d";
+  content: "\ea90";
 }
 .evao-corner-down-right-outline:before {
-  content: "\eb3e";
+  content: "\ea92";
 }
 .evao-corner-left-down-outline:before {
-  content: "\eb3f";
+  content: "\ea94";
 }
 .evao-corner-left-up-outline:before {
-  content: "\eb40";
+  content: "\ea96";
 }
 .evao-corner-right-down-outline:before {
-  content: "\eb41";
+  content: "\ea98";
 }
 .evao-corner-right-up-outline:before {
-  content: "\eb42";
+  content: "\ea9a";
 }
 .evao-corner-up-left-outline:before {
-  content: "\eb43";
+  content: "\ea9c";
 }
 .evao-corner-up-right-outline:before {
-  content: "\eb44";
+  content: "\ea9e";
 }
 .evao-credit-card-outline:before {
-  content: "\eb45";
+  content: "\eaa0";
 }
 .evao-crop-outline:before {
-  content: "\eb46";
+  content: "\eaa2";
 }
 .evao-cube-outline:before {
-  content: "\eb47";
+  content: "\eaa4";
 }
 .evao-diagonal-arrow-left-down-outline:before {
-  content: "\eb48";
+  content: "\eaa6";
 }
 .evao-diagonal-arrow-left-up-outline:before {
-  content: "\eb49";
+  content: "\eaa8";
 }
 .evao-diagonal-arrow-right-down-outline:before {
-  content: "\eb4a";
+  content: "\eaaa";
 }
 .evao-diagonal-arrow-right-up-outline:before {
-  content: "\eb4b";
+  content: "\eaac";
 }
 .evao-done-all-outline:before {
-  content: "\eb4c";
+  content: "\eaae";
 }
 .evao-download-outline:before {
-  content: "\eb4d";
+  content: "\eab0";
 }
 .evao-droplet-off-outline:before {
-  content: "\eb4e";
+  content: "\eab3";
 }
 .evao-droplet-outline:before {
-  content: "\eb4f";
+  content: "\eab4";
 }
 .evao-edit-2-outline:before {
-  content: "\eb50";
+  content: "\eab7";
 }
 .evao-edit-outline:before {
-  content: "\eb51";
+  content: "\eab8";
 }
 .evao-email-outline:before {
-  content: "\eb52";
+  content: "\eaba";
 }
 .evao-expand-outline:before {
-  content: "\eb53";
+  content: "\eabc";
 }
 .evao-external-link-outline:before {
-  content: "\eb54";
+  content: "\eabe";
 }
 .evao-eye-off-2-outline:before {
-  content: "\eb55";
+  content: "\eac2";
 }
 .evao-eye-off-outline:before {
-  content: "\eb56";
+  content: "\eac3";
 }
 .evao-eye-outline:before {
-  content: "\eb57";
+  content: "\eac4";
 }
 .evao-facebook-outline:before {
-  content: "\eb58";
+  content: "\eac6";
 }
 .evao-file-add-outline:before {
-  content: "\eb59";
+  content: "\eac9";
 }
 .evao-file-outline:before {
-  content: "\eb5a";
+  content: "\eaca";
 }
 .evao-file-remove-outline:before {
-  content: "\eb5b";
+  content: "\eacc";
 }
 .evao-file-text-outline:before {
-  content: "\eb5c";
+  content: "\eace";
 }
 .evao-film-outline:before {
-  content: "\eb5d";
+  content: "\ead0";
 }
 .evao-flag-outline:before {
-  content: "\eb5e";
+  content: "\ead2";
 }
 .evao-flash-off-outline:before {
-  content: "\eb5f";
+  content: "\ead5";
 }
 .evao-flash-outline:before {
-  content: "\eb60";
+  content: "\ead6";
 }
 .evao-flip-2-outline:before {
-  content: "\eb61";
+  content: "\ead9";
 }
 .evao-flip-outline:before {
-  content: "\eb62";
+  content: "\eada";
 }
 .evao-folder-add-outline:before {
-  content: "\eb63";
+  content: "\eadd";
 }
 .evao-folder-outline:before {
-  content: "\eb64";
+  content: "\eade";
 }
 .evao-folder-remove-outline:before {
-  content: "\eb65";
+  content: "\eae0";
 }
 .evao-funnel-outline:before {
-  content: "\eb66";
+  content: "\eae2";
 }
 .evao-gift-outline:before {
-  content: "\eb67";
+  content: "\eae4";
 }
 .evao-github-outline:before {
-  content: "\eb68";
+  content: "\eae6";
 }
 .evao-globe-2-outline:before {
-  content: "\eb69";
+  content: "\eae9";
 }
 .evao-globe-outline:before {
-  content: "\eb6a";
+  content: "\eaeb";
 }
 .evao-google-outline:before {
-  content: "\eb6b";
+  content: "\eaed";
 }
 .evao-grid-outline:before {
-  content: "\eb6c";
+  content: "\eaef";
 }
 .evao-hard-drive-outline:before {
-  content: "\eb6d";
+  content: "\eaf1";
 }
 .evao-hash-outline:before {
-  content: "\eb6e";
+  content: "\eaf3";
 }
 .evao-headphones-outline:before {
-  content: "\eb6f";
+  content: "\eaf5";
 }
 .evao-heart-outline:before {
-  content: "\eb70";
+  content: "\eaf7";
 }
 .evao-home-outline:before {
-  content: "\eb71";
+  content: "\eaf9";
 }
 .evao-image-outline:before {
-  content: "\eb72";
+  content: "\eafc";
 }
 .evao-inbox-outline:before {
-  content: "\eb73";
+  content: "\eafe";
 }
 .evao-info-outline:before {
-  content: "\eb74";
+  content: "\eb00";
 }
 .evao-keypad-outline:before {
-  content: "\eb75";
+  content: "\eb02";
 }
 .evao-layers-outline:before {
-  content: "\eb76";
+  content: "\eb04";
 }
 .evao-layout-outline:before {
-  content: "\eb77";
+  content: "\eb06";
 }
 .evao-link-2-outline:before {
-  content: "\eb78";
+  content: "\eb09";
 }
 .evao-link-outline:before {
-  content: "\eb79";
+  content: "\eb0a";
 }
 .evao-linkedin-outline:before {
-  content: "\eb7a";
+  content: "\eb0c";
 }
 .evao-list-outline:before {
-  content: "\eb7b";
+  content: "\eb0e";
 }
 .evao-loader-outline:before {
-  content: "\eb7c";
+  content: "\eb0f";
 }
 .evao-lock-outline:before {
-  content: "\eb7d";
+  content: "\eb11";
 }
 .evao-log-in-outline:before {
-  content: "\eb7e";
+  content: "\eb13";
 }
 .evao-log-out-outline:before {
-  content: "\eb7f";
+  content: "\eb15";
 }
 .evao-map-outline:before {
-  content: "\eb80";
+  content: "\eb17";
 }
 .evao-maximize-outline:before {
-  content: "\eb81";
+  content: "\eb19";
 }
 .evao-menu-2-outline:before {
-  content: "\eb82";
+  content: "\eb1c";
 }
 .evao-menu-arrow-outline:before {
-  content: "\eb83";
+  content: "\eb1e";
 }
 .evao-menu-outline:before {
-  content: "\eb84";
+  content: "\eb1f";
 }
 .evao-message-circle-outline:before {
-  content: "\eb85";
+  content: "\eb21";
 }
 .evao-message-square-outline:before {
-  content: "\eb86";
+  content: "\eb23";
 }
 .evao-mic-off-outline:before {
-  content: "\eb87";
+  content: "\eb26";
 }
 .evao-mic-outline:before {
-  content: "\eb88";
+  content: "\eb27";
 }
 .evao-minimize-outline:before {
-  content: "\eb89";
+  content: "\eb29";
 }
 .evao-minus-circle-outline:before {
-  content: "\eb8a";
+  content: "\eb2c";
 }
 .evao-minus-outline:before {
-  content: "\eb8b";
+  content: "\eb2d";
 }
 .evao-minus-square-outline:before {
-  content: "\eb8c";
+  content: "\eb2f";
 }
 .evao-monitor-outline:before {
-  content: "\eb8d";
+  content: "\eb31";
 }
 .evao-moon-outline:before {
-  content: "\eb8e";
+  content: "\eb33";
 }
 .evao-more-horizotnal-outline:before {
-  content: "\eb8f";
+  content: "\eb35";
 }
 .evao-more-vertical-outline:before {
-  content: "\eb90";
+  content: "\eb37";
 }
 .evao-move-outline:before {
-  content: "\eb91";
+  content: "\eb39";
 }
 .evao-music-outline:before {
-  content: "\eb92";
+  content: "\eb3b";
 }
 .evao-navigation-2-outline:before {
-  content: "\eb93";
+  content: "\eb3e";
 }
 .evao-navigation-outline:before {
-  content: "\eb94";
+  content: "\eb3f";
 }
 .evao-npm-outline:before {
-  content: "\eb95";
+  content: "\eb41";
 }
 .evao-options-2-outline:before {
-  content: "\eb96";
+  content: "\eb44";
 }
 .evao-options-outline:before {
-  content: "\eb97";
+  content: "\eb45";
 }
 .evao-pantone-outline:before {
-  content: "\eb98";
+  content: "\eb47";
 }
 .evao-paper-plane-outline:before {
-  content: "\eb99";
+  content: "\eb49";
 }
 .evao-pause-circle-outline:before {
-  content: "\eb9a";
+  content: "\eb4b";
 }
 .evao-people-outline:before {
-  content: "\eb9b";
+  content: "\eb4d";
 }
 .evao-percent-outline:before {
-  content: "\eb9c";
+  content: "\eb4f";
 }
 .evao-person-add-outline:before {
-  content: "\eb9d";
+  content: "\eb52";
 }
 .evao-person-delete-outline:before {
-  content: "\eb9e";
+  content: "\eb54";
 }
 .evao-person-done-outline:before {
-  content: "\eb9f";
+  content: "\eb56";
 }
 .evao-person-outline:before {
-  content: "\eba0";
+  content: "\eb57";
 }
 .evao-person-remove-outline:before {
-  content: "\eba1";
+  content: "\eb59";
 }
 .evao-phone-call-outline:before {
-  content: "\eba2";
+  content: "\eb5c";
 }
 .evao-phone-missed-outline:before {
-  content: "\eba3";
+  content: "\eb5e";
 }
 .evao-phone-off-outline:before {
-  content: "\eba4";
+  content: "\eb60";
 }
 .evao-phone-outline:before {
-  content: "\eba5";
+  content: "\eb61";
 }
 .evao-pie-chart-outline:before {
-  content: "\eba6";
+  content: "\eb64";
 }
 .evao-pin-outline:before {
-  content: "\eba7";
+  content: "\eb66";
 }
 .evao-play-circle-outline:before {
-  content: "\eba8";
+  content: "\eb68";
 }
 .evao-plus-circle-outline:before {
-  content: "\eba9";
+  content: "\eb6b";
 }
 .evao-plus-outline:before {
-  content: "\ebaa";
+  content: "\eb6c";
 }
 .evao-plus-square-outline:before {
-  content: "\ebab";
+  content: "\eb6e";
 }
 .evao-power-outline:before {
-  content: "\ebac";
+  content: "\eb70";
 }
 .evao-pricetags-outline:before {
-  content: "\ebad";
+  content: "\eb72";
 }
 .evao-printer-outline:before {
-  content: "\ebae";
+  content: "\eb74";
 }
 .evao-question-mark-circle-outline:before {
-  content: "\ebaf";
+  content: "\eb77";
 }
 .evao-question-mark-outline:before {
-  content: "\ebb0";
+  content: "\eb78";
 }
 .evao-radio-button-off-outline:before {
-  content: "\ebb1";
+  content: "\eb7b";
 }
 .evao-radio-button-on-outline:before {
-  content: "\ebb2";
+  content: "\eb7d";
 }
 .evao-radio-outline:before {
-  content: "\ebb3";
+  content: "\eb7e";
 }
 .evao-recording-outline:before {
-  content: "\ebb4";
+  content: "\eb80";
 }
 .evao-refresh-outline:before {
-  content: "\ebb5";
+  content: "\eb82";
 }
 .evao-repeat-outline:before {
-  content: "\ebb6";
+  content: "\eb84";
 }
 .evao-rewind-left-outline:before {
-  content: "\ebb7";
+  content: "\eb86";
 }
 .evao-rewind-right-outline:before {
-  content: "\ebb8";
+  content: "\eb88";
 }
 .evao-save-outline:before {
-  content: "\ebb9";
+  content: "\eb8a";
 }
 .evao-scissors-outline:before {
-  content: "\ebba";
+  content: "\eb8c";
 }
 .evao-search-outline:before {
-  content: "\ebbb";
+  content: "\eb8e";
 }
 .evao-settings-2-outline:before {
-  content: "\ebbc";
+  content: "\eb91";
 }
 .evao-settings-outline:before {
-  content: "\ebbd";
+  content: "\eb92";
 }
 .evao-shake-outline:before {
-  content: "\ebbe";
+  content: "\eb94";
 }
 .evao-share-outline:before {
-  content: "\ebbf";
+  content: "\eb96";
 }
 .evao-shield-off-outline:before {
-  content: "\ebc0";
+  content: "\eb99";
 }
 .evao-shield-outline:before {
-  content: "\ebc1";
+  content: "\eb9a";
 }
 .evao-shopping-bag-outline:before {
-  content: "\ebc2";
+  content: "\eb9c";
 }
 .evao-shopping-cart-outline:before {
-  content: "\ebc3";
+  content: "\eb9e";
 }
 .evao-shuffle-2-outline:before {
-  content: "\ebc4";
+  content: "\eba1";
 }
 .evao-shuffle-outline:before {
-  content: "\ebc5";
+  content: "\eba2";
 }
 .evao-skip-back-outline:before {
-  content: "\ebc6";
+  content: "\eba4";
 }
 .evao-skip-forward-outline:before {
-  content: "\ebc7";
+  content: "\eba6";
 }
 .evao-slash-outline:before {
-  content: "\ebc8";
+  content: "\eba8";
 }
 .evao-smartphone-outline:before {
-  content: "\ebc9";
+  content: "\ebaa";
 }
 .evao-speaker-outline:before {
-  content: "\ebca";
+  content: "\ebac";
 }
 .evao-square-outline:before {
-  content: "\ebcb";
+  content: "\ebae";
 }
 .evao-star-outline:before {
-  content: "\ebcc";
+  content: "\ebb0";
 }
 .evao-stop-circle-outline:before {
-  content: "\ebcd";
+  content: "\ebb2";
 }
 .evao-sun-outline:before {
-  content: "\ebce";
+  content: "\ebb4";
 }
 .evao-swap-outline:before {
-  content: "\ebcf";
+  content: "\ebb6";
 }
 .evao-sync-outline:before {
-  content: "\ebd0";
+  content: "\ebb8";
 }
 .evao-text-outline:before {
-  content: "\ebd1";
+  content: "\ebba";
 }
 .evao-thermometer-minus-outline:before {
-  content: "\ebd2";
+  content: "\ebbd";
 }
 .evao-thermometer-outline:before {
-  content: "\ebd3";
+  content: "\ebbe";
 }
 .evao-thermometer-plus-outline:before {
-  content: "\ebd4";
+  content: "\ebc0";
 }
 .evao-toggle-left-outline:before {
-  content: "\ebd5";
+  content: "\ebc2";
 }
 .evao-toggle-right-outline:before {
-  content: "\ebd6";
+  content: "\ebc4";
 }
 .evao-trash-2-outline:before {
-  content: "\ebd7";
+  content: "\ebc7";
 }
 .evao-trash-outline:before {
-  content: "\ebd8";
+  content: "\ebc8";
 }
 .evao-trending-down-outline:before {
-  content: "\ebd9";
+  content: "\ebca";
 }
 .evao-trending-up-outline:before {
-  content: "\ebda";
+  content: "\ebcc";
 }
 .evao-tv-outline:before {
-  content: "\ebdb";
+  content: "\ebce";
 }
 .evao-twitter-outline:before {
-  content: "\ebdc";
+  content: "\ebd0";
 }
 .evao-umbrella-outline:before {
-  content: "\ebdd";
+  content: "\ebd2";
 }
 .evao-undo-outline:before {
-  content: "\ebde";
+  content: "\ebd4";
 }
 .evao-unlock-outline:before {
-  content: "\ebdf";
+  content: "\ebd6";
 }
 .evao-upload-outline:before {
-  content: "\ebe0";
+  content: "\ebd8";
 }
 .evao-video-off-outline:before {
-  content: "\ebe1";
+  content: "\ebdb";
 }
 .evao-video-outline:before {
-  content: "\ebe2";
+  content: "\ebdc";
 }
 .evao-volume-down-outline:before {
-  content: "\ebe3";
+  content: "\ebde";
 }
 .evao-volume-mute-outline:before {
-  content: "\ebe4";
+  content: "\ebe0";
 }
 .evao-volume-off-outline:before {
-  content: "\ebe5";
+  content: "\ebe2";
 }
 .evao-volume-up-outline:before {
-  content: "\ebe6";
+  content: "\ebe4";
 }
 .evao-wifi-off-outline:before {
   content: "\ebe7";

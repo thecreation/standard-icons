@@ -1,9 +1,9 @@
 {
-  "version": "1.2.19-2",
+  "version": "1.9.14-3",
   "name": "@icon/simple-icons",
   "description": "SVG icons for popular brands https://simpleicons.org",
   "author": "Simple Icons Collaborators",
-  "license": "CC0-1.0",
+  "license": "CC0",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/simple-icons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -17,7 +17,7 @@
     "icon"
   ],
   "devDependencies": {
-    "simple-icons": "^1.2.19"
+    "simple-icons": "^1.9.14"
   },
   "homepage": "https://www.simpleicons.org",
   "publishConfig": {

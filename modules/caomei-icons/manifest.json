@@ -338,7 +338,7 @@
     "bilibili": "bilibili",
     "qzone": "qzone",
     "zhihu": "zhihu",
-    "chuangzaoshi": "chuangzaoshi",
+    "chuangzaoshi": "chuangzaoshi"
   }
   ,
   "categories": {
@@ -378,7 +378,7 @@
       "code-branch",
       "code-fork",
       "greatwall",
-      "taiji",
+      "taiji"
     ],
     "Base icon": [
       "circle-o",
@@ -558,7 +558,7 @@
       "money",
       "d-glasses",
       "add",
-      "share",
+      "share"
     ],
     "Linear icon": [
       "pen",
@@ -624,7 +624,7 @@
       "trash-l",
       "upload-l",
       "world-l",
-      "write-l",
+      "write-l"
     ],
     "Multimedia icon": [
       "headset",
@@ -648,7 +648,7 @@
       "slider-l",
       "play-l",
       "pause-l",
-      "video-camera-l",
+      "video-camera-l"
     ],
     "Arrow direction": [
       "angle-down-l",
@@ -656,7 +656,7 @@
       "angle-right-l",
       "angle-up-l",
       "arrow-down-l",
-      "arrow-up-l",
+      "arrow-up-l"
     ],
     "Gesture operation": [
       "hand-bevel",
@@ -668,7 +668,7 @@
       "hand-touch",
       "hand-pointer",
       "hand-grasp",
-      "hand-stop",
+      "hand-stop"
     ],
     "International brand": [
       "android",
@@ -693,7 +693,7 @@
       "paypal",
       "pinterest",
       "telegram",
-      "raspberry",
+      "raspberry"
     ],
     "Chinese brand": [
       "weixin",
@@ -711,8 +711,7 @@
       "bilibili",
       "qzone",
       "zhihu",
-      "chuangzaoshi",
-    ],
+      "chuangzaoshi"
+    ]
   }
 }
-

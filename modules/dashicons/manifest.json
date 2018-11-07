@@ -143,7 +143,7 @@
     "leftright": "left right",
     "randomize": "randomize shuffle",
     "list-view": "list view",
-    "excerpt-view": "excerpt view",
+    "exerpt-view": "exerpt view",
     "grid-view": "grid view",
     "move": "move",
     "share": "share",
@@ -245,7 +245,8 @@
     "thumbs-down": "thumbs down",
     "layout": "layout",
     "paperclip": "paperclip"
-  },
+  }
+  ,
   "categories": {
     "Admin Menu": [
       "menu",
@@ -512,4 +513,3 @@
     ]
   }
 }
-

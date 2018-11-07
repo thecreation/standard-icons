@@ -20,7 +20,7 @@ let options = {
   prefix: 'ion-',
   className: 'Ionicons',
   title: 'Ionicons',
-  version: '3.0.0-4',
+  version: '4.4.7-5',
   classifiable: false
 };
 
@@ -28,7 +28,7 @@ let paths = {
   package: path.join(options.source, 'package.json'),
   css: path.join(options.source, 'dist', 'css', 'ionicons.css'),
   fonts: path.join(options.source, 'dist',  'fonts'),
-  svgs: path.join(options.source, 'dist',  'svg'),
+  svgs: path.join(options.source, 'dist',  'collection/icon/svg'),
   dest: __dirname,
   svgsDest: path.join(__dirname, 'icons')
 };

@@ -20,7 +20,7 @@ let options = {
   prefix: 'evao-',
   className: 'EvaOutlineIcons',
   title: 'Eva Outline Icons',
-  version: '1.0.2-1',
+  version: '1.1.0-2',
   classifiable: false
 };
 

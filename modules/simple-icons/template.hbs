@@ -30,7 +30,7 @@
 }
 
 {% for glyph in glyphs%}
-
 .{{ prefix }}{{ glyph.name }}::before {
-    content: "\{{ glyph.unicode[0].charCodeAt(0).toString(16) }}";
-}{% endfor %}
+  content: "\{{ glyph.unicode[0].charCodeAt(0).toString(16) }}";
+}
+{% endfor %}

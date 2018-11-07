@@ -1,7 +1,7 @@
 /**
- * Feathericon, 0.9.5-3
+ * Feathericon, 1.0.2-4
  * Created by Featherplain
- * http://feathericon.com
+ * https://feathericon.com
  * MIT License
  */
 @charset "UTF-8";
@@ -59,6 +59,9 @@
 .fei-app-menu:before {
   content: "\f198";
 }
+.fei-apron:before {
+  content: "\f1fb";
+}
 .fei-arrow-down:before {
   content: "\f100";
 }
@@ -89,6 +92,9 @@
 .fei-beer:before {
   content: "\f107";
 }
+.fei-beginner:before {
+  content: "\f1f7";
+}
 .fei-bell:before {
   content: "\f108";
 }
@@ -107,6 +113,9 @@
 .fei-bookmark:before {
   content: "\f170";
 }
+.fei-bread:before {
+  content: "\f206";
+}
 .fei-browser:before {
   content: "\f10b";
 }
@@ -119,6 +128,9 @@
 .fei-building:before {
   content: "\f10e";
 }
+.fei-bus:before {
+  content: "\f1fe";
+}
 .fei-cage:before {
   content: "\f1e7";
 }
@@ -127,6 +139,9 @@
 }
 .fei-camera:before {
   content: "\f110";
+}
+.fei-car:before {
+  content: "\f1ff";
 }
 .fei-cart:before {
   content: "\f1e8";
@@ -220,6 +235,9 @@
 }
 .fei-document:before {
   content: "\f19f";
+}
+.fei-donut:before {
+  content: "\f1f9";
 }
 .fei-download:before {
   content: "\f120";
@@ -322,6 +340,9 @@
 }
 .fei-frowing:before {
   content: "\f1b9";
+}
+.fei-frying-pan:before {
+  content: "\f207";
 }
 .fei-gamepad:before {
   content: "\f191";
@@ -461,6 +482,9 @@
 .fei-minus:before {
   content: "\f140";
 }
+.fei-mitarashi-dango:before {
+  content: "\f208";
+}
 .fei-mobile:before {
   content: "\f141";
 }
@@ -475,6 +499,21 @@
 }
 .fei-music:before {
   content: "\f175";
+}
+.fei-notice-active:before {
+  content: "\f200";
+}
+.fei-notice-off:before {
+  content: "\f201";
+}
+.fei-notice-on:before {
+  content: "\f202";
+}
+.fei-notice-push:before {
+  content: "\f203";
+}
+.fei-octpus:before {
+  content: "\f1fc";
 }
 .fei-open-mouth:before {
   content: "\f1ba";
@@ -545,11 +584,11 @@
 .fei-random:before {
   content: "\f189";
 }
-.fei-reload:before {
-  content: "\f193";
-}
 .fei-remove-cart:before {
   content: "\f1eb";
+}
+.fei-rice-cracker:before {
+  content: "\f1fa";
 }
 .fei-rocket:before {
   content: "\f14d";
@@ -593,6 +632,9 @@
 .fei-speaker:before {
   content: "\f1ab";
 }
+.fei-squid:before {
+  content: "\f1fd";
+}
 .fei-star:before {
   content: "\f151";
 }
@@ -632,6 +674,9 @@
 .fei-target:before {
   content: "\f1f3";
 }
+.fei-taxi:before {
+  content: "\f204";
+}
 .fei-terminal:before {
   content: "\f154";
 }
@@ -662,6 +707,9 @@
 .fei-tired:before {
   content: "\f1be";
 }
+.fei-train:before {
+  content: "\f1f8";
+}
 .fei-trash:before {
   content: "\f157";
 }
@@ -670,6 +718,9 @@
 }
 .fei-truck:before {
   content: "\f1ed";
+}
+.fei-tumbler-glass:before {
+  content: "\f209";
 }
 .fei-twitter:before {
   content: "\f1dd";
@@ -710,6 +761,9 @@
 .fei-video:before {
   content: "\f15e";
 }
+.fei-vr:before {
+  content: "\f205";
+}
 .fei-wallet:before {
   content: "\f1ee";
 }
@@ -733,6 +787,9 @@
 }
 .fei-wrench:before {
   content: "\f162";
+}
+.fei-yaki-dango:before {
+  content: "\f20a";
 }
 .fei-youtube:before {
   content: "\f1e0";

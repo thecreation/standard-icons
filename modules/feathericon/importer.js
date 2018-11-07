@@ -21,7 +21,7 @@ let options = {
   className: 'Feathericon',
   title: 'Feathericon',
   author: 'Featherplain',
-  version: '0.9.5-3',
+  version: '1.0.2-4',
   classifiable: false
 };
 

@@ -221,7 +221,7 @@
 .lar-arrows-left:before {
   content: "\e03f";
 }
-.lar-arrows-left-double:before {
+.lar-arrows-left-double-32:before {
   content: "\e040";
 }
 .lar-arrows-minus:before {
@@ -425,7 +425,7 @@
 .lar-arrows-up:before {
   content: "\e083";
 }
-.lar-arrows-up-double:before {
+.lar-arrows-up-double-33:before {
   content: "\e084";
 }
 .lar-arrows-upleft:before {

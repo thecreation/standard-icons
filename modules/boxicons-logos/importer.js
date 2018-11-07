@@ -20,7 +20,7 @@ let options = {
   prefix: 'bxl-',
   className: 'BoxiconsLogos',
   title: 'Boxicons Logos',
-  version: '1.7.1-1',
+  version: '1.8.0-2',
   classifiable: false
 };
 

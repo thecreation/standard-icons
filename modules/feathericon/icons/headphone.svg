@@ -1,1 +1,11 @@
-<svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M7 0c4.9 0 5.798 6 5.963 8.202C14 8.71 14 10 14 10v2.004S14 14 11.997 14c0 0-.997 0-.997-.972V9c0-.853.742-.978.946-.997C11.756 5.86 10.896 1 7 1 3.103 1 2.243 5.859 2.054 8.003 2.258 8.022 3 8.147 3 9v4.028C3 14 2.003 14 2.003 14 0 14 0 12.004 0 12.004V10s0-1.29 1.037-1.798C1.202 6 2.101 0 7 0z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>headphone</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="headphone" fill="#000000">
+            <path d="M19,13 C20.1045695,13 21,13.8954305 21,15 L21,19 C21,20.1045695 20.1045695,21 19,21 C17.8954305,21 17,20.1045695 17,19 L17,10 C17,7.23857625 14.7614237,5 12,5 C9.23857625,5 7,7.23857625 7,10 L7,19 C7,20.1045695 6.1045695,21 5,21 C3.8954305,21 3,20.1045695 3,19 L3,15 C3,13.8954305 3.8954305,13 5,13 L5,10 C5,6.13400675 8.13400675,3 12,3 C15.8659932,3 19,6.13400675 19,10 L19,13 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

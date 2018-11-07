@@ -20,7 +20,7 @@ let options = {
   prefix: 'bxr-',
   className: 'BoxiconsRegular',
   title: 'Boxicons Regular',
-  version: '1.7.1-1',
+  version: '1.8.0-2',
   classifiable: false
 };
 

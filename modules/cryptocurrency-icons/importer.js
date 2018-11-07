@@ -14,12 +14,13 @@ const path = require('path');
 
 let options = {
   source: path.join(`${__dirname}/node_modules/`, 'cryptocurrency-icons'),
+  author: 'atomiclabs',
   name: 'cryptocurrency-icons',
   class: 'crypto',
   prefix: 'crypto-',
   className: 'Cryptocurrency Icons',
   title: 'Cryptocurrency Icons',
-  version: '0.0.1-4',
+  version: '0.9.0-5',
   classifiable: false
 };
 
@@ -32,8 +33,10 @@ let paths = {
 
 let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);
 
+console.log(info);
+
 options.license = info.license;
-options.author = info.author.name;
+// options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
 // options.version = info.version;

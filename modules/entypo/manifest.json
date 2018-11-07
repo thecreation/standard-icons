@@ -7,7 +7,7 @@
   "prefix": "entypo-",
   "homepage": "http://www.entypo.com",
   "author": "Daniel Buce",
-  "license": "(SIL and CC BY-SA)",
+  "license": "SIL",
   "style": "entypo.css",
   "count": "284",
   "classifiable": false,
@@ -298,4 +298,3 @@
     "logo-db": "logo-db"
   }
 }
-

@@ -1,1 +1,11 @@
-<svg width="10" height="14" viewBox="0 0 10 14" xmlns="http://www.w3.org/2000/svg"><path d="M1 12.993C1 13 9.005 13 9.005 13 8.997 13 9 4 9 4H6V1H.995C1.005 1 1 12.993 1 12.993zM0 1.007C0 .45.456 0 .995 0H7.5L10 2.5v10.493C10 13.55 9.544 14 9.005 14H.995A1 1 0 0 1 0 12.993V1.007zM7 1l2 2H7V1zM2 7h2l1 1.5L6 7h2L7 9l1 2H6L5 9.5 4 11H2l.99-2L2 7z" fill="#000" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>file-excel</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="file-types" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="file-excel" fill="#000000">
+            <path d="M6,2 L16,2 L20,6 L20,20 C20,21.1045695 19.1045695,22 18,22 L6,22 C4.8954305,22 4,21.1045695 4,20 L4,4 C4,2.8954305 4.8954305,2 6,2 Z M15,4 L6,4 L6,20 L18,20 L18,7 L15,7 L15,4 Z M7,12 L10,12 L12,14 L14,12 L17,12 L14,15 L17,18 L14,18 L12,16 L10,18 L7,18 L10,15 L7,12 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
