@@ -1,5 +1,5 @@
 {
-  "version": "0.2.5-alpha.0",
+  "version": "0.2.4-alpha.0",
   "name": "@icon/web-icons",
   "description": "A brand icons collection font",
   "author": "Thecreation",
@@ -22,5 +22,6 @@
   "homepage": "https://github.com/thecreation/web-icons",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "175bff346d89a83574a9ef3646e69010ae7b470a"
 }

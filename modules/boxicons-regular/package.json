@@ -23,5 +23,6 @@
   "homepage": "https://github.com/atisawd/boxicons#readme",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "175bff346d89a83574a9ef3646e69010ae7b470a"
 }

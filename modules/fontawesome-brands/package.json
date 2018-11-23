@@ -20,5 +20,6 @@
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.5.0"
   },
-  "homepage": "https://fontawesome.com"
+  "homepage": "https://fontawesome.com",
+  "gitHead": "175bff346d89a83574a9ef3646e69010ae7b470a"
 }
