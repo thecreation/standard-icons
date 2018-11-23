@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
-    <title>text-size</title>
-    <desc>Created with sketchtool.</desc>
-    <g id="text-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="text-size" fill="#000000">
-            <path d="M13.5004086,16.493803 L15.9083428,9.27000046 L18.0895999,9.27000046 L21,17.9950289 L19.0319589,17.9950289 L18.463322,16.0682518 L15.4968123,16.0682518 L14.8540685,17.9950289 L14.0011712,17.9950289 L14.0028294,18 L11.2960768,18 L10.514,15.35 L6.434,15.35 L5.55,18 L3,18 L7,6 L10,6 L13.5004086,16.493803 Z M7,13 L10,13 L8.496,9 L7,13 Z M15.9083428,14.3596004 L18.0895999,14.3596004 L16.996063,11.4512576 L15.9083428,14.3596004 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13.5 16.494l2.408-7.224h2.182L21 17.995h-1.968l-.569-1.927h-2.966l-.643 1.927h-.853l.002.005h-2.707l-.782-2.65h-4.08L5.55 18H3L7 6h3l3.5 10.494zM7 13h3L8.496 9 7 13zm8.908 1.36h2.182l-1.094-2.909-1.088 2.909z" fill="#000" fill-rule="evenodd"/></svg>

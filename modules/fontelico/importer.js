@@ -22,7 +22,7 @@ let options = {
   className: 'Fontelico',
   description: 'Fontello project',
   homepage: 'http://fontello.github.io/fontelico.font/demo.html',
-  version: '1.0.0-2',
+  version: '1.0.0',
   classifiable: false
 };
 
@@ -35,12 +35,11 @@ let paths = {
   svgsDest: path.join(__dirname, 'icons')
 };
 
-let yml = extraFromYml(paths.yml, [['meta', ['author', 'homepage', 'license']], ['font', ['version', 'fullname']], 'glyphs']);
+let yml = extraFromYml(paths.yml, [['meta', ['author', 'homepage', 'license']], ['font', ['fullname']], 'glyphs']);
 
 options = Object.assign(options, {
   title: yml.font.fullname,
   author: yml.meta.author,
-  // version: yml.font.version,
   // homepage: yml.meta.homepage,
   license: yml.meta.license
 });

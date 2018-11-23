@@ -24,4 +24,5 @@ Refer to this [https://github.com/thecreation/standard-icons/tree/master/tools/m
 
 ```
 npm run import
+npm run optimize
 ```

@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
-    <title>icon 72 lightning</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="icon-72-lightning" sketch:type="MSArtboardGroup" fill="#929292">
-            <path d="M17.0666911,14 L19.5999756,14 L13.5,20.1000061 L14.9786564,16 L12.4000244,16 L14.6999512,10 L18.5999756,10 L17.0666911,14 L17.0666911,14 Z M13.5454545,17 L11,17 L14,9 L20,9 L18.5,13 L22,13 L11,24 L13.5454545,17 L13.5454545,17 Z" id="lightning" sketch:type="MSShapeGroup"></path>
-        </g>
-    </g>
-</svg>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M17.067 14H19.6l-6.1 6.1 1.479-4.1H12.4l2.3-6h3.9l-1.533 4zm-3.522 3H11l3-8h6l-1.5 4H22L11 24l2.545-7z" fill="#929292" fill-rule="evenodd"/></svg>

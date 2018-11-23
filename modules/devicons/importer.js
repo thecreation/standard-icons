@@ -20,7 +20,6 @@ let options = {
   prefix: 'devicons-',
   className: 'Devicons',
   title: 'Devicons',
-  version: '1.8.0-2',
   classifiable: false
 };
 
@@ -39,7 +38,7 @@ options.license = info.licenses.type;
 options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
-// options.version = info.version;
+options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 

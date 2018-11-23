@@ -22,7 +22,6 @@ let options = {
   prefix: 'mai-',
   className: 'MapIcons',
   title: 'Map Icons',
-  version: '3.0.3-3',
   license: 'MIT',
   classifiable: true
 };
@@ -43,7 +42,7 @@ let info = extraFromJson(paths.package, ['homepage', 'description', 'version', '
 options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
-// options.version = info.version;
+options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 

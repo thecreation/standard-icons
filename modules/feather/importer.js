@@ -13,6 +13,7 @@ const jsonfile = require('../../scripts/utils/jsonfile');
 const fs = require('fs-extra');
 const path = require('path');
 
+
 let options = {
   source: path.join(`${__dirname}/node_modules/`, 'feather-font'),
   name: 'feather',
@@ -24,7 +25,6 @@ let options = {
   description: "Simply beautiful open source icons",
   className: 'Feather',
   license: 'MIT',
-  version: '1.1.0-2',
   classifiable: false
 };
 
@@ -34,9 +34,13 @@ let paths = {
   fonts: path.join(options.source, 'src', 'fonts'),
   svgs: path.join(options.source, 'src', 'icons'),
   dest: __dirname,
+  package: path.join(options.source, 'package.json'),
   svgsDest: path.join(__dirname, 'icons')
 };
 
+let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);
+
+options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 // options.license = detectLicense(paths.license);

@@ -20,7 +20,6 @@ let options = {
   prefix: 'evao-',
   className: 'EvaOutlineIcons',
   title: 'Eva Outline Icons',
-  version: '1.1.0-2',
   classifiable: false
 };
 
@@ -33,12 +32,13 @@ let paths = {
   svgsDest: path.join(__dirname, 'icons')
 };
 
-let info = extraFromJson(paths.package, ['homepage', 'description', 'author', 'license']);
+let info = extraFromJson(paths.package, ['homepage', 'description', 'author', 'license', 'version']);
 
 options.license = info.license;
 options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
+options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 

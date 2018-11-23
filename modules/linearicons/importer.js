@@ -21,7 +21,6 @@ let options = {
   className: 'Linearicons',
   title: 'Linearicons free',
   author: 'Perxis',
-  version: '1.0.1-3',
   classifiable: false
 };
 
@@ -39,7 +38,7 @@ let info = extraFromJson(paths.package, ['homepage', 'description', 'version', '
 options.license = info.license;
 options.homepage = info.homepage;
 options.description = info.description;
-// options.version = info.version;
+options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 

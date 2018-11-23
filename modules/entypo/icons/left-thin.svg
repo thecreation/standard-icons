@@ -1,5 +1,1 @@
-<svg height="1000px" width="980px" xmlns="http://www.w3.org/2000/svg">
-  <g>
-    <path d="M240 750c0 0 -240 -250 -240 -250c0 0 240 -250 240 -250c0 0 0 160 0 160c0 0 740 0 740 0c0 0 0 178 0 178c0 0 -740 0 -740 0c0 0 0 162 0 162c0 0 0 0 0 0" />
-  </g>
-</svg>
+<svg height="1000" width="980" xmlns="http://www.w3.org/2000/svg"><path d="M240 750L0 500l240-250v160h740v178H240v162"/></svg>

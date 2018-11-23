@@ -23,7 +23,7 @@ let options = {
   title: 'Caomei Icons',
   author: 'Xiangsudian',
   homepage: 'http://chuangzaoshi.com/icon/',
-  version: '1.2.8-2',
+  version: '1.2.8',
   classifiable: true
 };
 
@@ -36,13 +36,12 @@ let paths = {
   svgsDest: path.join(__dirname, 'icons')
 };
 
-let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);
+let info = extraFromJson(paths.package, ['homepage', 'description', 'author', 'license']);
 
 options.license = info.license;
 // options.author = info.author.name;
 // options.homepage = info.homepage;
 options.description = info.description;
-// options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 
 module.exports = function() {

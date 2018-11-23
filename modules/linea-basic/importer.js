@@ -25,7 +25,8 @@ let options = {
   description: 'Linea Iconset a free outline iconset  featuring 730+ Icons.',
   homepage: 'http://www.linea.io/',
   classifiable: false,
-  version: '1.0.0-3'
+  version: '1.0.0',
+  pkgVersion: '1.0.0-3'
 };
 
 let paths = {

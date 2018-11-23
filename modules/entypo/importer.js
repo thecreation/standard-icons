@@ -21,7 +21,6 @@ let options = {
   prefix: 'entypo-',
   className: 'Entypo',
   description: "Entypo, the premium pictograms",
-  version: '1.0.0-4',
   classifiable: false
 };
 
@@ -39,7 +38,7 @@ let yml = extraFromYml(paths.yml, [['meta', ['author', 'homepage', 'license']], 
 options = Object.assign(options, {
   title: yml.font.fullname,
   author: yml.meta.author,
-  // version: yml.font.version,
+  version: yml.font.version,
   homepage: yml.meta.homepage,
   license: yml.meta.license
 });

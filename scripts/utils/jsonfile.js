@@ -20,10 +20,12 @@ module.exports = function(dest, options) {
     if (options.license) {
       obj.license = options.license;
     }
-    if (options.version) {
-      obj.version = options.version;
+    if (options.version && !obj.version.includes(options.version)) {
+      obj.version = `${options.version}-0`;
     }
-    
+    if (options.pkgVersion) {
+      obj.version = options.pkgVersion;
+    }
     let newObj = obj;
 
     jsonfile.writeFile(file, newObj, {spaces: 2}, function(err) {

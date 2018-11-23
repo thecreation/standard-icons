@@ -41,7 +41,7 @@ options.license = info.licenses[0].type;
 // options.author = info.author.name;
 // options.homepage = info.homepage;
 options.description = info.description;
-// options.version = info.version;
+options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 

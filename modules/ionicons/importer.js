@@ -20,7 +20,6 @@ let options = {
   prefix: 'ion-',
   className: 'Ionicons',
   title: 'Ionicons',
-  version: '4.4.7-5',
   classifiable: false
 };
 
@@ -39,7 +38,7 @@ options.license = info.license;
 options.author = info.author.name;
 options.homepage = info.homepage;
 options.description = info.description;
-// options.version = info.version;
+options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 

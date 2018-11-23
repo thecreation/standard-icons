@@ -27,7 +27,6 @@ let options = {
   author: 'Wordpress',
   homepage: 'http://developer.wordpress.org/resource/dashicons/',
   description: "Dashicons, the WordPress admin icon font.",
-  version: '0.9.0-3',
   classifiable: true
 };
 
@@ -42,7 +41,7 @@ let paths = {
   svgsDest: path.join(__dirname, 'icons')
 };
 
-options =  Object.assign(options, extraFromJson(paths.package, ['homepage']));
+options =  Object.assign(options, extraFromJson(paths.package, ['homepage', 'version']));
 options.license = detectLicense(paths.license);
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
