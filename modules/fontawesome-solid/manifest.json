@@ -1,10 +1,10 @@
 {
   "name": "fontawesome-solid",
-  "title": "Font awesome solid",
+  "title": "Font Awesome Solid",
   "description": "The iconic font, CSS, and SVG framework",
   "version": "5.5.0",
-  "class": "fa",
-  "prefix": "fa-",
+  "class": "fas",
+  "prefix": "fas-",
   "homepage": "https://fontawesome.com",
   "author": "Dave Gandy",
   "license": "MIT",

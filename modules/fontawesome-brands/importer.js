@@ -1,4 +1,4 @@
-const generateSvg = require('../../scripts/utils/generateSvgFromJs');
+const generateSvgFromJs = require('../../scripts/utils/generateSvgFromJs');
 const extraFromJson = require('../../scripts/utils/extraFromJson');
 const generateFontsFromSvg = require('../../scripts/utils/generateFontsFromSvg');
 const getIconsFromCss3 = require('../../scripts/utils/getIconsFromCss3');
@@ -6,14 +6,15 @@ const copyLicense = require('../../scripts/utils/copyLicense');
 const jsonfile = require('../../scripts/utils/jsonfile');
 const generateJson = require('../../scripts/utils/generateJson');
 const prepareIcons = require('../../scripts/utils/prepareIcons');
+const clean = require('../../scripts/utils/clean');
 const path = require('path');
 
 let options = {
   source: path.join(`${__dirname}/node_modules/`, '@fortawesome/'),
   name: 'fontawesome-brands',
-  title: 'Font awesome brands',
-  class: 'fa',
-  prefix: 'fa-',
+  title: 'Font Awesome Brands',
+  class: 'fab',
+  prefix: 'fab-',
   author: 'Dave Gandy',
   homepage: 'https://fontawesome.com/',
   description: "The web’s most popular icon.",
@@ -41,16 +42,15 @@ options = Object.assign(options, {
   description: info.description
 });
 
-function callback() {
-  options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'fa-');
-  options = prepareIcons(options);
-  generateJson(paths.dest, options.className, options);
-  copyLicense(paths.dest, path.join(options.source + 'fontawesome-common-types/', 'LICENSE.txt'));
-  jsonfile(paths.dest, options);
-}
-
-module.exports = function() {
-  generateSvg(paths.svgs, paths.dest + '/icons');
-  generateFontsFromSvg(paths.dest, options, callback);
-
+module.exports = function(callback) {
+  clean(paths.dest)
+  generateSvgFromJs(paths.svgs, paths.svgsDest);
+  generateFontsFromSvg(paths.dest, options, () => {
+    options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'fab-');
+    options = prepareIcons(options);
+    generateJson(paths.dest, options.className, options);
+    copyLicense(paths.dest, path.join(options.source + 'fontawesome-common-types/', 'LICENSE.txt'));
+    jsonfile(paths.dest, options);
+    callback()
+  });
 };

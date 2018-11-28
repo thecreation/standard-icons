@@ -4,7 +4,6 @@ module.exports = function(data) {
   if(data.classifiable) {
     let categories = {};
     let icons = {};
-
     for(var i in data.icons) {
       if (data.icons.hasOwnProperty(i)) {
         categories[i] = [];

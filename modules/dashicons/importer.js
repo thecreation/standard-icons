@@ -12,7 +12,8 @@ const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const jsonfile = require('../../scripts/utils/jsonfile');
 const generateFontsFromSvg = require('../../scripts/utils/generateFontsFromSvg');
-const generateSvgs = require('../../scripts/utils/generateSvgs');
+const generateSvgs2 = require('../../scripts/utils/generateSvgs2');
+const clean = require('../../scripts/utils/clean');
 const fs = require('fs-extra');
 const config = require('../../config');
 const path = require('path');
@@ -46,14 +47,7 @@ options.license = detectLicense(paths.license);
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 
-function callback() {
-  options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'dashicons-');
-  generateSvgs(paths.dest, options.name, options);
-  copyLicense(paths.dest, path.join(options.source, 'gpl.txt'));
-  jsonfile(paths.dest, options);
-}
-
-module.exports = function() {
+module.exports = function(callback) {
   getIconsFromUrl(paths.url, function($) {
     let icons = {};
     $('#iconlist').find('h4').each(function(i, element){
@@ -76,10 +70,13 @@ module.exports = function() {
   }).then(function(icons){
     options.icons = icons;
     options = prepareIcons(options);
+    clean(paths.dest)
     generateCss(paths.dest, options.name, options);
     generateJson(paths.dest, options.className, options);
     copyFonts(paths.dest, paths.fonts, options);
     copySvgs(paths.svgsDest, paths.svgs, options.svgs);
-    generateFontsFromSvg(paths.dest, options, callback);
+    copyLicense(paths.dest, path.join(options.source, 'gpl.txt'));
+    jsonfile(paths.dest, options);
+    callback();
   });
 };

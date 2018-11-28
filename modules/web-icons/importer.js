@@ -10,7 +10,7 @@ const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const jsonfile = require('../../scripts/utils/jsonfile');
-const fs = require('fs-extra');
+const clean = require('../../scripts/utils/clean');
 const path = require('path');
 
 let options = {
@@ -45,12 +45,14 @@ options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 
-module.exports = function() {
+module.exports = function(callback) {
   options.icons = getIconsFromCss(paths.css, 'wb-');
   options = prepareIcons(options);
+  clean(paths.dest);
   generateCss(paths.dest, options.name, options);
   generateJson(paths.dest, options.className, options);
   copyFonts(paths.dest, paths.fonts, options);
   copySvgs(paths.svgsDest, paths.svgs, options.svgs);
   jsonfile(paths.dest, options);
+  callback();
 };

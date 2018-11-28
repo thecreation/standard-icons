@@ -67,9 +67,10 @@ function getGlyphs(file, isAdv) {
 }
 
 // generateSvg
-function getIconSvg(params, size) {
+function getIconSvg(params, size = 64) {
   let {path, advWidth, descent, horiz_adv} = params;
   let result = '';
+  let wh = size === false ? '' : `width="${size}" height="${size}" `
 
   if (params.isFontawesome) {
     const PIXEL = 128;
@@ -84,7 +85,7 @@ function getIconSvg(params, size) {
     let shiftY = 2*PIXEL;
 
     result = 
-      `<svg width="${size}" height="${size}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
+      `<svg ${wh} viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
         <g transform="translate(${shiftX} ${shiftY})">
           <g transform="scale(1 -1) translate(0 -1280)">
             <path d="${path}" />
@@ -93,7 +94,7 @@ function getIconSvg(params, size) {
       </svg>`;
   }else {
     result =
-      `<svg width="${size}" height="${size}" viewBox="0 0 ${advWidth} ${advWidth}" xmlns="http://www.w3.org/2000/svg">
+      `<svg ${wh}viewBox="0 0 ${advWidth} ${advWidth}" xmlns="http://www.w3.org/2000/svg">
         <g transform="translate(0 ${descent})">
           <g transform="scale(1 -1) translate(0 -${advWidth})">
             <path d="${path}" />
@@ -126,7 +127,7 @@ function generateSvg(name, params, size) {
 function generateIcon(params) {
   var name = params.name;
   var size = params.size;
-  console.log('Generating', name);
+  console.log(colors.green('Generating', name));
   var workChain = [];
   workChain.push(generateSvg(name, params, size));
 
@@ -145,7 +146,7 @@ function hexToDec(hex) {
   return parseInt(hex, 16);
 }
 
-module.exports = function(dest, filename, options) {
+module.exports = function(dest, filename, options, callback) {
   return getGlyphs(`${dest}/${filename}.svg`, options.isAdv).then(function(fontData) {
     let icons = new Array();
     for (let i in options.icons) {
@@ -178,7 +179,7 @@ module.exports = function(dest, filename, options) {
         advWidth: glyph.advWidth,
         descent: glyph.descent,
         path: glyph.data.d,
-        size: 64,
+        size: options.size,
         isFontawesome: glyph.isFontawesome,
         destFolder: dest
       });
@@ -187,6 +188,10 @@ module.exports = function(dest, filename, options) {
     work.push(iconConfigs.map(function(params) {
       generateIcon(params);
     }));
+
+    if (callback) {
+      callback()
+    }
 
     Promise.all(work).then(function() {
       console.log(colors.green("All done!"));

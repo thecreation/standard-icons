@@ -10,7 +10,7 @@ const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const jsonfile = require('../../scripts/utils/jsonfile');
-const fs = require('fs-extra');
+const clean = require('../../scripts/utils/clean');
 const config = require('../../config');
 const path = require('path');
 
@@ -47,7 +47,8 @@ options = Object.assign(options, {
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 
-module.exports = function() {
+module.exports = function(callback) {
+  clean(paths.dest);
   options.icons = getIconsFromYml(yml.glyphs, 'emo-');
   options = prepareIcons(options);
   generateCss(paths.dest, options.name, options);
@@ -55,4 +56,5 @@ module.exports = function() {
   copyFonts(paths.dest, paths.fonts, options);
   copySvgs(paths.svgsDest, paths.svgs, options.svgs, 'emo-');
   jsonfile(paths.dest, options);
+  callback();
 };

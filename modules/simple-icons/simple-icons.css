@@ -38,2082 +38,2010 @@
   content: "\ea02";
 }
 
-.si-aboutme::before {
+.si-acm::before {
   content: "\ea03";
 }
 
-.si-acm::before {
+.si-addthis::before {
   content: "\ea04";
 }
 
-.si-addthis::before {
+.si-adobe::before {
   content: "\ea05";
 }
 
-.si-adobe::before {
+.si-adobeacrobatreader::before {
   content: "\ea06";
 }
 
-.si-adobeacrobatreader::before {
+.si-adobeaftereffects::before {
   content: "\ea07";
 }
 
-.si-adobeaftereffects::before {
+.si-adobeaudition::before {
   content: "\ea08";
 }
 
-.si-adobeaudition::before {
+.si-adobecreativecloud::before {
   content: "\ea09";
 }
 
-.si-adobecreativecloud::before {
+.si-adobedreamweaver::before {
   content: "\ea0a";
 }
 
-.si-adobedreamweaver::before {
+.si-adobeillustrator::before {
   content: "\ea0b";
 }
 
-.si-adobeillustrator::before {
+.si-adobeindesign::before {
   content: "\ea0c";
 }
 
-.si-adobeindesign::before {
+.si-adobelightroom::before {
   content: "\ea0d";
 }
 
-.si-adobelightroom::before {
+.si-adobephotoshop::before {
   content: "\ea0e";
 }
 
-.si-adobephotoshop::before {
+.si-adobepremiere::before {
   content: "\ea0f";
 }
 
-.si-adobepremiere::before {
+.si-adobetypekit::before {
   content: "\ea10";
 }
 
-.si-adobetypekit::before {
+.si-airbnb::before {
   content: "\ea11";
 }
 
-.si-aim::before {
+.si-amazon::before {
   content: "\ea12";
 }
 
-.si-airbnb::before {
+.si-amd::before {
   content: "\ea13";
 }
 
-.si-amazon::before {
+.si-americanexpress::before {
   content: "\ea14";
 }
 
-.si-amd::before {
+.si-android::before {
   content: "\ea15";
 }
 
-.si-americanexpress::before {
+.si-angellist::before {
   content: "\ea16";
 }
 
-.si-android::before {
+.si-angular::before {
   content: "\ea17";
 }
 
-.si-angellist::before {
+.si-apple::before {
   content: "\ea18";
 }
 
-.si-angular::before {
+.si-applemusic::before {
   content: "\ea19";
 }
 
-.si-apple::before {
+.si-applepay::before {
   content: "\ea1a";
 }
 
-.si-applemusic::before {
+.si-archiveofourown::before {
   content: "\ea1b";
 }
 
-.si-applepay::before {
+.si-archlinux::before {
   content: "\ea1c";
 }
 
-.si-archiveofourown::before {
+.si-artstation::before {
   content: "\ea1d";
 }
 
-.si-archlinux::before {
+.si-asana::before {
   content: "\ea1e";
 }
 
-.si-artstation::before {
+.si-at-and-t::before {
   content: "\ea1f";
 }
 
-.si-asana::before {
+.si-atlassian::before {
   content: "\ea20";
 }
 
-.si-at-and-t::before {
+.si-atom::before {
   content: "\ea21";
 }
 
-.si-atlassian::before {
+.si-aurelia::before {
   content: "\ea22";
 }
 
-.si-atom::before {
+.si-auth0::before {
   content: "\ea23";
 }
 
-.si-aurelia::before {
+.si-automatic::before {
   content: "\ea24";
 }
 
-.si-auth0::before {
+.si-autotask::before {
   content: "\ea25";
 }
 
-.si-automatic::before {
+.si-aventrix::before {
   content: "\ea26";
 }
 
-.si-autotask::before {
+.si-baidu::before {
   content: "\ea27";
 }
 
-.si-aventrix::before {
+.si-bandcamp::before {
   content: "\ea28";
 }
 
-.si-baidu::before {
+.si-basecamp::before {
   content: "\ea29";
 }
 
-.si-bandcamp::before {
+.si-bathasu::before {
   content: "\ea2a";
 }
 
-.si-basecamp::before {
+.si-beats::before {
   content: "\ea2b";
 }
 
-.si-bathasu::before {
+.si-behance::before {
   content: "\ea2c";
 }
 
-.si-beats::before {
+.si-bigcartel::before {
   content: "\ea2d";
 }
 
-.si-behance::before {
+.si-bing::before {
   content: "\ea2e";
 }
 
-.si-bigcartel::before {
+.si-bitbucket::before {
   content: "\ea2f";
 }
 
-.si-bing::before {
+.si-bitcoin::before {
   content: "\ea30";
 }
 
-.si-bitbucket::before {
+.si-bitdefender::before {
   content: "\ea31";
 }
 
-.si-bitcoin::before {
+.si-bitly::before {
   content: "\ea32";
 }
 
-.si-bitdefender::before {
+.si-blender::before {
   content: "\ea33";
 }
 
-.si-bitly::before {
+.si-blogger::before {
   content: "\ea34";
 }
 
-.si-blender::before {
+.si-boost::before {
   content: "\ea35";
 }
 
-.si-blogger::before {
+.si-bootstrap::before {
   content: "\ea36";
 }
 
-.si-boost::before {
+.si-bower::before {
   content: "\ea37";
 }
 
-.si-bootstrap::before {
+.si-brand-dot-ai::before {
   content: "\ea38";
 }
 
-.si-bower::before {
+.si-buffer::before {
   content: "\ea39";
 }
 
-.si-brand-dot-ai::before {
+.si-buzzfeed::before {
   content: "\ea3a";
 }
 
-.si-brandai::before {
+.si-cakephp::before {
   content: "\ea3b";
 }
 
-.si-buffer::before {
+.si-campaignmonitor::before {
   content: "\ea3c";
 }
 
-.si-buzzfeed::before {
+.si-cashapp::before {
   content: "\ea3d";
 }
 
-.si-cakephp::before {
+.si-castorama::before {
   content: "\ea3e";
 }
 
-.si-campaignmonitor::before {
+.si-castro::before {
   content: "\ea3f";
 }
 
-.si-cashapp::before {
+.si-circle::before {
   content: "\ea40";
 }
 
-.si-castorama::before {
+.si-circleci::before {
   content: "\ea41";
 }
 
-.si-castro::before {
+.si-clockify::before {
   content: "\ea42";
 }
 
-.si-circle::before {
+.si-clojure::before {
   content: "\ea43";
 }
 
-.si-circleci::before {
+.si-cloudflare::before {
   content: "\ea44";
 }
 
-.si-clockify::before {
+.si-co-op::before {
   content: "\ea45";
 }
 
-.si-clojure::before {
+.si-codacy::before {
   content: "\ea46";
 }
 
-.si-cloudflare::before {
+.si-codecademy::before {
   content: "\ea47";
 }
 
-.si-co-op::before {
+.si-codecov::before {
   content: "\ea48";
 }
 
-.si-codacy::before {
+.si-codeforces::before {
   content: "\ea49";
 }
 
-.si-codecademy::before {
+.si-codeigniter::before {
   content: "\ea4a";
 }
 
-.si-codecov::before {
+.si-codepen::before {
   content: "\ea4b";
 }
 
-.si-codeforces::before {
+.si-coderwall::before {
   content: "\ea4c";
 }
 
-.si-codeigniter::before {
+.si-codewars::before {
   content: "\ea4d";
 }
 
-.si-codepen::before {
+.si-codio::before {
   content: "\ea4e";
 }
 
-.si-coderwall::before {
+.si-coffeescript::before {
   content: "\ea4f";
 }
 
-.si-codeschool::before {
+.si-compropago::before {
   content: "\ea50";
 }
 
-.si-codewars::before {
+.si-conekta::before {
   content: "\ea51";
 }
 
-.si-codio::before {
+.si-coursera::before {
   content: "\ea52";
 }
 
-.si-coffeescript::before {
+.si-cplusplus::before {
   content: "\ea53";
 }
 
-.si-compropago::before {
+.si-css3::before {
   content: "\ea54";
 }
 
-.si-conekta::before {
+.si-csswizardry::before {
   content: "\ea55";
 }
 
-.si-coop::before {
+.si-d3-dot-js::before {
   content: "\ea56";
 }
 
-.si-coursera::before {
+.si-dailymotion::before {
   content: "\ea57";
 }
 
-.si-cplusplus::before {
+.si-debian::before {
   content: "\ea58";
 }
 
-.si-css3::before {
+.si-deezer::before {
   content: "\ea59";
 }
 
-.si-csswizardry::before {
+.si-delicious::before {
   content: "\ea5a";
 }
 
-.si-d3-dot-js::before {
+.si-dell::before {
   content: "\ea5b";
 }
 
-.si-dailymotion::before {
+.si-designernews::before {
   content: "\ea5c";
 }
 
-.si-debian::before {
+.si-dev-dot-to::before {
   content: "\ea5d";
 }
 
-.si-deezer::before {
+.si-deviantart::before {
   content: "\ea5e";
 }
 
-.si-delicious::before {
+.si-devrant::before {
   content: "\ea5f";
 }
 
-.si-dell::before {
+.si-diaspora::before {
   content: "\ea60";
 }
 
-.si-designernews::before {
+.si-digg::before {
   content: "\ea61";
 }
 
-.si-dev-dot-to::before {
+.si-digitalocean::before {
   content: "\ea62";
 }
 
-.si-deviantart::before {
+.si-discord::before {
   content: "\ea63";
 }
 
-.si-devrant::before {
+.si-discourse::before {
   content: "\ea64";
 }
 
-.si-diaspora::before {
+.si-discover::before {
   content: "\ea65";
 }
 
-.si-digg::before {
+.si-disqus::before {
   content: "\ea66";
 }
 
-.si-digitalocean::before {
+.si-disroot::before {
   content: "\ea67";
 }
 
-.si-discord::before {
+.si-django::before {
   content: "\ea68";
 }
 
-.si-discourse::before {
+.si-docker::before {
   content: "\ea69";
 }
 
-.si-discover::before {
+.si-dot-net::before {
   content: "\ea6a";
 }
 
-.si-disqus::before {
+.si-draugiem-dot-lv::before {
   content: "\ea6b";
 }
 
-.si-disroot::before {
+.si-dribbble::before {
   content: "\ea6c";
 }
 
-.si-django::before {
+.si-dropbox::before {
   content: "\ea6d";
 }
 
-.si-docker::before {
+.si-drupal::before {
   content: "\ea6e";
 }
 
-.si-dot-net::before {
+.si-dtube::before {
   content: "\ea6f";
 }
 
-.si-draugiem-dot-lv::before {
+.si-ebay::before {
   content: "\ea70";
 }
 
-.si-draugiemlv::before {
+.si-elastic::before {
   content: "\ea71";
 }
 
-.si-dribbble::before {
+.si-elasticcloud::before {
   content: "\ea72";
 }
 
-.si-dropbox::before {
+.si-elasticsearch::before {
   content: "\ea73";
 }
 
-.si-drupal::before {
+.si-elasticstack::before {
   content: "\ea74";
 }
 
-.si-dtube::before {
+.si-elementary::before {
   content: "\ea75";
 }
 
-.si-ebay::before {
+.si-ello::before {
   content: "\ea76";
 }
 
-.si-elastic::before {
+.si-empirekred::before {
   content: "\ea77";
 }
 
-.si-elasticcloud::before {
+.si-envato::before {
   content: "\ea78";
 }
 
-.si-elasticsearch::before {
+.si-eslint::before {
   content: "\ea79";
 }
 
-.si-elasticstack::before {
+.si-ethereum::before {
   content: "\ea7a";
 }
 
-.si-elementary::before {
+.si-etsy::before {
   content: "\ea7b";
 }
 
-.si-ello::before {
+.si-eventbrite::before {
   content: "\ea7c";
 }
 
-.si-empirekred::before {
+.si-eventstore::before {
   content: "\ea7d";
 }
 
-.si-envato::before {
+.si-evernote::before {
   content: "\ea7e";
 }
 
-.si-eslint::before {
+.si-everplaces::before {
   content: "\ea7f";
 }
 
-.si-ethereum::before {
+.si-f-secure::before {
   content: "\ea80";
 }
 
-.si-etsy::before {
+.si-facebook::before {
   content: "\ea81";
 }
 
-.si-eventbrite::before {
+.si-fandango::before {
   content: "\ea82";
 }
 
-.si-eventstore::before {
+.si-feathub::before {
   content: "\ea83";
 }
 
-.si-evernote::before {
+.si-feedly::before {
   content: "\ea84";
 }
 
-.si-everplaces::before {
+.si-figma::before {
   content: "\ea85";
 }
 
-.si-f-secure::before {
+.si-firebase::before {
   content: "\ea86";
 }
 
-.si-facebook::before {
+.si-fitbit::before {
   content: "\ea87";
 }
 
-.si-fandango::before {
+.si-flattr::before {
   content: "\ea88";
 }
 
-.si-feathub::before {
+.si-flickr::before {
   content: "\ea89";
 }
 
-.si-feedly::before {
+.si-flipboard::before {
   content: "\ea8a";
 }
 
-.si-figma::before {
+.si-fnac::before {
   content: "\ea8b";
 }
 
-.si-firebase::before {
+.si-foursquare::before {
   content: "\ea8c";
 }
 
-.si-fitbit::before {
+.si-framer::before {
   content: "\ea8d";
 }
 
-.si-flattr::before {
+.si-freecodecamp::before {
   content: "\ea8e";
 }
 
-.si-flickr::before {
+.si-furaffinity::before {
   content: "\ea8f";
 }
 
-.si-flipboard::before {
+.si-furrynetwork::before {
   content: "\ea90";
 }
 
-.si-fnac::before {
+.si-garmin::before {
   content: "\ea91";
 }
 
-.si-foursquare::before {
+.si-gatsby::before {
   content: "\ea92";
 }
 
-.si-framer::before {
+.si-gauges::before {
   content: "\ea93";
 }
 
-.si-freecodecamp::before {
+.si-geocaching::before {
   content: "\ea94";
 }
 
-.si-furaffinity::before {
+.si-gerrit::before {
   content: "\ea95";
 }
 
-.si-furrynetwork::before {
+.si-ghost::before {
   content: "\ea96";
 }
 
-.si-garmin::before {
+.si-git::before {
   content: "\ea97";
 }
 
-.si-gatsby::before {
+.si-github::before {
   content: "\ea98";
 }
 
-.si-gauges::before {
+.si-gitlab::before {
   content: "\ea99";
 }
 
-.si-geeklist::before {
+.si-gitter::before {
   content: "\ea9a";
 }
 
-.si-geocaching::before {
+.si-glassdoor::before {
   content: "\ea9b";
 }
 
-.si-gerrit::before {
+.si-gmail::before {
   content: "\ea9c";
 }
 
-.si-ghost::before {
+.si-gnu::before {
   content: "\ea9d";
 }
 
-.si-git::before {
+.si-gnusocial::before {
   content: "\ea9e";
 }
 
-.si-github::before {
+.si-go::before {
   content: "\ea9f";
 }
 
-.si-gitlab::before {
+.si-goldenline::before {
   content: "\eaa0";
 }
 
-.si-gitter::before {
+.si-goodreads::before {
   content: "\eaa1";
 }
 
-.si-glassdoor::before {
+.si-google::before {
   content: "\eaa2";
 }
 
-.si-gmail::before {
+.si-googleallo::before {
   content: "\eaa3";
 }
 
-.si-gnu::before {
+.si-googleanalytics::before {
   content: "\eaa4";
 }
 
-.si-gnusocial::before {
+.si-googlechrome::before {
   content: "\eaa5";
 }
 
-.si-go::before {
+.si-googledrive::before {
   content: "\eaa6";
 }
 
-.si-goldenline::before {
+.si-googlehangouts::before {
   content: "\eaa7";
 }
 
-.si-goodreads::before {
+.si-googlekeep::before {
   content: "\eaa8";
 }
 
-.si-google::before {
+.si-googlepay::before {
   content: "\eaa9";
 }
 
-.si-googleallo::before {
+.si-googleplay::before {
   content: "\eaaa";
 }
 
-.si-googleanalytics::before {
+.si-googleplus::before {
   content: "\eaab";
 }
 
-.si-googlechrome::before {
+.si-googlepodcasts::before {
   content: "\eaac";
 }
 
-.si-googledrive::before {
+.si-gov-dot-uk::before {
   content: "\eaad";
 }
 
-.si-googlehangouts::before {
+.si-grafana::before {
   content: "\eaae";
 }
 
-.si-googlekeep::before {
+.si-graphcool::before {
   content: "\eaaf";
 }
 
-.si-googlepay::before {
+.si-graphql::before {
   content: "\eab0";
 }
 
-.si-googleplay::before {
+.si-grav::before {
   content: "\eab1";
 }
 
-.si-googleplus::before {
+.si-gravatar::before {
   content: "\eab2";
 }
 
-.si-googlepodcasts::before {
+.si-groupon::before {
   content: "\eab3";
 }
 
-.si-gov-dot-uk::before {
+.si-gulp::before {
   content: "\eab4";
 }
 
-.si-govuk::before {
+.si-gumroad::before {
   content: "\eab5";
 }
 
-.si-grafana::before {
+.si-gumtree::before {
   content: "\eab6";
 }
 
-.si-graphcool::before {
+.si-hackerrank::before {
   content: "\eab7";
 }
 
-.si-graphql::before {
+.si-hackster::before {
   content: "\eab8";
 }
 
-.si-gratipay::before {
+.si-haskell::before {
   content: "\eab9";
 }
 
-.si-grav::before {
+.si-hatenabookmark::before {
   content: "\eaba";
 }
 
-.si-gravatar::before {
+.si-heroku::before {
   content: "\eabb";
 }
 
-.si-groupon::before {
+.si-hexo::before {
   content: "\eabc";
 }
 
-.si-gulp::before {
+.si-highly::before {
   content: "\eabd";
 }
 
-.si-gumroad::before {
+.si-hipchat::before {
   content: "\eabe";
 }
 
-.si-gumtree::before {
+.si-hockeyapp::before {
   content: "\eabf";
 }
 
-.si-hackerrank::before {
+.si-homify::before {
   content: "\eac0";
 }
 
-.si-hackster::before {
+.si-hootsuite::before {
   content: "\eac1";
 }
 
-.si-haskell::before {
+.si-houzz::before {
   content: "\eac2";
 }
 
-.si-hatenabookmark::before {
+.si-html5::before {
   content: "\eac3";
 }
 
-.si-heroku::before {
+.si-huawei::before {
   content: "\eac4";
 }
 
-.si-hexo::before {
+.si-hulu::before {
   content: "\eac5";
 }
 
-.si-highly::before {
+.si-humblebundle::before {
   content: "\eac6";
 }
 
-.si-hipchat::before {
+.si-iconjar::before {
   content: "\eac7";
 }
 
-.si-hockeyapp::before {
+.si-icq::before {
   content: "\eac8";
 }
 
-.si-homify::before {
+.si-ifixit::before {
   content: "\eac9";
 }
 
-.si-hootsuite::before {
+.si-imdb::before {
   content: "\eaca";
 }
 
-.si-houzz::before {
+.si-inkscape::before {
   content: "\eacb";
 }
 
-.si-html5::before {
+.si-instacart::before {
   content: "\eacc";
 }
 
-.si-huawei::before {
+.si-instagram::before {
   content: "\eacd";
 }
 
-.si-hulu::before {
+.si-instapaper::before {
   content: "\eace";
 }
 
-.si-humblebundle::before {
+.si-intel::before {
   content: "\eacf";
 }
 
-.si-iconjar::before {
+.si-intercom::before {
   content: "\ead0";
 }
 
-.si-icq::before {
+.si-internetexplorer::before {
   content: "\ead1";
 }
 
-.si-ifixit::before {
+.si-invision::before {
   content: "\ead2";
 }
 
-.si-imdb::before {
+.si-jabber::before {
   content: "\ead3";
 }
 
-.si-inkscape::before {
+.si-java::before {
   content: "\ead4";
 }
 
-.si-instacart::before {
+.si-javascript::before {
   content: "\ead5";
 }
 
-.si-instagram::before {
+.si-jekyll::before {
   content: "\ead6";
 }
 
-.si-instapaper::before {
+.si-jenkins::before {
   content: "\ead7";
 }
 
-.si-intel::before {
+.si-jira::before {
   content: "\ead8";
 }
 
-.si-intercom::before {
+.si-joomla::before {
   content: "\ead9";
 }
 
-.si-internetexplorer::before {
+.si-jquery::before {
   content: "\eada";
 }
 
-.si-invision::before {
+.si-jsfiddle::before {
   content: "\eadb";
 }
 
-.si-jabber::before {
+.si-json::before {
   content: "\eadc";
 }
 
-.si-java::before {
+.si-justgiving::before {
   content: "\eadd";
 }
 
-.si-javascript::before {
+.si-kaggle::before {
   content: "\eade";
 }
 
-.si-jekyll::before {
+.si-kaios::before {
   content: "\eadf";
 }
 
-.si-jenkins::before {
+.si-keybase::before {
   content: "\eae0";
 }
 
-.si-jira::before {
+.si-keycdn::before {
   content: "\eae1";
 }
 
-.si-joomla::before {
+.si-khanacademy::before {
   content: "\eae2";
 }
 
-.si-jquery::before {
+.si-kibana::before {
   content: "\eae3";
 }
 
-.si-jsfiddle::before {
+.si-kickstarter::before {
   content: "\eae4";
 }
 
-.si-json::before {
+.si-kik::before {
   content: "\eae5";
 }
 
-.si-justgiving::before {
+.si-kirby::before {
   content: "\eae6";
 }
 
-.si-kaggle::before {
+.si-klout::before {
   content: "\eae7";
 }
 
-.si-kaios::before {
+.si-known::before {
   content: "\eae8";
 }
 
-.si-keybase::before {
+.si-ko-fi::before {
   content: "\eae9";
 }
 
-.si-keycdn::before {
+.si-koding::before {
   content: "\eaea";
 }
 
-.si-khanacademy::before {
+.si-kotlin::before {
   content: "\eaeb";
 }
 
-.si-kibana::before {
+.si-lanyrd::before {
   content: "\eaec";
 }
 
-.si-kickstarter::before {
+.si-laravel::before {
   content: "\eaed";
 }
 
-.si-kik::before {
+.si-last-dot-fm::before {
   content: "\eaee";
 }
 
-.si-kirby::before {
+.si-launchpad::before {
   content: "\eaef";
 }
 
-.si-klout::before {
+.si-leetcode::before {
   content: "\eaf0";
 }
 
-.si-known::before {
+.si-letterboxd::before {
   content: "\eaf1";
 }
 
-.si-ko-fi::before {
+.si-librarything::before {
   content: "\eaf2";
 }
 
-.si-koding::before {
+.si-line::before {
   content: "\eaf3";
 }
 
-.si-kotlin::before {
+.si-linewebtoon::before {
   content: "\eaf4";
 }
 
-.si-lanyrd::before {
+.si-linkedin::before {
   content: "\eaf5";
 }
 
-.si-laravel::before {
+.si-linux::before {
   content: "\eaf6";
 }
 
-.si-last-dot-fm::before {
+.si-linuxfoundation::before {
   content: "\eaf7";
 }
 
-.si-lastfm::before {
+.si-livejournal::before {
   content: "\eaf8";
 }
 
-.si-launchpad::before {
+.si-livestream::before {
   content: "\eaf9";
 }
 
-.si-leetcode::before {
+.si-logstash::before {
   content: "\eafa";
 }
 
-.si-letterboxd::before {
+.si-lua::before {
   content: "\eafb";
 }
 
-.si-librarything::before {
+.si-macys::before {
   content: "\eafc";
 }
 
-.si-line::before {
+.si-magento::before {
   content: "\eafd";
 }
 
-.si-linewebtoon::before {
+.si-mail-dot-ru::before {
   content: "\eafe";
 }
 
-.si-linkedin::before {
+.si-mailchimp::before {
   content: "\eaff";
 }
 
-.si-linux::before {
+.si-makerbot::before {
   content: "\eb00";
 }
 
-.si-linuxfoundation::before {
+.si-mastercard::before {
   content: "\eb01";
 }
 
-.si-livejournal::before {
+.si-mastodon::before {
   content: "\eb02";
 }
 
-.si-livestream::before {
+.si-matternet::before {
   content: "\eb03";
 }
 
-.si-logstash::before {
+.si-mediatemple::before {
   content: "\eb04";
 }
 
-.si-lua::before {
+.si-medium::before {
   content: "\eb05";
 }
 
-.si-macys::before {
+.si-meetup::before {
   content: "\eb06";
 }
 
-.si-magento::before {
+.si-messenger::before {
   content: "\eb07";
 }
 
-.si-mail-dot-ru::before {
+.si-meteor::before {
   content: "\eb08";
 }
 
-.si-mailchimp::before {
+.si-micro-dot-blog::before {
   content: "\eb09";
 }
 
-.si-makerbot::before {
+.si-microgenetics::before {
   content: "\eb0a";
 }
 
-.si-mastercard::before {
+.si-microsoft::before {
   content: "\eb0b";
 }
 
-.si-mastodon::before {
+.si-microsoftaccess::before {
   content: "\eb0c";
 }
 
-.si-matternet::before {
+.si-microsoftedge::before {
   content: "\eb0d";
 }
 
-.si-mediatemple::before {
+.si-microsoftexcel::before {
   content: "\eb0e";
 }
 
-.si-medium::before {
+.si-microsoftonedrive::before {
   content: "\eb0f";
 }
 
-.si-meetup::before {
+.si-microsoftonenote::before {
   content: "\eb10";
 }
 
-.si-messenger::before {
+.si-microsoftoutlook::before {
   content: "\eb11";
 }
 
-.si-meteor::before {
+.si-microsoftpowerpoint::before {
   content: "\eb12";
 }
 
-.si-micro-dot-blog::before {
+.si-microsoftword::before {
   content: "\eb13";
 }
 
-.si-microblog::before {
+.si-minutemailer::before {
   content: "\eb14";
 }
 
-.si-microgenetics::before {
+.si-mix::before {
   content: "\eb15";
 }
 
-.si-microsoft::before {
+.si-mixcloud::before {
   content: "\eb16";
 }
 
-.si-microsoftaccess::before {
+.si-mixer::before {
   content: "\eb17";
 }
 
-.si-microsoftedge::before {
+.si-monero::before {
   content: "\eb18";
 }
 
-.si-microsoftexcel::before {
+.si-mongodb::before {
   content: "\eb19";
 }
 
-.si-microsoftonedrive::before {
+.si-monkeytie::before {
   content: "\eb1a";
 }
 
-.si-microsoftonenote::before {
+.si-monogram::before {
   content: "\eb1b";
 }
 
-.si-microsoftoutlook::before {
+.si-moo::before {
   content: "\eb1c";
 }
 
-.si-microsoftpowerpoint::before {
+.si-mozilla::before {
   content: "\eb1d";
 }
 
-.si-microsoftword::before {
+.si-mozillafirefox::before {
   content: "\eb1e";
 }
 
-.si-minutemailer::before {
+.si-myspace::before {
   content: "\eb1f";
 }
 
-.si-mix::before {
+.si-mysql::before {
   content: "\eb20";
 }
 
-.si-mixcloud::before {
+.si-neo4j::before {
   content: "\eb21";
 }
 
-.si-mixer::before {
+.si-netflix::before {
   content: "\eb22";
 }
 
-.si-monero::before {
+.si-netlify::before {
   content: "\eb23";
 }
 
-.si-mongodb::before {
+.si-nextcloud::before {
   content: "\eb24";
 }
 
-.si-monkeytie::before {
+.si-nextdoor::before {
   content: "\eb25";
 }
 
-.si-monogram::before {
+.si-nginx::before {
   content: "\eb26";
 }
 
-.si-moo::before {
+.si-nintendo::before {
   content: "\eb27";
 }
 
-.si-mozilla::before {
+.si-nintendogamecube::before {
   content: "\eb28";
 }
 
-.si-mozillafirefox::before {
+.si-nintendoswitch::before {
   content: "\eb29";
 }
 
-.si-myspace::before {
+.si-node-dot-js::before {
   content: "\eb2a";
 }
 
-.si-mysql::before {
+.si-nodemon::before {
   content: "\eb2b";
 }
 
-.si-neo4j::before {
+.si-npm::before {
   content: "\eb2c";
 }
 
-.si-netflix::before {
+.si-nucleo::before {
   content: "\eb2d";
 }
 
-.si-netlify::before {
+.si-nuget::before {
   content: "\eb2e";
 }
 
-.si-nextcloud::before {
+.si-nvidia::before {
   content: "\eb2f";
 }
 
-.si-nextdoor::before {
+.si-oculus::before {
   content: "\eb30";
 }
 
-.si-nginx::before {
+.si-odnoklassniki::before {
   content: "\eb31";
 }
 
-.si-nintendo::before {
+.si-opera::before {
   content: "\eb32";
 }
 
-.si-nintendogamecube::before {
+.si-origin::before {
   content: "\eb33";
 }
 
-.si-nintendoswitch::before {
+.si-overcast::before {
   content: "\eb34";
 }
 
-.si-node-dot-js::before {
+.si-ovh::before {
   content: "\eb35";
 }
 
-.si-nodejs::before {
+.si-pagekit::before {
   content: "\eb36";
 }
 
-.si-nodemon::before {
+.si-pandora::before {
   content: "\eb37";
 }
 
-.si-npm::before {
+.si-patreon::before {
   content: "\eb38";
 }
 
-.si-nucleo::before {
+.si-paypal::before {
   content: "\eb39";
 }
 
-.si-nuget::before {
+.si-periscope::before {
   content: "\eb3a";
 }
 
-.si-nvidia::before {
+.si-php::before {
   content: "\eb3b";
 }
 
-.si-oculus::before {
+.si-picarto-dot-tv::before {
   content: "\eb3c";
 }
 
-.si-odnoklassniki::before {
+.si-pinboard::before {
   content: "\eb3d";
 }
 
-.si-onedrive::before {
+.si-pingdom::before {
   content: "\eb3e";
 }
 
-.si-opera::before {
+.si-pingup::before {
   content: "\eb3f";
 }
 
-.si-origin::before {
+.si-pinterest::before {
   content: "\eb40";
 }
 
-.si-overcast::before {
+.si-plangrid::before {
   content: "\eb41";
 }
 
-.si-ovh::before {
+.si-player-dot-me::before {
   content: "\eb42";
 }
 
-.si-pagekit::before {
+.si-playstation::before {
   content: "\eb43";
 }
 
-.si-pandora::before {
+.si-playstation3::before {
   content: "\eb44";
 }
 
-.si-patreon::before {
+.si-playstation4::before {
   content: "\eb45";
 }
 
-.si-paypal::before {
+.si-plex::before {
   content: "\eb46";
 }
 
-.si-periscope::before {
+.si-pluralsight::before {
   content: "\eb47";
 }
 
-.si-php::before {
+.si-plurk::before {
   content: "\eb48";
 }
 
-.si-picarto-dot-tv::before {
+.si-pocket::before {
   content: "\eb49";
 }
 
-.si-pinboard::before {
+.si-podcasts::before {
   content: "\eb4a";
 }
 
-.si-pingdom::before {
+.si-powershell::before {
   content: "\eb4b";
 }
 
-.si-pingup::before {
+.si-prismic::before {
   content: "\eb4c";
 }
 
-.si-pinterest::before {
+.si-processwire::before {
   content: "\eb4d";
 }
 
-.si-plangrid::before {
+.si-producthunt::before {
   content: "\eb4e";
 }
 
-.si-player-dot-me::before {
+.si-proto-dot-io::before {
   content: "\eb4f";
 }
 
-.si-playerme::before {
+.si-protonmail::before {
   content: "\eb50";
 }
 
-.si-playstation::before {
+.si-python::before {
   content: "\eb51";
 }
 
-.si-playstation3::before {
+.si-qiita::before {
   content: "\eb52";
 }
 
-.si-playstation4::before {
+.si-qualcomm::before {
   content: "\eb53";
 }
 
-.si-plex::before {
+.si-quantcast::before {
   content: "\eb54";
 }
 
-.si-pluralsight::before {
+.si-quantopian::before {
   content: "\eb55";
 }
 
-.si-plurk::before {
+.si-quora::before {
   content: "\eb56";
 }
 
-.si-pocket::before {
+.si-qzone::before {
   content: "\eb57";
 }
 
-.si-podcasts::before {
+.si-r::before {
   content: "\eb58";
 }
 
-.si-powershell::before {
+.si-rails::before {
   content: "\eb59";
 }
 
-.si-prismic::before {
+.si-raspberrypi::before {
   content: "\eb5a";
 }
 
-.si-processwire::before {
+.si-react::before {
   content: "\eb5b";
 }
 
-.si-producthunt::before {
+.si-readthedocs::before {
   content: "\eb5c";
 }
 
-.si-proto-dot-io::before {
+.si-redbubble::before {
   content: "\eb5d";
 }
 
-.si-protoio::before {
+.si-reddit::before {
   content: "\eb5e";
 }
 
-.si-protonmail::before {
+.si-redis::before {
   content: "\eb5f";
 }
 
-.si-python::before {
+.si-redux::before {
   content: "\eb60";
 }
 
-.si-qiita::before {
+.si-renren::before {
   content: "\eb61";
 }
 
-.si-qualcomm::before {
+.si-reverbnation::before {
   content: "\eb62";
 }
 
-.si-quantcast::before {
+.si-riseup::before {
   content: "\eb63";
 }
 
-.si-quantopian::before {
+.si-rollup-dot-js::before {
   content: "\eb64";
 }
 
-.si-quora::before {
+.si-roots::before {
   content: "\eb65";
 }
 
-.si-qzone::before {
+.si-rss::before {
   content: "\eb66";
 }
 
-.si-r::before {
+.si-ruby::before {
   content: "\eb67";
 }
 
-.si-rails::before {
+.si-runkeeper::before {
   content: "\eb68";
 }
 
-.si-raspberrypi::before {
+.si-rust::before {
   content: "\eb69";
 }
 
-.si-react::before {
+.si-safari::before {
   content: "\eb6a";
 }
 
-.si-readability::before {
+.si-salesforce::before {
   content: "\eb6b";
 }
 
-.si-readthedocs::before {
+.si-samsung::before {
   content: "\eb6c";
 }
 
-.si-redbubble::before {
+.si-samsungpay::before {
   content: "\eb6d";
 }
 
-.si-reddit::before {
+.si-sap::before {
   content: "\eb6e";
 }
 
-.si-redis::before {
+.si-sass::before {
   content: "\eb6f";
 }
 
-.si-redux::before {
+.si-saucelabs::before {
   content: "\eb70";
 }
 
-.si-renren::before {
+.si-scala::before {
   content: "\eb71";
 }
 
-.si-reverbnation::before {
+.si-scribd::before {
   content: "\eb72";
 }
 
-.si-riseup::before {
+.si-sega::before {
   content: "\eb73";
 }
 
-.si-rollup-dot-js::before {
+.si-sellfy::before {
   content: "\eb74";
 }
 
-.si-roots::before {
+.si-sentry::before {
   content: "\eb75";
 }
 
-.si-rss::before {
+.si-serverfault::before {
   content: "\eb76";
 }
 
-.si-ruby::before {
+.si-shazam::before {
   content: "\eb77";
 }
 
-.si-runkeeper::before {
+.si-shopify::before {
   content: "\eb78";
 }
 
-.si-rust::before {
+.si-signal::before {
   content: "\eb79";
 }
 
-.si-safari::before {
+.si-simpleicons::before {
   content: "\eb7a";
 }
 
-.si-salesforce::before {
+.si-sinaweibo::before {
   content: "\eb7b";
 }
 
-.si-samsung::before {
+.si-sitepoint::before {
   content: "\eb7c";
 }
 
-.si-samsungpay::before {
+.si-skyliner::before {
   content: "\eb7d";
 }
 
-.si-sap::before {
+.si-skype::before {
   content: "\eb7e";
 }
 
-.si-sass::before {
+.si-slack::before {
   content: "\eb7f";
 }
 
-.si-saucelabs::before {
+.si-slashdot::before {
   content: "\eb80";
 }
 
-.si-scala::before {
+.si-slickpic::before {
   content: "\eb81";
 }
 
-.si-scribd::before {
+.si-slides::before {
   content: "\eb82";
 }
 
-.si-sega::before {
+.si-smashingmagazine::before {
   content: "\eb83";
 }
 
-.si-sellfy::before {
+.si-snapchat::before {
   content: "\eb84";
 }
 
-.si-sentry::before {
+.si-sogou::before {
   content: "\eb85";
 }
 
-.si-serverfault::before {
+.si-songkick::before {
   content: "\eb86";
 }
 
-.si-shazam::before {
+.si-soundcloud::before {
   content: "\eb87";
 }
 
-.si-shopify::before {
+.si-sourceforge::before {
   content: "\eb88";
 }
 
-.si-signal::before {
+.si-sparkfun::before {
   content: "\eb89";
 }
 
-.si-simpleicons::before {
+.si-sparkpost::before {
   content: "\eb8a";
 }
 
-.si-sinaweibo::before {
+.si-speakerdeck::before {
   content: "\eb8b";
 }
 
-.si-sitepoint::before {
+.si-spotify::before {
   content: "\eb8c";
 }
 
-.si-skyliner::before {
+.si-spotlight::before {
   content: "\eb8d";
 }
 
-.si-skype::before {
+.si-spreaker::before {
   content: "\eb8e";
 }
 
-.si-slack::before {
+.si-sprint::before {
   content: "\eb8f";
 }
 
-.si-slashdot::before {
+.si-squarespace::before {
   content: "\eb90";
 }
 
-.si-slickpic::before {
+.si-stackexchange::before {
   content: "\eb91";
 }
 
-.si-slides::before {
+.si-stackoverflow::before {
   content: "\eb92";
 }
 
-.si-smashingmagazine::before {
+.si-statamic::before {
   content: "\eb93";
 }
 
-.si-snapchat::before {
+.si-staticman::before {
   content: "\eb94";
 }
 
-.si-sogou::before {
+.si-steam::before {
   content: "\eb95";
 }
 
-.si-songkick::before {
+.si-steem::before {
   content: "\eb96";
 }
 
-.si-soundcloud::before {
+.si-steemit::before {
   content: "\eb97";
 }
 
-.si-sourceforge::before {
+.si-stitcher::before {
   content: "\eb98";
 }
 
-.si-sparkfun::before {
+.si-storify::before {
   content: "\eb99";
 }
 
-.si-sparkpost::before {
+.si-strava::before {
   content: "\eb9a";
 }
 
-.si-speakerdeck::before {
+.si-stripe::before {
   content: "\eb9b";
 }
 
-.si-spotify::before {
+.si-stubhub::before {
   content: "\eb9c";
 }
 
-.si-spotlight::before {
+.si-styleshare::before {
   content: "\eb9d";
 }
 
-.si-spreaker::before {
+.si-stylus::before {
   content: "\eb9e";
 }
 
-.si-sprint::before {
+.si-sublimetext::before {
   content: "\eb9f";
 }
 
-.si-squarespace::before {
+.si-subversion::before {
   content: "\eba0";
 }
 
-.si-stackexchange::before {
+.si-superuser::before {
   content: "\eba1";
 }
 
-.si-stackoverflow::before {
+.si-swarm::before {
   content: "\eba2";
 }
 
-.si-statamic::before {
+.si-swift::before {
   content: "\eba3";
 }
 
-.si-staticman::before {
+.si-symfony::before {
   content: "\eba4";
 }
 
-.si-steam::before {
+.si-t-mobile::before {
   content: "\eba5";
 }
 
-.si-steem::before {
+.si-tails::before {
   content: "\eba6";
 }
 
-.si-steemit::before {
+.si-tapas::before {
   content: "\eba7";
 }
 
-.si-stitcher::before {
+.si-ted::before {
   content: "\eba8";
 }
 
-.si-storify::before {
+.si-teespring::before {
   content: "\eba9";
 }
 
-.si-strava::before {
+.si-telegram::before {
   content: "\ebaa";
 }
 
-.si-stripe::before {
+.si-tencentqq::before {
   content: "\ebab";
 }
 
-.si-stubhub::before {
+.si-tesla::before {
   content: "\ebac";
 }
 
-.si-stumbleupon::before {
+.si-themighty::before {
   content: "\ebad";
 }
 
-.si-styleshare::before {
+.si-themoviedatabase::before {
   content: "\ebae";
 }
 
-.si-stylus::before {
+.si-tinder::before {
   content: "\ebaf";
 }
 
-.si-sublimetext::before {
+.si-toggl::before {
   content: "\ebb0";
 }
 
-.si-subversion::before {
+.si-topcoder::before {
   content: "\ebb1";
 }
 
-.si-superuser::before {
+.si-toptal::before {
   content: "\ebb2";
 }
 
-.si-swarm::before {
+.si-trakt::before {
   content: "\ebb3";
 }
 
-.si-swift::before {
+.si-travisci::before {
   content: "\ebb4";
 }
 
-.si-symfony::before {
+.si-treehouse::before {
   content: "\ebb5";
 }
 
-.si-t-mobile::before {
+.si-trello::before {
   content: "\ebb6";
 }
 
-.si-tails::before {
+.si-tripadvisor::before {
   content: "\ebb7";
 }
 
-.si-tapas::before {
+.si-trulia::before {
   content: "\ebb8";
 }
 
-.si-ted::before {
+.si-tumblr::before {
   content: "\ebb9";
 }
 
-.si-teespring::before {
+.si-twilio::before {
   content: "\ebba";
 }
 
-.si-telegram::before {
+.si-twitch::before {
   content: "\ebbb";
 }
 
-.si-tencentqq::before {
+.si-twitter::before {
   content: "\ebbc";
 }
 
-.si-tesla::before {
+.si-twoo::before {
   content: "\ebbd";
 }
 
-.si-themighty::before {
+.si-typo3::before {
   content: "\ebbe";
 }
 
-.si-themoviedatabase::before {
+.si-uber::before {
   content: "\ebbf";
 }
 
-.si-tinder::before {
+.si-ubuntu::before {
   content: "\ebc0";
 }
 
-.si-toggl::before {
+.si-udacity::before {
   content: "\ebc1";
 }
 
-.si-topcoder::before {
+.si-udemy::before {
   content: "\ebc2";
 }
 
-.si-toptal::before {
+.si-uikit::before {
   content: "\ebc3";
 }
 
-.si-trakt::before {
+.si-umbraco::before {
   content: "\ebc4";
 }
 
-.si-travisci::before {
+.si-unsplash::before {
   content: "\ebc5";
 }
 
-.si-treehouse::before {
+.si-untappd::before {
   content: "\ebc6";
 }
 
-.si-trello::before {
+.si-upwork::before {
   content: "\ebc7";
 }
 
-.si-tripadvisor::before {
+.si-vagrant::before {
   content: "\ebc8";
 }
 
-.si-trulia::before {
+.si-venmo::before {
   content: "\ebc9";
 }
 
-.si-tumblr::before {
+.si-verizon::before {
   content: "\ebca";
 }
 
-.si-twilio::before {
+.si-viadeo::before {
   content: "\ebcb";
 }
 
-.si-twitch::before {
+.si-viber::before {
   content: "\ebcc";
 }
 
-.si-twitter::before {
+.si-vim::before {
   content: "\ebcd";
 }
 
-.si-twoo::before {
+.si-vimeo::before {
   content: "\ebce";
 }
 
-.si-typo3::before {
+.si-vine::before {
   content: "\ebcf";
 }
 
-.si-uber::before {
+.si-virb::before {
   content: "\ebd0";
 }
 
-.si-ubuntu::before {
+.si-visa::before {
   content: "\ebd1";
 }
 
-.si-udacity::before {
+.si-visualstudiocode::before {
   content: "\ebd2";
 }
 
-.si-udemy::before {
+.si-vk::before {
   content: "\ebd3";
 }
 
-.si-uikit::before {
+.si-vlcmediaplayer::before {
   content: "\ebd4";
 }
 
-.si-umbraco::before {
+.si-vsco::before {
   content: "\ebd5";
 }
 
-.si-unsplash::before {
+.si-vue-dot-js::before {
   content: "\ebd6";
 }
 
-.si-untappd::before {
+.si-wattpad::before {
   content: "\ebd7";
 }
 
-.si-upwork::before {
+.si-weasyl::before {
   content: "\ebd8";
 }
 
-.si-vagrant::before {
+.si-webpack::before {
   content: "\ebd9";
 }
 
-.si-venmo::before {
+.si-webstorm::before {
   content: "\ebda";
 }
 
-.si-verizon::before {
+.si-wechat::before {
   content: "\ebdb";
 }
 
-.si-viadeo::before {
+.si-whatsapp::before {
   content: "\ebdc";
 }
 
-.si-viber::before {
+.si-wheniwork::before {
   content: "\ebdd";
 }
 
-.si-vim::before {
+.si-wii::before {
   content: "\ebde";
 }
 
-.si-vimeo::before {
+.si-wiiu::before {
   content: "\ebdf";
 }
 
-.si-vine::before {
+.si-wikipedia::before {
   content: "\ebe0";
 }
 
-.si-virb::before {
+.si-windows::before {
   content: "\ebe1";
 }
 
-.si-visa::before {
+.si-wire::before {
   content: "\ebe2";
 }
 
-.si-visualstudiocode::before {
+.si-wix::before {
   content: "\ebe3";
 }
 
-.si-vk::before {
+.si-wolfram::before {
   content: "\ebe4";
 }
 
-.si-vlcmediaplayer::before {
+.si-wolframlanguage::before {
   content: "\ebe5";
 }
 
-.si-vsco::before {
+.si-wolframmathematica::before {
   content: "\ebe6";
 }
 
-.si-vue-dot-js::before {
+.si-wordpress::before {
   content: "\ebe7";
 }
 
-.si-vuejs::before {
+.si-wpengine::before {
   content: "\ebe8";
 }
 
-.si-wattpad::before {
+.si-x-pack::before {
   content: "\ebe9";
 }
 
-.si-weasyl::before {
+.si-xbox::before {
   content: "\ebea";
 }
 
-.si-webpack::before {
+.si-xcode::before {
   content: "\ebeb";
 }
 
-.si-webstorm::before {
+.si-xero::before {
   content: "\ebec";
 }
 
-.si-wechat::before {
+.si-xing::before {
   content: "\ebed";
 }
 
-.si-whatsapp::before {
+.si-xsplit::before {
   content: "\ebee";
 }
 
-.si-wheniwork::before {
+.si-yahoo::before {
   content: "\ebef";
 }
 
-.si-wii::before {
+.si-yammer::before {
   content: "\ebf0";
 }
 
-.si-wiiu::before {
+.si-yandex::before {
   content: "\ebf1";
 }
 
-.si-wikipedia::before {
+.si-ycombinator::before {
   content: "\ebf2";
 }
 
-.si-windows::before {
+.si-yelp::before {
   content: "\ebf3";
 }
 
-.si-wire::before {
+.si-youtube::before {
   content: "\ebf4";
 }
 
-.si-wix::before {
+.si-zapier::before {
   content: "\ebf5";
 }
 
-.si-wolfram::before {
+.si-zendesk::before {
   content: "\ebf6";
 }
 
-.si-wolframlanguage::before {
+.si-zerply::before {
   content: "\ebf7";
 }
 
-.si-wolframmathematica::before {
-  content: "\ebf8";
-}
-
-.si-wordpress::before {
-  content: "\ebf9";
-}
-
-.si-wpengine::before {
-  content: "\ebfa";
-}
-
-.si-x-pack::before {
-  content: "\ebfb";
-}
-
-.si-xbox::before {
-  content: "\ebfc";
-}
-
-.si-xcode::before {
-  content: "\ebfd";
-}
-
-.si-xero::before {
-  content: "\ebfe";
-}
-
-.si-xing::before {
-  content: "\ebff";
-}
-
-.si-xsplit::before {
-  content: "\ec00";
-}
-
-.si-yahoo::before {
-  content: "\ec01";
-}
-
-.si-yammer::before {
-  content: "\ec02";
-}
-
-.si-yandex::before {
-  content: "\ec03";
-}
-
-.si-ycombinator::before {
-  content: "\ec04";
-}
-
-.si-yelp::before {
-  content: "\ec05";
-}
-
-.si-youtube::before {
-  content: "\ec06";
-}
-
-.si-zapier::before {
-  content: "\ec07";
-}
-
-.si-zendesk::before {
-  content: "\ec08";
-}
-
-.si-zerply::before {
-  content: "\ec09";
-}
-
 .si-zillow::before {
-  content: "\ec0a";
+  content: "\ebf8";
 }

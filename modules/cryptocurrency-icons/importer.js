@@ -9,6 +9,7 @@ const copyLicense = require('../../scripts/utils/copyLicense');
 const generateFontsFromSvg = require('../../scripts/utils/generateFontsFromSvg');
 const jsonfile = require('../../scripts/utils/jsonfile');
 const generateSvgs = require('../../scripts/utils/generateSvgs');
+const clean = require('../../scripts/utils/clean');
 const fs = require('fs-extra');
 const path = require('path');
 
@@ -40,16 +41,16 @@ options.description = info.description;
 options.version = info.version;
 options.svgs = getSvgs(paths.svgs);
 
-function callback() {
-  options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'crypto-');
-  options = prepareIcons(options);
-  generateJson(paths.dest, options.className, options);
-  copyLicense(paths.dest, path.join(options.source, 'README.md'));
-  jsonfile(paths.dest, options);
-  generateSvgs(paths.dest, options.name, options);
-}
-
-module.exports = function() {
-  copySvgs(paths.svgsDest, paths.svgs, options.svgs);
-  generateFontsFromSvg(paths.dest, options, callback);
+module.exports = function(callback) {
+  clean(paths.dest)
+  copySvgs(paths.svgsDest, paths.svgs, options.svgs, '$');
+  generateFontsFromSvg(paths.dest, options, () => {
+    options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'crypto-');
+    options = prepareIcons(options);
+    generateJson(paths.dest, options.className, options);
+    copyLicense(paths.dest, path.join(options.source, 'README.md'));
+    generateSvgs(paths.dest, options.name, options);
+    jsonfile(paths.dest, options);
+    callback();
+  });
 };

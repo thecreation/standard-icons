@@ -12,7 +12,7 @@ const getSvgs = require('../../scripts/utils/getSvgs');
 const copySvgs = require('../../scripts/utils/copySvgs');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const jsonfile = require('../../scripts/utils/jsonfile');
-const fs = require('fs-extra');
+const clean = require('../../scripts/utils/clean');
 const path = require('path');;
 
 let options = {
@@ -46,7 +46,7 @@ options.license = detectLicense(paths.license);
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 
-module.exports = function() {
+module.exports = function(callback) {
   let iconsMap = getIconsMap(getIconsFromCss(paths.css, 'fi-'));
   getIconsFromUrl(paths.url, function($) {
     let icons = {};
@@ -70,11 +70,12 @@ module.exports = function() {
         });
       });
     });
-    console.log(icons)
+
     return icons;
   }).then(function(icons){
     options.icons = icons;
     options = prepareIcons(options);
+    clean(paths.dest);
     generateCss(paths.dest, options.name, options);
     generateJson(paths.dest, options.className, options);
     copyFonts(paths.dest, paths.fonts, options);
@@ -82,5 +83,6 @@ module.exports = function() {
       return path.basename(name).replace('fi-', '');
     });
     jsonfile(paths.dest, options);
+    callback();
   });
 };

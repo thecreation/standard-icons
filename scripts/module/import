@@ -3,7 +3,8 @@
 const argv = require('yargs').argv;
 const colors = require('colors');
 
-let importer = require(`../../modules/${argv.module}/importer`);
-importer();
+const importer = require(`../../modules/${argv.module}/importer`);
 
-console.log(colors.green(`${argv.module} imported.`));
+importer(() => {
+	console.log(colors.green(`${argv.module} imported.`));
+});

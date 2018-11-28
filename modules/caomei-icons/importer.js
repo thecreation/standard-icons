@@ -11,6 +11,7 @@ const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const generateSvgs = require('../../scripts/utils/generateSvgs');
 const jsonfile = require('../../scripts/utils/jsonfile');
+const clean = require('../../scripts/utils/clean');
 const fs = require('fs-extra');
 const path = require('path');
 
@@ -44,7 +45,7 @@ options.license = info.license;
 options.description = info.description;
 options.fonts = getFonts(paths.fonts);
 
-module.exports = function() {
+module.exports = function(callback) {
   let iconsMap = getIconsMap(getIconsFromCss(paths.css, 'czs-'));
 
   getIconsFromUrl(paths.url, function($) {
@@ -69,11 +70,13 @@ module.exports = function() {
   }).then(function(icons){
     options.icons = icons;
     options = prepareIcons(options);
+    clean(paths.dest)
     generateCss(paths.dest, options.name, options);
     generateJson(paths.dest, options.className, options);
     copyFonts(paths.dest, paths.fonts, options);
     generateSvgs(paths.dest, options.name, options);
     copyLicense(paths.dest, path.join(options.source, 'Read Me.txt'));
     jsonfile(paths.dest, options);
+    callback()
   });
 };

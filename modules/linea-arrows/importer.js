@@ -10,7 +10,7 @@ const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const jsonfile = require('../../scripts/utils/jsonfile');
-const fs = require('fs-extra');
+const clean = require('../../scripts/utils/clean');
 const config = require('../../config');
 const path = require('path');
 
@@ -32,7 +32,7 @@ let paths = {
   license: path.join(config.sets.customs, 'Linea-Iconset', 'LICENSE'),
   css: path.join(options.source, '_ICONFONT', 'styles.css'),
   fonts: path.join(options.source, '_ICONFONT', 'fonts'),
-  svgs: path.join(options.source, '_SVG'),
+  svgs: path.join(options.source, '_SVG expanded'),
   dest: __dirname,
   svgsDest: path.join(__dirname, 'icons')
 };
@@ -41,7 +41,8 @@ options.license = detectLicense(paths.license);
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 
-module.exports = function() {
+module.exports = function(callback) {
+  clean(paths.dest)
   options.icons = getIconsFromCss(paths.css, 'icon-');
   options = prepareIcons(options);
   generateCss(paths.dest, options.name, options);
@@ -52,4 +53,5 @@ module.exports = function() {
   });
   copyLicense(paths.dest, paths.license);
   jsonfile(paths.dest, options);
+  callback();
 };

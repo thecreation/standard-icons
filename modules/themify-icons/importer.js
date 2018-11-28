@@ -12,7 +12,7 @@ const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const jsonfile = require('../../scripts/utils/jsonfile');
-const fs = require('fs-extra');
+const clean = require('../../scripts/utils/clean');
 const config = require('../../config');
 const path = require('path');
 
@@ -44,7 +44,7 @@ options.license = detectLicense(paths.license);
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 
-module.exports = function() {
+module.exports = function(callback) {
   let iconsMap = getIconsMap(getIconsFromCss(paths.css, 'ti-'));
   getIconsFromUrl(paths.url, function($) {
     let icons = {};
@@ -67,11 +67,13 @@ module.exports = function() {
   }).then(function(icons){
     options.icons = icons;
     options = prepareIcons(options);
+    clean(paths.dest);
     generateCss(paths.dest, options.name, options);
     generateJson(paths.dest, options.className, options);
     copyFonts(paths.dest, paths.fonts, options);
     copySvgs(paths.svgsDest, paths.svgs, options.svgs);
     copyLicense(paths.dest, path.join(options.source, 'readme.txt'));
     jsonfile(paths.dest, options);
+    callback();
   });
 };

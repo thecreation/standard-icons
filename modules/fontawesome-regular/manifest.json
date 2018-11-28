@@ -1,10 +1,10 @@
 {
   "name": "fontawesome-regular",
-  "title": "Font awesome regular",
+  "title": "Font Awesome Regular",
   "description": "The iconic font, CSS, and SVG framework",
   "version": "5.5.0",
-  "class": "fa",
-  "prefix": "fa-",
+  "class": "far",
+  "prefix": "far-",
   "homepage": "https://fontawesome.com",
   "author": "Dave Gandy",
   "license": "MIT",
