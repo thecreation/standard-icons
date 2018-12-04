@@ -56,8 +56,12 @@ module.exports = function(callback) {
       $icons.each(function() {
         if($(this).hasClass('dashicons')) {
           $(this).removeClass('dashicons');
+          let iconName = $(this).attr('class').replace('dashicons-', '')
+          if (iconName === 'exerpt-view') {
+            iconName = 'excerpt-view'
+          }
           icons[category].push({
-            name: $(this).attr('class').replace('dashicons-', ''),
+            name: iconName,
             content: '\\' + $(this).attr('alt'),
             title: $(this).text().trim()
           });
