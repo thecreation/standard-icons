@@ -1866,182 +1866,178 @@
   content: "\ebcb";
 }
 
-.si-viber::before {
+.si-vim::before {
   content: "\ebcc";
 }
 
-.si-vim::before {
+.si-vimeo::before {
   content: "\ebcd";
 }
 
-.si-vimeo::before {
+.si-vine::before {
   content: "\ebce";
 }
 
-.si-vine::before {
+.si-virb::before {
   content: "\ebcf";
 }
 
-.si-virb::before {
+.si-visa::before {
   content: "\ebd0";
 }
 
-.si-visa::before {
+.si-visualstudiocode::before {
   content: "\ebd1";
 }
 
-.si-visualstudiocode::before {
+.si-vk::before {
   content: "\ebd2";
 }
 
-.si-vk::before {
+.si-vlcmediaplayer::before {
   content: "\ebd3";
 }
 
-.si-vlcmediaplayer::before {
+.si-vsco::before {
   content: "\ebd4";
 }
 
-.si-vsco::before {
+.si-vue-dot-js::before {
   content: "\ebd5";
 }
 
-.si-vue-dot-js::before {
+.si-wattpad::before {
   content: "\ebd6";
 }
 
-.si-wattpad::before {
+.si-weasyl::before {
   content: "\ebd7";
 }
 
-.si-weasyl::before {
+.si-webpack::before {
   content: "\ebd8";
 }
 
-.si-webpack::before {
+.si-webstorm::before {
   content: "\ebd9";
 }
 
-.si-webstorm::before {
+.si-wechat::before {
   content: "\ebda";
 }
 
-.si-wechat::before {
+.si-whatsapp::before {
   content: "\ebdb";
 }
 
-.si-whatsapp::before {
+.si-wheniwork::before {
   content: "\ebdc";
 }
 
-.si-wheniwork::before {
+.si-wii::before {
   content: "\ebdd";
 }
 
-.si-wii::before {
+.si-wiiu::before {
   content: "\ebde";
 }
 
-.si-wiiu::before {
+.si-wikipedia::before {
   content: "\ebdf";
 }
 
-.si-wikipedia::before {
+.si-windows::before {
   content: "\ebe0";
 }
 
-.si-windows::before {
+.si-wire::before {
   content: "\ebe1";
 }
 
-.si-wire::before {
+.si-wix::before {
   content: "\ebe2";
 }
 
-.si-wix::before {
+.si-wolfram::before {
   content: "\ebe3";
 }
 
-.si-wolfram::before {
+.si-wolframlanguage::before {
   content: "\ebe4";
 }
 
-.si-wolframlanguage::before {
+.si-wolframmathematica::before {
   content: "\ebe5";
 }
 
-.si-wolframmathematica::before {
+.si-wordpress::before {
   content: "\ebe6";
 }
 
-.si-wordpress::before {
+.si-wpengine::before {
   content: "\ebe7";
 }
 
-.si-wpengine::before {
+.si-x-pack::before {
   content: "\ebe8";
 }
 
-.si-x-pack::before {
+.si-xbox::before {
   content: "\ebe9";
 }
 
-.si-xbox::before {
+.si-xcode::before {
   content: "\ebea";
 }
 
-.si-xcode::before {
+.si-xero::before {
   content: "\ebeb";
 }
 
-.si-xero::before {
+.si-xing::before {
   content: "\ebec";
 }
 
-.si-xing::before {
+.si-xsplit::before {
   content: "\ebed";
 }
 
-.si-xsplit::before {
+.si-yahoo::before {
   content: "\ebee";
 }
 
-.si-yahoo::before {
+.si-yammer::before {
   content: "\ebef";
 }
 
-.si-yammer::before {
+.si-yandex::before {
   content: "\ebf0";
 }
 
-.si-yandex::before {
+.si-ycombinator::before {
   content: "\ebf1";
 }
 
-.si-ycombinator::before {
+.si-yelp::before {
   content: "\ebf2";
 }
 
-.si-yelp::before {
+.si-youtube::before {
   content: "\ebf3";
 }
 
-.si-youtube::before {
+.si-zapier::before {
   content: "\ebf4";
 }
 
-.si-zapier::before {
+.si-zendesk::before {
   content: "\ebf5";
 }
 
-.si-zendesk::before {
+.si-zerply::before {
   content: "\ebf6";
 }
 
-.si-zerply::before {
-  content: "\ebf7";
-}
-
 .si-zillow::before {
-  content: "\ebf8";
+  content: "\ebf7";
 }
