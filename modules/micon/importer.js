@@ -1,14 +1,11 @@
-const generateCss = require('../../scripts/utils/generateCss');
 const generateJson = require('../../scripts/utils/generateJson');
-const generateSvgs = require('../../scripts/utils/generateSvgs');
 const prepareIcons = require('../../scripts/utils/prepareIcons');
 const extraFromJson = require('../../scripts/utils/extraFromJson');
-const detectLicense = require('../../scripts/utils/detectLicense');
-const getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
+const getIconsFromCss3 = require('../../scripts/utils/getIconsFromCss3');
+const generateFontsFromSvg = require('../../scripts/utils/generateFontsFromSvg');
 const getSvgs = require('../../scripts/utils/getSvgs');
 const copySvgs = require('../../scripts/utils/copySvgs');
 const getFonts = require('../../scripts/utils/getFonts');
-const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const jsonfile = require('../../scripts/utils/jsonfile');
 const clean = require('../../scripts/utils/clean');
@@ -26,7 +23,6 @@ let options = {
 
 let paths = {
   package: path.join(options.source, 'package.json'),
-  css: path.join(options.source, 'dist', 'micon', 'css', 'micon.css'),
   fonts: path.join(options.source, 'dist', 'micon', 'fonts'),
   svgs: path.join(options.source, 'icons'),
   dest: __dirname,
@@ -44,16 +40,14 @@ options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs, '**/**/*.svg');
 
 module.exports = function(callback) {
-  options.icons = getIconsFromCss(paths.css, 'mi-');
-  options = prepareIcons(options);
   clean(paths.dest);
-  generateCss(paths.dest, options.name, options);
-  generateJson(paths.dest, options.className, options);
-  copyFonts(paths.dest, paths.fonts, options);
-  generateSvgs(paths.dest, options.name, options, () => {
-    copySvgs(paths.svgsDest, paths.svgs, options.svgs)
-  });
-  copyLicense(paths.dest, path.join(options.source, 'LICENSE'));
-  jsonfile(paths.dest, options);
-  callback();
+  copySvgs(paths.svgsDest, paths.svgs, options.svgs);
+  generateFontsFromSvg(paths.dest, options, () => {
+    options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'mi-');
+    options = prepareIcons(options);
+    generateJson(paths.dest, options.className, options);
+    copyLicense(paths.dest, path.join(options.source, 'LICENSE'));
+    jsonfile(paths.dest, options);
+    callback();
+  })
 };
