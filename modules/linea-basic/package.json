@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-3",
+  "version": "1.0.0-alpha.1",
   "name": "@icon/linea-basic",
   "description": "Linea Iconset a free outline iconset  featuring 730+ Icons.",
   "author": "Dario Ferrando",
@@ -10,7 +10,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=linea-basic",
-    "optimize": "../../scripts/module/optimize"
+    "optimize": "../../scripts/module/optimize",
+    "update": "ncu -a"
   },
   "keywords": [
     "icons",

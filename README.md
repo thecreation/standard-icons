@@ -11,7 +11,7 @@ npm i -g lerna
 ```
 npm install
 npm run bootstrap
-
+npm run update
 git submodule init
 git submodule update
 ```

@@ -10,7 +10,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=map-icons",
-    "optimize": "../../scripts/module/optimize"
+    "optimize": "../../scripts/module/optimize",
+    "update": "ncu -a"
   },
   "keywords": [
     "icons",
