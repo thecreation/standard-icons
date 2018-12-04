@@ -22,9 +22,10 @@ module.exports = function(folder, saveTo) {
 	jsFiles.forEach(file => {
 		let filePath = `${folder}/${file}`;
 		let { svgPathData, width, height, iconName } = require(filePath);
-		let svgDom = `<svg width="64" height="64" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg"><path d="${ svgPathData }"/></svg>`;
+		let svgDom = `<svg viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg"><path d="${ svgPathData }"/></svg>`;
 		fs.ensureDir(saveTo)
-		fs.writeFile(path.join(saveTo + `/${iconName}.svg`), svgDom);
-		console.log(colors.green(`${iconName}.svg generate`))
+		fs.writeFile(`${saveTo}/${iconName}.svg`, svgDom, () => {
+			console.log(colors.green(`${iconName}.svg generate`))
+		});
 	})
 }

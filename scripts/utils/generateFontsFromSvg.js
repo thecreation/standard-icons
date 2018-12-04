@@ -19,6 +19,7 @@ module.exports = function(dest, options, done) {
     license: `${options.license}`,
     fontHeight: 128,
     normalize: true,
+    centerHorizontally: true,
     formats: ['svg', 'ttf', 'eot', 'woff', 'woff2'],
     glyphTransformFn: obj => {
       return obj
