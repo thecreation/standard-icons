@@ -154,7 +154,7 @@ module.exports = function(dest, filename, options, callback) {
         let str = options.icons[i].content.slice(1);
         for (let data in fontData) {
           if (fontData[data] != undefined) {
-            if (hexToDec(str) == fontData[data].content) {
+            if (str == fontData[data].data.unicode.codePointAt(0).toString(16)) {
               icons.push({
                 name: options.icons[i].name,
                 advWidth: fontData[data].advWidth,
