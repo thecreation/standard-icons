@@ -260,7 +260,7 @@
 .fe-edit:before {
   content: "\e867";
 }
-.fe-edit-1:before {
+.fe-edit-3:before {
   content: "\e868";
 }
 .fe-external-link:before {
@@ -770,7 +770,7 @@
 .fe-arrow-right-circle:before {
   content: "\e911";
 }
-.fe-bar-chart-line-:before {
+.fe-bar-chart-line-2:before {
   content: "\e912";
 }
 .fe-bar-chart-line:before {
@@ -815,10 +815,10 @@
 .fe-hard-drive:before {
   content: "\e920";
 }
-.fe-more-vertical-:before {
+.fe-more-vertical-2:before {
   content: "\e921";
 }
-.fe-more-horizontal-:before {
+.fe-more-horizontal-2:before {
   content: "\e922";
 }
 .fe-rss:before {

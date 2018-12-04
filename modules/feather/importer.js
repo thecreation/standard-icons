@@ -3,7 +3,7 @@ const generateJson = require('../../scripts/utils/generateJson');
 const prepareIcons = require('../../scripts/utils/prepareIcons');
 const extraFromJson = require('../../scripts/utils/extraFromJson');
 const detectLicense = require('../../scripts/utils/detectLicense');
-const getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
+const getIconsFromCss2 = require('../../scripts/utils/getIconsFromCss2');
 const getSvgs = require('../../scripts/utils/getSvgs');
 const copySvgs = require('../../scripts/utils/copySvgs');
 const getFonts = require('../../scripts/utils/getFonts');
@@ -47,7 +47,16 @@ options.svgs = getSvgs(paths.svgs);
 options.license = info.license;
 
 module.exports = function(callback) {
-  options.icons = getIconsFromCss(paths.css, 'icon-');
+  options.icons = getIconsFromCss2(paths.css, 'icon-', "^\\.{prefix}([\\w\\d-]+):before", (icon) => {
+    if (icon.name.charAt(icon.name.length - 1) === '-') {
+      icon.name = icon.name + '2'
+      icon.title = icon.title + '2'
+    }
+    if (icon.name === 'edit-1') {
+      icon.name = 'edit-3'
+      icon.title = 'edit-3'
+    }
+  });
   options = prepareIcons(options);
   clean(paths.dest)
   generateCss(paths.dest, options.name, options);

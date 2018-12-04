@@ -3,7 +3,7 @@
 let fs = require('graceful-fs');
 let CSSOM = require('css');
 
-module.exports = function(file, prefix, selector = "^\\.{prefix}([\\w\\d-]+):before") {
+module.exports = function(file, prefix, selector = "^\\.{prefix}([\\w\\d-]+):before", nameFunc = null) {
   var content = fs.readFileSync(file);
   selector = selector.replace('{prefix}', prefix);
   
@@ -23,6 +23,9 @@ module.exports = function(file, prefix, selector = "^\\.{prefix}([\\w\\d-]+):bef
               icon.content = declaration.value.replace(/["'](.+)["']/, '$1');
             }
           });
+          if (nameFunc instanceof Function) {
+            nameFunc(icon)
+          }
           icons[icon.name] = icon;
       }
     }
