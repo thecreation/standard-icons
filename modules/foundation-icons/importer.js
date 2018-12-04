@@ -63,6 +63,9 @@ module.exports = function(callback) {
 
       $icons.each(function() {
         let name = $(this).attr('class').replace('fi-', '');
+        if (name === 'social-xbox-20') {
+          name = 'social-xbox'
+        }
         icons[category].push({
           name: name,
           content: iconsMap[name],
