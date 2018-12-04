@@ -12,6 +12,7 @@
   "count": "390",
   "classifiable": false,
   "icons": {
+    "500px": "500px",
     "accessible-icon": "accessible-icon",
     "accusoft": "accusoft",
     "acquisitions-incorporated": "acquisitions-incorporated",
@@ -139,7 +140,6 @@
     "font-awesome": "font-awesome",
     "font-awesome-alt": "font-awesome-alt",
     "font-awesome-flag": "font-awesome-flag",
-    "font-awesome-logo-full": "font-awesome-logo-full",
     "fonticons": "fonticons",
     "fonticons-fi": "fonticons-fi",
     "fort-awesome": "fort-awesome",

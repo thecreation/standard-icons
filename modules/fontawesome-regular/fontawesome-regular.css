@@ -266,374 +266,370 @@
   content: "\ea3b";
 }
 
-.far-font-awesome-logo-full::before {
+.far-frown::before {
   content: "\ea3c";
 }
 
-.far-frown::before {
+.far-frown-open::before {
   content: "\ea3d";
 }
 
-.far-frown-open::before {
+.far-futbol::before {
   content: "\ea3e";
 }
 
-.far-futbol::before {
+.far-gem::before {
   content: "\ea3f";
 }
 
-.far-gem::before {
+.far-grimace::before {
   content: "\ea40";
 }
 
-.far-grimace::before {
+.far-grin::before {
   content: "\ea41";
 }
 
-.far-grin::before {
+.far-grin-alt::before {
   content: "\ea42";
 }
 
-.far-grin-alt::before {
+.far-grin-beam::before {
   content: "\ea43";
 }
 
-.far-grin-beam::before {
+.far-grin-beam-sweat::before {
   content: "\ea44";
 }
 
-.far-grin-beam-sweat::before {
+.far-grin-hearts::before {
   content: "\ea45";
 }
 
-.far-grin-hearts::before {
+.far-grin-squint::before {
   content: "\ea46";
 }
 
-.far-grin-squint::before {
+.far-grin-squint-tears::before {
   content: "\ea47";
 }
 
-.far-grin-squint-tears::before {
+.far-grin-stars::before {
   content: "\ea48";
 }
 
-.far-grin-stars::before {
+.far-grin-tears::before {
   content: "\ea49";
 }
 
-.far-grin-tears::before {
+.far-grin-tongue::before {
   content: "\ea4a";
 }
 
-.far-grin-tongue::before {
+.far-grin-tongue-squint::before {
   content: "\ea4b";
 }
 
-.far-grin-tongue-squint::before {
+.far-grin-tongue-wink::before {
   content: "\ea4c";
 }
 
-.far-grin-tongue-wink::before {
+.far-grin-wink::before {
   content: "\ea4d";
 }
 
-.far-grin-wink::before {
+.far-hand-lizard::before {
   content: "\ea4e";
 }
 
-.far-hand-lizard::before {
+.far-hand-paper::before {
   content: "\ea4f";
 }
 
-.far-hand-paper::before {
+.far-hand-peace::before {
   content: "\ea50";
 }
 
-.far-hand-peace::before {
+.far-hand-point-down::before {
   content: "\ea51";
 }
 
-.far-hand-point-down::before {
+.far-hand-point-left::before {
   content: "\ea52";
 }
 
-.far-hand-point-left::before {
+.far-hand-point-right::before {
   content: "\ea53";
 }
 
-.far-hand-point-right::before {
+.far-hand-point-up::before {
   content: "\ea54";
 }
 
-.far-hand-point-up::before {
+.far-hand-pointer::before {
   content: "\ea55";
 }
 
-.far-hand-pointer::before {
+.far-hand-rock::before {
   content: "\ea56";
 }
 
-.far-hand-rock::before {
+.far-hand-scissors::before {
   content: "\ea57";
 }
 
-.far-hand-scissors::before {
+.far-hand-spock::before {
   content: "\ea58";
 }
 
-.far-hand-spock::before {
+.far-handshake::before {
   content: "\ea59";
 }
 
-.far-handshake::before {
+.far-hdd::before {
   content: "\ea5a";
 }
 
-.far-hdd::before {
+.far-heart::before {
   content: "\ea5b";
 }
 
-.far-heart::before {
+.far-hospital::before {
   content: "\ea5c";
 }
 
-.far-hospital::before {
+.far-hourglass::before {
   content: "\ea5d";
 }
 
-.far-hourglass::before {
+.far-id-badge::before {
   content: "\ea5e";
 }
 
-.far-id-badge::before {
+.far-id-card::before {
   content: "\ea5f";
 }
 
-.far-id-card::before {
+.far-image::before {
   content: "\ea60";
 }
 
-.far-image::before {
+.far-images::before {
   content: "\ea61";
 }
 
-.far-images::before {
+.far-keyboard::before {
   content: "\ea62";
 }
 
-.far-keyboard::before {
+.far-kiss::before {
   content: "\ea63";
 }
 
-.far-kiss::before {
+.far-kiss-beam::before {
   content: "\ea64";
 }
 
-.far-kiss-beam::before {
+.far-kiss-wink-heart::before {
   content: "\ea65";
 }
 
-.far-kiss-wink-heart::before {
+.far-laugh::before {
   content: "\ea66";
 }
 
-.far-laugh::before {
+.far-laugh-beam::before {
   content: "\ea67";
 }
 
-.far-laugh-beam::before {
+.far-laugh-squint::before {
   content: "\ea68";
 }
 
-.far-laugh-squint::before {
+.far-laugh-wink::before {
   content: "\ea69";
 }
 
-.far-laugh-wink::before {
+.far-lemon::before {
   content: "\ea6a";
 }
 
-.far-lemon::before {
+.far-life-ring::before {
   content: "\ea6b";
 }
 
-.far-life-ring::before {
+.far-lightbulb::before {
   content: "\ea6c";
 }
 
-.far-lightbulb::before {
+.far-list-alt::before {
   content: "\ea6d";
 }
 
-.far-list-alt::before {
+.far-map::before {
   content: "\ea6e";
 }
 
-.far-map::before {
+.far-meh::before {
   content: "\ea6f";
 }
 
-.far-meh::before {
+.far-meh-blank::before {
   content: "\ea70";
 }
 
-.far-meh-blank::before {
+.far-meh-rolling-eyes::before {
   content: "\ea71";
 }
 
-.far-meh-rolling-eyes::before {
+.far-minus-square::before {
   content: "\ea72";
 }
 
-.far-minus-square::before {
+.far-money-bill-alt::before {
   content: "\ea73";
 }
 
-.far-money-bill-alt::before {
+.far-moon::before {
   content: "\ea74";
 }
 
-.far-moon::before {
+.far-newspaper::before {
   content: "\ea75";
 }
 
-.far-newspaper::before {
+.far-object-group::before {
   content: "\ea76";
 }
 
-.far-object-group::before {
+.far-object-ungroup::before {
   content: "\ea77";
 }
 
-.far-object-ungroup::before {
+.far-paper-plane::before {
   content: "\ea78";
 }
 
-.far-paper-plane::before {
+.far-pause-circle::before {
   content: "\ea79";
 }
 
-.far-pause-circle::before {
+.far-play-circle::before {
   content: "\ea7a";
 }
 
-.far-play-circle::before {
+.far-plus-square::before {
   content: "\ea7b";
 }
 
-.far-plus-square::before {
+.far-question-circle::before {
   content: "\ea7c";
 }
 
-.far-question-circle::before {
+.far-registered::before {
   content: "\ea7d";
 }
 
-.far-registered::before {
+.far-sad-cry::before {
   content: "\ea7e";
 }
 
-.far-sad-cry::before {
+.far-sad-tear::before {
   content: "\ea7f";
 }
 
-.far-sad-tear::before {
+.far-save::before {
   content: "\ea80";
 }
 
-.far-save::before {
+.far-share-square::before {
   content: "\ea81";
 }
 
-.far-share-square::before {
+.far-smile::before {
   content: "\ea82";
 }
 
-.far-smile::before {
+.far-smile-beam::before {
   content: "\ea83";
 }
 
-.far-smile-beam::before {
+.far-smile-wink::before {
   content: "\ea84";
 }
 
-.far-smile-wink::before {
+.far-snowflake::before {
   content: "\ea85";
 }
 
-.far-snowflake::before {
+.far-square::before {
   content: "\ea86";
 }
 
-.far-square::before {
+.far-star::before {
   content: "\ea87";
 }
 
-.far-star::before {
+.far-star-half::before {
   content: "\ea88";
 }
 
-.far-star-half::before {
+.far-sticky-note::before {
   content: "\ea89";
 }
 
-.far-sticky-note::before {
+.far-stop-circle::before {
   content: "\ea8a";
 }
 
-.far-stop-circle::before {
+.far-sun::before {
   content: "\ea8b";
 }
 
-.far-sun::before {
+.far-surprise::before {
   content: "\ea8c";
 }
 
-.far-surprise::before {
+.far-thumbs-down::before {
   content: "\ea8d";
 }
 
-.far-thumbs-down::before {
+.far-thumbs-up::before {
   content: "\ea8e";
 }
 
-.far-thumbs-up::before {
+.far-times-circle::before {
   content: "\ea8f";
 }
 
-.far-times-circle::before {
+.far-tired::before {
   content: "\ea90";
 }
 
-.far-tired::before {
+.far-trash-alt::before {
   content: "\ea91";
 }
 
-.far-trash-alt::before {
+.far-user::before {
   content: "\ea92";
 }
 
-.far-user::before {
+.far-user-circle::before {
   content: "\ea93";
 }
 
-.far-user-circle::before {
+.far-window-close::before {
   content: "\ea94";
 }
 
-.far-window-close::before {
+.far-window-maximize::before {
   content: "\ea95";
 }
 
-.far-window-maximize::before {
+.far-window-minimize::before {
   content: "\ea96";
 }
 
-.far-window-minimize::before {
-  content: "\ea97";
-}
-
 .far-window-restore::before {
-  content: "\ea98";
+  content: "\ea97";
 }

@@ -24,6 +24,7 @@ module.exports = function(folder, saveTo) {
 		let { svgPathData, width, height, iconName } = require(filePath);
 		let svgDom = `<svg viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg"><path d="${ svgPathData }"/></svg>`;
 		fs.ensureDir(saveTo)
+		if (iconName === 'font-awesome-logo-full') return
 		fs.writeFile(`${saveTo}/${iconName}.svg`, svgDom, () => {
 			console.log(colors.green(`${iconName}.svg generate`))
 		});

@@ -9,7 +9,7 @@
   "author": "Dave Gandy",
   "license": "MIT",
   "style": "fontawesome-solid.css",
-  "count": "869",
+  "count": "868",
   "classifiable": false,
   "icons": {
     "ad": "ad",
@@ -338,7 +338,6 @@
     "folder-open": "folder-open",
     "folder-plus": "folder-plus",
     "font": "font",
-    "font-awesome-logo-full": "font-awesome-logo-full",
     "football-ball": "football-ball",
     "forward": "forward",
     "frog": "frog",
