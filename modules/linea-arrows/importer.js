@@ -49,7 +49,12 @@ module.exports = function(callback) {
   generateJson(paths.dest, options.className, options);
   copyFonts(paths.dest, paths.fonts, options);
   copySvgs(paths.svgsDest, paths.svgs, options.svgs, '', function(file) {
-    return file.replace(/_/g, '-');
+    ['-28', '-29', '-31', '-34'].forEach(str => {
+      if (file.indexOf(str) !== -1) {
+        file = file.replace(str, '')
+      }
+    })
+    return file.replace(' ', '-').replace(/_/g, '-');
   });
   copyLicense(paths.dest, paths.license);
   jsonfile(paths.dest, options);
