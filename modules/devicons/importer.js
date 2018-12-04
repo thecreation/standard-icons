@@ -43,6 +43,19 @@ options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 
+const checkArr = ['ror', 'jquery_ui_logo', 'jquery_logo', 'angular_simple', 'javascript', 'rasberry_pi', 'js_badge', 'javascript_1']
+
+let fileReplace = {
+  'ror': 'ruby_on_rails',
+  'jquery_ui_logo': 'jquery_ui',
+  'jquery_logo': 'jquery',
+  'angular_simple': 'angular',
+  'javascript': 'javascript_shield',
+  'rasberry_pi': 'raspberry_pi',
+  'js_badge': 'javascript_badge',
+  'javascript_1': 'javascript'
+}
+
 module.exports = function(callback) {
   options.icons = getIconsFromCss(paths.css, 'devicons-');
   options = prepareIcons(options);
@@ -50,7 +63,17 @@ module.exports = function(callback) {
   generateCss(paths.dest, options.name, options);
   generateJson(paths.dest, options.className, options);
   copyFonts(paths.dest, paths.fonts, options);
-  copySvgs(paths.svgsDest, paths.svgs, options.svgs);
+  copySvgs(paths.svgsDest, paths.svgs, options.svgs, '', file => {
+    if (checkArr.includes(file.replace('.svg', ''))) {
+      const keys = Object.keys(fileReplace);
+      for (let i = 0; i < keys.length; i++) {
+        if (keys[i] === file.replace('.svg', '')) {
+          return fileReplace[keys[i]] + '.svg'
+        }
+      }
+    }
+    return file
+  });
   jsonfile(paths.dest, options);
   callback()
 };
