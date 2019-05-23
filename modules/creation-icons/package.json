@@ -20,5 +20,9 @@
   "devDependencies": {
     "@creation/icon-fonts": "0.0.6"
   },
-  "homepage": "https://thecreation.co"
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://thecreation.co",
+  "gitHead": "03bca77bca8c5dd936a375e9c556ef3e1a8d4074"
 }

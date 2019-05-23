@@ -1,5 +1,9 @@
 {
   "name": "standard-icons",
+  "workspaces": [
+    "modules/*",
+    "tools/*"
+  ],
   "private": true,
   "scripts": {
     "start": "fractal start --sync",
