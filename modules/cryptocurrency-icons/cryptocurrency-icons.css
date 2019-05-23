@@ -1,5 +1,5 @@
 /**
- * Cryptocurrency Icons, 0.9.0
+ * Cryptocurrency Icons, 0.13.0
  * Created by atomiclabs
  * http://cryptoicons.co
  * CC0-1.0 License
@@ -50,1522 +50,1658 @@
   content: "\ea05";
 }
 
-.crypto-adx::before {
+.crypto-add::before {
   content: "\ea06";
 }
 
-.crypto-ae::before {
+.crypto-adx::before {
   content: "\ea07";
 }
 
-.crypto-aeon::before {
+.crypto-ae::before {
   content: "\ea08";
 }
 
-.crypto-agi::before {
+.crypto-aeon::before {
   content: "\ea09";
 }
 
-.crypto-agrs::before {
+.crypto-aeur::before {
   content: "\ea0a";
 }
 
-.crypto-aion::before {
+.crypto-agi::before {
   content: "\ea0b";
 }
 
-.crypto-amb::before {
+.crypto-agrs::before {
   content: "\ea0c";
 }
 
-.crypto-amp::before {
+.crypto-aion::before {
   content: "\ea0d";
 }
 
-.crypto-ant::before {
+.crypto-amb::before {
   content: "\ea0e";
 }
 
-.crypto-apex::before {
+.crypto-amp::before {
   content: "\ea0f";
 }
 
-.crypto-appc::before {
+.crypto-ant::before {
   content: "\ea10";
 }
 
-.crypto-ardr::before {
+.crypto-apex::before {
   content: "\ea11";
 }
 
-.crypto-arg::before {
+.crypto-appc::before {
   content: "\ea12";
 }
 
-.crypto-ark::before {
+.crypto-ardr::before {
   content: "\ea13";
 }
 
-.crypto-arn::before {
+.crypto-arg::before {
   content: "\ea14";
 }
 
-.crypto-ary::before {
+.crypto-ark::before {
   content: "\ea15";
 }
 
-.crypto-ast::before {
+.crypto-arn::before {
   content: "\ea16";
 }
 
-.crypto-atm::before {
+.crypto-ary::before {
   content: "\ea17";
 }
 
-.crypto-auto::before {
+.crypto-ast::before {
   content: "\ea18";
 }
 
-.crypto-bat::before {
+.crypto-atm::before {
   content: "\ea19";
 }
 
-.crypto-bay::before {
+.crypto-audr::before {
   content: "\ea1a";
 }
 
-.crypto-bcbc::before {
+.crypto-auto::before {
   content: "\ea1b";
 }
 
-.crypto-bcc::before {
+.crypto-aywa::before {
   content: "\ea1c";
 }
 
-.crypto-bcd::before {
+.crypto-bab::before {
   content: "\ea1d";
 }
 
-.crypto-bch::before {
+.crypto-bat::before {
   content: "\ea1e";
 }
 
-.crypto-bcn::before {
+.crypto-bay::before {
   content: "\ea1f";
 }
 
-.crypto-bco::before {
+.crypto-bcbc::before {
   content: "\ea20";
 }
 
-.crypto-bcpt::before {
+.crypto-bcc::before {
   content: "\ea21";
 }
 
-.crypto-bdl::before {
+.crypto-bcd::before {
   content: "\ea22";
 }
 
-.crypto-bela::before {
+.crypto-bch::before {
   content: "\ea23";
 }
 
-.crypto-bix::before {
+.crypto-bcio::before {
   content: "\ea24";
 }
 
-.crypto-blcn::before {
+.crypto-bcn::before {
   content: "\ea25";
 }
 
-.crypto-blk::before {
+.crypto-bco::before {
   content: "\ea26";
 }
 
-.crypto-block::before {
+.crypto-bcpt::before {
   content: "\ea27";
 }
 
-.crypto-blz::before {
+.crypto-bdl::before {
   content: "\ea28";
 }
 
-.crypto-bnb::before {
+.crypto-beam::before {
   content: "\ea29";
 }
 
-.crypto-bnt::before {
+.crypto-bela::before {
   content: "\ea2a";
 }
 
-.crypto-bnty::before {
+.crypto-bix::before {
   content: "\ea2b";
 }
 
-.crypto-bos::before {
+.crypto-blcn::before {
   content: "\ea2c";
 }
 
-.crypto-bpt::before {
+.crypto-blk::before {
   content: "\ea2d";
 }
 
-.crypto-bq::before {
+.crypto-block::before {
   content: "\ea2e";
 }
 
-.crypto-brd::before {
+.crypto-blz::before {
   content: "\ea2f";
 }
 
-.crypto-bsd::before {
+.crypto-bnb::before {
   content: "\ea30";
 }
 
-.crypto-btc::before {
+.crypto-bnt::before {
   content: "\ea31";
 }
 
-.crypto-btcd::before {
+.crypto-bnty::before {
   content: "\ea32";
 }
 
-.crypto-btch::before {
+.crypto-booty::before {
   content: "\ea33";
 }
 
-.crypto-btcp::before {
+.crypto-bos::before {
   content: "\ea34";
 }
 
-.crypto-btcz::before {
+.crypto-bpt::before {
   content: "\ea35";
 }
 
-.crypto-btdx::before {
+.crypto-bq::before {
   content: "\ea36";
 }
 
-.crypto-btg::before {
+.crypto-brd::before {
   content: "\ea37";
 }
 
-.crypto-btm::before {
+.crypto-bsd::before {
   content: "\ea38";
 }
 
-.crypto-bts::before {
+.crypto-bsv::before {
   content: "\ea39";
 }
 
-.crypto-btx::before {
+.crypto-btc::before {
   content: "\ea3a";
 }
 
-.crypto-burst::before {
+.crypto-btcd::before {
   content: "\ea3b";
 }
 
-.crypto-call::before {
+.crypto-btch::before {
   content: "\ea3c";
 }
 
-.crypto-cc::before {
+.crypto-btcp::before {
   content: "\ea3d";
 }
 
-.crypto-cdn::before {
+.crypto-btcz::before {
   content: "\ea3e";
 }
 
-.crypto-cdt::before {
+.crypto-btdx::before {
   content: "\ea3f";
 }
 
-.crypto-cenz::before {
+.crypto-btg::before {
   content: "\ea40";
 }
 
-.crypto-chat::before {
+.crypto-btm::before {
   content: "\ea41";
 }
 
-.crypto-chips::before {
+.crypto-bts::before {
   content: "\ea42";
 }
 
-.crypto-cix::before {
+.crypto-btt::before {
   content: "\ea43";
 }
 
-.crypto-clam::before {
+.crypto-btx::before {
   content: "\ea44";
 }
 
-.crypto-cloak::before {
+.crypto-burst::before {
   content: "\ea45";
 }
 
-.crypto-cmm::before {
+.crypto-call::before {
   content: "\ea46";
 }
 
-.crypto-cmt::before {
+.crypto-cc::before {
   content: "\ea47";
 }
 
-.crypto-cnd::before {
+.crypto-cdn::before {
   content: "\ea48";
 }
 
-.crypto-cnx::before {
+.crypto-cdt::before {
   content: "\ea49";
 }
 
-.crypto-cny::before {
+.crypto-cenz::before {
   content: "\ea4a";
 }
 
-.crypto-cob::before {
+.crypto-chain::before {
   content: "\ea4b";
 }
 
-.crypto-colx::before {
+.crypto-chat::before {
   content: "\ea4c";
 }
 
-.crypto-coqui::before {
+.crypto-chips::before {
   content: "\ea4d";
 }
 
-.crypto-cred::before {
+.crypto-cix::before {
   content: "\ea4e";
 }
 
-.crypto-crpt::before {
+.crypto-clam::before {
   content: "\ea4f";
 }
 
-.crypto-crw::before {
+.crypto-cloak::before {
   content: "\ea50";
 }
 
-.crypto-cs::before {
+.crypto-cmm::before {
   content: "\ea51";
 }
 
-.crypto-ctr::before {
+.crypto-cmt::before {
   content: "\ea52";
 }
 
-.crypto-ctxc::before {
+.crypto-cnd::before {
   content: "\ea53";
 }
 
-.crypto-cvc::before {
+.crypto-cnx::before {
   content: "\ea54";
 }
 
-.crypto-dash::before {
+.crypto-cny::before {
   content: "\ea55";
 }
 
-.crypto-dat::before {
+.crypto-cob::before {
   content: "\ea56";
 }
 
-.crypto-data::before {
+.crypto-colx::before {
   content: "\ea57";
 }
 
-.crypto-dbc::before {
+.crypto-coqui::before {
   content: "\ea58";
 }
 
-.crypto-dcn::before {
+.crypto-cred::before {
   content: "\ea59";
 }
 
-.crypto-dcr::before {
+.crypto-crpt::before {
   content: "\ea5a";
 }
 
-.crypto-deez::before {
+.crypto-crw::before {
   content: "\ea5b";
 }
 
-.crypto-dent::before {
+.crypto-cs::before {
   content: "\ea5c";
 }
 
-.crypto-dew::before {
+.crypto-ctr::before {
   content: "\ea5d";
 }
 
-.crypto-dgb::before {
+.crypto-ctxc::before {
   content: "\ea5e";
 }
 
-.crypto-dgd::before {
+.crypto-cvc::before {
   content: "\ea5f";
 }
 
-.crypto-dlt::before {
+.crypto-d::before {
   content: "\ea60";
 }
 
-.crypto-dnr::before {
+.crypto-dai::before {
   content: "\ea61";
 }
 
-.crypto-dnt::before {
+.crypto-dash::before {
   content: "\ea62";
 }
 
-.crypto-dock::before {
+.crypto-dat::before {
   content: "\ea63";
 }
 
-.crypto-doge::before {
+.crypto-data::before {
   content: "\ea64";
 }
 
-.crypto-drgn::before {
+.crypto-dbc::before {
   content: "\ea65";
 }
 
-.crypto-drop::before {
+.crypto-dcn::before {
   content: "\ea66";
 }
 
-.crypto-dta::before {
+.crypto-dcr::before {
   content: "\ea67";
 }
 
-.crypto-dth::before {
+.crypto-deez::before {
   content: "\ea68";
 }
 
-.crypto-dtr::before {
+.crypto-dent::before {
   content: "\ea69";
 }
 
-.crypto-ebst::before {
+.crypto-dew::before {
   content: "\ea6a";
 }
 
-.crypto-eca::before {
+.crypto-dgb::before {
   content: "\ea6b";
 }
 
-.crypto-edg::before {
+.crypto-dgd::before {
   content: "\ea6c";
 }
 
-.crypto-edo::before {
+.crypto-dlt::before {
   content: "\ea6d";
 }
 
-.crypto-edoge::before {
+.crypto-dnt::before {
   content: "\ea6e";
 }
 
-.crypto-ela::before {
+.crypto-dock::before {
   content: "\ea6f";
 }
 
-.crypto-elf::before {
+.crypto-doge::before {
   content: "\ea70";
 }
 
-.crypto-elix::before {
+.crypto-drgn::before {
   content: "\ea71";
 }
 
-.crypto-ella::before {
+.crypto-drop::before {
   content: "\ea72";
 }
 
-.crypto-emc::before {
+.crypto-dta::before {
   content: "\ea73";
 }
 
-.crypto-emc2::before {
+.crypto-dth::before {
   content: "\ea74";
 }
 
-.crypto-eng::before {
+.crypto-dtr::before {
   content: "\ea75";
 }
 
-.crypto-enj::before {
+.crypto-ebst::before {
   content: "\ea76";
 }
 
-.crypto-eos::before {
+.crypto-eca::before {
   content: "\ea77";
 }
 
-.crypto-eqli::before {
+.crypto-edg::before {
   content: "\ea78";
 }
 
-.crypto-equa::before {
+.crypto-edo::before {
   content: "\ea79";
 }
 
-.crypto-etc::before {
+.crypto-edoge::before {
   content: "\ea7a";
 }
 
-.crypto-eth::before {
+.crypto-ela::before {
   content: "\ea7b";
 }
 
-.crypto-ethos::before {
+.crypto-elf::before {
   content: "\ea7c";
 }
 
-.crypto-etn::before {
+.crypto-elix::before {
   content: "\ea7d";
 }
 
-.crypto-etp::before {
+.crypto-ella::before {
   content: "\ea7e";
 }
 
-.crypto-eur::before {
+.crypto-emc::before {
   content: "\ea7f";
 }
 
-.crypto-evx::before {
+.crypto-emc2::before {
   content: "\ea80";
 }
 
-.crypto-exmo::before {
+.crypto-eng::before {
   content: "\ea81";
 }
 
-.crypto-exp::before {
+.crypto-enj::before {
   content: "\ea82";
 }
 
-.crypto-fair::before {
+.crypto-entrp::before {
   content: "\ea83";
 }
 
-.crypto-fct::before {
+.crypto-eon::before {
   content: "\ea84";
 }
 
-.crypto-fil::before {
+.crypto-eop::before {
   content: "\ea85";
 }
 
-.crypto-fjc::before {
+.crypto-eos::before {
   content: "\ea86";
 }
 
-.crypto-fldc::before {
+.crypto-eqli::before {
   content: "\ea87";
 }
 
-.crypto-flo::before {
+.crypto-equa::before {
   content: "\ea88";
 }
 
-.crypto-fsn::before {
+.crypto-etc::before {
   content: "\ea89";
 }
 
-.crypto-ftc::before {
+.crypto-eth::before {
   content: "\ea8a";
 }
 
-.crypto-fuel::before {
+.crypto-ethos::before {
   content: "\ea8b";
 }
 
-.crypto-fun::before {
+.crypto-etn::before {
   content: "\ea8c";
 }
 
-.crypto-game::before {
+.crypto-etp::before {
   content: "\ea8d";
 }
 
-.crypto-gas::before {
+.crypto-eur::before {
   content: "\ea8e";
 }
 
-.crypto-gbp::before {
+.crypto-evx::before {
   content: "\ea8f";
 }
 
-.crypto-gbx::before {
+.crypto-exmo::before {
   content: "\ea90";
 }
 
-.crypto-gbyte::before {
+.crypto-exp::before {
   content: "\ea91";
 }
 
-.crypto-generic::before {
+.crypto-fair::before {
   content: "\ea92";
 }
 
-.crypto-glxt::before {
+.crypto-fct::before {
   content: "\ea93";
 }
 
-.crypto-gmr::before {
+.crypto-fil::before {
   content: "\ea94";
 }
 
-.crypto-gno::before {
+.crypto-fjc::before {
   content: "\ea95";
 }
 
-.crypto-gnt::before {
+.crypto-fldc::before {
   content: "\ea96";
 }
 
-.crypto-grc::before {
+.crypto-flo::before {
   content: "\ea97";
 }
 
-.crypto-grs::before {
+.crypto-fsn::before {
   content: "\ea98";
 }
 
-.crypto-gsc::before {
+.crypto-ftc::before {
   content: "\ea99";
 }
 
-.crypto-gto::before {
+.crypto-fuel::before {
   content: "\ea9a";
 }
 
-.crypto-gup::before {
+.crypto-fun::before {
   content: "\ea9b";
 }
 
-.crypto-gusd::before {
+.crypto-game::before {
   content: "\ea9c";
 }
 
-.crypto-gvt::before {
+.crypto-gas::before {
   content: "\ea9d";
 }
 
-.crypto-gxs::before {
+.crypto-gbp::before {
   content: "\ea9e";
 }
 
-.crypto-gzr::before {
+.crypto-gbx::before {
   content: "\ea9f";
 }
 
-.crypto-hight::before {
+.crypto-gbyte::before {
   content: "\eaa0";
 }
 
-.crypto-hodl::before {
+.crypto-generic::before {
   content: "\eaa1";
 }
 
-.crypto-hpb::before {
+.crypto-gin::before {
   content: "\eaa2";
 }
 
-.crypto-hsr::before {
+.crypto-glxt::before {
   content: "\eaa3";
 }
 
-.crypto-ht::before {
+.crypto-gmr::before {
   content: "\eaa4";
 }
 
-.crypto-html::before {
+.crypto-gno::before {
   content: "\eaa5";
 }
 
-.crypto-huc::before {
+.crypto-gnt::before {
   content: "\eaa6";
 }
 
-.crypto-hush::before {
+.crypto-gold::before {
   content: "\eaa7";
 }
 
-.crypto-icn::before {
+.crypto-grc::before {
   content: "\eaa8";
 }
 
-.crypto-icx::before {
+.crypto-grin::before {
   content: "\eaa9";
 }
 
-.crypto-ignis::before {
+.crypto-grs::before {
   content: "\eaaa";
 }
 
-.crypto-ink::before {
+.crypto-gsc::before {
   content: "\eaab";
 }
 
-.crypto-ins::before {
+.crypto-gto::before {
   content: "\eaac";
 }
 
-.crypto-ion::before {
+.crypto-gup::before {
   content: "\eaad";
 }
 
-.crypto-iop::before {
+.crypto-gusd::before {
   content: "\eaae";
 }
 
-.crypto-iost::before {
+.crypto-gvt::before {
   content: "\eaaf";
 }
 
-.crypto-iotx::before {
+.crypto-gxs::before {
   content: "\eab0";
 }
 
-.crypto-itc::before {
+.crypto-gzr::before {
   content: "\eab1";
 }
 
-.crypto-jnt::before {
+.crypto-hight::before {
   content: "\eab2";
 }
 
-.crypto-jpy::before {
+.crypto-hodl::before {
   content: "\eab3";
 }
 
-.crypto-kcs::before {
+.crypto-hot::before {
   content: "\eab4";
 }
 
-.crypto-kin::before {
+.crypto-hpb::before {
   content: "\eab5";
 }
 
-.crypto-kmd::before {
+.crypto-hsr::before {
   content: "\eab6";
 }
 
-.crypto-knc::before {
+.crypto-ht::before {
   content: "\eab7";
 }
 
-.crypto-krb::before {
+.crypto-html::before {
   content: "\eab8";
 }
 
-.crypto-lbc::before {
+.crypto-huc::before {
   content: "\eab9";
 }
 
-.crypto-lend::before {
+.crypto-hush::before {
   content: "\eaba";
 }
 
-.crypto-link::before {
+.crypto-icn::before {
   content: "\eabb";
 }
 
-.crypto-lkk::before {
+.crypto-icx::before {
   content: "\eabc";
 }
 
-.crypto-loom::before {
+.crypto-ignis::before {
   content: "\eabd";
 }
 
-.crypto-lrc::before {
+.crypto-ilk::before {
   content: "\eabe";
 }
 
-.crypto-lsk::before {
+.crypto-ink::before {
   content: "\eabf";
 }
 
-.crypto-ltc::before {
+.crypto-ins::before {
   content: "\eac0";
 }
 
-.crypto-lun::before {
+.crypto-ion::before {
   content: "\eac1";
 }
 
-.crypto-maid::before {
+.crypto-iop::before {
   content: "\eac2";
 }
 
-.crypto-mana::before {
+.crypto-iost::before {
   content: "\eac3";
 }
 
-.crypto-mcap::before {
+.crypto-iotx::before {
   content: "\eac4";
 }
 
-.crypto-mco::before {
+.crypto-iq::before {
   content: "\eac5";
 }
 
-.crypto-mda::before {
+.crypto-itc::before {
   content: "\eac6";
 }
 
-.crypto-mds::before {
+.crypto-jnt::before {
   content: "\eac7";
 }
 
-.crypto-med::before {
+.crypto-jpy::before {
   content: "\eac8";
 }
 
-.crypto-miota::before {
+.crypto-kcs::before {
   content: "\eac9";
 }
 
-.crypto-mith::before {
+.crypto-kin::before {
   content: "\eaca";
 }
 
-.crypto-mkr::before {
+.crypto-kmd::before {
   content: "\eacb";
 }
 
-.crypto-mln::before {
+.crypto-knc::before {
   content: "\eacc";
 }
 
-.crypto-mnx::before {
+.crypto-krb::before {
   content: "\eacd";
 }
 
-.crypto-mnz::before {
+.crypto-lbc::before {
   content: "\eace";
 }
 
-.crypto-moac::before {
+.crypto-lend::before {
   content: "\eacf";
 }
 
-.crypto-mod::before {
+.crypto-link::before {
   content: "\ead0";
 }
 
-.crypto-mona::before {
+.crypto-lkk::before {
   content: "\ead1";
 }
 
-.crypto-msr::before {
+.crypto-loom::before {
   content: "\ead2";
 }
 
-.crypto-mth::before {
+.crypto-lpt::before {
   content: "\ead3";
 }
 
-.crypto-mtl::before {
+.crypto-lrc::before {
   content: "\ead4";
 }
 
-.crypto-music::before {
+.crypto-lsk::before {
   content: "\ead5";
 }
 
-.crypto-mzc::before {
+.crypto-ltc::before {
   content: "\ead6";
 }
 
-.crypto-nano::before {
+.crypto-lun::before {
   content: "\ead7";
 }
 
-.crypto-nas::before {
+.crypto-maid::before {
   content: "\ead8";
 }
 
-.crypto-nav::before {
+.crypto-mana::before {
   content: "\ead9";
 }
 
-.crypto-ncash::before {
+.crypto-mcap::before {
   content: "\eada";
 }
 
-.crypto-ndz::before {
+.crypto-mco::before {
   content: "\eadb";
 }
 
-.crypto-nebl::before {
+.crypto-mda::before {
   content: "\eadc";
 }
 
-.crypto-neo::before {
+.crypto-mds::before {
   content: "\eadd";
 }
 
-.crypto-neos::before {
+.crypto-med::before {
   content: "\eade";
 }
 
-.crypto-neu::before {
+.crypto-meetone::before {
   content: "\eadf";
 }
 
-.crypto-nexo::before {
+.crypto-miota::before {
   content: "\eae0";
 }
 
-.crypto-ngc::before {
+.crypto-mith::before {
   content: "\eae1";
 }
 
-.crypto-nio::before {
+.crypto-mkr::before {
   content: "\eae2";
 }
 
-.crypto-nlc2::before {
+.crypto-mln::before {
   content: "\eae3";
 }
 
-.crypto-nlg::before {
+.crypto-mnx::before {
   content: "\eae4";
 }
 
-.crypto-nmc::before {
+.crypto-mnz::before {
   content: "\eae5";
 }
 
-.crypto-npxs::before {
+.crypto-moac::before {
   content: "\eae6";
 }
 
-.crypto-nuls::before {
+.crypto-mod::before {
   content: "\eae7";
 }
 
-.crypto-nxs::before {
+.crypto-mona::before {
   content: "\eae8";
 }
 
-.crypto-nxt::before {
+.crypto-msr::before {
   content: "\eae9";
 }
 
-.crypto-oax::before {
+.crypto-mth::before {
   content: "\eaea";
 }
 
-.crypto-ok::before {
+.crypto-mtl::before {
   content: "\eaeb";
 }
 
-.crypto-omg::before {
+.crypto-music::before {
   content: "\eaec";
 }
 
-.crypto-omni::before {
+.crypto-mzc::before {
   content: "\eaed";
 }
 
-.crypto-ong::before {
+.crypto-nano::before {
   content: "\eaee";
 }
 
-.crypto-ont::before {
+.crypto-nas::before {
   content: "\eaef";
 }
 
-.crypto-oot::before {
+.crypto-nav::before {
   content: "\eaf0";
 }
 
-.crypto-ost::before {
+.crypto-ncash::before {
   content: "\eaf1";
 }
 
-.crypto-ox::before {
+.crypto-ndz::before {
   content: "\eaf2";
 }
 
-.crypto-pac::before {
+.crypto-nebl::before {
   content: "\eaf3";
 }
 
-.crypto-part::before {
+.crypto-neo::before {
   content: "\eaf4";
 }
 
-.crypto-pasc::before {
+.crypto-neos::before {
   content: "\eaf5";
 }
 
-.crypto-pasl::before {
+.crypto-neu::before {
   content: "\eaf6";
 }
 
-.crypto-pay::before {
+.crypto-nexo::before {
   content: "\eaf7";
 }
 
-.crypto-payx::before {
+.crypto-ngc::before {
   content: "\eaf8";
 }
 
-.crypto-pink::before {
+.crypto-nio::before {
   content: "\eaf9";
 }
 
-.crypto-pirl::before {
+.crypto-nlc2::before {
   content: "\eafa";
 }
 
-.crypto-pivx::before {
+.crypto-nlg::before {
   content: "\eafb";
 }
 
-.crypto-plr::before {
+.crypto-nmc::before {
   content: "\eafc";
 }
 
-.crypto-poa::before {
+.crypto-npxs::before {
   content: "\eafd";
 }
 
-.crypto-poe::before {
+.crypto-nuls::before {
   content: "\eafe";
 }
 
-.crypto-polis::before {
+.crypto-nxs::before {
   content: "\eaff";
 }
 
-.crypto-poly::before {
+.crypto-nxt::before {
   content: "\eb00";
 }
 
-.crypto-pot::before {
+.crypto-oax::before {
   content: "\eb01";
 }
 
-.crypto-powr::before {
+.crypto-ok::before {
   content: "\eb02";
 }
 
-.crypto-ppc::before {
+.crypto-omg::before {
   content: "\eb03";
 }
 
-.crypto-ppp::before {
+.crypto-omni::before {
   content: "\eb04";
 }
 
-.crypto-ppt::before {
+.crypto-ong::before {
   content: "\eb05";
 }
 
-.crypto-prl::before {
+.crypto-ont::before {
   content: "\eb06";
 }
 
-.crypto-pura::before {
+.crypto-oot::before {
   content: "\eb07";
 }
 
-.crypto-qash::before {
+.crypto-ost::before {
   content: "\eb08";
 }
 
-.crypto-qiwi::before {
+.crypto-ox::before {
   content: "\eb09";
 }
 
-.crypto-qlc::before {
+.crypto-pac::before {
   content: "\eb0a";
 }
 
-.crypto-qrl::before {
+.crypto-part::before {
   content: "\eb0b";
 }
 
-.crypto-qsp::before {
+.crypto-pasc::before {
   content: "\eb0c";
 }
 
-.crypto-qtum::before {
+.crypto-pasl::before {
   content: "\eb0d";
 }
 
-.crypto-r::before {
+.crypto-pax::before {
   content: "\eb0e";
 }
 
-.crypto-rads::before {
+.crypto-pay::before {
   content: "\eb0f";
 }
 
-.crypto-rap::before {
+.crypto-payx::before {
   content: "\eb10";
 }
 
-.crypto-rcn::before {
+.crypto-pink::before {
   content: "\eb11";
 }
 
-.crypto-rdd::before {
+.crypto-pirl::before {
   content: "\eb12";
 }
 
-.crypto-rdn::before {
+.crypto-pivx::before {
   content: "\eb13";
 }
 
-.crypto-rep::before {
+.crypto-plr::before {
   content: "\eb14";
 }
 
-.crypto-req::before {
+.crypto-poa::before {
   content: "\eb15";
 }
 
-.crypto-rhoc::before {
+.crypto-poe::before {
   content: "\eb16";
 }
 
-.crypto-ric::before {
+.crypto-polis::before {
   content: "\eb17";
 }
 
-.crypto-rise::before {
+.crypto-poly::before {
   content: "\eb18";
 }
 
-.crypto-rlc::before {
+.crypto-pot::before {
   content: "\eb19";
 }
 
-.crypto-rpx::before {
+.crypto-powr::before {
   content: "\eb1a";
 }
 
-.crypto-rub::before {
+.crypto-ppc::before {
   content: "\eb1b";
 }
 
-.crypto-rvn::before {
+.crypto-ppp::before {
   content: "\eb1c";
 }
 
-.crypto-ryo::before {
+.crypto-ppt::before {
   content: "\eb1d";
 }
 
-.crypto-safe::before {
+.crypto-pre::before {
   content: "\eb1e";
 }
 
-.crypto-salt::before {
+.crypto-prl::before {
   content: "\eb1f";
 }
 
-.crypto-san::before {
+.crypto-pungo::before {
   content: "\eb20";
 }
 
-.crypto-sbd::before {
+.crypto-pura::before {
   content: "\eb21";
 }
 
-.crypto-sberbank::before {
+.crypto-qash::before {
   content: "\eb22";
 }
 
-.crypto-sc::before {
+.crypto-qiwi::before {
   content: "\eb23";
 }
 
-.crypto-shift::before {
+.crypto-qlc::before {
   content: "\eb24";
 }
 
-.crypto-sib::before {
+.crypto-qrl::before {
   content: "\eb25";
 }
 
-.crypto-sky::before {
+.crypto-qsp::before {
   content: "\eb26";
 }
 
-.crypto-slr::before {
+.crypto-qtum::before {
   content: "\eb27";
 }
 
-.crypto-sls::before {
+.crypto-r::before {
   content: "\eb28";
 }
 
-.crypto-smart::before {
+.crypto-rads::before {
   content: "\eb29";
 }
 
-.crypto-sngls::before {
+.crypto-rap::before {
   content: "\eb2a";
 }
 
-.crypto-snm::before {
+.crypto-rcn::before {
   content: "\eb2b";
 }
 
-.crypto-snt::before {
+.crypto-rdd::before {
   content: "\eb2c";
 }
 
-.crypto-soc::before {
+.crypto-rdn::before {
   content: "\eb2d";
 }
 
-.crypto-spank::before {
+.crypto-rep::before {
   content: "\eb2e";
 }
 
-.crypto-sphtx::before {
+.crypto-req::before {
   content: "\eb2f";
 }
 
-.crypto-srn::before {
+.crypto-rhoc::before {
   content: "\eb30";
 }
 
-.crypto-stak::before {
+.crypto-ric::before {
   content: "\eb31";
 }
 
-.crypto-start::before {
+.crypto-rise::before {
   content: "\eb32";
 }
 
-.crypto-steem::before {
+.crypto-rlc::before {
   content: "\eb33";
 }
 
-.crypto-storj::before {
+.crypto-rpx::before {
   content: "\eb34";
 }
 
-.crypto-storm::before {
+.crypto-rub::before {
   content: "\eb35";
 }
 
-.crypto-stq::before {
+.crypto-rvn::before {
   content: "\eb36";
 }
 
-.crypto-strat::before {
+.crypto-ryo::before {
   content: "\eb37";
 }
 
-.crypto-sub::before {
+.crypto-safe::before {
   content: "\eb38";
 }
 
-.crypto-sumo::before {
+.crypto-salt::before {
   content: "\eb39";
 }
 
-.crypto-sys::before {
+.crypto-san::before {
   content: "\eb3a";
 }
 
-.crypto-taas::before {
+.crypto-sbd::before {
   content: "\eb3b";
 }
 
-.crypto-tau::before {
+.crypto-sberbank::before {
   content: "\eb3c";
 }
 
-.crypto-tel::before {
+.crypto-sc::before {
   content: "\eb3d";
 }
 
-.crypto-ten::before {
+.crypto-shift::before {
   content: "\eb3e";
 }
 
-.crypto-tern::before {
+.crypto-sib::before {
   content: "\eb3f";
 }
 
-.crypto-tgch::before {
+.crypto-sky::before {
   content: "\eb40";
 }
 
-.crypto-theta::before {
+.crypto-slr::before {
   content: "\eb41";
 }
 
-.crypto-tix::before {
+.crypto-sls::before {
   content: "\eb42";
 }
 
-.crypto-tkn::before {
+.crypto-smart::before {
   content: "\eb43";
 }
 
-.crypto-tnb::before {
+.crypto-sngls::before {
   content: "\eb44";
 }
 
-.crypto-tnc::before {
+.crypto-snm::before {
   content: "\eb45";
 }
 
-.crypto-tnt::before {
+.crypto-snt::before {
   content: "\eb46";
 }
 
-.crypto-trig::before {
+.crypto-soc::before {
   content: "\eb47";
 }
 
-.crypto-trtl::before {
+.crypto-spank::before {
   content: "\eb48";
 }
 
-.crypto-trx::before {
+.crypto-sphtx::before {
   content: "\eb49";
 }
 
-.crypto-tusd::before {
+.crypto-srn::before {
   content: "\eb4a";
 }
 
-.crypto-tzc::before {
+.crypto-stak::before {
   content: "\eb4b";
 }
 
-.crypto-ubq::before {
+.crypto-start::before {
   content: "\eb4c";
 }
 
-.crypto-unity::before {
+.crypto-steem::before {
   content: "\eb4d";
 }
 
-.crypto-usd::before {
+.crypto-storj::before {
   content: "\eb4e";
 }
 
-.crypto-usdt::before {
+.crypto-storm::before {
   content: "\eb4f";
 }
 
-.crypto-utk::before {
+.crypto-stq::before {
   content: "\eb50";
 }
 
-.crypto-veri::before {
+.crypto-strat::before {
   content: "\eb51";
 }
 
-.crypto-vet::before {
+.crypto-sub::before {
   content: "\eb52";
 }
 
-.crypto-via::before {
+.crypto-sumo::before {
   content: "\eb53";
 }
 
-.crypto-vib::before {
+.crypto-sys::before {
   content: "\eb54";
 }
 
-.crypto-vibe::before {
+.crypto-taas::before {
   content: "\eb55";
 }
 
-.crypto-vivo::before {
+.crypto-tau::before {
   content: "\eb56";
 }
 
-.crypto-vrc::before {
+.crypto-tbx::before {
   content: "\eb57";
 }
 
-.crypto-vrsc::before {
+.crypto-tel::before {
   content: "\eb58";
 }
 
-.crypto-vtc::before {
+.crypto-ten::before {
   content: "\eb59";
 }
 
-.crypto-wabi::before {
+.crypto-tern::before {
   content: "\eb5a";
 }
 
-.crypto-wan::before {
+.crypto-tgch::before {
   content: "\eb5b";
 }
 
-.crypto-waves::before {
+.crypto-theta::before {
   content: "\eb5c";
 }
 
-.crypto-wax::before {
+.crypto-tix::before {
   content: "\eb5d";
 }
 
-.crypto-wgr::before {
+.crypto-tkn::before {
   content: "\eb5e";
 }
 
-.crypto-wicc::before {
+.crypto-tks::before {
   content: "\eb5f";
 }
 
-.crypto-wings::before {
+.crypto-tnb::before {
   content: "\eb60";
 }
 
-.crypto-wpr::before {
+.crypto-tnc::before {
   content: "\eb61";
 }
 
-.crypto-wtc::before {
+.crypto-tnt::before {
   content: "\eb62";
 }
 
-.crypto-xas::before {
+.crypto-tomo::before {
   content: "\eb63";
 }
 
-.crypto-xbc::before {
+.crypto-tpay::before {
   content: "\eb64";
 }
 
-.crypto-xby::before {
+.crypto-trig::before {
   content: "\eb65";
 }
 
-.crypto-xcp::before {
+.crypto-trtl::before {
   content: "\eb66";
 }
 
-.crypto-xdn::before {
+.crypto-trx::before {
   content: "\eb67";
 }
 
-.crypto-xem::before {
+.crypto-tusd::before {
   content: "\eb68";
 }
 
-.crypto-xin::before {
+.crypto-tzc::before {
   content: "\eb69";
 }
 
-.crypto-xlm::before {
+.crypto-ubq::before {
   content: "\eb6a";
 }
 
-.crypto-xmcc::before {
+.crypto-unity::before {
   content: "\eb6b";
 }
 
-.crypto-xmg::before {
+.crypto-usd::before {
   content: "\eb6c";
 }
 
-.crypto-xmo::before {
+.crypto-usdc::before {
   content: "\eb6d";
 }
 
-.crypto-xmr::before {
+.crypto-usdt::before {
   content: "\eb6e";
 }
 
-.crypto-xmy::before {
+.crypto-utk::before {
   content: "\eb6f";
 }
 
-.crypto-xp::before {
+.crypto-veri::before {
   content: "\eb70";
 }
 
-.crypto-xpa::before {
+.crypto-vet::before {
   content: "\eb71";
 }
 
-.crypto-xpm::before {
+.crypto-via::before {
   content: "\eb72";
 }
 
-.crypto-xrp::before {
+.crypto-vib::before {
   content: "\eb73";
 }
 
-.crypto-xsg::before {
+.crypto-vibe::before {
   content: "\eb74";
 }
 
-.crypto-xtz::before {
+.crypto-vivo::before {
   content: "\eb75";
 }
 
-.crypto-xuc::before {
+.crypto-vrc::before {
   content: "\eb76";
 }
 
-.crypto-xvc::before {
+.crypto-vrsc::before {
   content: "\eb77";
 }
 
-.crypto-xvg::before {
+.crypto-vtc::before {
   content: "\eb78";
 }
 
-.crypto-xzc::before {
+.crypto-vtho::before {
   content: "\eb79";
 }
 
-.crypto-yoyow::before {
+.crypto-wabi::before {
   content: "\eb7a";
 }
 
-.crypto-zcl::before {
+.crypto-wan::before {
   content: "\eb7b";
 }
 
-.crypto-zec::before {
+.crypto-waves::before {
   content: "\eb7c";
 }
 
-.crypto-zel::before {
+.crypto-wax::before {
   content: "\eb7d";
 }
 
-.crypto-zen::before {
+.crypto-wgr::before {
   content: "\eb7e";
 }
 
-.crypto-zil::before {
+.crypto-wicc::before {
   content: "\eb7f";
 }
 
-.crypto-zilla::before {
+.crypto-wings::before {
   content: "\eb80";
 }
 
-.crypto-zrx::before {
+.crypto-wpr::before {
   content: "\eb81";
+}
+
+.crypto-wtc::before {
+  content: "\eb82";
+}
+
+.crypto-x::before {
+  content: "\eb83";
+}
+
+.crypto-xas::before {
+  content: "\eb84";
+}
+
+.crypto-xbc::before {
+  content: "\eb85";
+}
+
+.crypto-xby::before {
+  content: "\eb86";
+}
+
+.crypto-xcp::before {
+  content: "\eb87";
+}
+
+.crypto-xdn::before {
+  content: "\eb88";
+}
+
+.crypto-xem::before {
+  content: "\eb89";
+}
+
+.crypto-xin::before {
+  content: "\eb8a";
+}
+
+.crypto-xlm::before {
+  content: "\eb8b";
+}
+
+.crypto-xmcc::before {
+  content: "\eb8c";
+}
+
+.crypto-xmg::before {
+  content: "\eb8d";
+}
+
+.crypto-xmo::before {
+  content: "\eb8e";
+}
+
+.crypto-xmr::before {
+  content: "\eb8f";
+}
+
+.crypto-xmy::before {
+  content: "\eb90";
+}
+
+.crypto-xp::before {
+  content: "\eb91";
+}
+
+.crypto-xpa::before {
+  content: "\eb92";
+}
+
+.crypto-xpm::before {
+  content: "\eb93";
+}
+
+.crypto-xrp::before {
+  content: "\eb94";
+}
+
+.crypto-xsg::before {
+  content: "\eb95";
+}
+
+.crypto-xtz::before {
+  content: "\eb96";
+}
+
+.crypto-xuc::before {
+  content: "\eb97";
+}
+
+.crypto-xvc::before {
+  content: "\eb98";
+}
+
+.crypto-xvg::before {
+  content: "\eb99";
+}
+
+.crypto-xzc::before {
+  content: "\eb9a";
+}
+
+.crypto-yoyow::before {
+  content: "\eb9b";
+}
+
+.crypto-zcl::before {
+  content: "\eb9c";
+}
+
+.crypto-zec::before {
+  content: "\eb9d";
+}
+
+.crypto-zel::before {
+  content: "\eb9e";
+}
+
+.crypto-zen::before {
+  content: "\eb9f";
+}
+
+.crypto-zest::before {
+  content: "\eba0";
+}
+
+.crypto-zil::before {
+  content: "\eba1";
+}
+
+.crypto-zilla::before {
+  content: "\eba2";
+}
+
+.crypto-zrx::before {
+  content: "\eba3";
 }

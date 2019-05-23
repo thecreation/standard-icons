@@ -11,7 +11,7 @@
   "scripts": {
     "import": "../../scripts/module/import --module=feather",
     "optimize": "../../scripts/module/optimize",
-    "update": "ncu -a"
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

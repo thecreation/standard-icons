@@ -1,5 +1,5 @@
 {
-  "version": "2.2.155-alpha.2",
+  "version": "3.0.168-alpha.0",
   "name": "@icon/micon",
   "description": "Micon, The iconic windows 10 font and CSS toolkit.",
   "author": "Mehdi HosseinZade",
@@ -11,7 +11,7 @@
   "scripts": {
     "import": "../../scripts/module/import --module=micon",
     "optimize": "../../scripts/module/optimize",
-    "update": "ncu -a"
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

@@ -1,5 +1,5 @@
 /**
- * Eva Fill Icons, 1.1.0
+ * Eva Fill Icons, 1.1.1
  * Created by akveo
  * https://github.com/akveo/eva-icons#readme
  * MIT License
@@ -491,7 +491,7 @@
 .evaf-moon:before {
   content: "\eb32";
 }
-.evaf-more-horizotnal:before {
+.evaf-more-horizontal:before {
   content: "\eb34";
 }
 .evaf-more-vertical:before {
