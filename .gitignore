@@ -3,8 +3,6 @@ node_modules
 *.log
 .DS_Store
 .vscode
-package-lock.json
-**/package-lock.json
 _site
 *.lerna_backup
 .changelog
