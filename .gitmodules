@@ -28,3 +28,6 @@
 [submodule "customs/weather-icons"]
 	path = customs/weather-icons
 	url = https://github.com/erikflowers/weather-icons.git
+[submodule "customs/caomei"]
+	path = customs/caomei
+	url = https://github.com/xiangsudian/CaoMei.git

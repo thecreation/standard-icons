@@ -1,5 +1,5 @@
 {
-  "version": "1.9.27",
+  "version": "2.3.0-alpha.0",
   "name": "@icon/simple-icons",
   "description": "SVG icons for popular brands https://simpleicons.org",
   "author": "Simple Icons Collaborators",
@@ -17,7 +17,7 @@
     "icon"
   ],
   "devDependencies": {
-    "simple-icons": "^1.9.14"
+    "simple-icons": "^2.3.0"
   },
   "homepage": "https://www.simpleicons.org",
   "publishConfig": {

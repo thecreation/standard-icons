@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2-alpha.0",
   "name": "@icon/eva-fill-icons",
   "description": "Eva Icons - beautifully crafted Open Source UI icons for common actions and items.",
   "author": "akveo",
@@ -18,7 +18,7 @@
     "icon"
   ],
   "devDependencies": {
-    "eva-icons": "^1.1.0"
+    "eva-icons": "^1.1.2"
   },
   "homepage": "https://github.com/akveo/eva-icons#readme",
   "publishConfig": {

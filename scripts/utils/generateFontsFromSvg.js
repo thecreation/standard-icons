@@ -5,6 +5,7 @@ const path = require('path');
 const colors = require('colors');
 const expand = require('glob-expand');
 const webfont = require('webfont').default;
+const getSvgs = require('./getSvgs');
 
 module.exports = function(dest, options, done) {
   webfont({

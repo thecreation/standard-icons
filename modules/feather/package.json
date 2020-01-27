@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "4.25.0-alpha.0",
   "name": "@icon/feather",
   "description": "Simply beautiful open source icons",
   "author": "colebemis",
@@ -18,9 +18,9 @@
     "icon"
   ],
   "devDependencies": {
-    "feather-font": "git+ssh://git@github.com/AT-UI/feather-font.git"
+    "feather-icons": "^4.25.0"
   },
-  "homepage": "http://colebemis.com/feather/",
+  "homepage": "https://feathericons.com/",
   "publishConfig": {
     "access": "public"
   },

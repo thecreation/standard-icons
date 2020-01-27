@@ -12,24 +12,27 @@ const copyLicense = require('../../scripts/utils/copyLicense');
 const generateSvgs = require('../../scripts/utils/generateSvgs');
 const jsonfile = require('../../scripts/utils/jsonfile');
 const clean = require('../../scripts/utils/clean');
+const config = require('../../config');
 const fs = require('fs-extra');
 const path = require('path');
 
 let options = {
-  source: path.join(`${__dirname}/node_modules/`, 'caomei'),
+  source: path.join(config.sets.customs, 'caomei'),
   name: 'caomei-icons',
   class: 'czs',
   prefix: 'czs-',
   className: 'CaomeiIcons',
+  description: 'A Free And Open Iconic Font Library for Developer and Creator',
   title: 'Caomei Icons',
-  author: 'Xiangsudian',
+  author: '像素君',
   homepage: 'http://chuangzaoshi.com/icon/',
-  version: '1.2.8',
+  license: 'SIL OFL 1.1',
+  version: '2.0.0',
   classifiable: true
 };
 
 let paths = {
-  package: path.join(options.source, 'package.json'),
+  package: path.join(options.source, 'selection.json'),
   css: path.join(options.source, 'style.css'),
   fonts: path.join(options.source, 'fonts'),
   url: 'http://chuangzaoshi.com/icon/',
@@ -37,12 +40,6 @@ let paths = {
   svgsDest: path.join(__dirname, 'icons')
 };
 
-let info = extraFromJson(paths.package, ['homepage', 'description', 'author', 'license']);
-
-options.license = info.license;
-// options.author = info.author.name;
-// options.homepage = info.homepage;
-options.description = info.description;
 options.fonts = getFonts(paths.fonts);
 
 module.exports = function(callback) {

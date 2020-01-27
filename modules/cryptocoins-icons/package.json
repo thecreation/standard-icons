@@ -1,0 +1,27 @@
+{
+  "version": "2.9.0",
+  "name": "@icon/cryptocoins-icons",
+  "description": "Cryptocoins is the most complete free vector/webfont iconpack of your favourite cryptocurrencies",
+  "author": "Martin Allien",
+  "license": "MIT",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/cryptocoins-icons",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=cryptocoins-icons",
+    "optimize": "../../scripts/module/optimize --module=cryptocoins-icons"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "homepage": "https://github.com/allienworks/cryptocoins",
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "03bca77bca8c5dd936a375e9c556ef3e1a8d4074",
+  "devDependencies": {
+    "cryptocoins-icons": "^2.9.0"
+  }
+}

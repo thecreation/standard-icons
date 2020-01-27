@@ -1,9 +1,9 @@
 {
-  "version": "1.2.8",
+  "version": "2.0.0-alpha.0",
   "name": "@icon/caomei-icons",
-  "description": "为开发者设计的一套免费开源图标库",
-  "author": "Xiangsudian",
-  "license": "(OFL-1.1 AND MIT)",
+  "description": "A Free And Open Iconic Font Library for Developer and Creator",
+  "author": "像素君",
+  "license": "SIL OFL 1.1",
   "repository": "https://github.com/thecreation/icons/tree/master/modules/caomei-icons",
   "bugs": {
     "url": "https://github.com/thecreation/icons/issues"
@@ -16,9 +16,6 @@
     "icons",
     "icon"
   ],
-  "devDependencies": {
-    "caomei": "git+https://github.com/xiangsudian/CaoMei.git"
-  },
   "homepage": "http://chuangzaoshi.com/icon/",
   "publishConfig": {
     "access": "public"

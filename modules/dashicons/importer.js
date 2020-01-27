@@ -16,6 +16,7 @@ const clean = require('../../scripts/utils/clean');
 const fs = require('fs-extra');
 const config = require('../../config');
 const path = require('path');
+const getIconsFromHtml = require('../../scripts/utils/getIconsFromHtml');
 
 let options = {
   source: path.join(config.sets.customs, 'dashicons'),
@@ -35,6 +36,7 @@ let paths = {
   license: path.join(options.source, 'README.md'),
   css: path.join(options.source, 'icon-font', 'css', 'dashicons.css'),
   url: 'https://developer.wordpress.org/resource/dashicons/',
+  html: path.join(__dirname, 'dashicons.html'),
   fonts: path.join(options.source, 'icon-font', 'fonts'),
   svgs: path.join(options.source, 'svg-min'),
   dest: __dirname,
@@ -47,7 +49,8 @@ options.fonts = getFonts(paths.fonts);
 options.svgs = getSvgs(paths.svgs);
 
 module.exports = function(callback) {
-  getIconsFromUrl(paths.url, function($) {
+  getIconsFromHtml(paths.html, function($) {
+  // getIconsFromUrl(paths.url, function($) {
     let icons = {};
     $('#iconlist').find('h4').each(function(i, element){
       let category = $(this).text().trim();
@@ -72,6 +75,7 @@ module.exports = function(callback) {
     return icons;
   }).then(function(icons){
     clean(paths.dest)
+
     copySvgs(paths.svgsDest, paths.svgs, options.svgs);
     generateFontsFromSvg(paths.dest, options, () => {
       options.icons = icons;
