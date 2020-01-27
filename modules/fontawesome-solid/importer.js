@@ -20,7 +20,7 @@ let options = {
   description: "The web’s most popular icon.",
   className: 'fontawesome',
   license: 'MIT',
-  version: '5.5.0',
+  version: '5.12.0',
   classifiable: false
 };
 
