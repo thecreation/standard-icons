@@ -13,18 +13,18 @@ const path = require('path');
 
 let options = {
   source: path.join(`${__dirname}/node_modules/`, 'micon-font'),
-  name: 'micon',
+  name: 'micon-brand',
   class: 'mi',
   prefix: 'mi-',
-  className: 'Micon',
-  title: 'Micon',
+  className: 'MiconBrand',
+  title: 'Micon Brand',
   classifiable: false
 };
 
 let paths = {
   package: path.join(options.source, 'package.json'),
   fonts: path.join(options.source, 'dist', 'micon', 'fonts'),
-  svgs: path.join(options.source, 'icons', 'mdl2'),
+  svgs: path.join(options.source, 'icons', 'webbrand'),
   dest: __dirname,
   svgsDest: path.join(__dirname, 'icons')
 };

@@ -1,0 +1,1663 @@
+/**
+ * Micon Brand, 3.0.168
+ * Created by Mehdi HosseinZade
+ * http://xtoolkit.github.io/Micon/
+ * MIT License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "micon-brand";
+  src: url('./micon-brand.eot');
+  src: 
+    url('./micon-brand.eot?#iefix') format('embedded-opentype'),
+    url('./micon-brand.woff2') format('woff2'),
+    url('./micon-brand.woff') format('woff'),
+    url('./micon-brand.ttf') format('truetype'),
+    url('./micon-brand.svg#micon-brand') format('svg');
+}
+
+.mi {
+  font-family: "micon-brand";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+.mi-500px::before {
+  content: "\ea01";
+}
+
+.mi-accessible-icon::before {
+  content: "\ea02";
+}
+
+.mi-accusoft::before {
+  content: "\ea03";
+}
+
+.mi-acquisitions-incorporated::before {
+  content: "\ea04";
+}
+
+.mi-adn::before {
+  content: "\ea05";
+}
+
+.mi-adobe::before {
+  content: "\ea06";
+}
+
+.mi-adversal::before {
+  content: "\ea07";
+}
+
+.mi-affiliatetheme::before {
+  content: "\ea08";
+}
+
+.mi-algolia::before {
+  content: "\ea09";
+}
+
+.mi-alipay::before {
+  content: "\ea0a";
+}
+
+.mi-amazon::before {
+  content: "\ea0b";
+}
+
+.mi-amazon-pay::before {
+  content: "\ea0c";
+}
+
+.mi-amilia::before {
+  content: "\ea0d";
+}
+
+.mi-android::before {
+  content: "\ea0e";
+}
+
+.mi-angellist::before {
+  content: "\ea0f";
+}
+
+.mi-angrycreative::before {
+  content: "\ea10";
+}
+
+.mi-angular::before {
+  content: "\ea11";
+}
+
+.mi-app-store::before {
+  content: "\ea12";
+}
+
+.mi-app-store-ios::before {
+  content: "\ea13";
+}
+
+.mi-apper::before {
+  content: "\ea14";
+}
+
+.mi-apple::before {
+  content: "\ea15";
+}
+
+.mi-apple-pay::before {
+  content: "\ea16";
+}
+
+.mi-artstation::before {
+  content: "\ea17";
+}
+
+.mi-asymmetrik::before {
+  content: "\ea18";
+}
+
+.mi-atlassian::before {
+  content: "\ea19";
+}
+
+.mi-audible::before {
+  content: "\ea1a";
+}
+
+.mi-autoprefixer::before {
+  content: "\ea1b";
+}
+
+.mi-avianex::before {
+  content: "\ea1c";
+}
+
+.mi-aviato::before {
+  content: "\ea1d";
+}
+
+.mi-aws::before {
+  content: "\ea1e";
+}
+
+.mi-bandcamp::before {
+  content: "\ea1f";
+}
+
+.mi-behance::before {
+  content: "\ea20";
+}
+
+.mi-behance-square::before {
+  content: "\ea21";
+}
+
+.mi-bimobject::before {
+  content: "\ea22";
+}
+
+.mi-bitbucket::before {
+  content: "\ea23";
+}
+
+.mi-bitcoin::before {
+  content: "\ea24";
+}
+
+.mi-bity::before {
+  content: "\ea25";
+}
+
+.mi-black-tie::before {
+  content: "\ea26";
+}
+
+.mi-blackberry::before {
+  content: "\ea27";
+}
+
+.mi-blogger::before {
+  content: "\ea28";
+}
+
+.mi-blogger-b::before {
+  content: "\ea29";
+}
+
+.mi-bluetooth::before {
+  content: "\ea2a";
+}
+
+.mi-bluetooth-b::before {
+  content: "\ea2b";
+}
+
+.mi-btc::before {
+  content: "\ea2c";
+}
+
+.mi-buromobelexperte::before {
+  content: "\ea2d";
+}
+
+.mi-buysellads::before {
+  content: "\ea2e";
+}
+
+.mi-canadian-maple-leaf::before {
+  content: "\ea2f";
+}
+
+.mi-cc-amazon-pay::before {
+  content: "\ea30";
+}
+
+.mi-cc-amex::before {
+  content: "\ea31";
+}
+
+.mi-cc-apple-pay::before {
+  content: "\ea32";
+}
+
+.mi-cc-diners-club::before {
+  content: "\ea33";
+}
+
+.mi-cc-discover::before {
+  content: "\ea34";
+}
+
+.mi-cc-jcb::before {
+  content: "\ea35";
+}
+
+.mi-cc-mastercard::before {
+  content: "\ea36";
+}
+
+.mi-cc-paypal::before {
+  content: "\ea37";
+}
+
+.mi-cc-stripe::before {
+  content: "\ea38";
+}
+
+.mi-cc-visa::before {
+  content: "\ea39";
+}
+
+.mi-centercode::before {
+  content: "\ea3a";
+}
+
+.mi-centos::before {
+  content: "\ea3b";
+}
+
+.mi-chrome::before {
+  content: "\ea3c";
+}
+
+.mi-cloudscale::before {
+  content: "\ea3d";
+}
+
+.mi-cloudsmith::before {
+  content: "\ea3e";
+}
+
+.mi-cloudversify::before {
+  content: "\ea3f";
+}
+
+.mi-codepen::before {
+  content: "\ea40";
+}
+
+.mi-codiepie::before {
+  content: "\ea41";
+}
+
+.mi-confluence::before {
+  content: "\ea42";
+}
+
+.mi-connectdevelop::before {
+  content: "\ea43";
+}
+
+.mi-contao::before {
+  content: "\ea44";
+}
+
+.mi-cpanel::before {
+  content: "\ea45";
+}
+
+.mi-creative-commons::before {
+  content: "\ea46";
+}
+
+.mi-creative-commons-by::before {
+  content: "\ea47";
+}
+
+.mi-creative-commons-nc::before {
+  content: "\ea48";
+}
+
+.mi-creative-commons-nc-eu::before {
+  content: "\ea49";
+}
+
+.mi-creative-commons-nc-jp::before {
+  content: "\ea4a";
+}
+
+.mi-creative-commons-nd::before {
+  content: "\ea4b";
+}
+
+.mi-creative-commons-pd::before {
+  content: "\ea4c";
+}
+
+.mi-creative-commons-pd-alt::before {
+  content: "\ea4d";
+}
+
+.mi-creative-commons-remix::before {
+  content: "\ea4e";
+}
+
+.mi-creative-commons-sa::before {
+  content: "\ea4f";
+}
+
+.mi-creative-commons-sampling::before {
+  content: "\ea50";
+}
+
+.mi-creative-commons-sampling-plus::before {
+  content: "\ea51";
+}
+
+.mi-creative-commons-share::before {
+  content: "\ea52";
+}
+
+.mi-creative-commons-zero::before {
+  content: "\ea53";
+}
+
+.mi-critical-role::before {
+  content: "\ea54";
+}
+
+.mi-css3::before {
+  content: "\ea55";
+}
+
+.mi-css3-alt::before {
+  content: "\ea56";
+}
+
+.mi-cuttlefish::before {
+  content: "\ea57";
+}
+
+.mi-d-and-d::before {
+  content: "\ea58";
+}
+
+.mi-d-and-d-beyond::before {
+  content: "\ea59";
+}
+
+.mi-dashcube::before {
+  content: "\ea5a";
+}
+
+.mi-delicious::before {
+  content: "\ea5b";
+}
+
+.mi-deploydog::before {
+  content: "\ea5c";
+}
+
+.mi-deskpro::before {
+  content: "\ea5d";
+}
+
+.mi-dev::before {
+  content: "\ea5e";
+}
+
+.mi-deviantart::before {
+  content: "\ea5f";
+}
+
+.mi-dhl::before {
+  content: "\ea60";
+}
+
+.mi-diaspora::before {
+  content: "\ea61";
+}
+
+.mi-digg::before {
+  content: "\ea62";
+}
+
+.mi-digital-ocean::before {
+  content: "\ea63";
+}
+
+.mi-discord::before {
+  content: "\ea64";
+}
+
+.mi-discourse::before {
+  content: "\ea65";
+}
+
+.mi-dochub::before {
+  content: "\ea66";
+}
+
+.mi-docker::before {
+  content: "\ea67";
+}
+
+.mi-draft2digital::before {
+  content: "\ea68";
+}
+
+.mi-dribbble::before {
+  content: "\ea69";
+}
+
+.mi-dribbble-square::before {
+  content: "\ea6a";
+}
+
+.mi-dropbox::before {
+  content: "\ea6b";
+}
+
+.mi-drupal::before {
+  content: "\ea6c";
+}
+
+.mi-dyalog::before {
+  content: "\ea6d";
+}
+
+.mi-earlybirds::before {
+  content: "\ea6e";
+}
+
+.mi-ebay::before {
+  content: "\ea6f";
+}
+
+.mi-edge::before {
+  content: "\ea70";
+}
+
+.mi-elementor::before {
+  content: "\ea71";
+}
+
+.mi-ello::before {
+  content: "\ea72";
+}
+
+.mi-ember::before {
+  content: "\ea73";
+}
+
+.mi-empire::before {
+  content: "\ea74";
+}
+
+.mi-envira::before {
+  content: "\ea75";
+}
+
+.mi-erlang::before {
+  content: "\ea76";
+}
+
+.mi-ethereum::before {
+  content: "\ea77";
+}
+
+.mi-etsy::before {
+  content: "\ea78";
+}
+
+.mi-expeditedssl::before {
+  content: "\ea79";
+}
+
+.mi-facebook::before {
+  content: "\ea7a";
+}
+
+.mi-facebook-f::before {
+  content: "\ea7b";
+}
+
+.mi-facebook-messenger::before {
+  content: "\ea7c";
+}
+
+.mi-facebook-square::before {
+  content: "\ea7d";
+}
+
+.mi-fedex::before {
+  content: "\ea7e";
+}
+
+.mi-fedora::before {
+  content: "\ea7f";
+}
+
+.mi-figma::before {
+  content: "\ea80";
+}
+
+.mi-firefox::before {
+  content: "\ea81";
+}
+
+.mi-first-order::before {
+  content: "\ea82";
+}
+
+.mi-first-order-alt::before {
+  content: "\ea83";
+}
+
+.mi-firstdraft::before {
+  content: "\ea84";
+}
+
+.mi-flickr::before {
+  content: "\ea85";
+}
+
+.mi-flipboard::before {
+  content: "\ea86";
+}
+
+.mi-fly::before {
+  content: "\ea87";
+}
+
+.mi-font-awesome::before {
+  content: "\ea88";
+}
+
+.mi-font-awesome-alt::before {
+  content: "\ea89";
+}
+
+.mi-font-awesome-flag::before {
+  content: "\ea8a";
+}
+
+.mi-fonticons::before {
+  content: "\ea8b";
+}
+
+.mi-fonticons-fi::before {
+  content: "\ea8c";
+}
+
+.mi-fort-awesome::before {
+  content: "\ea8d";
+}
+
+.mi-fort-awesome-alt::before {
+  content: "\ea8e";
+}
+
+.mi-forumbee::before {
+  content: "\ea8f";
+}
+
+.mi-foursquare::before {
+  content: "\ea90";
+}
+
+.mi-free-code-camp::before {
+  content: "\ea91";
+}
+
+.mi-freebsd::before {
+  content: "\ea92";
+}
+
+.mi-fulcrum::before {
+  content: "\ea93";
+}
+
+.mi-galactic-republic::before {
+  content: "\ea94";
+}
+
+.mi-galactic-senate::before {
+  content: "\ea95";
+}
+
+.mi-get-pocket::before {
+  content: "\ea96";
+}
+
+.mi-gg::before {
+  content: "\ea97";
+}
+
+.mi-gg-circle::before {
+  content: "\ea98";
+}
+
+.mi-git-square::before {
+  content: "\ea99";
+}
+
+.mi-github::before {
+  content: "\ea9a";
+}
+
+.mi-github-alt::before {
+  content: "\ea9b";
+}
+
+.mi-github-square::before {
+  content: "\ea9c";
+}
+
+.mi-gitkraken::before {
+  content: "\ea9d";
+}
+
+.mi-gitlab::before {
+  content: "\ea9e";
+}
+
+.mi-gitter::before {
+  content: "\ea9f";
+}
+
+.mi-glide::before {
+  content: "\eaa0";
+}
+
+.mi-glide-g::before {
+  content: "\eaa1";
+}
+
+.mi-gofore::before {
+  content: "\eaa2";
+}
+
+.mi-goodreads::before {
+  content: "\eaa3";
+}
+
+.mi-goodreads-g::before {
+  content: "\eaa4";
+}
+
+.mi-google::before {
+  content: "\eaa5";
+}
+
+.mi-google-drive::before {
+  content: "\eaa6";
+}
+
+.mi-google-play::before {
+  content: "\eaa7";
+}
+
+.mi-google-plus::before {
+  content: "\eaa8";
+}
+
+.mi-google-plus-g::before {
+  content: "\eaa9";
+}
+
+.mi-google-plus-square::before {
+  content: "\eaaa";
+}
+
+.mi-google-wallet::before {
+  content: "\eaab";
+}
+
+.mi-gratipay::before {
+  content: "\eaac";
+}
+
+.mi-grav::before {
+  content: "\eaad";
+}
+
+.mi-gripfire::before {
+  content: "\eaae";
+}
+
+.mi-grunt::before {
+  content: "\eaaf";
+}
+
+.mi-gulp::before {
+  content: "\eab0";
+}
+
+.mi-hacker-news::before {
+  content: "\eab1";
+}
+
+.mi-hacker-news-square::before {
+  content: "\eab2";
+}
+
+.mi-hackerrank::before {
+  content: "\eab3";
+}
+
+.mi-hire-a-helper::before {
+  content: "\eab4";
+}
+
+.mi-hooli::before {
+  content: "\eab5";
+}
+
+.mi-hornbill::before {
+  content: "\eab6";
+}
+
+.mi-hotjar::before {
+  content: "\eab7";
+}
+
+.mi-houzz::before {
+  content: "\eab8";
+}
+
+.mi-html5::before {
+  content: "\eab9";
+}
+
+.mi-hubspot::before {
+  content: "\eaba";
+}
+
+.mi-imdb::before {
+  content: "\eabb";
+}
+
+.mi-instagram::before {
+  content: "\eabc";
+}
+
+.mi-intercom::before {
+  content: "\eabd";
+}
+
+.mi-internet-explorer::before {
+  content: "\eabe";
+}
+
+.mi-invision::before {
+  content: "\eabf";
+}
+
+.mi-ioxhost::before {
+  content: "\eac0";
+}
+
+.mi-itunes::before {
+  content: "\eac1";
+}
+
+.mi-itunes-note::before {
+  content: "\eac2";
+}
+
+.mi-java::before {
+  content: "\eac3";
+}
+
+.mi-jedi-order::before {
+  content: "\eac4";
+}
+
+.mi-jenkins::before {
+  content: "\eac5";
+}
+
+.mi-jira::before {
+  content: "\eac6";
+}
+
+.mi-joget::before {
+  content: "\eac7";
+}
+
+.mi-joomla::before {
+  content: "\eac8";
+}
+
+.mi-js::before {
+  content: "\eac9";
+}
+
+.mi-js-square::before {
+  content: "\eaca";
+}
+
+.mi-jsfiddle::before {
+  content: "\eacb";
+}
+
+.mi-kaggle::before {
+  content: "\eacc";
+}
+
+.mi-keybase::before {
+  content: "\eacd";
+}
+
+.mi-keycdn::before {
+  content: "\eace";
+}
+
+.mi-kickstarter::before {
+  content: "\eacf";
+}
+
+.mi-kickstarter-k::before {
+  content: "\ead0";
+}
+
+.mi-korvue::before {
+  content: "\ead1";
+}
+
+.mi-laravel::before {
+  content: "\ead2";
+}
+
+.mi-lastfm::before {
+  content: "\ead3";
+}
+
+.mi-lastfm-square::before {
+  content: "\ead4";
+}
+
+.mi-leanpub::before {
+  content: "\ead5";
+}
+
+.mi-less::before {
+  content: "\ead6";
+}
+
+.mi-line::before {
+  content: "\ead7";
+}
+
+.mi-linkedin::before {
+  content: "\ead8";
+}
+
+.mi-linkedin-in::before {
+  content: "\ead9";
+}
+
+.mi-linode::before {
+  content: "\eada";
+}
+
+.mi-linux::before {
+  content: "\eadb";
+}
+
+.mi-lyft::before {
+  content: "\eadc";
+}
+
+.mi-magento::before {
+  content: "\eadd";
+}
+
+.mi-mailchimp::before {
+  content: "\eade";
+}
+
+.mi-mandalorian::before {
+  content: "\eadf";
+}
+
+.mi-markdown::before {
+  content: "\eae0";
+}
+
+.mi-mastodon::before {
+  content: "\eae1";
+}
+
+.mi-maxcdn::before {
+  content: "\eae2";
+}
+
+.mi-medapps::before {
+  content: "\eae3";
+}
+
+.mi-medium::before {
+  content: "\eae4";
+}
+
+.mi-medium-m::before {
+  content: "\eae5";
+}
+
+.mi-medrt::before {
+  content: "\eae6";
+}
+
+.mi-meetup::before {
+  content: "\eae7";
+}
+
+.mi-megaport::before {
+  content: "\eae8";
+}
+
+.mi-mendeley::before {
+  content: "\eae9";
+}
+
+.mi-microsoft::before {
+  content: "\eaea";
+}
+
+.mi-mix::before {
+  content: "\eaeb";
+}
+
+.mi-mixcloud::before {
+  content: "\eaec";
+}
+
+.mi-mizuni::before {
+  content: "\eaed";
+}
+
+.mi-modx::before {
+  content: "\eaee";
+}
+
+.mi-monero::before {
+  content: "\eaef";
+}
+
+.mi-napster::before {
+  content: "\eaf0";
+}
+
+.mi-neos::before {
+  content: "\eaf1";
+}
+
+.mi-nimblr::before {
+  content: "\eaf2";
+}
+
+.mi-nintendo-switch::before {
+  content: "\eaf3";
+}
+
+.mi-node::before {
+  content: "\eaf4";
+}
+
+.mi-node-js::before {
+  content: "\eaf5";
+}
+
+.mi-npm::before {
+  content: "\eaf6";
+}
+
+.mi-ns8::before {
+  content: "\eaf7";
+}
+
+.mi-nutritionix::before {
+  content: "\eaf8";
+}
+
+.mi-odnoklassniki::before {
+  content: "\eaf9";
+}
+
+.mi-odnoklassniki-square::before {
+  content: "\eafa";
+}
+
+.mi-old-republic::before {
+  content: "\eafb";
+}
+
+.mi-opencart::before {
+  content: "\eafc";
+}
+
+.mi-openid::before {
+  content: "\eafd";
+}
+
+.mi-opera::before {
+  content: "\eafe";
+}
+
+.mi-optin-monster::before {
+  content: "\eaff";
+}
+
+.mi-osi::before {
+  content: "\eb00";
+}
+
+.mi-page4::before {
+  content: "\eb01";
+}
+
+.mi-pagelines::before {
+  content: "\eb02";
+}
+
+.mi-palfed::before {
+  content: "\eb03";
+}
+
+.mi-patreon::before {
+  content: "\eb04";
+}
+
+.mi-paypal::before {
+  content: "\eb05";
+}
+
+.mi-penny-arcade::before {
+  content: "\eb06";
+}
+
+.mi-periscope::before {
+  content: "\eb07";
+}
+
+.mi-phabricator::before {
+  content: "\eb08";
+}
+
+.mi-phoenix-framework::before {
+  content: "\eb09";
+}
+
+.mi-phoenix-squadron::before {
+  content: "\eb0a";
+}
+
+.mi-php::before {
+  content: "\eb0b";
+}
+
+.mi-pied-piper::before {
+  content: "\eb0c";
+}
+
+.mi-pied-piper-alt::before {
+  content: "\eb0d";
+}
+
+.mi-pied-piper-hat::before {
+  content: "\eb0e";
+}
+
+.mi-pied-piper-pp::before {
+  content: "\eb0f";
+}
+
+.mi-pinterest::before {
+  content: "\eb10";
+}
+
+.mi-pinterest-p::before {
+  content: "\eb11";
+}
+
+.mi-pinterest-square::before {
+  content: "\eb12";
+}
+
+.mi-playstation::before {
+  content: "\eb13";
+}
+
+.mi-product-hunt::before {
+  content: "\eb14";
+}
+
+.mi-pushed::before {
+  content: "\eb15";
+}
+
+.mi-python::before {
+  content: "\eb16";
+}
+
+.mi-qq::before {
+  content: "\eb17";
+}
+
+.mi-quinscape::before {
+  content: "\eb18";
+}
+
+.mi-quora::before {
+  content: "\eb19";
+}
+
+.mi-r-project::before {
+  content: "\eb1a";
+}
+
+.mi-raspberry-pi::before {
+  content: "\eb1b";
+}
+
+.mi-ravelry::before {
+  content: "\eb1c";
+}
+
+.mi-react::before {
+  content: "\eb1d";
+}
+
+.mi-reacteurope::before {
+  content: "\eb1e";
+}
+
+.mi-readme::before {
+  content: "\eb1f";
+}
+
+.mi-rebel::before {
+  content: "\eb20";
+}
+
+.mi-red-river::before {
+  content: "\eb21";
+}
+
+.mi-reddit::before {
+  content: "\eb22";
+}
+
+.mi-reddit-alien::before {
+  content: "\eb23";
+}
+
+.mi-reddit-square::before {
+  content: "\eb24";
+}
+
+.mi-redhat::before {
+  content: "\eb25";
+}
+
+.mi-renren::before {
+  content: "\eb26";
+}
+
+.mi-replyd::before {
+  content: "\eb27";
+}
+
+.mi-researchgate::before {
+  content: "\eb28";
+}
+
+.mi-resolving::before {
+  content: "\eb29";
+}
+
+.mi-rev::before {
+  content: "\eb2a";
+}
+
+.mi-rocketchat::before {
+  content: "\eb2b";
+}
+
+.mi-rockrms::before {
+  content: "\eb2c";
+}
+
+.mi-safari::before {
+  content: "\eb2d";
+}
+
+.mi-sass::before {
+  content: "\eb2e";
+}
+
+.mi-schlix::before {
+  content: "\eb2f";
+}
+
+.mi-scribd::before {
+  content: "\eb30";
+}
+
+.mi-searchengin::before {
+  content: "\eb31";
+}
+
+.mi-sellcast::before {
+  content: "\eb32";
+}
+
+.mi-sellsy::before {
+  content: "\eb33";
+}
+
+.mi-servicestack::before {
+  content: "\eb34";
+}
+
+.mi-shirtsinbulk::before {
+  content: "\eb35";
+}
+
+.mi-shopware::before {
+  content: "\eb36";
+}
+
+.mi-simplybuilt::before {
+  content: "\eb37";
+}
+
+.mi-sistrix::before {
+  content: "\eb38";
+}
+
+.mi-sith::before {
+  content: "\eb39";
+}
+
+.mi-sketch::before {
+  content: "\eb3a";
+}
+
+.mi-skyatlas::before {
+  content: "\eb3b";
+}
+
+.mi-skype::before {
+  content: "\eb3c";
+}
+
+.mi-slack::before {
+  content: "\eb3d";
+}
+
+.mi-slack-hash::before {
+  content: "\eb3e";
+}
+
+.mi-slideshare::before {
+  content: "\eb3f";
+}
+
+.mi-snapchat::before {
+  content: "\eb40";
+}
+
+.mi-snapchat-ghost::before {
+  content: "\eb41";
+}
+
+.mi-snapchat-square::before {
+  content: "\eb42";
+}
+
+.mi-soundcloud::before {
+  content: "\eb43";
+}
+
+.mi-sourcetree::before {
+  content: "\eb44";
+}
+
+.mi-speakap::before {
+  content: "\eb45";
+}
+
+.mi-spotify::before {
+  content: "\eb46";
+}
+
+.mi-squarespace::before {
+  content: "\eb47";
+}
+
+.mi-stack-exchange::before {
+  content: "\eb48";
+}
+
+.mi-stack-overflow::before {
+  content: "\eb49";
+}
+
+.mi-staylinked::before {
+  content: "\eb4a";
+}
+
+.mi-steam::before {
+  content: "\eb4b";
+}
+
+.mi-steam-square::before {
+  content: "\eb4c";
+}
+
+.mi-sticker-mule::before {
+  content: "\eb4d";
+}
+
+.mi-strava::before {
+  content: "\eb4e";
+}
+
+.mi-stripe::before {
+  content: "\eb4f";
+}
+
+.mi-stripe-s::before {
+  content: "\eb50";
+}
+
+.mi-studiovinari::before {
+  content: "\eb51";
+}
+
+.mi-stumbleupon::before {
+  content: "\eb52";
+}
+
+.mi-stumbleupon-circle::before {
+  content: "\eb53";
+}
+
+.mi-superpowers::before {
+  content: "\eb54";
+}
+
+.mi-supple::before {
+  content: "\eb55";
+}
+
+.mi-suse::before {
+  content: "\eb56";
+}
+
+.mi-teamspeak::before {
+  content: "\eb57";
+}
+
+.mi-telegram::before {
+  content: "\eb58";
+}
+
+.mi-telegram-plane::before {
+  content: "\eb59";
+}
+
+.mi-tencent-weibo::before {
+  content: "\eb5a";
+}
+
+.mi-the-red-yeti::before {
+  content: "\eb5b";
+}
+
+.mi-themeco::before {
+  content: "\eb5c";
+}
+
+.mi-themeisle::before {
+  content: "\eb5d";
+}
+
+.mi-think-peaks::before {
+  content: "\eb5e";
+}
+
+.mi-trade-federation::before {
+  content: "\eb5f";
+}
+
+.mi-trello::before {
+  content: "\eb60";
+}
+
+.mi-tripadvisor::before {
+  content: "\eb61";
+}
+
+.mi-tumblr::before {
+  content: "\eb62";
+}
+
+.mi-tumblr-square::before {
+  content: "\eb63";
+}
+
+.mi-twitch::before {
+  content: "\eb64";
+}
+
+.mi-twitter-square::before {
+  content: "\eb65";
+}
+
+.mi-typo3::before {
+  content: "\eb66";
+}
+
+.mi-ubuntu::before {
+  content: "\eb67";
+}
+
+.mi-uikit::before {
+  content: "\eb68";
+}
+
+.mi-uniregistry::before {
+  content: "\eb69";
+}
+
+.mi-untappd::before {
+  content: "\eb6a";
+}
+
+.mi-ups::before {
+  content: "\eb6b";
+}
+
+.mi-usb::before {
+  content: "\eb6c";
+}
+
+.mi-usps::before {
+  content: "\eb6d";
+}
+
+.mi-ussunnah::before {
+  content: "\eb6e";
+}
+
+.mi-vaadin::before {
+  content: "\eb6f";
+}
+
+.mi-viacoin::before {
+  content: "\eb70";
+}
+
+.mi-viadeo::before {
+  content: "\eb71";
+}
+
+.mi-viadeo-square::before {
+  content: "\eb72";
+}
+
+.mi-viber::before {
+  content: "\eb73";
+}
+
+.mi-vimeo::before {
+  content: "\eb74";
+}
+
+.mi-vimeo-square::before {
+  content: "\eb75";
+}
+
+.mi-vimeo-v::before {
+  content: "\eb76";
+}
+
+.mi-vine::before {
+  content: "\eb77";
+}
+
+.mi-vk::before {
+  content: "\eb78";
+}
+
+.mi-vnv::before {
+  content: "\eb79";
+}
+
+.mi-vuejs::before {
+  content: "\eb7a";
+}
+
+.mi-weebly::before {
+  content: "\eb7b";
+}
+
+.mi-weibo::before {
+  content: "\eb7c";
+}
+
+.mi-weixin::before {
+  content: "\eb7d";
+}
+
+.mi-whatsapp::before {
+  content: "\eb7e";
+}
+
+.mi-whatsapp-square::before {
+  content: "\eb7f";
+}
+
+.mi-whmcs::before {
+  content: "\eb80";
+}
+
+.mi-wikipedia-w::before {
+  content: "\eb81";
+}
+
+.mi-windows::before {
+  content: "\eb82";
+}
+
+.mi-wix::before {
+  content: "\eb83";
+}
+
+.mi-wizards-of-the-coast::before {
+  content: "\eb84";
+}
+
+.mi-wolf-pack-battalion::before {
+  content: "\eb85";
+}
+
+.mi-wordpress::before {
+  content: "\eb86";
+}
+
+.mi-wordpress-simple::before {
+  content: "\eb87";
+}
+
+.mi-wpbeginner::before {
+  content: "\eb88";
+}
+
+.mi-wpexplorer::before {
+  content: "\eb89";
+}
+
+.mi-wpforms::before {
+  content: "\eb8a";
+}
+
+.mi-wpressr::before {
+  content: "\eb8b";
+}
+
+.mi-xbox::before {
+  content: "\eb8c";
+}
+
+.mi-xing::before {
+  content: "\eb8d";
+}
+
+.mi-xing-square::before {
+  content: "\eb8e";
+}
+
+.mi-y-combinator::before {
+  content: "\eb8f";
+}
+
+.mi-yahoo::before {
+  content: "\eb90";
+}
+
+.mi-yandex::before {
+  content: "\eb91";
+}
+
+.mi-yandex-international::before {
+  content: "\eb92";
+}
+
+.mi-yarn::before {
+  content: "\eb93";
+}
+
+.mi-yelp::before {
+  content: "\eb94";
+}
+
+.mi-yoast::before {
+  content: "\eb95";
+}
+
+.mi-youtube::before {
+  content: "\eb96";
+}
+
+.mi-youtube-square::before {
+  content: "\eb97";
+}
+
+.mi-zhihu::before {
+  content: "\eb98";
+}

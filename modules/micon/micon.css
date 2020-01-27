@@ -30,399 +30,399 @@
 }
 
 
-.mi-500px::before {
+.mi-Accept::before {
   content: "\ea01";
 }
 
-.mi-Accept::before {
+.mi-Accident::before {
   content: "\ea02";
 }
 
-.mi-Accident::before {
+.mi-AccidentSolid::before {
   content: "\ea03";
 }
 
-.mi-AccidentSolid::before {
+.mi-Accounts::before {
   content: "\ea04";
 }
 
-.mi-Accounts::before {
+.mi-ActionCenter::before {
   content: "\ea05";
 }
 
-.mi-ActionCenter::before {
+.mi-ActionCenterAsterisk::before {
   content: "\ea06";
 }
 
-.mi-ActionCenterAsterisk::before {
+.mi-ActionCenterMirrored::before {
   content: "\ea07";
 }
 
-.mi-ActionCenterMirrored::before {
+.mi-ActionCenterNotification::before {
   content: "\ea08";
 }
 
-.mi-ActionCenterNotification::before {
+.mi-ActionCenterNotificationMirrored::before {
   content: "\ea09";
 }
 
-.mi-ActionCenterNotificationMirrored::before {
+.mi-ActionCenterQuiet::before {
   content: "\ea0a";
 }
 
-.mi-ActionCenterQuiet::before {
+.mi-ActionCenterQuietNotification::before {
   content: "\ea0b";
 }
 
-.mi-ActionCenterQuietNotification::before {
+.mi-Add::before {
   content: "\ea0c";
 }
 
-.mi-Add::before {
+.mi-AddFriend::before {
   content: "\ea0d";
 }
 
-.mi-AddFriend::before {
+.mi-AddRemoteDevice::before {
   content: "\ea0e";
 }
 
-.mi-AddRemoteDevice::before {
+.mi-AddSurfaceHub::before {
   content: "\ea0f";
 }
 
-.mi-AddSurfaceHub::before {
+.mi-AddTo::before {
   content: "\ea10";
 }
 
-.mi-AddTo::before {
+.mi-AdjustHologram::before {
   content: "\ea11";
 }
 
-.mi-AdjustHologram::before {
+.mi-Admin::before {
   content: "\ea12";
 }
 
-.mi-Admin::before {
+.mi-Airplane::before {
   content: "\ea13";
 }
 
-.mi-Airplane::before {
+.mi-AirplaneSolid::before {
   content: "\ea14";
 }
 
-.mi-AirplaneSolid::before {
+.mi-AlignCenter::before {
   content: "\ea15";
 }
 
-.mi-AlignCenter::before {
+.mi-AlignLeft::before {
   content: "\ea16";
 }
 
-.mi-AlignLeft::before {
+.mi-AlignRight::before {
   content: "\ea17";
 }
 
-.mi-AlignRight::before {
+.mi-AllApps::before {
   content: "\ea18";
 }
 
-.mi-AllApps::before {
+.mi-AllAppsMirrored::before {
   content: "\ea19";
 }
 
-.mi-AllAppsMirrored::before {
+.mi-Annotation::before {
   content: "\ea1a";
 }
 
-.mi-Annotation::before {
+.mi-AppIconDefault::before {
   content: "\ea1b";
 }
 
-.mi-AppIconDefault::before {
+.mi-Apps::before {
   content: "\ea1c";
 }
 
-.mi-Apps::before {
+.mi-AreaChart::before {
   content: "\ea1d";
 }
 
-.mi-AreaChart::before {
+.mi-ArrowDown8::before {
   content: "\ea1e";
 }
 
-.mi-ArrowDown8::before {
+.mi-ArrowLeft8::before {
   content: "\ea1f";
 }
 
-.mi-ArrowLeft8::before {
+.mi-ArrowRight8::before {
   content: "\ea20";
 }
 
-.mi-ArrowRight8::before {
+.mi-ArrowUp8::before {
   content: "\ea21";
 }
 
-.mi-ArrowUp8::before {
+.mi-AspectRatio::before {
   content: "\ea22";
 }
 
-.mi-AspectRatio::before {
+.mi-Asterisk::before {
   content: "\ea23";
 }
 
-.mi-Asterisk::before {
+.mi-AsteriskBadge12::before {
   content: "\ea24";
 }
 
-.mi-AsteriskBadge12::before {
+.mi-Attach::before {
   content: "\ea25";
 }
 
-.mi-Attach::before {
+.mi-AttachCamera::before {
   content: "\ea26";
 }
 
-.mi-AttachCamera::before {
+.mi-Audio::before {
   content: "\ea27";
 }
 
-.mi-Audio::before {
+.mi-Back::before {
   content: "\ea28";
 }
 
-.mi-Back::before {
+.mi-BackMirrored::before {
   content: "\ea29";
 }
 
-.mi-BackMirrored::before {
+.mi-BackSpaceQWERTY::before {
   content: "\ea2a";
 }
 
-.mi-BackSpaceQWERTY::before {
+.mi-BackSpaceQWERTYLg::before {
   content: "\ea2b";
 }
 
-.mi-BackSpaceQWERTYLg::before {
+.mi-BackSpaceQWERTYMd::before {
   content: "\ea2c";
 }
 
-.mi-BackSpaceQWERTYMd::before {
+.mi-BackSpaceQWERTYSm::before {
   content: "\ea2d";
 }
 
-.mi-BackSpaceQWERTYSm::before {
+.mi-BackToWindow::before {
   content: "\ea2e";
 }
 
-.mi-BackToWindow::before {
+.mi-BackgroundToggle::before {
   content: "\ea2f";
 }
 
-.mi-BackgroundToggle::before {
+.mi-Badge::before {
   content: "\ea30";
 }
 
-.mi-Badge::before {
+.mi-BandBattery0::before {
   content: "\ea31";
 }
 
-.mi-BandBattery0::before {
+.mi-BandBattery1::before {
   content: "\ea32";
 }
 
-.mi-BandBattery1::before {
+.mi-BandBattery2::before {
   content: "\ea33";
 }
 
-.mi-BandBattery2::before {
+.mi-BandBattery3::before {
   content: "\ea34";
 }
 
-.mi-BandBattery3::before {
+.mi-BandBattery4::before {
   content: "\ea35";
 }
 
-.mi-BandBattery4::before {
+.mi-BandBattery5::before {
   content: "\ea36";
 }
 
-.mi-BandBattery5::before {
+.mi-BandBattery6::before {
   content: "\ea37";
 }
 
-.mi-BandBattery6::before {
+.mi-Bank::before {
   content: "\ea38";
 }
 
-.mi-Bank::before {
+.mi-BarcodeScanner::before {
   content: "\ea39";
 }
 
-.mi-BarcodeScanner::before {
+.mi-Battery0::before {
   content: "\ea3a";
 }
 
-.mi-Battery0::before {
+.mi-Battery1::before {
   content: "\ea3b";
 }
 
-.mi-Battery1::before {
+.mi-Battery10::before {
   content: "\ea3c";
 }
 
-.mi-Battery10::before {
+.mi-Battery2::before {
   content: "\ea3d";
 }
 
-.mi-Battery2::before {
+.mi-Battery3::before {
   content: "\ea3e";
 }
 
-.mi-Battery3::before {
+.mi-Battery4::before {
   content: "\ea3f";
 }
 
-.mi-Battery4::before {
+.mi-Battery5::before {
   content: "\ea40";
 }
 
-.mi-Battery5::before {
+.mi-Battery6::before {
   content: "\ea41";
 }
 
-.mi-Battery6::before {
+.mi-Battery7::before {
   content: "\ea42";
 }
 
-.mi-Battery7::before {
+.mi-Battery8::before {
   content: "\ea43";
 }
 
-.mi-Battery8::before {
+.mi-Battery9::before {
   content: "\ea44";
 }
 
-.mi-Battery9::before {
+.mi-BatteryCharging0::before {
   content: "\ea45";
 }
 
-.mi-BatteryCharging0::before {
+.mi-BatteryCharging1::before {
   content: "\ea46";
 }
 
-.mi-BatteryCharging1::before {
+.mi-BatteryCharging10::before {
   content: "\ea47";
 }
 
-.mi-BatteryCharging10::before {
+.mi-BatteryCharging2::before {
   content: "\ea48";
 }
 
-.mi-BatteryCharging2::before {
+.mi-BatteryCharging3::before {
   content: "\ea49";
 }
 
-.mi-BatteryCharging3::before {
+.mi-BatteryCharging4::before {
   content: "\ea4a";
 }
 
-.mi-BatteryCharging4::before {
+.mi-BatteryCharging5::before {
   content: "\ea4b";
 }
 
-.mi-BatteryCharging5::before {
+.mi-BatteryCharging6::before {
   content: "\ea4c";
 }
 
-.mi-BatteryCharging6::before {
+.mi-BatteryCharging7::before {
   content: "\ea4d";
 }
 
-.mi-BatteryCharging7::before {
+.mi-BatteryCharging8::before {
   content: "\ea4e";
 }
 
-.mi-BatteryCharging8::before {
+.mi-BatteryCharging9::before {
   content: "\ea4f";
 }
 
-.mi-BatteryCharging9::before {
+.mi-BatterySaver0::before {
   content: "\ea50";
 }
 
-.mi-BatterySaver0::before {
+.mi-BatterySaver1::before {
   content: "\ea51";
 }
 
-.mi-BatterySaver1::before {
+.mi-BatterySaver10::before {
   content: "\ea52";
 }
 
-.mi-BatterySaver10::before {
+.mi-BatterySaver2::before {
   content: "\ea53";
 }
 
-.mi-BatterySaver2::before {
+.mi-BatterySaver3::before {
   content: "\ea54";
 }
 
-.mi-BatterySaver3::before {
+.mi-BatterySaver4::before {
   content: "\ea55";
 }
 
-.mi-BatterySaver4::before {
+.mi-BatterySaver5::before {
   content: "\ea56";
 }
 
-.mi-BatterySaver5::before {
+.mi-BatterySaver6::before {
   content: "\ea57";
 }
 
-.mi-BatterySaver6::before {
+.mi-BatterySaver7::before {
   content: "\ea58";
 }
 
-.mi-BatterySaver7::before {
+.mi-BatterySaver8::before {
   content: "\ea59";
 }
 
-.mi-BatterySaver8::before {
+.mi-BatterySaver9::before {
   content: "\ea5a";
 }
 
-.mi-BatterySaver9::before {
+.mi-BatteryUnknown::before {
   content: "\ea5b";
 }
 
-.mi-BatteryUnknown::before {
+.mi-Beta::before {
   content: "\ea5c";
 }
 
-.mi-Beta::before {
+.mi-BidiLtr::before {
   content: "\ea5d";
 }
 
-.mi-BidiLtr::before {
+.mi-BidiRtl::before {
   content: "\ea5e";
 }
 
-.mi-BidiRtl::before {
+.mi-BlockContact::before {
   content: "\ea5f";
 }
 
-.mi-BlockContact::before {
+.mi-Blocked::before {
   content: "\ea60";
 }
 
-.mi-Blocked::before {
+.mi-BlockedLegacy::before {
   content: "\ea61";
 }
 
-.mi-BlockedLegacy::before {
+.mi-BlueLight::before {
   content: "\ea62";
 }
 
-.mi-BlueLight::before {
+.mi-Bluetooth::before {
   content: "\ea63";
 }
 
@@ -4958,2222 +4958,598 @@
   content: "\eed0";
 }
 
-.mi-USBSafeConnect::before {
+.mi-USB::before {
   content: "\eed1";
 }
 
-.mi-Underline::before {
+.mi-USBSafeConnect::before {
   content: "\eed2";
 }
 
-.mi-UnderlineLKorean::before {
+.mi-Underline::before {
   content: "\eed3";
 }
 
-.mi-UnderlineLKoreanLegacy::before {
+.mi-UnderlineLKorean::before {
   content: "\eed4";
 }
 
-.mi-UnderlineRussian::before {
+.mi-UnderlineLKoreanLegacy::before {
   content: "\eed5";
 }
 
-.mi-UnderlineRussianLegacy::before {
+.mi-UnderlineRussian::before {
   content: "\eed6";
 }
 
-.mi-UnderlineS::before {
+.mi-UnderlineRussianLegacy::before {
   content: "\eed7";
 }
 
-.mi-UnderlineSLegacy::before {
+.mi-UnderlineS::before {
   content: "\eed8";
 }
 
-.mi-UnderlineU::before {
+.mi-UnderlineSLegacy::before {
   content: "\eed9";
 }
 
-.mi-UnderlineULegacy::before {
+.mi-UnderlineU::before {
   content: "\eeda";
 }
 
-.mi-UnderscoreSpace::before {
+.mi-UnderlineULegacy::before {
   content: "\eedb";
 }
 
-.mi-Undo::before {
+.mi-UnderscoreSpace::before {
   content: "\eedc";
 }
 
-.mi-Unfavorite::before {
+.mi-Undo::before {
   content: "\eedd";
 }
 
-.mi-Unit::before {
+.mi-Unfavorite::before {
   content: "\eede";
 }
 
-.mi-Unknown::before {
+.mi-Unit::before {
   content: "\eedf";
 }
 
-.mi-UnknownMirrored::before {
+.mi-Unknown::before {
   content: "\eee0";
 }
 
-.mi-Unlock::before {
+.mi-UnknownMirrored::before {
   content: "\eee1";
 }
 
-.mi-Unpin::before {
+.mi-Unlock::before {
   content: "\eee2";
 }
 
-.mi-UnsyncFolder::before {
+.mi-Unpin::before {
   content: "\eee3";
 }
 
-.mi-Up::before {
+.mi-UnsyncFolder::before {
   content: "\eee4";
 }
 
-.mi-UpArrowShiftKey::before {
+.mi-Up::before {
   content: "\eee5";
 }
 
-.mi-UpShiftKey::before {
+.mi-UpArrowShiftKey::before {
   content: "\eee6";
 }
 
-.mi-UpdateRestore::before {
+.mi-UpShiftKey::before {
   content: "\eee7";
 }
 
-.mi-Upload::before {
+.mi-UpdateRestore::before {
   content: "\eee8";
 }
 
-.mi-UserAPN::before {
+.mi-Upload::before {
   content: "\eee9";
 }
 
-.mi-VPN::before {
+.mi-UserAPN::before {
   content: "\eeea";
 }
 
-.mi-VerticalBattery0::before {
+.mi-VPN::before {
   content: "\eeeb";
 }
 
-.mi-VerticalBattery1::before {
+.mi-VerticalBattery0::before {
   content: "\eeec";
 }
 
-.mi-VerticalBattery10::before {
+.mi-VerticalBattery1::before {
   content: "\eeed";
 }
 
-.mi-VerticalBattery2::before {
+.mi-VerticalBattery10::before {
   content: "\eeee";
 }
 
-.mi-VerticalBattery3::before {
+.mi-VerticalBattery2::before {
   content: "\eeef";
 }
 
-.mi-VerticalBattery4::before {
+.mi-VerticalBattery3::before {
   content: "\eef0";
 }
 
-.mi-VerticalBattery5::before {
+.mi-VerticalBattery4::before {
   content: "\eef1";
 }
 
-.mi-VerticalBattery6::before {
+.mi-VerticalBattery5::before {
   content: "\eef2";
 }
 
-.mi-VerticalBattery7::before {
+.mi-VerticalBattery6::before {
   content: "\eef3";
 }
 
-.mi-VerticalBattery8::before {
+.mi-VerticalBattery7::before {
   content: "\eef4";
 }
 
-.mi-VerticalBattery9::before {
+.mi-VerticalBattery8::before {
   content: "\eef5";
 }
 
-.mi-VerticalBatteryCharging0::before {
+.mi-VerticalBattery9::before {
   content: "\eef6";
 }
 
-.mi-VerticalBatteryCharging1::before {
+.mi-VerticalBatteryCharging0::before {
   content: "\eef7";
 }
 
-.mi-VerticalBatteryCharging10::before {
+.mi-VerticalBatteryCharging1::before {
   content: "\eef8";
 }
 
-.mi-VerticalBatteryCharging2::before {
+.mi-VerticalBatteryCharging10::before {
   content: "\eef9";
 }
 
-.mi-VerticalBatteryCharging3::before {
+.mi-VerticalBatteryCharging2::before {
   content: "\eefa";
 }
 
-.mi-VerticalBatteryCharging4::before {
+.mi-VerticalBatteryCharging3::before {
   content: "\eefb";
 }
 
-.mi-VerticalBatteryCharging5::before {
+.mi-VerticalBatteryCharging4::before {
   content: "\eefc";
 }
 
-.mi-VerticalBatteryCharging6::before {
+.mi-VerticalBatteryCharging5::before {
   content: "\eefd";
 }
 
-.mi-VerticalBatteryCharging7::before {
+.mi-VerticalBatteryCharging6::before {
   content: "\eefe";
 }
 
-.mi-VerticalBatteryCharging8::before {
+.mi-VerticalBatteryCharging7::before {
   content: "\eeff";
 }
 
-.mi-VerticalBatteryCharging9::before {
+.mi-VerticalBatteryCharging8::before {
   content: "\ef00";
 }
 
-.mi-VerticalBatteryUnknown::before {
+.mi-VerticalBatteryCharging9::before {
   content: "\ef01";
 }
 
-.mi-Vibrate::before {
+.mi-VerticalBatteryUnknown::before {
   content: "\ef02";
 }
 
-.mi-Video::before {
+.mi-Vibrate::before {
   content: "\ef03";
 }
 
-.mi-Video360::before {
+.mi-Video::before {
   content: "\ef04";
 }
 
-.mi-VideoChat::before {
+.mi-Video360::before {
   content: "\ef05";
 }
 
-.mi-VideoSolid::before {
+.mi-VideoChat::before {
   content: "\ef06";
 }
 
-.mi-View::before {
+.mi-VideoSolid::before {
   content: "\ef07";
 }
 
-.mi-ViewAll::before {
+.mi-View::before {
   content: "\ef08";
 }
 
-.mi-ViewDashboard::before {
+.mi-ViewAll::before {
   content: "\ef09";
 }
 
-.mi-Volume::before {
+.mi-ViewDashboard::before {
   content: "\ef0a";
 }
 
-.mi-Volume0::before {
+.mi-Volume::before {
   content: "\ef0b";
 }
 
-.mi-Volume1::before {
+.mi-Volume0::before {
   content: "\ef0c";
 }
 
-.mi-Volume2::before {
+.mi-Volume1::before {
   content: "\ef0d";
 }
 
-.mi-Volume3::before {
+.mi-Volume2::before {
   content: "\ef0e";
 }
 
-.mi-VolumeBars::before {
+.mi-Volume3::before {
   content: "\ef0f";
 }
 
-.mi-Walk::before {
+.mi-VolumeBars::before {
   content: "\ef10";
 }
 
-.mi-WalkSolid::before {
+.mi-Walk::before {
   content: "\ef11";
 }
 
-.mi-Warning::before {
+.mi-WalkSolid::before {
   content: "\ef12";
 }
 
-.mi-Webcam::before {
+.mi-Warning::before {
   content: "\ef13";
 }
 
-.mi-Webcam2::before {
+.mi-Webcam::before {
   content: "\ef14";
 }
 
-.mi-Website::before {
+.mi-Webcam2::before {
   content: "\ef15";
 }
 
-.mi-Wheel::before {
+.mi-Website::before {
   content: "\ef16";
 }
 
-.mi-Wifi::before {
+.mi-Wheel::before {
   content: "\ef17";
 }
 
-.mi-Wifi1::before {
+.mi-Wifi::before {
   content: "\ef18";
 }
 
-.mi-Wifi2::before {
+.mi-Wifi1::before {
   content: "\ef19";
 }
 
-.mi-Wifi3::before {
+.mi-Wifi2::before {
   content: "\ef1a";
 }
 
-.mi-WifiAttentionOverlay::before {
+.mi-Wifi3::before {
   content: "\ef1b";
 }
 
-.mi-WifiCall0::before {
+.mi-WifiAttentionOverlay::before {
   content: "\ef1c";
 }
 
-.mi-WifiCall1::before {
+.mi-WifiCall0::before {
   content: "\ef1d";
 }
 
-.mi-WifiCall2::before {
+.mi-WifiCall1::before {
   content: "\ef1e";
 }
 
-.mi-WifiCall3::before {
+.mi-WifiCall2::before {
   content: "\ef1f";
 }
 
-.mi-WifiCall4::before {
+.mi-WifiCall3::before {
   content: "\ef20";
 }
 
-.mi-WifiCallBars::before {
+.mi-WifiCall4::before {
   content: "\ef21";
 }
 
-.mi-WifiError0::before {
+.mi-WifiCallBars::before {
   content: "\ef22";
 }
 
-.mi-WifiError1::before {
+.mi-WifiError0::before {
   content: "\ef23";
 }
 
-.mi-WifiError2::before {
+.mi-WifiError1::before {
   content: "\ef24";
 }
 
-.mi-WifiError3::before {
+.mi-WifiError2::before {
   content: "\ef25";
 }
 
-.mi-WifiError4::before {
+.mi-WifiError3::before {
   content: "\ef26";
 }
 
-.mi-WifiEthernet::before {
+.mi-WifiError4::before {
   content: "\ef27";
 }
 
-.mi-WifiHotspot::before {
+.mi-WifiEthernet::before {
   content: "\ef28";
 }
 
-.mi-WifiWarning0::before {
+.mi-WifiHotspot::before {
   content: "\ef29";
 }
 
-.mi-WifiWarning1::before {
+.mi-WifiWarning0::before {
   content: "\ef2a";
 }
 
-.mi-WifiWarning2::before {
+.mi-WifiWarning1::before {
   content: "\ef2b";
 }
 
-.mi-WifiWarning3::before {
+.mi-WifiWarning2::before {
   content: "\ef2c";
 }
 
-.mi-WifiWarning4::before {
+.mi-WifiWarning3::before {
   content: "\ef2d";
 }
 
-.mi-WindDirection::before {
+.mi-WifiWarning4::before {
   content: "\ef2e";
 }
 
-.mi-WindowsInsider::before {
+.mi-WindDirection::before {
   content: "\ef2f";
 }
 
-.mi-WiredUSB::before {
+.mi-WindowsInsider::before {
   content: "\ef30";
 }
 
-.mi-WirelessUSB::before {
+.mi-WiredUSB::before {
   content: "\ef31";
 }
 
-.mi-Work::before {
+.mi-WirelessUSB::before {
   content: "\ef32";
 }
 
-.mi-WorkSolid::before {
+.mi-Work::before {
   content: "\ef33";
 }
 
-.mi-World::before {
+.mi-WorkSolid::before {
   content: "\ef34";
 }
 
-.mi-XboxOneConsole::before {
+.mi-World::before {
   content: "\ef35";
 }
 
-.mi-ZeroBars::before {
+.mi-XboxOneConsole::before {
   content: "\ef36";
 }
 
-.mi-Zoom::before {
+.mi-ZeroBars::before {
   content: "\ef37";
 }
 
-.mi-ZoomIn::before {
+.mi-Zoom::before {
   content: "\ef38";
 }
 
-.mi-ZoomMode::before {
+.mi-ZoomIn::before {
   content: "\ef39";
 }
 
-.mi-ZoomOut::before {
+.mi-ZoomMode::before {
   content: "\ef3a";
 }
 
-.mi-accessible-icon::before {
+.mi-ZoomOut::before {
   content: "\ef3b";
 }
 
-.mi-accusoft::before {
+.mi-eSIM::before {
   content: "\ef3c";
 }
 
-.mi-acquisitions-incorporated::before {
+.mi-eSIMBusy::before {
   content: "\ef3d";
 }
 
-.mi-adn::before {
+.mi-eSIMLocked::before {
   content: "\ef3e";
 }
 
-.mi-adobe::before {
+.mi-eSIMNoProfile::before {
   content: "\ef3f";
 }
 
-.mi-adversal::before {
+.mi-uniE80B::before {
   content: "\ef40";
 }
 
-.mi-affiliatetheme::before {
+.mi-uniEA0D::before {
   content: "\ef41";
 }
 
-.mi-algolia::before {
+.mi-uniEA3F::before {
   content: "\ef42";
 }
 
-.mi-alipay::before {
+.mi-uniEA90::before {
   content: "\ef43";
 }
 
-.mi-amazon::before {
+.mi-uniEAC2::before {
   content: "\ef44";
 }
 
-.mi-amazon-pay::before {
+.mi-uniEC6C::before {
   content: "\ef45";
 }
 
-.mi-amilia::before {
+.mi-uniEEA3::before {
   content: "\ef46";
 }
 
-.mi-android::before {
+.mi-uniF2B7::before {
   content: "\ef47";
 }
 
-.mi-angellist::before {
+.mi-uniF5AA::before {
   content: "\ef48";
 }
 
-.mi-angrycreative::before {
+.mi-uniF614::before {
   content: "\ef49";
 }
 
-.mi-angular::before {
+.mi-uniF615::before {
   content: "\ef4a";
 }
 
-.mi-app-store::before {
+.mi-uniF616::before {
   content: "\ef4b";
 }
 
-.mi-app-store-ios::before {
+.mi-uniF617::before {
   content: "\ef4c";
 }
 
-.mi-apper::before {
+.mi-uniF657::before {
   content: "\ef4d";
 }
 
-.mi-apple::before {
+.mi-uniF658::before {
   content: "\ef4e";
 }
 
-.mi-apple-pay::before {
+.mi-uniF659::before {
   content: "\ef4f";
 }
 
-.mi-artstation::before {
+.mi-uniF65A::before {
   content: "\ef50";
 }
 
-.mi-asymmetrik::before {
+.mi-uniF65B::before {
   content: "\ef51";
 }
 
-.mi-atlassian::before {
+.mi-uniF65C::before {
   content: "\ef52";
 }
 
-.mi-audible::before {
+.mi-uniF69E::before {
   content: "\ef53";
 }
 
-.mi-autoprefixer::before {
+.mi-uniF6FA::before {
   content: "\ef54";
 }
 
-.mi-avianex::before {
+.mi-uniF712::before {
   content: "\ef55";
 }
 
-.mi-aviato::before {
+.mi-uniF71C::before {
   content: "\ef56";
 }
 
-.mi-aws::before {
+.mi-uniF71D::before {
   content: "\ef57";
 }
 
-.mi-bandcamp::before {
+.mi-uniF71E::before {
   content: "\ef58";
 }
 
-.mi-behance::before {
+.mi-uniF738::before {
   content: "\ef59";
 }
 
-.mi-behance-square::before {
+.mi-uniF739::before {
   content: "\ef5a";
 }
 
-.mi-bimobject::before {
+.mi-uniF73D::before {
   content: "\ef5b";
 }
 
-.mi-bitbucket::before {
+.mi-uniF73E::before {
   content: "\ef5c";
 }
 
-.mi-bitcoin::before {
+.mi-uniF73F::before {
   content: "\ef5d";
 }
 
-.mi-bity::before {
+.mi-uniF740::before {
   content: "\ef5e";
 }
 
-.mi-black-tie::before {
+.mi-uniF741::before {
   content: "\ef5f";
 }
 
-.mi-blackberry::before {
+.mi-uniF742::before {
   content: "\ef60";
 }
 
-.mi-blogger::before {
+.mi-uniF743::before {
   content: "\ef61";
 }
 
-.mi-blogger-b::before {
+.mi-uniF744::before {
   content: "\ef62";
 }
 
-.mi-bluetooth::before {
+.mi-uniF745::before {
   content: "\ef63";
 }
 
-.mi-bluetooth-b::before {
+.mi-uniF746::before {
   content: "\ef64";
 }
 
-.mi-btc::before {
-  content: "\ef65";
-}
-
-.mi-buromobelexperte::before {
-  content: "\ef66";
-}
-
-.mi-buysellads::before {
-  content: "\ef67";
-}
-
-.mi-canadian-maple-leaf::before {
-  content: "\ef68";
-}
-
-.mi-cc-amazon-pay::before {
-  content: "\ef69";
-}
-
-.mi-cc-amex::before {
-  content: "\ef6a";
-}
-
-.mi-cc-apple-pay::before {
-  content: "\ef6b";
-}
-
-.mi-cc-diners-club::before {
-  content: "\ef6c";
-}
-
-.mi-cc-discover::before {
-  content: "\ef6d";
-}
-
-.mi-cc-jcb::before {
-  content: "\ef6e";
-}
-
-.mi-cc-mastercard::before {
-  content: "\ef6f";
-}
-
-.mi-cc-paypal::before {
-  content: "\ef70";
-}
-
-.mi-cc-stripe::before {
-  content: "\ef71";
-}
-
-.mi-cc-visa::before {
-  content: "\ef72";
-}
-
-.mi-centercode::before {
-  content: "\ef73";
-}
-
-.mi-centos::before {
-  content: "\ef74";
-}
-
-.mi-chrome::before {
-  content: "\ef75";
-}
-
-.mi-cloudscale::before {
-  content: "\ef76";
-}
-
-.mi-cloudsmith::before {
-  content: "\ef77";
-}
-
-.mi-cloudversify::before {
-  content: "\ef78";
-}
-
-.mi-codepen::before {
-  content: "\ef79";
-}
-
-.mi-codiepie::before {
-  content: "\ef7a";
-}
-
-.mi-confluence::before {
-  content: "\ef7b";
-}
-
-.mi-connectdevelop::before {
-  content: "\ef7c";
-}
-
-.mi-contao::before {
-  content: "\ef7d";
-}
-
-.mi-cpanel::before {
-  content: "\ef7e";
-}
-
-.mi-creative-commons::before {
-  content: "\ef7f";
-}
-
-.mi-creative-commons-by::before {
-  content: "\ef80";
-}
-
-.mi-creative-commons-nc::before {
-  content: "\ef81";
-}
-
-.mi-creative-commons-nc-eu::before {
-  content: "\ef82";
-}
-
-.mi-creative-commons-nc-jp::before {
-  content: "\ef83";
-}
-
-.mi-creative-commons-nd::before {
-  content: "\ef84";
-}
-
-.mi-creative-commons-pd::before {
-  content: "\ef85";
-}
-
-.mi-creative-commons-pd-alt::before {
-  content: "\ef86";
-}
-
-.mi-creative-commons-remix::before {
-  content: "\ef87";
-}
-
-.mi-creative-commons-sa::before {
-  content: "\ef88";
-}
-
-.mi-creative-commons-sampling::before {
-  content: "\ef89";
-}
-
-.mi-creative-commons-sampling-plus::before {
-  content: "\ef8a";
-}
-
-.mi-creative-commons-share::before {
-  content: "\ef8b";
-}
-
-.mi-creative-commons-zero::before {
-  content: "\ef8c";
-}
-
-.mi-critical-role::before {
-  content: "\ef8d";
-}
-
-.mi-css3::before {
-  content: "\ef8e";
-}
-
-.mi-css3-alt::before {
-  content: "\ef8f";
-}
-
-.mi-cuttlefish::before {
-  content: "\ef90";
-}
-
-.mi-d-and-d::before {
-  content: "\ef91";
-}
-
-.mi-d-and-d-beyond::before {
-  content: "\ef92";
-}
-
-.mi-dashcube::before {
-  content: "\ef93";
-}
-
-.mi-delicious::before {
-  content: "\ef94";
-}
-
-.mi-deploydog::before {
-  content: "\ef95";
-}
-
-.mi-deskpro::before {
-  content: "\ef96";
-}
-
-.mi-dev::before {
-  content: "\ef97";
-}
-
-.mi-deviantart::before {
-  content: "\ef98";
-}
-
-.mi-dhl::before {
-  content: "\ef99";
-}
-
-.mi-diaspora::before {
-  content: "\ef9a";
-}
-
-.mi-digg::before {
-  content: "\ef9b";
-}
-
-.mi-digital-ocean::before {
-  content: "\ef9c";
-}
-
-.mi-discord::before {
-  content: "\ef9d";
-}
-
-.mi-discourse::before {
-  content: "\ef9e";
-}
-
-.mi-dochub::before {
-  content: "\ef9f";
-}
-
-.mi-docker::before {
-  content: "\efa0";
-}
-
-.mi-draft2digital::before {
-  content: "\efa1";
-}
-
-.mi-dribbble::before {
-  content: "\efa2";
-}
-
-.mi-dribbble-square::before {
-  content: "\efa3";
-}
-
-.mi-dropbox::before {
-  content: "\efa4";
-}
-
-.mi-drupal::before {
-  content: "\efa5";
-}
-
-.mi-dyalog::before {
-  content: "\efa6";
-}
-
-.mi-eSIM::before {
-  content: "\efa7";
-}
-
-.mi-eSIMBusy::before {
-  content: "\efa8";
-}
-
-.mi-eSIMLocked::before {
-  content: "\efa9";
-}
-
-.mi-eSIMNoProfile::before {
-  content: "\efaa";
-}
-
-.mi-earlybirds::before {
-  content: "\efab";
-}
-
-.mi-ebay::before {
-  content: "\efac";
-}
-
-.mi-edge::before {
-  content: "\efad";
-}
-
-.mi-elementor::before {
-  content: "\efae";
-}
-
-.mi-ello::before {
-  content: "\efaf";
-}
-
-.mi-ember::before {
-  content: "\efb0";
-}
-
-.mi-empire::before {
-  content: "\efb1";
-}
-
-.mi-envira::before {
-  content: "\efb2";
-}
-
-.mi-erlang::before {
-  content: "\efb3";
-}
-
-.mi-ethereum::before {
-  content: "\efb4";
-}
-
-.mi-etsy::before {
-  content: "\efb5";
-}
-
-.mi-expeditedssl::before {
-  content: "\efb6";
-}
-
-.mi-facebook::before {
-  content: "\efb7";
-}
-
-.mi-facebook-f::before {
-  content: "\efb8";
-}
-
-.mi-facebook-messenger::before {
-  content: "\efb9";
-}
-
-.mi-facebook-square::before {
-  content: "\efba";
-}
-
-.mi-fedex::before {
-  content: "\efbb";
-}
-
-.mi-fedora::before {
-  content: "\efbc";
-}
-
-.mi-figma::before {
-  content: "\efbd";
-}
-
-.mi-firefox::before {
-  content: "\efbe";
-}
-
-.mi-first-order::before {
-  content: "\efbf";
-}
-
-.mi-first-order-alt::before {
-  content: "\efc0";
-}
-
-.mi-firstdraft::before {
-  content: "\efc1";
-}
-
-.mi-flickr::before {
-  content: "\efc2";
-}
-
-.mi-flipboard::before {
-  content: "\efc3";
-}
-
-.mi-fly::before {
-  content: "\efc4";
-}
-
-.mi-font-awesome::before {
-  content: "\efc5";
-}
-
-.mi-font-awesome-alt::before {
-  content: "\efc6";
-}
-
-.mi-font-awesome-flag::before {
-  content: "\efc7";
-}
-
-.mi-fonticons::before {
-  content: "\efc8";
-}
-
-.mi-fonticons-fi::before {
-  content: "\efc9";
-}
-
-.mi-fort-awesome::before {
-  content: "\efca";
-}
-
-.mi-fort-awesome-alt::before {
-  content: "\efcb";
-}
-
-.mi-forumbee::before {
-  content: "\efcc";
-}
-
-.mi-foursquare::before {
-  content: "\efcd";
-}
-
-.mi-free-code-camp::before {
-  content: "\efce";
-}
-
-.mi-freebsd::before {
-  content: "\efcf";
-}
-
-.mi-fulcrum::before {
-  content: "\efd0";
-}
-
-.mi-galactic-republic::before {
-  content: "\efd1";
-}
-
-.mi-galactic-senate::before {
-  content: "\efd2";
-}
-
-.mi-get-pocket::before {
-  content: "\efd3";
-}
-
-.mi-gg::before {
-  content: "\efd4";
-}
-
-.mi-gg-circle::before {
-  content: "\efd5";
-}
-
-.mi-git-square::before {
-  content: "\efd6";
-}
-
-.mi-github::before {
-  content: "\efd7";
-}
-
-.mi-github-alt::before {
-  content: "\efd8";
-}
-
-.mi-github-square::before {
-  content: "\efd9";
-}
-
-.mi-gitkraken::before {
-  content: "\efda";
-}
-
-.mi-gitlab::before {
-  content: "\efdb";
-}
-
-.mi-gitter::before {
-  content: "\efdc";
-}
-
-.mi-glide::before {
-  content: "\efdd";
-}
-
-.mi-glide-g::before {
-  content: "\efde";
-}
-
-.mi-gofore::before {
-  content: "\efdf";
-}
-
-.mi-goodreads::before {
-  content: "\efe0";
-}
-
-.mi-goodreads-g::before {
-  content: "\efe1";
-}
-
-.mi-google::before {
-  content: "\efe2";
-}
-
-.mi-google-drive::before {
-  content: "\efe3";
-}
-
-.mi-google-play::before {
-  content: "\efe4";
-}
-
-.mi-google-plus::before {
-  content: "\efe5";
-}
-
-.mi-google-plus-g::before {
-  content: "\efe6";
-}
-
-.mi-google-plus-square::before {
-  content: "\efe7";
-}
-
-.mi-google-wallet::before {
-  content: "\efe8";
-}
-
-.mi-gratipay::before {
-  content: "\efe9";
-}
-
-.mi-grav::before {
-  content: "\efea";
-}
-
-.mi-gripfire::before {
-  content: "\efeb";
-}
-
-.mi-grunt::before {
-  content: "\efec";
-}
-
-.mi-gulp::before {
-  content: "\efed";
-}
-
-.mi-hacker-news::before {
-  content: "\efee";
-}
-
-.mi-hacker-news-square::before {
-  content: "\efef";
-}
-
-.mi-hackerrank::before {
-  content: "\eff0";
-}
-
-.mi-hire-a-helper::before {
-  content: "\eff1";
-}
-
-.mi-hooli::before {
-  content: "\eff2";
-}
-
-.mi-hornbill::before {
-  content: "\eff3";
-}
-
-.mi-hotjar::before {
-  content: "\eff4";
-}
-
-.mi-houzz::before {
-  content: "\eff5";
-}
-
-.mi-html5::before {
-  content: "\eff6";
-}
-
-.mi-hubspot::before {
-  content: "\eff7";
-}
-
-.mi-imdb::before {
-  content: "\eff8";
-}
-
-.mi-instagram::before {
-  content: "\eff9";
-}
-
-.mi-intercom::before {
-  content: "\effa";
-}
-
-.mi-internet-explorer::before {
-  content: "\effb";
-}
-
-.mi-invision::before {
-  content: "\effc";
-}
-
-.mi-ioxhost::before {
-  content: "\effd";
-}
-
-.mi-itunes::before {
-  content: "\effe";
-}
-
-.mi-itunes-note::before {
-  content: "\efff";
-}
-
-.mi-java::before {
-  content: "\f000";
-}
-
-.mi-jedi-order::before {
-  content: "\f001";
-}
-
-.mi-jenkins::before {
-  content: "\f002";
-}
-
-.mi-jira::before {
-  content: "\f003";
-}
-
-.mi-joget::before {
-  content: "\f004";
-}
-
-.mi-joomla::before {
-  content: "\f005";
-}
-
-.mi-js::before {
-  content: "\f006";
-}
-
-.mi-js-square::before {
-  content: "\f007";
-}
-
-.mi-jsfiddle::before {
-  content: "\f008";
-}
-
-.mi-kaggle::before {
-  content: "\f009";
-}
-
-.mi-keybase::before {
-  content: "\f00a";
-}
-
-.mi-keycdn::before {
-  content: "\f00b";
-}
-
-.mi-kickstarter::before {
-  content: "\f00c";
-}
-
-.mi-kickstarter-k::before {
-  content: "\f00d";
-}
-
-.mi-korvue::before {
-  content: "\f00e";
-}
-
-.mi-laravel::before {
-  content: "\f00f";
-}
-
-.mi-lastfm::before {
-  content: "\f010";
-}
-
-.mi-lastfm-square::before {
-  content: "\f011";
-}
-
-.mi-leanpub::before {
-  content: "\f012";
-}
-
-.mi-less::before {
-  content: "\f013";
-}
-
-.mi-line::before {
-  content: "\f014";
-}
-
-.mi-linkedin::before {
-  content: "\f015";
-}
-
-.mi-linkedin-in::before {
-  content: "\f016";
-}
-
-.mi-linode::before {
-  content: "\f017";
-}
-
-.mi-linux::before {
-  content: "\f018";
-}
-
-.mi-lyft::before {
-  content: "\f019";
-}
-
-.mi-magento::before {
-  content: "\f01a";
-}
-
-.mi-mailchimp::before {
-  content: "\f01b";
-}
-
-.mi-mandalorian::before {
-  content: "\f01c";
-}
-
-.mi-markdown::before {
-  content: "\f01d";
-}
-
-.mi-mastodon::before {
-  content: "\f01e";
-}
-
-.mi-maxcdn::before {
-  content: "\f01f";
-}
-
-.mi-medapps::before {
-  content: "\f020";
-}
-
-.mi-medium::before {
-  content: "\f021";
-}
-
-.mi-medium-m::before {
-  content: "\f022";
-}
-
-.mi-medrt::before {
-  content: "\f023";
-}
-
-.mi-meetup::before {
-  content: "\f024";
-}
-
-.mi-megaport::before {
-  content: "\f025";
-}
-
-.mi-mendeley::before {
-  content: "\f026";
-}
-
-.mi-microsoft::before {
-  content: "\f027";
-}
-
-.mi-mix::before {
-  content: "\f028";
-}
-
-.mi-mixcloud::before {
-  content: "\f029";
-}
-
-.mi-mizuni::before {
-  content: "\f02a";
-}
-
-.mi-modx::before {
-  content: "\f02b";
-}
-
-.mi-monero::before {
-  content: "\f02c";
-}
-
-.mi-napster::before {
-  content: "\f02d";
-}
-
-.mi-neos::before {
-  content: "\f02e";
-}
-
-.mi-nimblr::before {
-  content: "\f02f";
-}
-
-.mi-nintendo-switch::before {
-  content: "\f030";
-}
-
-.mi-node::before {
-  content: "\f031";
-}
-
-.mi-node-js::before {
-  content: "\f032";
-}
-
-.mi-npm::before {
-  content: "\f033";
-}
-
-.mi-ns8::before {
-  content: "\f034";
-}
-
-.mi-nutritionix::before {
-  content: "\f035";
-}
-
-.mi-odnoklassniki::before {
-  content: "\f036";
-}
-
-.mi-odnoklassniki-square::before {
-  content: "\f037";
-}
-
-.mi-old-republic::before {
-  content: "\f038";
-}
-
-.mi-opencart::before {
-  content: "\f039";
-}
-
-.mi-openid::before {
-  content: "\f03a";
-}
-
-.mi-opera::before {
-  content: "\f03b";
-}
-
-.mi-optin-monster::before {
-  content: "\f03c";
-}
-
-.mi-osi::before {
-  content: "\f03d";
-}
-
-.mi-page4::before {
-  content: "\f03e";
-}
-
-.mi-pagelines::before {
-  content: "\f03f";
-}
-
-.mi-palfed::before {
-  content: "\f040";
-}
-
-.mi-patreon::before {
-  content: "\f041";
-}
-
-.mi-paypal::before {
-  content: "\f042";
-}
-
-.mi-penny-arcade::before {
-  content: "\f043";
-}
-
-.mi-periscope::before {
-  content: "\f044";
-}
-
-.mi-phabricator::before {
-  content: "\f045";
-}
-
-.mi-phoenix-framework::before {
-  content: "\f046";
-}
-
-.mi-phoenix-squadron::before {
-  content: "\f047";
-}
-
-.mi-php::before {
-  content: "\f048";
-}
-
-.mi-pied-piper::before {
-  content: "\f049";
-}
-
-.mi-pied-piper-alt::before {
-  content: "\f04a";
-}
-
-.mi-pied-piper-hat::before {
-  content: "\f04b";
-}
-
-.mi-pied-piper-pp::before {
-  content: "\f04c";
-}
-
-.mi-pinterest::before {
-  content: "\f04d";
-}
-
-.mi-pinterest-p::before {
-  content: "\f04e";
-}
-
-.mi-pinterest-square::before {
-  content: "\f04f";
-}
-
-.mi-playstation::before {
-  content: "\f050";
-}
-
-.mi-product-hunt::before {
-  content: "\f051";
-}
-
-.mi-pushed::before {
-  content: "\f052";
-}
-
-.mi-python::before {
-  content: "\f053";
-}
-
-.mi-qq::before {
-  content: "\f054";
-}
-
-.mi-quinscape::before {
-  content: "\f055";
-}
-
-.mi-quora::before {
-  content: "\f056";
-}
-
-.mi-r-project::before {
-  content: "\f057";
-}
-
-.mi-raspberry-pi::before {
-  content: "\f058";
-}
-
-.mi-ravelry::before {
-  content: "\f059";
-}
-
-.mi-react::before {
-  content: "\f05a";
-}
-
-.mi-reacteurope::before {
-  content: "\f05b";
-}
-
-.mi-readme::before {
-  content: "\f05c";
-}
-
-.mi-rebel::before {
-  content: "\f05d";
-}
-
-.mi-red-river::before {
-  content: "\f05e";
-}
-
-.mi-reddit::before {
-  content: "\f05f";
-}
-
-.mi-reddit-alien::before {
-  content: "\f060";
-}
-
-.mi-reddit-square::before {
-  content: "\f061";
-}
-
-.mi-redhat::before {
-  content: "\f062";
-}
-
-.mi-renren::before {
-  content: "\f063";
-}
-
-.mi-replyd::before {
-  content: "\f064";
-}
-
-.mi-researchgate::before {
-  content: "\f065";
-}
-
-.mi-resolving::before {
-  content: "\f066";
-}
-
-.mi-rev::before {
-  content: "\f067";
-}
-
-.mi-rocketchat::before {
-  content: "\f068";
-}
-
-.mi-rockrms::before {
-  content: "\f069";
-}
-
-.mi-safari::before {
-  content: "\f06a";
-}
-
-.mi-sass::before {
-  content: "\f06b";
-}
-
-.mi-schlix::before {
-  content: "\f06c";
-}
-
-.mi-scribd::before {
-  content: "\f06d";
-}
-
-.mi-searchengin::before {
-  content: "\f06e";
-}
-
-.mi-sellcast::before {
-  content: "\f06f";
-}
-
-.mi-sellsy::before {
-  content: "\f070";
-}
-
-.mi-servicestack::before {
-  content: "\f071";
-}
-
-.mi-shirtsinbulk::before {
-  content: "\f072";
-}
-
-.mi-shopware::before {
-  content: "\f073";
-}
-
-.mi-simplybuilt::before {
-  content: "\f074";
-}
-
-.mi-sistrix::before {
-  content: "\f075";
-}
-
-.mi-sith::before {
-  content: "\f076";
-}
-
-.mi-sketch::before {
-  content: "\f077";
-}
-
-.mi-skyatlas::before {
-  content: "\f078";
-}
-
-.mi-skype::before {
-  content: "\f079";
-}
-
-.mi-slack::before {
-  content: "\f07a";
-}
-
-.mi-slack-hash::before {
-  content: "\f07b";
-}
-
-.mi-slideshare::before {
-  content: "\f07c";
-}
-
-.mi-snapchat::before {
-  content: "\f07d";
-}
-
-.mi-snapchat-ghost::before {
-  content: "\f07e";
-}
-
-.mi-snapchat-square::before {
-  content: "\f07f";
-}
-
-.mi-soundcloud::before {
-  content: "\f080";
-}
-
-.mi-sourcetree::before {
-  content: "\f081";
-}
-
-.mi-speakap::before {
-  content: "\f082";
-}
-
-.mi-spotify::before {
-  content: "\f083";
-}
-
-.mi-squarespace::before {
-  content: "\f084";
-}
-
-.mi-stack-exchange::before {
-  content: "\f085";
-}
-
-.mi-stack-overflow::before {
-  content: "\f086";
-}
-
-.mi-staylinked::before {
-  content: "\f087";
-}
-
-.mi-steam::before {
-  content: "\f088";
-}
-
-.mi-steam-square::before {
-  content: "\f089";
-}
-
-.mi-sticker-mule::before {
-  content: "\f08a";
-}
-
-.mi-strava::before {
-  content: "\f08b";
-}
-
-.mi-stripe::before {
-  content: "\f08c";
-}
-
-.mi-stripe-s::before {
-  content: "\f08d";
-}
-
-.mi-studiovinari::before {
-  content: "\f08e";
-}
-
-.mi-stumbleupon::before {
-  content: "\f08f";
-}
-
-.mi-stumbleupon-circle::before {
-  content: "\f090";
-}
-
-.mi-superpowers::before {
-  content: "\f091";
-}
-
-.mi-supple::before {
-  content: "\f092";
-}
-
-.mi-suse::before {
-  content: "\f093";
-}
-
-.mi-teamspeak::before {
-  content: "\f094";
-}
-
-.mi-telegram::before {
-  content: "\f095";
-}
-
-.mi-telegram-plane::before {
-  content: "\f096";
-}
-
-.mi-tencent-weibo::before {
-  content: "\f097";
-}
-
-.mi-the-red-yeti::before {
-  content: "\f098";
-}
-
-.mi-themeco::before {
-  content: "\f099";
-}
-
-.mi-themeisle::before {
-  content: "\f09a";
-}
-
-.mi-think-peaks::before {
-  content: "\f09b";
-}
-
-.mi-trade-federation::before {
-  content: "\f09c";
-}
-
-.mi-trello::before {
-  content: "\f09d";
-}
-
-.mi-tripadvisor::before {
-  content: "\f09e";
-}
-
-.mi-tumblr::before {
-  content: "\f09f";
-}
-
-.mi-tumblr-square::before {
-  content: "\f0a0";
-}
-
-.mi-twitch::before {
-  content: "\f0a1";
-}
-
-.mi-twitter-square::before {
-  content: "\f0a2";
-}
-
-.mi-typo3::before {
-  content: "\f0a3";
-}
-
-.mi-ubuntu::before {
-  content: "\f0a4";
-}
-
-.mi-uikit::before {
-  content: "\f0a5";
-}
-
-.mi-uniE80B::before {
-  content: "\f0a6";
-}
-
-.mi-uniEA0D::before {
-  content: "\f0a7";
-}
-
-.mi-uniEA3F::before {
-  content: "\f0a8";
-}
-
-.mi-uniEA90::before {
-  content: "\f0a9";
-}
-
-.mi-uniEAC2::before {
-  content: "\f0aa";
-}
-
-.mi-uniEC6C::before {
-  content: "\f0ab";
-}
-
-.mi-uniEEA3::before {
-  content: "\f0ac";
-}
-
-.mi-uniF2B7::before {
-  content: "\f0ad";
-}
-
-.mi-uniF5AA::before {
-  content: "\f0ae";
-}
-
-.mi-uniF614::before {
-  content: "\f0af";
-}
-
-.mi-uniF615::before {
-  content: "\f0b0";
-}
-
-.mi-uniF616::before {
-  content: "\f0b1";
-}
-
-.mi-uniF617::before {
-  content: "\f0b2";
-}
-
-.mi-uniF657::before {
-  content: "\f0b3";
-}
-
-.mi-uniF658::before {
-  content: "\f0b4";
-}
-
-.mi-uniF659::before {
-  content: "\f0b5";
-}
-
-.mi-uniF65A::before {
-  content: "\f0b6";
-}
-
-.mi-uniF65B::before {
-  content: "\f0b7";
-}
-
-.mi-uniF65C::before {
-  content: "\f0b8";
-}
-
-.mi-uniF69E::before {
-  content: "\f0b9";
-}
-
-.mi-uniF6FA::before {
-  content: "\f0ba";
-}
-
-.mi-uniF712::before {
-  content: "\f0bb";
-}
-
-.mi-uniF71C::before {
-  content: "\f0bc";
-}
-
-.mi-uniF71D::before {
-  content: "\f0bd";
-}
-
-.mi-uniF71E::before {
-  content: "\f0be";
-}
-
-.mi-uniF738::before {
-  content: "\f0bf";
-}
-
-.mi-uniF739::before {
-  content: "\f0c0";
-}
-
-.mi-uniF73D::before {
-  content: "\f0c1";
-}
-
-.mi-uniF73E::before {
-  content: "\f0c2";
-}
-
-.mi-uniF73F::before {
-  content: "\f0c3";
-}
-
-.mi-uniF740::before {
-  content: "\f0c4";
-}
-
-.mi-uniF741::before {
-  content: "\f0c5";
-}
-
-.mi-uniF742::before {
-  content: "\f0c6";
-}
-
-.mi-uniF743::before {
-  content: "\f0c7";
-}
-
-.mi-uniF744::before {
-  content: "\f0c8";
-}
-
-.mi-uniF745::before {
-  content: "\f0c9";
-}
-
-.mi-uniF746::before {
-  content: "\f0ca";
-}
-
 .mi-uniF785::before {
-  content: "\f0cb";
-}
-
-.mi-uniregistry::before {
-  content: "\f0cc";
-}
-
-.mi-untappd::before {
-  content: "\f0cd";
-}
-
-.mi-ups::before {
-  content: "\f0ce";
-}
-
-.mi-usb::before {
-  content: "\f0cf";
-}
-
-.mi-usps::before {
-  content: "\f0d0";
-}
-
-.mi-ussunnah::before {
-  content: "\f0d1";
-}
-
-.mi-vaadin::before {
-  content: "\f0d2";
-}
-
-.mi-viacoin::before {
-  content: "\f0d3";
-}
-
-.mi-viadeo::before {
-  content: "\f0d4";
-}
-
-.mi-viadeo-square::before {
-  content: "\f0d5";
-}
-
-.mi-viber::before {
-  content: "\f0d6";
-}
-
-.mi-vimeo::before {
-  content: "\f0d7";
-}
-
-.mi-vimeo-square::before {
-  content: "\f0d8";
-}
-
-.mi-vimeo-v::before {
-  content: "\f0d9";
-}
-
-.mi-vine::before {
-  content: "\f0da";
-}
-
-.mi-vk::before {
-  content: "\f0db";
-}
-
-.mi-vnv::before {
-  content: "\f0dc";
-}
-
-.mi-vuejs::before {
-  content: "\f0dd";
-}
-
-.mi-weebly::before {
-  content: "\f0de";
-}
-
-.mi-weibo::before {
-  content: "\f0df";
-}
-
-.mi-weixin::before {
-  content: "\f0e0";
-}
-
-.mi-whatsapp::before {
-  content: "\f0e1";
-}
-
-.mi-whatsapp-square::before {
-  content: "\f0e2";
-}
-
-.mi-whmcs::before {
-  content: "\f0e3";
-}
-
-.mi-wikipedia-w::before {
-  content: "\f0e4";
-}
-
-.mi-windows::before {
-  content: "\f0e5";
-}
-
-.mi-wix::before {
-  content: "\f0e6";
-}
-
-.mi-wizards-of-the-coast::before {
-  content: "\f0e7";
-}
-
-.mi-wolf-pack-battalion::before {
-  content: "\f0e8";
-}
-
-.mi-wordpress::before {
-  content: "\f0e9";
-}
-
-.mi-wordpress-simple::before {
-  content: "\f0ea";
-}
-
-.mi-wpbeginner::before {
-  content: "\f0eb";
-}
-
-.mi-wpexplorer::before {
-  content: "\f0ec";
-}
-
-.mi-wpforms::before {
-  content: "\f0ed";
-}
-
-.mi-wpressr::before {
-  content: "\f0ee";
-}
-
-.mi-xbox::before {
-  content: "\f0ef";
-}
-
-.mi-xing::before {
-  content: "\f0f0";
-}
-
-.mi-xing-square::before {
-  content: "\f0f1";
-}
-
-.mi-y-combinator::before {
-  content: "\f0f2";
-}
-
-.mi-yahoo::before {
-  content: "\f0f3";
-}
-
-.mi-yandex::before {
-  content: "\f0f4";
-}
-
-.mi-yandex-international::before {
-  content: "\f0f5";
-}
-
-.mi-yarn::before {
-  content: "\f0f6";
-}
-
-.mi-yelp::before {
-  content: "\f0f7";
-}
-
-.mi-yoast::before {
-  content: "\f0f8";
-}
-
-.mi-youtube::before {
-  content: "\f0f9";
-}
-
-.mi-youtube-square::before {
-  content: "\f0fa";
-}
-
-.mi-zhihu::before {
-  content: "\f0fb";
+  content: "\ef65";
 }

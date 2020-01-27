@@ -1,0 +1,28 @@
+{
+  "version": "3.0.168",
+  "name": "@icon/micon-brand",
+  "description": "Micon, The iconic windows 10 font and CSS toolkit.",
+  "author": "Mehdi HosseinZade",
+  "license": "MIT",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/micon",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=micon-brand",
+    "optimize": "../../scripts/module/optimize",
+    "update": "ncu -u"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "devDependencies": {
+    "micon-font": "git+https://github.com/xtoolkit/Micon.git"
+  },
+  "homepage": "http://xtoolkit.github.io/Micon/",
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "03bca77bca8c5dd936a375e9c556ef3e1a8d4074"
+}
