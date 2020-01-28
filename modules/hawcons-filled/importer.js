@@ -47,7 +47,7 @@ module.exports = function(callback) {
   options.icons = getIconsFromCss(paths.css, 'hawcons-icon-', "\\.{prefix}\\d+-([\\w\\d-]+):before");
   options = prepareIcons(options);
   generateCss(paths.dest, options.name, options);
-  generateJson(paths.dest, options.className, options);
+  generateJson(paths.dest, options);
   copyFonts(paths.dest, paths.fonts, options);
   copySvgs(paths.svgsDest, paths.svgs, options.svgs, null, function(name) {
     return path.basename(name).replace(/^icon-(\d{1,3})-{1,2}/i, '');

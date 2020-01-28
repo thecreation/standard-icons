@@ -80,7 +80,7 @@ module.exports = function(callback) {
     generateFontsFromSvg(paths.dest, options, () => {
       options.icons = icons;
       options = prepareIcons(options);
-      generateJson(paths.dest, options.className, options);
+      generateJson(paths.dest, options);
       copyLicense(paths.dest, path.join(options.source, 'gpl.txt'));
       jsonfile(paths.dest, options);
       callback()

@@ -47,7 +47,7 @@ module.exports = function(callback) {
   options.icons = getIconsFromCss(paths.css, 'lnr-');
   options = prepareIcons(options);
   generateCss(paths.dest, options.name, options);
-  generateJson(paths.dest, options.className, options);
+  generateJson(paths.dest, options);
   copyFonts(paths.dest, paths.fonts, options);
   copySvgs(paths.svgsDest, paths.svgs, options.svgs);
   copyLicense(paths.dest, path.join(options.source, 'LICENSE'));

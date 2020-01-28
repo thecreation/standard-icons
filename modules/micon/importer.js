@@ -45,7 +45,7 @@ module.exports = function(callback) {
   generateFontsFromSvg(paths.dest, options, () => {
     options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'mi-');
     options = prepareIcons(options);
-    generateJson(paths.dest, options.className, options);
+    generateJson(paths.dest, options);
     copyLicense(paths.dest, path.join(options.source, 'LICENSE'));
     jsonfile(paths.dest, options);
     callback();

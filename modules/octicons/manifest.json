@@ -1,0 +1,16 @@
+{
+  "name": "octicons",
+  "title": "Octicons",
+  "description": "A scalable set of icons handcrafted with &lt;3 by GitHub.",
+  "version": "9.3.1",
+  "class": "octicon",
+  "prefix": "octicon-",
+  "homepage": "https://octicons.github.com",
+  "author": "GitHub Inc.",
+  "license": "MIT",
+  "style": "octicons.css",
+  "count": "0",
+  "classifiable": false,
+  "icons": {
+  }
+}

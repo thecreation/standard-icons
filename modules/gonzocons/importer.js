@@ -46,7 +46,7 @@ module.exports = function(callback) {
   options.icons = getIconsFromCss(paths.css, 'icon-');
   options = prepareIcons(options);
   generateCss(paths.dest, options.name, options);
-  generateJson(paths.dest, options.className, options);
+  generateJson(paths.dest, options);
   copyFonts(paths.dest, paths.fonts, options);
   copySvgs(paths.svgsDest, paths.svgs, options.svgs);
   jsonfile(paths.dest, options);

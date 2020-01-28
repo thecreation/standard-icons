@@ -3,8 +3,11 @@
 let fs = require('graceful-fs');
 let globule = require('globule');
 
-module.exports = function(folder) {
-  let files = globule.find("*.{svg,eot,ttf,woff,woff2}", {
+module.exports = function(folder, filter) {
+  if (!filter) {
+    filter = "*";
+  }
+  let files = globule.find(filter + ".{svg,eot,ttf,woff,woff2}", {
     srcBase: folder
   });
 
@@ -23,6 +26,6 @@ module.exports = function(folder) {
       }
     });
   }
-  
+
   return fonts;
 }
