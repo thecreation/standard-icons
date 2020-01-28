@@ -1,0 +1,16 @@
+{
+  "name": "ant-design-fill-icons",
+  "title": "Ant Design Fill Icons",
+  "description": "Ant Design Icons",
+  "version": "2.1.1",
+  "class": "adif",
+  "prefix": "adif-",
+  "homepage": "https://github.com/ant-design/ant-design-icons#readme",
+  "author": "Ant Design Team",
+  "license": "MIT",
+  "style": "ant-design-fill-icons.css",
+  "count": "0",
+  "classifiable": false,
+  "icons": {
+  }
+}
