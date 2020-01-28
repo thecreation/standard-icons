@@ -1,6 +1,6 @@
 # @icon/coreui-icons-brand
 
-[![npm version](https://img.shields.io/npm/v/@icon/coreui-icons.svg)](https://www.npmjs.org/package/@icon/coreui-icons-brand)
+[![npm version](https://img.shields.io/npm/v/@icon/coreui-icons-brand.svg)](https://www.npmjs.org/package/@icon/coreui-icons-brand)
 
 This repository is a module of the full [icon][icon] repository.
 
@@ -14,7 +14,7 @@ npm install --save @icon/coreui-icons-brand
 
 ## Usage
 
-There are many ways/formats of how to use coreui-icons. The fastest and recommended way is via SVG directly. Or use the webfont version if you want to include all icons at once:
+There are many ways/formats of how to use coreui-icons-brand. The fastest and recommended way is via SVG directly. Or use the webfont version if you want to include all icons at once:
 
 ### SVG icons -- when you need just a few icons in your project
 
@@ -24,7 +24,7 @@ There are many ways/formats of how to use coreui-icons. The fastest and recommen
 <img height="32" width="32" src="@icon/coreui-icons-brand/icons/airplane.svg" />
 ```
 
-2 . Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/coreui-icons` npm package in the URL like the following:
+2 . Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/coreui-icons-brand` npm package in the URL like the following:
 
 ```
 <img height="32" width="32" src="https://unpkg.com/@icon/coreui-icons-brand/icons/airplane.svg" />
@@ -32,17 +32,17 @@ There are many ways/formats of how to use coreui-icons. The fastest and recommen
 
 ### Icons font -- ideal when you want to include all icons at once
 
-1 . Install `@icon/coreui-icons` with this command. In the `<head>` of your html, reference the location to your `coreui-icons.css`.
+1 . Install `@icon/coreui-icons-brand` with this command. In the `<head>` of your html, reference the location to your `coreui-icons-brand.css`.
 
 ```
 <head>
 ...
-<link rel="stylesheet" href="@icon/coreui-icons-brand/coreui-icons.css">
+<link rel="stylesheet" href="@icon/coreui-icons-brand/coreui-icons-brand.css">
 ...
 </head>
 ```
 
-2 . Use [unpkg.com][Unpkg] to load directly coreui-icons without installing anything:
+2 . Use [unpkg.com][Unpkg] to load directly coreui-icons-brand without installing anything:
 
 ```
 <head>
@@ -52,7 +52,7 @@ There are many ways/formats of how to use coreui-icons. The fastest and recommen
 </head>
 ```
 
-> Place coreui-icons with `<i>` tag in your html like this. Icon class names are to be used with the `cib` class prefix.
+> Place coreui-icons-brand with `<i>` tag in your html like this. Icon class names are to be used with the `cib` class prefix.
 
 ```
 <i class="cib cib-airplane"></i>
