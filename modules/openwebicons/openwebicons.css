@@ -1,0 +1,458 @@
+/**
+ * OpenWeb Icons, 1.6.1
+ * Created by Matthias Pfefferle
+ * http://pfefferle.github.io/openwebicons/
+ * OFL-1.1 License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "openwebicons";
+  src: url('openwebicons.eot');
+  src: url('openwebicons.eot?#iefix') format('eot'),
+    url('openwebicons.woff2') format('woff2'),
+    url('openwebicons.woff') format('woff'),
+    url('openwebicons.ttf') format('truetype'),
+    url('openwebicons.svg#openwebicons') format('svg');
+}
+
+.openwebicons {
+  font-family: "openwebicons";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+.openwebicons-apml:before {
+  content: "";
+}
+.openwebicons-open-share:before {
+  content: "";
+}
+.openwebicons-open-share-simple:before {
+  content: "";
+}
+.openwebicons-share:before {
+  content: "";
+}
+.openwebicons-share-simple:before {
+  content: "";
+}
+.openwebicons-feed:before {
+  content: "";
+}
+.openwebicons-feed-simple:before {
+  content: "";
+}
+.openwebicons-ostatus:before {
+  content: "";
+}
+.openwebicons-ostatus-simple:before {
+  content: "";
+}
+.openwebicons-opml:before {
+  content: "";
+}
+.openwebicons-activity:before {
+  content: "";
+}
+.openwebicons-activity-simple:before {
+  content: "";
+}
+.openwebicons-microformats:before {
+  content: "";
+}
+.openwebicons-geo:before {
+  content: "";
+}
+.openwebicons-opensearch:before {
+  content: "";
+}
+.openwebicons-oauth:before {
+  content: "";
+}
+.openwebicons-openid:before {
+  content: "";
+}
+.openwebicons-semantic-web:before {
+  content: "";
+}
+.openwebicons-rdf:before {
+  content: "";
+}
+.openwebicons-rdfa:before {
+  content: "";
+}
+.openwebicons-owl:before {
+  content: "";
+}
+.openwebicons-dataportability:before {
+  content: "";
+}
+.openwebicons-federated:before {
+  content: "";
+}
+.openwebicons-web-intents:before {
+  content: "";
+}
+.openwebicons-open-web:before {
+  content: "";
+}
+.openwebicons-xmpp:before {
+  content: "";
+}
+.openwebicons-html5:before {
+  content: "";
+}
+.openwebicons-css3:before {
+  content: "";
+}
+.openwebicons-connectivity:before {
+  content: "";
+}
+.openwebicons-semantics:before {
+  content: "";
+}
+.openwebicons-3deffects:before {
+  content: "";
+}
+.openwebicons-device-access:before {
+  content: "";
+}
+.openwebicons-multimedia:before {
+  content: "";
+}
+.openwebicons-offline-storage:before {
+  content: "";
+}
+.openwebicons-perfintegration:before {
+  content: "";
+}
+.openwebicons-git:before {
+  content: "";
+}
+.openwebicons-webhooks:before {
+  content: "";
+}
+.openwebicons-osi:before {
+  content: "";
+}
+.openwebicons-opensource:before {
+  content: "";
+}
+.openwebicons-opengraph:before {
+  content: "";
+}
+.openwebicons-epub:before {
+  content: "";
+}
+.openwebicons-qr:before {
+  content: "";
+}
+.openwebicons-foaf:before {
+  content: "";
+}
+.openwebicons-info-card:before {
+  content: "";
+}
+.openwebicons-browserid:before {
+  content: "";
+}
+.openwebicons-remote-storage:before {
+  content: "";
+}
+.openwebicons-persona:before {
+  content: "";
+}
+.openwebicons-odata:before {
+  content: "";
+}
+.openwebicons-markdown:before {
+  content: "";
+}
+.openwebicons-tosdr:before {
+  content: "";
+}
+.openwebicons-pub:before {
+  content: "";
+}
+.openwebicons-sub:before {
+  content: "";
+}
+.openwebicons-hubbub:before {
+  content: "";
+}
+.openwebicons-pubsubhubbub:before {
+  content: "";
+}
+.openwebicons-cc:before {
+  content: "";
+}
+.openwebicons-cc-by:before {
+  content: "";
+}
+.openwebicons-cc-nc:before {
+  content: "";
+}
+.openwebicons-cc-nc-eu:before {
+  content: "";
+}
+.openwebicons-cc-nc-jp:before {
+  content: "";
+}
+.openwebicons-cc-sa:before {
+  content: "";
+}
+.openwebicons-cc-nd:before {
+  content: "";
+}
+.openwebicons-cc-public:before {
+  content: "";
+}
+.openwebicons-cc-zero:before {
+  content: "";
+}
+.openwebicons-cc-share:before {
+  content: "";
+}
+.openwebicons-cc-remix:before {
+  content: "";
+}
+.openwebicons-hatom:before {
+  content: "";
+}
+.openwebicons-hresume:before {
+  content: "";
+}
+.openwebicons-hcard-add:before {
+  content: "";
+}
+.openwebicons-hcard-download:before {
+  content: "";
+}
+.openwebicons-indieweb:before {
+  content: "";
+}
+.openwebicons-indiewebcamp:before {
+  content: "";
+}
+.openwebicons-webfinger:before {
+  content: "";
+}
+.openwebicons-bitcoin:before {
+  content: "";
+}
+.openwebicons-bitcoin-simple:before {
+  content: "";
+}
+.openwebicons-svg:before {
+  content: "";
+}
+.openwebicons-json-ld:before {
+  content: "";
+}
+.openwebicons-tent:before {
+  content: "";
+}
+.openwebicons-copyleft:before {
+  content: "";
+}
+.openwebicons-gnu:before {
+  content: "";
+}
+.openwebicons-ofl-attribution:before {
+  content: "";
+}
+.openwebicons-ofl-share:before {
+  content: "";
+}
+.openwebicons-ofl-renaming:before {
+  content: "";
+}
+.openwebicons-ofl-selling:before {
+  content: "";
+}
+.openwebicons-ofl-embedding:before {
+  content: "";
+}
+.openwebicons-webmention:before {
+  content: "";
+}
+.openwebicons-javascript:before {
+  content: "";
+}
+.openwebicons-wtfpl:before {
+  content: "";
+}
+.openwebicons-ofl:before {
+  content: "";
+}
+.openwebicons-wordpress:before {
+  content: "";
+}
+.openwebicons-owncloud:before {
+  content: "";
+}
+.openwebicons-cccs:before {
+  content: "";
+}
+.openwebicons-barcamp:before {
+  content: "";
+}
+.openwebicons-indiehosters:before {
+  content: "";
+}
+.openwebicons-known:before {
+  content: "";
+}
+.openwebicons-mozilla:before {
+  content: "";
+}
+.openwebicons-unhosted:before {
+  content: "";
+}
+.openwebicons-diaspora:before {
+  content: "";
+}
+.openwebicons-indie:before {
+  content: "";
+}
+.openwebicons-ghost:before {
+  content: "";
+}
+.openwebicons-webplattform:before {
+  content: "";
+}
+.openwebicons-opensourcedesign:before {
+  content: "";
+}
+.openwebicons-opendesign:before {
+  content: "";
+}
+.openwebicons-gnusocial:before {
+  content: "";
+}
+.openwebicons-gnusocial-simple:before {
+  content: "";
+}
+.openwebicons-mastodon:before {
+  content: "";
+}
+.openwebicons-jsonfeed:before {
+  content: "";
+}
+.openwebicons-pump-io:before {
+  content: "";
+}
+.openwebicons-friendica:before {
+  content: "";
+}
+.openwebicons-hubzilla:before {
+  content: "";
+}
+.openwebicons-fediverse:before {
+  content: "";
+}
+.openwebicons-mastodon-simple:before {
+  content: "";
+}
+.openwebicons-activitypub:before {
+  content: "";
+}
+.openwebicons-wapuu:before {
+  content: "";
+}
+.openwebicons-micro-blog:before {
+  content: "";
+}
+.openwebicons-indieauth:before {
+  content: "";
+}
+.openwebicons-id4me:before {
+  content: "";
+}
+.openwebicons-apml-colored:before {
+  content: "";
+}
+.openwebicons-open-share-colored:before {
+  content: "";
+}
+.openwebicons-share-colored:before {
+  content: "";
+}
+.openwebicons-feed-colored:before {
+  content: "";
+}
+.openwebicons-ostatus-colored:before {
+  content: "";
+}
+.openwebicons-opml-colored:before {
+  content: "";
+}
+.openwebicons-activity-colored:before {
+  content: "";
+}
+.openwebicons-microformats-colored:before {
+  content: "";
+}
+.openwebicons-geo-colored:before {
+  content: "";
+}
+.openwebicons-opensearch-colored:before {
+  content: "";
+}
+.openwebicons-html5-colored:before {
+  content: "";
+}
+.openwebicons-git-colored:before {
+  content: "";
+}
+.openwebicons-osi-colored:before {
+  content: "";
+}
+.openwebicons-opensource-colored:before {
+  content: "";
+}
+.openwebicons-epub-colored:before {
+  content: "";
+}
+.openwebicons-info-card-colored:before {
+  content: "";
+}
+.openwebicons-remote-storage-colored:before {
+  content: "";
+}
+.openwebicons-odata-colored:before {
+  content: "";
+}
+.openwebicons-pub-colored:before {
+  content: "";
+}
+.openwebicons-sub-colored:before {
+  content: "";
+}
+.openwebicons-hubbub-colored:before {
+  content: "";
+}
+.openwebicons-javascript-colored:before {
+  content: "";
+}
+.openwebicons-gnusocial-colored:before {
+  content: "";
+}
+.openwebicons-mastodon-colored:before {
+  content: "";
+}
+.openwebicons-mastodon-simple-colored:before {
+  content: "";
+}
+.openwebicons-id4me-colored:before {
+  content: "";
+}
+

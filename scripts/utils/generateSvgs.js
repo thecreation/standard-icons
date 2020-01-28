@@ -77,14 +77,14 @@ function getIconSvg(params, size = 64) {
 
     const PIXEL_WIDTH = advWidth > 2048 ? 18 : (advWidth > 1792 ? 16 : 14);
     const PIXEL_HEIGHT = 14;
-    
+
     const width = PIXEL_WIDTH * PIXEL;
     const height = PIXEL_HEIGHT * PIXEL;
 
     let shiftX = (width - advWidth)/2;
     let shiftY = 2*PIXEL;
 
-    result = 
+    result =
       `<svg ${wh} viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
         <g transform="translate(${shiftX} ${shiftY})">
           <g transform="scale(1 -1) translate(0 -1280)">
@@ -146,14 +146,25 @@ function hexToDec(hex) {
   return parseInt(hex, 16);
 }
 
+function containsNonLatinCodepoints(s) {
+    return /[^\u0000-\u00ff]/.test(s);
+}
+
 module.exports = function(dest, filename, options, callback) {
   return getGlyphs(`${dest}/${filename}.svg`, options.isAdv).then(function(fontData) {
     let icons = new Array();
     for (let i in options.icons) {
       if (options.icons[i].content != undefined) {
-        let str = options.icons[i].content.slice(1);
+        let str = options.icons[i].content;
+
+        if(containsNonLatinCodepoints(str)) {
+          str = str.codePointAt(0).toString(16)
+        } else {
+          str = str.slice(1)
+        }
         for (let data in fontData) {
           if (fontData[data] != undefined) {
+
             if (str == fontData[data].data.unicode.codePointAt(0).toString(16)) {
               icons.push({
                 name: options.icons[i].name,
@@ -184,7 +195,7 @@ module.exports = function(dest, filename, options, callback) {
         destFolder: dest
       });
     }));
-    
+
     work.push(iconConfigs.map(function(params) {
       generateIcon(params);
     }));

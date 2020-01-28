@@ -1,0 +1,27 @@
+{
+  "version": "1.6.1-alpha.0",
+  "name": "@icon/openwebicons",
+  "description": "The OpenWeb Icons is a web-font that gives you scalable vector icons/logos of some open communities, standards or projects.",
+  "author": "Matthias Pfefferle",
+  "license": "OFL-1.1",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/openwebicons",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=openwebicons",
+    "optimize": "../../scripts/module/optimize",
+    "update": "ncu -u"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "homepage": "http://pfefferle.github.io/openwebicons/",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "openwebicons": "^1.6.1"
+  }
+}
