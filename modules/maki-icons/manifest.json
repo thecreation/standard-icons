@@ -1,0 +1,16 @@
+{
+  "name": "maki-icons",
+  "title": "Maki Icons",
+  "description": "Pixel-perfect icons for web cartography",
+  "version": "6.1.1",
+  "class": "mki",
+  "prefix": "mki-",
+  "homepage": "https://github.com/mapbox/maki",
+  "author": "Mapbox",
+  "license": "CC0-1.0",
+  "style": "maki-icons.css",
+  "count": "0",
+  "classifiable": false,
+  "icons": {
+  }
+}

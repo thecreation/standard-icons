@@ -1,0 +1,16 @@
+{
+  "name": "ant-design-outline-icons",
+  "title": "Ant Design Outline Icons",
+  "description": "Ant Design Icons",
+  "version": "2.1.1",
+  "class": "adif",
+  "prefix": "adif-",
+  "homepage": "https://github.com/ant-design/ant-design-icons#readme",
+  "author": "Ant Design Team",
+  "license": "MIT",
+  "style": "ant-design-outline-icons.css",
+  "count": "0",
+  "classifiable": false,
+  "icons": {
+  }
+}

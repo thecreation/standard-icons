@@ -65,7 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-ant-design-outline-icons is copyright by creativeLabs Łukasz Holeczek, licensed under the [MIT][license].
+ant-design-outline-icons is copyright by Ant Design Team, licensed under the [MIT][license].
 
 [MIT]: https://opensource.org/licenses/MIT
 [SIL]: http://scripts.sil.org/OFL

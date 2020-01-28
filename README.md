@@ -27,3 +27,9 @@ npm run import
 npm run optimize
 lerna publish
 ```
+
+### Pending release
+- maki-icons
+- bootstrap-icons
+- ant-design-icons
+- octicons
