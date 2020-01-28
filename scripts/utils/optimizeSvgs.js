@@ -6,7 +6,10 @@ const path = require('path');
 
 let svgo = new SVGO({
   plugins: [{
-    removeViewBox: false
+    removeViewBox: false,
+    removeElementsByAttr: true,
+    removeStyleElement: true,
+    removeScriptElement: true
   }]
 });
 
