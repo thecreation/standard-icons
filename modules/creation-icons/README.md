@@ -65,8 +65,9 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-[GPL-v3](./LICENSE) &copy; [Creation Studio Limited](https://creationstudio.com/)
+Creation Icons is copyright by Creation Studio Limited, licensed under the [GPL-v3][license].
 
+[GPL-v3]: https://opensource.org/licenses/GPL-3.0
 [icon]: https://github.com/thecreation/icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node

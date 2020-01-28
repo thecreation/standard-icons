@@ -65,7 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-coreui-icons-free is copyright by creativeLabs Łukasz Holeczek, font is licensed under the [SIL OFL 1.1][SIL], code is licensed under the [MIT License][MIT].
+coreui-icons-brand is copyright by creativeLabs Łukasz Holeczek, licensed under the [MIT][license].
 
 [MIT]: https://opensource.org/licenses/MIT
 [SIL]: http://scripts.sil.org/OFL
