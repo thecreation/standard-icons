@@ -53,6 +53,7 @@ module.exports = function(callback) {
   generateJson(paths.dest, options);
   copyFonts(paths.dest, paths.fonts, options);
   copySvgs(paths.svgsDest, paths.svgs, options.svgs, 'cib-');
+  copyLicense(paths.dest, path.join(options.source, 'LICENSE'));
   jsonfile(paths.dest, options);
   callback()
 };

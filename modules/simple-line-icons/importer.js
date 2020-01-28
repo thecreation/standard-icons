@@ -51,6 +51,7 @@ module.exports = function(callback) {
   generateJson(paths.dest, options);
   copyFonts(paths.dest, paths.fonts, options);
   generateSvgs(paths.dest, options.name, options);
+  copyLicense(paths.dest, path.join(options.source, 'LICENSE.md'));
   jsonfile(paths.dest, options);
   callback()
 };

@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-icons",
+  "title": "Bootstrap Icons",
+  "description": "Official open source SVG icon library for Bootstra",
+  "version": "1.0.0-alpha2",
+  "class": "bi",
+  "prefix": "bi-",
+  "homepage": "https://icons.getbootstrap.com/",
+  "author": "mdo",
+  "license": "MIT",
+  "style": "bootstrap-icons.css",
+  "count": "0",
+  "classifiable": false,
+  "icons": {
+  }
+}

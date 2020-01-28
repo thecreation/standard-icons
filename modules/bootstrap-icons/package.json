@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0-alpha.0",
+  "name": "@icon/bootstrap-icons",
+  "description": "Official open source SVG icon library for Bootstra",
+  "author": "mdo",
+  "license": "MIT",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/bootstrap-icons",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=bootstrap-icons",
+    "optimize": "../../scripts/module/optimize",
+    "update": "ncu -u"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "homepage": "https://icons.getbootstrap.com/",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "bootstrap-icons": "^1.0.0-alpha2"
+  }
+}
