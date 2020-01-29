@@ -1,0 +1,24 @@
+{
+  "version": "1.0.1-alpha.0",
+  "name": "@icon/icofont",
+  "description": "2100+ free icons to spice up your creative design",
+  "author": "IcoFont",
+  "license": "CC BY 4.0",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/icofont",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=icofont",
+    "optimize": "../../scripts/module/optimize",
+    "update": "ncu -u"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "homepage": "https://icofont.com",
+  "publishConfig": {
+    "access": "public"
+  }
+}
