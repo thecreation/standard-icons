@@ -33,3 +33,4 @@ lerna publish
 - bootstrap-icons
 - ant-design-icons
 - octicons
+- unicons

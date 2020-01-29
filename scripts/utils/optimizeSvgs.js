@@ -6,11 +6,37 @@ const path = require('path');
 
 let svgo = new SVGO({
   plugins: [{
-    removeViewBox: false,
-    removeElementsByAttr: true,
-    removeStyleElement: true,
-    removeScriptElement: true
-  }]
+      removeViewBox: false
+    },
+    {
+      removeAttrs: {
+        attrs: ['(data-name|path|rect|circle|polygon|line|polyline|g|ellipse)']
+      }
+    },
+    {
+      removeTitle: true
+    },
+    {
+      removeStyleElement: true
+    },
+    {
+      removeComments: true
+    },
+    {
+      removeDesc: true
+    },
+    {
+      removeUselessDefs: true
+    },
+    {
+      cleanupIDs: {
+        remove: true,
+        prefix: 'svgicon-'
+      }
+    },
+    {
+      convertShapeToPath: true
+    }]
 });
 
 module.exports = function(dest, files) {
