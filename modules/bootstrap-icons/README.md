@@ -52,10 +52,10 @@ There are many ways/formats of how to use bootstrap-icons. The fastest and recom
 </head>
 ```
 
-> Place bootstrap-icons with `<i>` tag in your html like this. Icon class names are to be used with the `cil` class prefix.
+> Place bootstrap-icons with `<i>` tag in your html like this. Icon class names are to be used with the `bi` class prefix.
 
 ```
-<i class="cil cil-airplane"></i>
+<i class="bi bi-airplane"></i>
 ```
 
 
@@ -65,7 +65,7 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 ## License
 
-bootstrap-icons is copyright by creativeLabs Łukasz Holeczek, licensed under the [MIT][license].
+bootstrap-icons is copyright by mdo, licensed under the [MIT][license].
 
 [MIT]: https://opensource.org/licenses/MIT
 [SIL]: http://scripts.sil.org/OFL

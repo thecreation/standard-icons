@@ -1,0 +1,27 @@
+{
+  "version": "2.3.1-alpha.0",
+  "name": "@icon/uiw-icons",
+  "description": "The premium icon font for uiw Component Library.",
+  "author": "Kenny",
+  "license": "MIT",
+  "repository": "https://github.com/thecreation/icons/tree/master/modules/uiw-icons",
+  "bugs": {
+    "url": "https://github.com/thecreation/icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=uiw-icons",
+    "optimize": "../../scripts/module/optimize",
+    "update": "ncu -u"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "homepage": "https://uiwjs.github.io/icons",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@uiw/icons": "^2.3.1"
+  }
+}
