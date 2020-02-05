@@ -18,7 +18,7 @@
     "icon"
   ],
   "devDependencies": {
-    "@coreui/icons": "^1.0.0"
+    "@coreui/icons": "^1.0.1"
   },
   "homepage": "https://github.com/coreui/coreui-icons#readme",
   "publishConfig": {

@@ -1,5 +1,5 @@
 {
-  "version": "6.1.1-alpha.0",
+  "version": "6.2.0-alpha.0",
   "name": "@icon/maki-icons",
   "description": "Pixel-perfect icons for web cartography",
   "author": "Mapbox",
@@ -22,6 +22,6 @@
     "access": "public"
   },
   "devDependencies": {
-    "@mapbox/maki": "^6.1.1"
+    "@mapbox/maki": "^6.2.0"
   }
 }

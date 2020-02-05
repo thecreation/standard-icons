@@ -1,0 +1,1499 @@
+/**
+ * Ant Design Outline Icons, 2.1.1
+ * Created by Ant Design Team
+ * https://github.com/ant-design/ant-design-icons#readme
+ * MIT License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "ant-design-outline-icons";
+  src: url('./ant-design-outline-icons.eot');
+  src: 
+    url('./ant-design-outline-icons.eot?#iefix') format('embedded-opentype'),
+    url('./ant-design-outline-icons.woff2') format('woff2'),
+    url('./ant-design-outline-icons.woff') format('woff'),
+    url('./ant-design-outline-icons.ttf') format('truetype'),
+    url('./ant-design-outline-icons.svg#ant-design-outline-icons') format('svg');
+}
+
+.adif {
+  font-family: "ant-design-outline-icons";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+.adif-account-book::before {
+  content: "\ea01";
+}
+
+.adif-alert::before {
+  content: "\ea02";
+}
+
+.adif-alibaba::before {
+  content: "\ea03";
+}
+
+.adif-align-center::before {
+  content: "\ea04";
+}
+
+.adif-align-left::before {
+  content: "\ea05";
+}
+
+.adif-align-right::before {
+  content: "\ea06";
+}
+
+.adif-alipay::before {
+  content: "\ea07";
+}
+
+.adif-alipay-circle::before {
+  content: "\ea08";
+}
+
+.adif-aliwangwang::before {
+  content: "\ea09";
+}
+
+.adif-aliyun::before {
+  content: "\ea0a";
+}
+
+.adif-amazon::before {
+  content: "\ea0b";
+}
+
+.adif-android::before {
+  content: "\ea0c";
+}
+
+.adif-ant-cloud::before {
+  content: "\ea0d";
+}
+
+.adif-ant-design::before {
+  content: "\ea0e";
+}
+
+.adif-apartment::before {
+  content: "\ea0f";
+}
+
+.adif-api::before {
+  content: "\ea10";
+}
+
+.adif-apple::before {
+  content: "\ea11";
+}
+
+.adif-appstore::before {
+  content: "\ea12";
+}
+
+.adif-area-chart::before {
+  content: "\ea13";
+}
+
+.adif-arrow-down::before {
+  content: "\ea14";
+}
+
+.adif-arrow-left::before {
+  content: "\ea15";
+}
+
+.adif-arrow-right::before {
+  content: "\ea16";
+}
+
+.adif-arrow-up::before {
+  content: "\ea17";
+}
+
+.adif-arrows-alt::before {
+  content: "\ea18";
+}
+
+.adif-audio::before {
+  content: "\ea19";
+}
+
+.adif-audit::before {
+  content: "\ea1a";
+}
+
+.adif-backward::before {
+  content: "\ea1b";
+}
+
+.adif-bank::before {
+  content: "\ea1c";
+}
+
+.adif-bar-chart::before {
+  content: "\ea1d";
+}
+
+.adif-barcode::before {
+  content: "\ea1e";
+}
+
+.adif-bars::before {
+  content: "\ea1f";
+}
+
+.adif-behance::before {
+  content: "\ea20";
+}
+
+.adif-behance-square::before {
+  content: "\ea21";
+}
+
+.adif-bell::before {
+  content: "\ea22";
+}
+
+.adif-bg-colors::before {
+  content: "\ea23";
+}
+
+.adif-block::before {
+  content: "\ea24";
+}
+
+.adif-bold::before {
+  content: "\ea25";
+}
+
+.adif-book::before {
+  content: "\ea26";
+}
+
+.adif-border::before {
+  content: "\ea27";
+}
+
+.adif-border-bottom::before {
+  content: "\ea28";
+}
+
+.adif-border-horizontal::before {
+  content: "\ea29";
+}
+
+.adif-border-inner::before {
+  content: "\ea2a";
+}
+
+.adif-border-left::before {
+  content: "\ea2b";
+}
+
+.adif-border-outer::before {
+  content: "\ea2c";
+}
+
+.adif-border-right::before {
+  content: "\ea2d";
+}
+
+.adif-border-top::before {
+  content: "\ea2e";
+}
+
+.adif-border-verticle::before {
+  content: "\ea2f";
+}
+
+.adif-box-plot::before {
+  content: "\ea30";
+}
+
+.adif-branches::before {
+  content: "\ea31";
+}
+
+.adif-bug::before {
+  content: "\ea32";
+}
+
+.adif-build::before {
+  content: "\ea33";
+}
+
+.adif-bulb::before {
+  content: "\ea34";
+}
+
+.adif-calculator::before {
+  content: "\ea35";
+}
+
+.adif-calendar::before {
+  content: "\ea36";
+}
+
+.adif-camera::before {
+  content: "\ea37";
+}
+
+.adif-car::before {
+  content: "\ea38";
+}
+
+.adif-caret-down::before {
+  content: "\ea39";
+}
+
+.adif-caret-left::before {
+  content: "\ea3a";
+}
+
+.adif-caret-right::before {
+  content: "\ea3b";
+}
+
+.adif-caret-up::before {
+  content: "\ea3c";
+}
+
+.adif-carry-out::before {
+  content: "\ea3d";
+}
+
+.adif-check::before {
+  content: "\ea3e";
+}
+
+.adif-check-circle::before {
+  content: "\ea3f";
+}
+
+.adif-check-square::before {
+  content: "\ea40";
+}
+
+.adif-chrome::before {
+  content: "\ea41";
+}
+
+.adif-ci::before {
+  content: "\ea42";
+}
+
+.adif-clock-circle::before {
+  content: "\ea43";
+}
+
+.adif-close::before {
+  content: "\ea44";
+}
+
+.adif-close-circle::before {
+  content: "\ea45";
+}
+
+.adif-close-square::before {
+  content: "\ea46";
+}
+
+.adif-cloud::before {
+  content: "\ea47";
+}
+
+.adif-cloud-download::before {
+  content: "\ea48";
+}
+
+.adif-cloud-server::before {
+  content: "\ea49";
+}
+
+.adif-cloud-sync::before {
+  content: "\ea4a";
+}
+
+.adif-cloud-upload::before {
+  content: "\ea4b";
+}
+
+.adif-cluster::before {
+  content: "\ea4c";
+}
+
+.adif-code::before {
+  content: "\ea4d";
+}
+
+.adif-code-sandbox::before {
+  content: "\ea4e";
+}
+
+.adif-codepen::before {
+  content: "\ea4f";
+}
+
+.adif-codepen-circle::before {
+  content: "\ea50";
+}
+
+.adif-coffee::before {
+  content: "\ea51";
+}
+
+.adif-colum-height::before {
+  content: "\ea52";
+}
+
+.adif-column-height::before {
+  content: "\ea53";
+}
+
+.adif-column-width::before {
+  content: "\ea54";
+}
+
+.adif-compass::before {
+  content: "\ea55";
+}
+
+.adif-contacts::before {
+  content: "\ea56";
+}
+
+.adif-container::before {
+  content: "\ea57";
+}
+
+.adif-control::before {
+  content: "\ea58";
+}
+
+.adif-copy::before {
+  content: "\ea59";
+}
+
+.adif-copyright::before {
+  content: "\ea5a";
+}
+
+.adif-credit-card::before {
+  content: "\ea5b";
+}
+
+.adif-crown::before {
+  content: "\ea5c";
+}
+
+.adif-customer-service::before {
+  content: "\ea5d";
+}
+
+.adif-dash::before {
+  content: "\ea5e";
+}
+
+.adif-dashboard::before {
+  content: "\ea5f";
+}
+
+.adif-database::before {
+  content: "\ea60";
+}
+
+.adif-delete::before {
+  content: "\ea61";
+}
+
+.adif-deployment-unit::before {
+  content: "\ea62";
+}
+
+.adif-desktop::before {
+  content: "\ea63";
+}
+
+.adif-diff::before {
+  content: "\ea64";
+}
+
+.adif-dingding::before {
+  content: "\ea65";
+}
+
+.adif-disconnect::before {
+  content: "\ea66";
+}
+
+.adif-dislike::before {
+  content: "\ea67";
+}
+
+.adif-dollar::before {
+  content: "\ea68";
+}
+
+.adif-dot-chart::before {
+  content: "\ea69";
+}
+
+.adif-double-left::before {
+  content: "\ea6a";
+}
+
+.adif-double-right::before {
+  content: "\ea6b";
+}
+
+.adif-down::before {
+  content: "\ea6c";
+}
+
+.adif-down-circle::before {
+  content: "\ea6d";
+}
+
+.adif-down-square::before {
+  content: "\ea6e";
+}
+
+.adif-download::before {
+  content: "\ea6f";
+}
+
+.adif-drag::before {
+  content: "\ea70";
+}
+
+.adif-dribbble::before {
+  content: "\ea71";
+}
+
+.adif-dribbble-square::before {
+  content: "\ea72";
+}
+
+.adif-dropbox::before {
+  content: "\ea73";
+}
+
+.adif-edit::before {
+  content: "\ea74";
+}
+
+.adif-ellipsis::before {
+  content: "\ea75";
+}
+
+.adif-enter::before {
+  content: "\ea76";
+}
+
+.adif-environment::before {
+  content: "\ea77";
+}
+
+.adif-euro::before {
+  content: "\ea78";
+}
+
+.adif-exception::before {
+  content: "\ea79";
+}
+
+.adif-exclamation::before {
+  content: "\ea7a";
+}
+
+.adif-exclamation-circle::before {
+  content: "\ea7b";
+}
+
+.adif-experiment::before {
+  content: "\ea7c";
+}
+
+.adif-export::before {
+  content: "\ea7d";
+}
+
+.adif-eye::before {
+  content: "\ea7e";
+}
+
+.adif-eye-invisible::before {
+  content: "\ea7f";
+}
+
+.adif-facebook::before {
+  content: "\ea80";
+}
+
+.adif-fall::before {
+  content: "\ea81";
+}
+
+.adif-fast-backward::before {
+  content: "\ea82";
+}
+
+.adif-fast-forward::before {
+  content: "\ea83";
+}
+
+.adif-file::before {
+  content: "\ea84";
+}
+
+.adif-file-add::before {
+  content: "\ea85";
+}
+
+.adif-file-done::before {
+  content: "\ea86";
+}
+
+.adif-file-excel::before {
+  content: "\ea87";
+}
+
+.adif-file-exclamation::before {
+  content: "\ea88";
+}
+
+.adif-file-image::before {
+  content: "\ea89";
+}
+
+.adif-file-jpg::before {
+  content: "\ea8a";
+}
+
+.adif-file-markdown::before {
+  content: "\ea8b";
+}
+
+.adif-file-pdf::before {
+  content: "\ea8c";
+}
+
+.adif-file-ppt::before {
+  content: "\ea8d";
+}
+
+.adif-file-protect::before {
+  content: "\ea8e";
+}
+
+.adif-file-search::before {
+  content: "\ea8f";
+}
+
+.adif-file-sync::before {
+  content: "\ea90";
+}
+
+.adif-file-text::before {
+  content: "\ea91";
+}
+
+.adif-file-unknown::before {
+  content: "\ea92";
+}
+
+.adif-file-word::before {
+  content: "\ea93";
+}
+
+.adif-file-zip::before {
+  content: "\ea94";
+}
+
+.adif-filter::before {
+  content: "\ea95";
+}
+
+.adif-fire::before {
+  content: "\ea96";
+}
+
+.adif-flag::before {
+  content: "\ea97";
+}
+
+.adif-folder::before {
+  content: "\ea98";
+}
+
+.adif-folder-add::before {
+  content: "\ea99";
+}
+
+.adif-folder-open::before {
+  content: "\ea9a";
+}
+
+.adif-font-colors::before {
+  content: "\ea9b";
+}
+
+.adif-font-size::before {
+  content: "\ea9c";
+}
+
+.adif-fork::before {
+  content: "\ea9d";
+}
+
+.adif-form::before {
+  content: "\ea9e";
+}
+
+.adif-forward::before {
+  content: "\ea9f";
+}
+
+.adif-frown::before {
+  content: "\eaa0";
+}
+
+.adif-fullscreen::before {
+  content: "\eaa1";
+}
+
+.adif-fullscreen-exit::before {
+  content: "\eaa2";
+}
+
+.adif-fund::before {
+  content: "\eaa3";
+}
+
+.adif-funnel-plot::before {
+  content: "\eaa4";
+}
+
+.adif-gateway::before {
+  content: "\eaa5";
+}
+
+.adif-gift::before {
+  content: "\eaa6";
+}
+
+.adif-github::before {
+  content: "\eaa7";
+}
+
+.adif-gitlab::before {
+  content: "\eaa8";
+}
+
+.adif-global::before {
+  content: "\eaa9";
+}
+
+.adif-gold::before {
+  content: "\eaaa";
+}
+
+.adif-google::before {
+  content: "\eaab";
+}
+
+.adif-google-plus::before {
+  content: "\eaac";
+}
+
+.adif-hdd::before {
+  content: "\eaad";
+}
+
+.adif-heart::before {
+  content: "\eaae";
+}
+
+.adif-heat-map::before {
+  content: "\eaaf";
+}
+
+.adif-highlight::before {
+  content: "\eab0";
+}
+
+.adif-history::before {
+  content: "\eab1";
+}
+
+.adif-home::before {
+  content: "\eab2";
+}
+
+.adif-hourglass::before {
+  content: "\eab3";
+}
+
+.adif-html5::before {
+  content: "\eab4";
+}
+
+.adif-idcard::before {
+  content: "\eab5";
+}
+
+.adif-ie::before {
+  content: "\eab6";
+}
+
+.adif-import::before {
+  content: "\eab7";
+}
+
+.adif-inbox::before {
+  content: "\eab8";
+}
+
+.adif-info::before {
+  content: "\eab9";
+}
+
+.adif-info-circle::before {
+  content: "\eaba";
+}
+
+.adif-instagram::before {
+  content: "\eabb";
+}
+
+.adif-insurance::before {
+  content: "\eabc";
+}
+
+.adif-interaction::before {
+  content: "\eabd";
+}
+
+.adif-interation::before {
+  content: "\eabe";
+}
+
+.adif-issues-close::before {
+  content: "\eabf";
+}
+
+.adif-italic::before {
+  content: "\eac0";
+}
+
+.adif-key::before {
+  content: "\eac1";
+}
+
+.adif-laptop::before {
+  content: "\eac2";
+}
+
+.adif-layout::before {
+  content: "\eac3";
+}
+
+.adif-left::before {
+  content: "\eac4";
+}
+
+.adif-left-circle::before {
+  content: "\eac5";
+}
+
+.adif-left-square::before {
+  content: "\eac6";
+}
+
+.adif-like::before {
+  content: "\eac7";
+}
+
+.adif-line::before {
+  content: "\eac8";
+}
+
+.adif-line-chart::before {
+  content: "\eac9";
+}
+
+.adif-line-height::before {
+  content: "\eaca";
+}
+
+.adif-link::before {
+  content: "\eacb";
+}
+
+.adif-linkedin::before {
+  content: "\eacc";
+}
+
+.adif-loading::before {
+  content: "\eacd";
+}
+
+.adif-loading-3-quarters::before {
+  content: "\eace";
+}
+
+.adif-lock::before {
+  content: "\eacf";
+}
+
+.adif-login::before {
+  content: "\ead0";
+}
+
+.adif-logout::before {
+  content: "\ead1";
+}
+
+.adif-mail::before {
+  content: "\ead2";
+}
+
+.adif-man::before {
+  content: "\ead3";
+}
+
+.adif-medicine-box::before {
+  content: "\ead4";
+}
+
+.adif-medium::before {
+  content: "\ead5";
+}
+
+.adif-medium-workmark::before {
+  content: "\ead6";
+}
+
+.adif-meh::before {
+  content: "\ead7";
+}
+
+.adif-menu::before {
+  content: "\ead8";
+}
+
+.adif-menu-fold::before {
+  content: "\ead9";
+}
+
+.adif-menu-unfold::before {
+  content: "\eada";
+}
+
+.adif-message::before {
+  content: "\eadb";
+}
+
+.adif-minus::before {
+  content: "\eadc";
+}
+
+.adif-minus-circle::before {
+  content: "\eadd";
+}
+
+.adif-minus-square::before {
+  content: "\eade";
+}
+
+.adif-mobile::before {
+  content: "\eadf";
+}
+
+.adif-money-collect::before {
+  content: "\eae0";
+}
+
+.adif-monitor::before {
+  content: "\eae1";
+}
+
+.adif-more::before {
+  content: "\eae2";
+}
+
+.adif-notification::before {
+  content: "\eae3";
+}
+
+.adif-number::before {
+  content: "\eae4";
+}
+
+.adif-ordered-list::before {
+  content: "\eae5";
+}
+
+.adif-paper-clip::before {
+  content: "\eae6";
+}
+
+.adif-pause::before {
+  content: "\eae7";
+}
+
+.adif-pause-circle::before {
+  content: "\eae8";
+}
+
+.adif-pay-circle::before {
+  content: "\eae9";
+}
+
+.adif-percentage::before {
+  content: "\eaea";
+}
+
+.adif-phone::before {
+  content: "\eaeb";
+}
+
+.adif-pic-center::before {
+  content: "\eaec";
+}
+
+.adif-pic-left::before {
+  content: "\eaed";
+}
+
+.adif-pic-right::before {
+  content: "\eaee";
+}
+
+.adif-picture::before {
+  content: "\eaef";
+}
+
+.adif-pie-chart::before {
+  content: "\eaf0";
+}
+
+.adif-play-circle::before {
+  content: "\eaf1";
+}
+
+.adif-play-square::before {
+  content: "\eaf2";
+}
+
+.adif-plus::before {
+  content: "\eaf3";
+}
+
+.adif-plus-circle::before {
+  content: "\eaf4";
+}
+
+.adif-plus-square::before {
+  content: "\eaf5";
+}
+
+.adif-pound::before {
+  content: "\eaf6";
+}
+
+.adif-poweroff::before {
+  content: "\eaf7";
+}
+
+.adif-printer::before {
+  content: "\eaf8";
+}
+
+.adif-profile::before {
+  content: "\eaf9";
+}
+
+.adif-project::before {
+  content: "\eafa";
+}
+
+.adif-property-safety::before {
+  content: "\eafb";
+}
+
+.adif-pull-request::before {
+  content: "\eafc";
+}
+
+.adif-pushpin::before {
+  content: "\eafd";
+}
+
+.adif-qq::before {
+  content: "\eafe";
+}
+
+.adif-qrcode::before {
+  content: "\eaff";
+}
+
+.adif-question::before {
+  content: "\eb00";
+}
+
+.adif-question-circle::before {
+  content: "\eb01";
+}
+
+.adif-radar-chart::before {
+  content: "\eb02";
+}
+
+.adif-radius-bottomleft::before {
+  content: "\eb03";
+}
+
+.adif-radius-bottomright::before {
+  content: "\eb04";
+}
+
+.adif-radius-setting::before {
+  content: "\eb05";
+}
+
+.adif-radius-upleft::before {
+  content: "\eb06";
+}
+
+.adif-radius-upright::before {
+  content: "\eb07";
+}
+
+.adif-read::before {
+  content: "\eb08";
+}
+
+.adif-reconciliation::before {
+  content: "\eb09";
+}
+
+.adif-red-envelope::before {
+  content: "\eb0a";
+}
+
+.adif-reddit::before {
+  content: "\eb0b";
+}
+
+.adif-redo::before {
+  content: "\eb0c";
+}
+
+.adif-reload::before {
+  content: "\eb0d";
+}
+
+.adif-rest::before {
+  content: "\eb0e";
+}
+
+.adif-retweet::before {
+  content: "\eb0f";
+}
+
+.adif-right::before {
+  content: "\eb10";
+}
+
+.adif-right-circle::before {
+  content: "\eb11";
+}
+
+.adif-right-square::before {
+  content: "\eb12";
+}
+
+.adif-rise::before {
+  content: "\eb13";
+}
+
+.adif-robot::before {
+  content: "\eb14";
+}
+
+.adif-rocket::before {
+  content: "\eb15";
+}
+
+.adif-rollback::before {
+  content: "\eb16";
+}
+
+.adif-safety::before {
+  content: "\eb17";
+}
+
+.adif-safety-certificate::before {
+  content: "\eb18";
+}
+
+.adif-save::before {
+  content: "\eb19";
+}
+
+.adif-scan::before {
+  content: "\eb1a";
+}
+
+.adif-schedule::before {
+  content: "\eb1b";
+}
+
+.adif-scissor::before {
+  content: "\eb1c";
+}
+
+.adif-search::before {
+  content: "\eb1d";
+}
+
+.adif-security-scan::before {
+  content: "\eb1e";
+}
+
+.adif-select::before {
+  content: "\eb1f";
+}
+
+.adif-setting::before {
+  content: "\eb20";
+}
+
+.adif-shake::before {
+  content: "\eb21";
+}
+
+.adif-share-alt::before {
+  content: "\eb22";
+}
+
+.adif-shop::before {
+  content: "\eb23";
+}
+
+.adif-shopping::before {
+  content: "\eb24";
+}
+
+.adif-shopping-cart::before {
+  content: "\eb25";
+}
+
+.adif-shrink::before {
+  content: "\eb26";
+}
+
+.adif-sketch::before {
+  content: "\eb27";
+}
+
+.adif-skin::before {
+  content: "\eb28";
+}
+
+.adif-skype::before {
+  content: "\eb29";
+}
+
+.adif-slack::before {
+  content: "\eb2a";
+}
+
+.adif-slack-square::before {
+  content: "\eb2b";
+}
+
+.adif-sliders::before {
+  content: "\eb2c";
+}
+
+.adif-small-dash::before {
+  content: "\eb2d";
+}
+
+.adif-smile::before {
+  content: "\eb2e";
+}
+
+.adif-snippets::before {
+  content: "\eb2f";
+}
+
+.adif-solution::before {
+  content: "\eb30";
+}
+
+.adif-sort-ascending::before {
+  content: "\eb31";
+}
+
+.adif-sort-descending::before {
+  content: "\eb32";
+}
+
+.adif-sound::before {
+  content: "\eb33";
+}
+
+.adif-star::before {
+  content: "\eb34";
+}
+
+.adif-step-backward::before {
+  content: "\eb35";
+}
+
+.adif-step-forward::before {
+  content: "\eb36";
+}
+
+.adif-stock::before {
+  content: "\eb37";
+}
+
+.adif-stop::before {
+  content: "\eb38";
+}
+
+.adif-strikethrough::before {
+  content: "\eb39";
+}
+
+.adif-swap::before {
+  content: "\eb3a";
+}
+
+.adif-swap-left::before {
+  content: "\eb3b";
+}
+
+.adif-swap-right::before {
+  content: "\eb3c";
+}
+
+.adif-switcher::before {
+  content: "\eb3d";
+}
+
+.adif-sync::before {
+  content: "\eb3e";
+}
+
+.adif-table::before {
+  content: "\eb3f";
+}
+
+.adif-tablet::before {
+  content: "\eb40";
+}
+
+.adif-tag::before {
+  content: "\eb41";
+}
+
+.adif-tags::before {
+  content: "\eb42";
+}
+
+.adif-taobao::before {
+  content: "\eb43";
+}
+
+.adif-taobao-circle::before {
+  content: "\eb44";
+}
+
+.adif-team::before {
+  content: "\eb45";
+}
+
+.adif-thunderbolt::before {
+  content: "\eb46";
+}
+
+.adif-to-top::before {
+  content: "\eb47";
+}
+
+.adif-tool::before {
+  content: "\eb48";
+}
+
+.adif-trademark::before {
+  content: "\eb49";
+}
+
+.adif-transaction::before {
+  content: "\eb4a";
+}
+
+.adif-trophy::before {
+  content: "\eb4b";
+}
+
+.adif-twitter::before {
+  content: "\eb4c";
+}
+
+.adif-underline::before {
+  content: "\eb4d";
+}
+
+.adif-undo::before {
+  content: "\eb4e";
+}
+
+.adif-unlock::before {
+  content: "\eb4f";
+}
+
+.adif-unordered-list::before {
+  content: "\eb50";
+}
+
+.adif-up::before {
+  content: "\eb51";
+}
+
+.adif-up-circle::before {
+  content: "\eb52";
+}
+
+.adif-up-square::before {
+  content: "\eb53";
+}
+
+.adif-upload::before {
+  content: "\eb54";
+}
+
+.adif-usb::before {
+  content: "\eb55";
+}
+
+.adif-user::before {
+  content: "\eb56";
+}
+
+.adif-user-add::before {
+  content: "\eb57";
+}
+
+.adif-user-delete::before {
+  content: "\eb58";
+}
+
+.adif-usergroup-add::before {
+  content: "\eb59";
+}
+
+.adif-usergroup-delete::before {
+  content: "\eb5a";
+}
+
+.adif-vertical-align-bottom::before {
+  content: "\eb5b";
+}
+
+.adif-vertical-align-middle::before {
+  content: "\eb5c";
+}
+
+.adif-vertical-align-top::before {
+  content: "\eb5d";
+}
+
+.adif-vertical-left::before {
+  content: "\eb5e";
+}
+
+.adif-vertical-right::before {
+  content: "\eb5f";
+}
+
+.adif-video-camera::before {
+  content: "\eb60";
+}
+
+.adif-wallet::before {
+  content: "\eb61";
+}
+
+.adif-warning::before {
+  content: "\eb62";
+}
+
+.adif-wechat::before {
+  content: "\eb63";
+}
+
+.adif-weibo::before {
+  content: "\eb64";
+}
+
+.adif-weibo-circle::before {
+  content: "\eb65";
+}
+
+.adif-weibo-square::before {
+  content: "\eb66";
+}
+
+.adif-wifi::before {
+  content: "\eb67";
+}
+
+.adif-windows::before {
+  content: "\eb68";
+}
+
+.adif-woman::before {
+  content: "\eb69";
+}
+
+.adif-yahoo::before {
+  content: "\eb6a";
+}
+
+.adif-youtube::before {
+  content: "\eb6b";
+}
+
+.adif-yuque::before {
+  content: "\eb6c";
+}
+
+.adif-zhihu::before {
+  content: "\eb6d";
+}
+
+.adif-zoom-in::before {
+  content: "\eb6e";
+}
+
+.adif-zoom-out::before {
+  content: "\eb6f";
+}

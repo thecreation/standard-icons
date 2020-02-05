@@ -10,7 +10,7 @@ let svgo = new SVGO({
     },
     {
       removeAttrs: {
-        attrs: ['(data-name|path|rect|circle|polygon|line|polyline|g|ellipse)']
+        attrs: ['(data-name|path|rect|circle|polygon|line|polyline|g|ellipse|class)']
       }
     },
     {
@@ -18,6 +18,9 @@ let svgo = new SVGO({
     },
     {
       removeStyleElement: true
+    },
+    {
+      removeDimensions: true
     },
     {
       removeComments: true
