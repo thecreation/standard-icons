@@ -8,3 +8,4 @@ _site
 .changelog
 dist
 yarn.lock
+package-lock.json
