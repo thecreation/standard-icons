@@ -1,12 +1,12 @@
 {
-  "version": "1.0.1-alpha.0",
+  "version": "1.0.1-alpha.1",
   "name": "@icon/icofont",
   "description": "2100+ free icons to spice up your creative design",
   "author": "IcoFont",
   "license": "CC BY 4.0",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/icofont",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/icofont",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=icofont",

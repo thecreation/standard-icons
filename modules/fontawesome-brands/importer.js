@@ -15,31 +15,26 @@ let options = {
   title: 'Font Awesome Brands',
   class: 'fab',
   prefix: 'fab-',
-  author: 'Dave Gandy',
   homepage: 'https://fontawesome.com/',
-  description: "The web’s most popular icon.",
   className: 'FontawesomeBrands',
-  license: 'MIT',
-  version: '5.12.0',
   classifiable: false
 };
 
 let paths = {
-  css: path.join(options.source, 'font', 'entypo.css'),
-  fonts: path.join(options.source, 'font'),
   svgs: path.join(options.source, 'free-brands-svg-icons'),
-  package: path.join(options.source + 'fontawesome-common-types/', 'package.json'),
+  package: path.join(options.source + 'free-brands-svg-icons', 'package.json'),
   dest: __dirname,
   svgsDest: path.join(__dirname, 'icons')
 };
 
-let info = extraFromJson(paths.package, [ 'author', 'homepage', 'license', 'description' ]);
+let info = extraFromJson(paths.package, [ 'author', 'homepage', 'license', 'description', 'version' ]);
 
 options = Object.assign(options, {
   author: info.author.name,
   homepage: info.homepage,
   license: info.license,
-  description: info.description
+  description: info.description,
+  version: info.version
 });
 
 module.exports = function(callback) {

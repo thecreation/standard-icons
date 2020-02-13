@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@icon/cryptocoins-icons.svg)](https://www.npmjs.org/package/@icon/cryptocoins-icons)
 
-This repository is a module of the full [icon][icon] repository.
+This repository is a module of the full [standard-icons][standard-icons] repository.
 
 ## Install
 
@@ -52,10 +52,10 @@ There are many ways/formats of how to use cryptocoins-icons. The fastest and rec
 </head>
 ```
 
-> Place cryptocoins-icons with `<i>` tag in your html like this. Icon class names are to be used with the `cc` class prefix.
+> Place cryptocoins-icons with `<i>` tag in your html like this. Icon class names are to be used with the `cci` class prefix.
 
 ```
-<i class="cc cc-act"></i>
+<i class="cci cci-act"></i>
 ```
 
 
@@ -68,9 +68,9 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 cryptocoins-icons is copyright by Martin Allien, licensed under the [MIT License][license].
 
 [license]: https://creativecommons.org/publicdomain/zero/1.0/
-[icon]: https://github.com/thecreation/icons
+[standard-icons]: https://github.com/thecreation/standard-icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/
-[github issues]: https://github.com/thecreation/icons/issues
+[github issues]: https://github.com/thecreation/standard-icons/issues
 [Unpkg]: https://unpkg.com

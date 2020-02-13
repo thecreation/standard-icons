@@ -29,7 +29,6 @@
   text-transform: none;
 }
 
-
 .evil-archive::before {
   content: "\ea01";
 }

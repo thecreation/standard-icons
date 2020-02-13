@@ -1,12 +1,12 @@
 {
-  "version": "1.8.0-alpha.1",
+  "version": "1.8.0-alpha.3",
   "name": "@icon/devicons",
   "description": "An iconic font made for developers",
   "author": "Theodore Vorillas",
   "license": "MIT",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/devicons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/devicons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=devicons",

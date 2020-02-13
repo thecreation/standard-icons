@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@icon/ant-design-fill-icons.svg)](https://www.npmjs.org/package/@icon/ant-design-fill-icons)
 
-This repository is a module of the full [icon][icon] repository.
+This repository is a module of the full [standard-icons][standard-icons] repository.
 
 ## Install
 
@@ -69,9 +69,9 @@ ant-design-fill-icons is copyright by Ant Design Team, licensed under the [MIT][
 
 [MIT]: https://opensource.org/licenses/MIT
 [SIL]: http://scripts.sil.org/OFL
-[icon]: https://github.com/thecreation/icons
+[standard-icons]: https://github.com/thecreation/standard-icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/
-[github issues]: https://github.com/thecreation/icons/issues
+[github issues]: https://github.com/thecreation/standard-icons/issues
 [Unpkg]: https://unpkg.com

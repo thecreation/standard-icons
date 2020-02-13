@@ -1,12 +1,12 @@
 {
-  "version": "3.0.168-alpha.1",
+  "version": "3.0.168-alpha.2",
   "name": "@icon/micon",
   "description": "Micon, The iconic windows 10 font and CSS toolkit.",
   "author": "Mehdi HosseinZade",
   "license": "MIT",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/micon",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/micon",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=micon",

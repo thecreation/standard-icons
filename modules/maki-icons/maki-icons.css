@@ -29,7 +29,6 @@
   text-transform: none;
 }
 
-
 .mki-aerialway::before {
   content: "\ea01";
 }

@@ -6,6 +6,7 @@ const detectLicense = require('../../scripts/utils/detectLicense');
 const getIconsFromUrl = require('../../scripts/utils/getIconsFromUrl');
 const getSvgs = require('../../scripts/utils/getSvgs');
 const copySvgs = require('../../scripts/utils/copySvgs');
+const optimizeSvgs = require('../../scripts/utils/optimizeSvgs');
 const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
@@ -77,6 +78,8 @@ module.exports = function(callback) {
     clean(paths.dest)
 
     copySvgs(paths.svgsDest, paths.svgs, options.svgs);
+    // optimizeSvgs(paths.svgsDest, options.svgs);
+
     generateFontsFromSvg(paths.dest, options, () => {
       options.icons = icons;
       options = prepareIcons(options);

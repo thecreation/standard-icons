@@ -7,6 +7,7 @@ const getSvgs = require('../../scripts/utils/getSvgs');
 const getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
 const getIconsMap = require('../../scripts/utils/getIconsMap');
 const copySvgs = require('../../scripts/utils/copySvgs');
+const optimizeSvgs = require('../../scripts/utils/optimizeSvgs');
 const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const generateSvgs = require('../../scripts/utils/generateSvgs');

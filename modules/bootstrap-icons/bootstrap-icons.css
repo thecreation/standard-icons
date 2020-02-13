@@ -29,7 +29,6 @@
   text-transform: none;
 }
 
-
 .bi-alarm::before {
   content: "\ea01";
 }

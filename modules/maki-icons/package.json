@@ -1,12 +1,12 @@
 {
-  "version": "6.2.0-alpha.0",
+  "version": "6.2.0-alpha.1",
   "name": "@icon/maki-icons",
   "description": "Pixel-perfect icons for web cartography",
   "author": "Mapbox",
   "license": "CC0-1.0",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/maki-icons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/maki-icons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=maki-icons",

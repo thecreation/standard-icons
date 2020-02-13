@@ -1,12 +1,12 @@
 {
-  "version": "1.1.1-alpha.1",
+  "version": "1.1.1-alpha.3",
   "name": "@icon/open-iconic",
   "description": "An open source icon set with marks in SVG, sprite, webfont and raster format",
   "author": "Iconic",
   "license": "MIT License",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/open-iconic",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/open-iconic",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=open-iconic",

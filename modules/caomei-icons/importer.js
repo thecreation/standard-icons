@@ -54,12 +54,14 @@ module.exports = function(callback) {
 
       let $icons = $section.find('.icon-container');
       $icons.each(function() {
-        let name = $(this).find('.icon-name').text().trim().replace('czs-', '');
-        icons[category].push({
-          name: name,
-          content: iconsMap[name],
-          title: name
-        });
+        let name = $(this).find('.icon-name:not(.icon-pro)').text().trim().replace('czs-', '');
+        if(name !== '') {
+          icons[category].push({
+            name: name,
+            content: iconsMap[name],
+            title: name
+          });
+        }
       });
     });
 

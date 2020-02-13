@@ -29,29 +29,11 @@
 }
 
 
-.czs-dev-board:before {
-  content: "";
-}
-.czs-dev-board-l:before {
-  content: "";
-}
 .czs-router:before {
   content: "\ea17";
 }
 .czs-router-l:before {
   content: "\ea18";
-}
-.czs-nas:before {
-  content: "";
-}
-.czs-nas-l:before {
-  content: "";
-}
-.czs-virtual:before {
-  content: "";
-}
-.czs-virtual-l:before {
-  content: "";
 }
 .czs-hdmi:before {
   content: "\e99d";
@@ -70,12 +52,6 @@
 }
 .czs-sdcard-l:before {
   content: "\ea21";
-}
-.czs-bot:before {
-  content: "";
-}
-.czs-bot-l:before {
-  content: "";
 }
 .czs-robot:before {
   content: "\ea0f";
@@ -143,12 +119,6 @@
 .czs-program-l:before {
   content: "\ea01";
 }
-.czs-container:before {
-  content: "";
-}
-.czs-container-l:before {
-  content: "";
-}
 .czs-configuration:before {
   content: "\e95f";
 }
@@ -188,20 +158,8 @@
 .czs-transport:before {
   content: "\ea50";
 }
-.czs-t-brian:before {
-  content: "";
-}
 .czs-transmission-l:before {
   content: "\ea4f";
-}
-.czs-quadrotor:before {
-  content: "";
-}
-.czs-database:before {
-  content: "";
-}
-.czs-database-l:before {
-  content: "";
 }
 .czs-hacker:before {
   content: "\e98f";
@@ -238,12 +196,6 @@
 }
 .czs-tv-l:before {
   content: "\ea59";
-}
-.czs-platform:before {
-  content: "";
-}
-.czs-platform-l:before {
-  content: "";
 }
 .czs-circle-o:before {
   content: "\e943";
@@ -299,12 +251,6 @@
 .czs-site-folder-l:before {
   content: "\ea30";
 }
-.czs-prototype-select:before {
-  content: "";
-}
-.czs-prototype-select-l:before {
-  content: "";
-}
 .czs-cup:before {
   content: "\e968";
 }
@@ -353,12 +299,6 @@
 .czs-ticket-l:before {
   content: "\ea4b";
 }
-.czs-trophy:before {
-  content: "";
-}
-.czs-trophy-l:before {
-  content: "";
-}
 .czs-credit-card:before {
   content: "\e963";
 }
@@ -370,12 +310,6 @@
 }
 .czs-paper-plane-l:before {
   content: "\e9ef";
-}
-.czs-wallet:before {
-  content: "";
-}
-.czs-wallet-l:before {
-  content: "";
 }
 .czs-nail:before {
   content: "\e9df";
@@ -407,12 +341,6 @@
 .czs-newspaper-l:before {
   content: "\e9e6";
 }
-.czs-cube:before {
-  content: "";
-}
-.czs-cube-l:before {
-  content: "";
-}
 .czs-block:before {
   content: "\e91b";
 }
@@ -424,12 +352,6 @@
 }
 .czs-book-l:before {
   content: "\e922";
-}
-.czs-books:before {
-  content: "";
-}
-.czs-books-l:before {
-  content: "";
 }
 .czs-building:before {
   content: "\e92d";
@@ -659,12 +581,6 @@
 .czs-location-l:before {
   content: "\e9c1";
 }
-.czs-education:before {
-  content: "";
-}
-.czs-education-l:before {
-  content: "";
-}
 .czs-read:before {
   content: "\ea09";
 }
@@ -839,23 +755,11 @@
 .czs-earth-l:before {
   content: "\e976";
 }
-.czs-car:before {
-  content: "";
-}
-.czs-car-l:before {
-  content: "";
-}
 .czs-label-info:before {
   content: "\e9af";
 }
 .czs-label-info-l:before {
   content: "\e9b0";
-}
-.czs-prototype:before {
-  content: "";
-}
-.czs-prototype-l:before {
-  content: "";
 }
 .czs-sun:before {
   content: "\ea3a";
@@ -892,12 +796,6 @@
 }
 .czs-sword-l:before {
   content: "\ea3d";
-}
-.czs-fingerprint:before {
-  content: "";
-}
-.czs-fingerprint-l:before {
-  content: "";
 }
 .czs-tab:before {
   content: "\ea3e";
@@ -959,17 +857,11 @@
 .czs-product:before {
   content: "\e9ff";
 }
-.czs-program-framework:before {
-  content: "";
-}
 .czs-wifi:before {
   content: "\ea74";
 }
 .czs-taiji:before {
   content: "\ea42";
-}
-.czs-pixel:before {
-  content: "";
 }
 .czs-pokemon-ball:before {
   content: "\e9fa";
@@ -995,17 +887,11 @@
 .czs-money:before {
   content: "\e9d3";
 }
-.czs-vector-design:before {
-  content: "";
-}
 .czs-analysis:before {
   content: "\e906";
 }
 .czs-collection:before {
   content: "\e955";
-}
-.czs-d-glasses:before {
-  content: "";
 }
 .czs-add:before {
   content: "\e902";
@@ -1030,9 +916,6 @@
 }
 .czs-pen-write:before {
   content: "\e9f3";
-}
-.czs-gene:before {
-  content: "";
 }
 .czs-pen:before {
   content: "\e9f2";

@@ -5,7 +5,7 @@
 
 > <%= description %>
 
-This repository is a module of the full [icon][icon] repository.
+This repository is a module of the full [standard-icons][standard-icons] repository.
 
 ## Install
 

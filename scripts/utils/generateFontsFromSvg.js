@@ -25,7 +25,7 @@ module.exports = function(dest, options, done) {
     glyphTransformFn: obj => {
       return obj
     },
-    template: path.resolve(`${dest}/template.hbs`)
+    template: path.join(`${__dirname}/../templates/`, 'template.hbs'),
   }).then((result) => {
     fs.writeFileSync(`${dest}/${options.name}.css`, result.template);
     fs.writeFileSync(`${dest}/${options.name}.svg`, result.svg);

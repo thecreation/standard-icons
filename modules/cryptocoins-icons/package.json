@@ -1,12 +1,12 @@
 {
-  "version": "2.9.0-aplha.1",
+  "version": "2.9.0-aplha.2",
   "name": "@icon/cryptocoins-icons",
   "description": "Cryptocoins is the most complete free vector/webfont iconpack of your favourite cryptocurrencies",
   "author": "Martin Allien",
   "license": "MIT",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/cryptocoins-icons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/cryptocoins-icons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=cryptocoins-icons",

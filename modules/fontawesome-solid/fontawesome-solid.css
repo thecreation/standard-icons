@@ -1,8 +1,8 @@
 /**
- * Font Awesome Solid, 5.12.0
+ * Font Awesome Solid, 5.12.1
  * Created by Dave Gandy
  * https://fontawesome.com
- * MIT License
+ * (CC-BY-4.0 AND MIT) License
  */
 @charset "UTF-8";
 
@@ -28,7 +28,6 @@
   text-decoration: none;
   text-transform: none;
 }
-
 
 .fas-ad::before {
   content: "\ea01";

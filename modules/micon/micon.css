@@ -29,7 +29,6 @@
   text-transform: none;
 }
 
-
 .mi-Accept::before {
   content: "\ea01";
 }

@@ -5,9 +5,9 @@
   "author": "Creation Studio Limited",
   "license": "MIT",
   "style": "index.scss",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/<%= lib %>",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/<%= lib %>",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=<%= lib %>",

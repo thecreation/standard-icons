@@ -29,7 +29,6 @@
   text-transform: none;
 }
 
-
 .octicon-alert::before {
   content: "\ea01";
 }

@@ -6,11 +6,11 @@ const detectLicense = require('../../scripts/utils/detectLicense');
 const getIconsMap = require('../../scripts/utils/getIconsMap');
 const generateFontsFromSvg = require('../../scripts/utils/generateFontsFromSvg');
 const getIconsFromCss3 = require('../../scripts/utils/getIconsFromCss3');
-const optimizeSvgs = require('../../scripts/utils/optimizeSvgs');
 const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const getSvgs = require('../../scripts/utils/getSvgs');
 const copySvgs = require('../../scripts/utils/copySvgs');
+const optimizeSvgs = require('../../scripts/utils/optimizeSvgs');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const jsonfile = require('../../scripts/utils/jsonfile');
 const clean = require('../../scripts/utils/clean');
@@ -54,11 +54,11 @@ module.exports = function(callback) {
   copySvgs(paths.svgsDest, paths.svgs, options.svgs);
   optimizeSvgs(paths.svgsDest, options.svgs);
   generateFontsFromSvg(paths.dest, options, () => {
-    // options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'uil-');
-    // options = prepareIcons(options);
-    // generateJson(paths.dest, options);
-    // copyLicense(paths.dest, path.join(options.source, 'LICENSE'));
-    // jsonfile(paths.dest, options);
-    // callback();
+    options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'uil-');
+    options = prepareIcons(options);
+    generateJson(paths.dest, options);
+    copyLicense(paths.dest, path.join(options.source, 'LICENSE'));
+    jsonfile(paths.dest, options);
+    callback();
   })
 };

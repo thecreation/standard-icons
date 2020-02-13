@@ -4,6 +4,7 @@ const getIconsFromCss3 = require('../../scripts/utils/getIconsFromCss3');
 const prepareIcons = require('../../scripts/utils/prepareIcons');
 const getSvgs = require('../../scripts/utils/getSvgs');
 const copySvgs = require('../../scripts/utils/copySvgs');
+const optimizeSvgs = require('../../scripts/utils/optimizeSvgs');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const generateFontsFromSvg = require('../../scripts/utils/generateFontsFromSvg');
 const jsonfile = require('../../scripts/utils/jsonfile');
@@ -39,7 +40,8 @@ options.svgs = getSvgs(paths.svgs);
 
 module.exports = function(callback) {
   clean(paths.dest)
-  copySvgs(paths.svgsDest, paths.svgs, options.svgs, 'ei-');
+  options.svgs = copySvgs(paths.svgsDest, paths.svgs, options.svgs, 'ei-');
+  optimizeSvgs(paths.svgsDest, options.svgs);
   generateFontsFromSvg(paths.dest, options, () => {
     options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'evil-');
     options = prepareIcons(options);

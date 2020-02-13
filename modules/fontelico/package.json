@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.3",
   "name": "@icon/fontelico",
   "description": "Fontello project",
   "author": "Crowdsourced, for Fontello project",
   "license": "SIL",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/fontelico",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/fontelico",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=fontelico",

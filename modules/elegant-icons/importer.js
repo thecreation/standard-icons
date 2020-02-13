@@ -22,6 +22,7 @@ let options = {
   homepage: 'https://www.elegantthemes.com/blog/resources/elegant-icon-font',
   className: 'ElegantIcons',
   title: 'Elegant Icons',
+  description: 'Elegant Themes Icons',
   classifiable: false
 };
 
@@ -36,7 +37,7 @@ let paths = {
 let info = extraFromJson(paths.package, ['homepage', 'description', 'version', 'author', 'license']);
 
 options.license = info.license;
-options.description = info.description;
+// options.description = info.description;
 options.version = info.version;
 options.fonts = getFonts(paths.fonts);
 

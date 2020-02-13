@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@icon/devicons.svg)](https://www.npmjs.org/package/@icon/devicons)
 
-This repository is a module of the full [icon][icon] repository.
+This repository is a module of the full [standard-icons][standard-icons] repository.
 
 ## Install
 
@@ -68,9 +68,9 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 Devicons is copyright by Theodore Vorillas, licensed under the [MIT][license].
 
 [license]: https://opensource.org/licenses/MIT
-[icon]: https://github.com/thecreation/icons
+[standard-icons]: https://github.com/thecreation/standard-icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/
-[github issues]: https://github.com/thecreation/icons/issues
+[github issues]: https://github.com/thecreation/standard-icons/issues
 [Unpkg]: https://unpkg.com

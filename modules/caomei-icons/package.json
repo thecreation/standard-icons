@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0-alpha.1",
+  "version": "2.0.0-alpha.2",
   "name": "@icon/caomei-icons",
   "description": "A Free And Open Iconic Font Library for Developer and Creator",
   "author": "像素君",
   "license": "SIL OFL 1.1",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/caomei-icons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/caomei-icons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=caomei-icons",

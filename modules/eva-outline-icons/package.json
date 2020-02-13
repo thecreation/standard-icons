@@ -1,13 +1,13 @@
 {
-  "version": "1.1.2-alpha.2",
+  "version": "1.1.2-alpha.3",
   "name": "@icon/eva-outline-icons",
   "description": "Eva Icons - beautifully crafted Open Source UI icons for common actions and items.",
   "author": "akveo",
   "license": "MIT",
   "style": "index.scss",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/eva-outline-icons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/eva-outline-icons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=eva-outline-icons",

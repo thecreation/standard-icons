@@ -6,6 +6,7 @@ const detectLicense = require('../../scripts/utils/detectLicense');
 const getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
 const getSvgs = require('../../scripts/utils/getSvgs');
 const copySvgs = require('../../scripts/utils/copySvgs');
+const optimizeSvgs = require('../../scripts/utils/optimizeSvgs');
 const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
@@ -17,8 +18,8 @@ const path = require('path');
 let options = {
   source: path.join(config.sets.customs, 'Linea-Iconset', '_arrows'),
   name: 'linea-arrows',
-  class: 'lar',
-  prefix: 'lar-',
+  class: 'lai',
+  prefix: 'lai-',
   className: 'LineaArrows',
   title: 'Linea Arrows',
   author: 'Dario Ferrando',
@@ -43,12 +44,12 @@ options.svgs = getSvgs(paths.svgs);
 
 module.exports = function(callback) {
   clean(paths.dest)
-  options.icons = getIconsFromCss(paths.css, 'icon-');
+  options.icons = getIconsFromCss(paths.css, 'icon-arrows-');
   options = prepareIcons(options);
   generateCss(paths.dest, options.name, options);
   generateJson(paths.dest, options);
   copyFonts(paths.dest, paths.fonts, options);
-  copySvgs(paths.svgsDest, paths.svgs, options.svgs, '', function(file) {
+  options.svgs = copySvgs(paths.svgsDest, paths.svgs, options.svgs, 'arrows-', function(file) {
     ['-28', '-29', '-31', '-34'].forEach(str => {
       if (file.indexOf(str) !== -1) {
         file = file.replace(str, '')
@@ -56,6 +57,7 @@ module.exports = function(callback) {
     })
     return file.replace(' ', '-').replace(/_/g, '-');
   });
+  optimizeSvgs(paths.svgsDest, options.svgs);
   copyLicense(paths.dest, paths.license);
   jsonfile(paths.dest, options);
   callback();

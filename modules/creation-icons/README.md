@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@icon/creation-icons.svg)](https://www.npmjs.org/package/@icon/creation-icons)
 [![Build Status](https://travis-ci.org/icon/icon.svg?branch=master)](https://travis-ci.org/icon/icon)
 
-This repository is a module of the full [icon][icon] repository.
+This repository is a module of the full [standard-icons][standard-icons] repository.
 
 ## Install
 
@@ -68,9 +68,9 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 Creation Icons is copyright by Creation Studio Limited, licensed under the [GPL-v3][license].
 
 [GPL-v3]: https://opensource.org/licenses/GPL-3.0
-[icon]: https://github.com/thecreation/icons
+[standard-icons]: https://github.com/thecreation/standard-icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
-[github issues]: https://github.com/thecreation/icons/issues
+[github issues]: https://github.com/thecreation/standard-icons/issues
 [sass]: http://sass-lang.com/
 [Unpkg]: https://unpkg.com

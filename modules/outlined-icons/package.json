@@ -1,12 +1,12 @@
 {
-  "version": "0.0.2-alpha.1",
+  "version": "0.0.2-alpha.3",
   "name": "@icon/outlined-icons",
   "description": "Outlined icon fonts.",
   "author": "Dario Ferrando.",
   "license": "MIT",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/outlined-icons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/outlined-icons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=outlined-icons",

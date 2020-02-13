@@ -1,12 +1,12 @@
 {
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1-alpha.4",
   "name": "@icon/elegant-icons",
-  "description": "Elegant Themes' Elegant Icon font as a npm package",
+  "description": "Elegant Themes Icons",
   "author": "Elegant Themes",
   "license": "MIT",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/elegant-icons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/elegant-icons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=elegant-icons",

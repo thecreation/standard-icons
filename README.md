@@ -14,6 +14,7 @@ npm run bootstrap
 npm run update
 git submodule init
 git submodule update
+git submodule foreach git pull origin master
 ```
 
 ### Add new module
@@ -27,3 +28,8 @@ npm run import
 npm run optimize
 lerna publish
 ```
+
+
+feather-icons  ^4.25.0  →  ^4.26.0 
+simple-icons  ^2.3.0  →  ^2.4.0 
+ionicons  ^4.6.3  →  ^5.0.0 

@@ -16,7 +16,7 @@
     url('linea-music.svg#linea-music') format('svg');
 }
 
-.lmu {
+.lmi {
   font-family: "linea-music";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -29,94 +29,94 @@
 }
 
 
-.lmu-music-beginning-button:before {
+.lmi-beginning-button:before {
   content: "a";
 }
-.lmu-music-bell:before {
+.lmi-bell:before {
   content: "b";
 }
-.lmu-music-cd:before {
+.lmi-cd:before {
   content: "c";
 }
-.lmu-music-diapason:before {
+.lmi-diapason:before {
   content: "d";
 }
-.lmu-music-eject-button:before {
+.lmi-eject-button:before {
   content: "e";
 }
-.lmu-music-end-button:before {
+.lmi-end-button:before {
   content: "f";
 }
-.lmu-music-fastforward-button:before {
+.lmi-fastforward-button:before {
   content: "g";
 }
-.lmu-music-headphones:before {
+.lmi-headphones:before {
   content: "h";
 }
-.lmu-music-ipod:before {
+.lmi-ipod:before {
   content: "i";
 }
-.lmu-music-loudspeaker:before {
+.lmi-loudspeaker:before {
   content: "j";
 }
-.lmu-music-microphone:before {
+.lmi-microphone:before {
   content: "k";
 }
-.lmu-music-microphone-old:before {
+.lmi-microphone-old:before {
   content: "l";
 }
-.lmu-music-mixer:before {
+.lmi-mixer:before {
   content: "m";
 }
-.lmu-music-mute:before {
+.lmi-mute:before {
   content: "n";
 }
-.lmu-music-note-multiple:before {
+.lmi-note-multiple:before {
   content: "o";
 }
-.lmu-music-note-single:before {
+.lmi-note-single:before {
   content: "p";
 }
-.lmu-music-pause-button:before {
+.lmi-pause-button:before {
   content: "q";
 }
-.lmu-music-play-button:before {
+.lmi-play-button:before {
   content: "r";
 }
-.lmu-music-playlist:before {
+.lmi-playlist:before {
   content: "s";
 }
-.lmu-music-radio-ghettoblaster:before {
+.lmi-radio-ghettoblaster:before {
   content: "t";
 }
-.lmu-music-radio-portable:before {
+.lmi-radio-portable:before {
   content: "u";
 }
-.lmu-music-record:before {
+.lmi-record:before {
   content: "v";
 }
-.lmu-music-recordplayer:before {
+.lmi-recordplayer:before {
   content: "w";
 }
-.lmu-music-repeat-button:before {
+.lmi-repeat-button:before {
   content: "x";
 }
-.lmu-music-rewind-button:before {
+.lmi-rewind-button:before {
   content: "y";
 }
-.lmu-music-shuffle-button:before {
+.lmi-shuffle-button:before {
   content: "z";
 }
-.lmu-music-stop-button:before {
+.lmi-stop-button:before {
   content: "A";
 }
-.lmu-music-tape:before {
+.lmi-tape:before {
   content: "B";
 }
-.lmu-music-volume-down:before {
+.lmi-volume-down:before {
   content: "C";
 }
-.lmu-music-volume-up:before {
+.lmi-volume-up:before {
   content: "D";
 }
 

@@ -1,13 +1,13 @@
 {
-  "version": "5.12.0-alpha.1",
+  "version": "5.12.1-alpha.0",
   "name": "@icon/fontawesome-brands",
   "description": "The iconic font, CSS, and SVG framework",
   "author": "Dave Gandy",
-  "license": "MIT",
+  "license": "(CC-BY-4.0 AND MIT)",
   "style": "index.scss",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/fontawesome-brands",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/fontawesome-brands",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=fontawesome-brands",

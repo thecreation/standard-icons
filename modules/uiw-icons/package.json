@@ -1,12 +1,12 @@
 {
-  "version": "2.3.1-alpha.0",
+  "version": "2.3.1-alpha.1",
   "name": "@icon/uiw-icons",
   "description": "The premium icon font for uiw Component Library.",
   "author": "Kenny",
   "license": "MIT",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/uiw-icons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/uiw-icons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=uiw-icons",

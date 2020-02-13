@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.1-alpha.1",
   "name": "@icon/coreui-icons-free",
   "description": "CoreUI Icons is an open-source icon set with more than 1500 icons in multiple formats SVG, PNG, and Webfonts.",
   "author": "creativeLabs Łukasz Holeczek",
   "license": "MIT",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/coreui-icons-free",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/coreui-icons-free",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=coreui-icons-free",

@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0-alpha.1",
+  "version": "2.0.0-alpha.3",
   "name": "@icon/gonzocons",
   "description": "An Icon Font designed by Jan Rajtoral, gonzodesign.nl",
   "author": "Jan Rajtoral",
   "license": "CC-BY-3.0",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/gonzocons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/gonzocons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=gonzocons",

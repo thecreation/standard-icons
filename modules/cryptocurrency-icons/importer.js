@@ -6,6 +6,7 @@ const prepareIcons = require('../../scripts/utils/prepareIcons');
 const getSvgs = require('../../scripts/utils/getSvgs');
 const getSelectedSvgs = require('../../scripts/utils/getSelectedSvgs');
 const copySvgs = require('../../scripts/utils/copySvgs');
+const optimizeSvgs = require('../../scripts/utils/optimizeSvgs');
 const copyLicense = require('../../scripts/utils/copyLicense');
 const generateFontsFromSvg = require('../../scripts/utils/generateFontsFromSvg');
 const jsonfile = require('../../scripts/utils/jsonfile');
@@ -22,109 +23,7 @@ let options = {
   prefix: 'crypto-',
   className: 'CryptocurrencyIcons',
   title: 'CryptocurrencyIcons',
-  classifiable: false,
-  selections: [
-    'btc',
-    'eth',
-    // 'xrp',
-    // 'bch',
-    // 'bsv',
-    'usdt',
-    'ltc',
-    // 'eos',
-    'bnb',
-    // 'xlm',
-    // 'ada',
-    // 'trx',
-    // 'xmr',
-    // 'etc',
-    'dash',
-    'ht',
-    // 'xtz',
-    // 'link',
-    'okb',
-    // 'atom',
-    'neo',
-    // 'miota',
-    'mkr',
-    'ont',
-    // 'zec',
-    // 'xem',
-    // 'vet',
-    // 'doge',
-    // 'btg',
-    'bat',
-    // 'tusd',
-    // 'qtum',
-    // 'dcr',
-    // 'rep',
-    'brc',
-    // 'zrx',
-    'vsys',
-    'bcd',
-    // 'omg',
-    // 'rvn',
-    // 'kcs',
-    // 'lsk',
-    // 'icx',
-    // 'nano',
-    // 'gusd',
-    'waves',
-    // 'xuc',
-    'btm',
-    // 'zen',
-    'seele',
-    // 'mona',
-    // 'dgb',
-    'mco',
-    'iost',
-    // 'kmd',
-    // 'enj',
-    'hc',
-    // 'sc',
-    'wt',
-    'dgd',
-    'steem',
-    'xvg',
-    // 'bts',
-    'dai',
-    // 'ae',
-    'knc',
-    // 'rlc',
-    'ardr',
-    // 'xzc',
-    'bhd',
-    // 'etn',
-    'bhp',
-    'zil',
-    // 'snt',
-    // 'mana',
-    // 'gnt',
-    // 'crpt',
-    // 'strat',
-    // 'eng',
-    'gxc',
-    // 'tomo',
-    'ren',
-    'lamb',
-    'lend',
-    // 'dtr',
-    // 'etp',
-    'xwc',
-    // 'aion',
-    'lrc',
-    // 'rcn',
-    'ela',
-    // 'wicc',
-    'ekt',
-    'dt',
-    'true',
-    // 'tnt',
-    'gbyte',
-    // 'nas',
-    'ppt',
-    // 'fct',
-  ]
+  classifiable: false
 };
 
 let paths = {
@@ -142,11 +41,12 @@ options.license = info.license;
 options.homepage = info.homepage;
 options.description = info.description;
 options.version = info.version;
-options.svgs = getSelectedSvgs(getSvgs(paths.svgs), options.selections);
+options.svgs = getSvgs(paths.svgs);
 
 module.exports = function(callback) {
   clean(paths.dest)
-  copySvgs(paths.svgsDest, paths.svgs, options.svgs, '$');
+  options.svgs = copySvgs(paths.svgsDest, paths.svgs, options.svgs, '$');
+  optimizeSvgs(paths.svgsDest, options.svgs);
   generateFontsFromSvg(paths.dest, options, () => {
     options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'crypto-');
     options = prepareIcons(options);

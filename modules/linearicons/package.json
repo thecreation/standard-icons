@@ -1,12 +1,12 @@
 {
-  "version": "1.0.2-alpha.1",
+  "version": "1.0.2-alpha.2",
   "name": "@icon/linearicons",
   "description": "Linearicons is the highest quality set of line icons, matching with minimalist UI designs in iOS.",
   "author": "Perxis",
   "license": "CC BY-SA 4.0",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/linearicons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/linearicons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=linearicons",

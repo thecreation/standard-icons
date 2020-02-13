@@ -1,5 +1,4 @@
-*.config.json
-*.hbs
+
 importer.js
 package-lock.json
 node_modules

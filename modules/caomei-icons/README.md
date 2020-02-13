@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@icon/caomei-icons.svg)](https://www.npmjs.org/package/@icon/caomei-icons)
 
-This repository is a module of the full [icon][icon] repository.
+This repository is a module of the full [standard-icons][standard-icons] repository.
 
 ## Install
 
@@ -70,9 +70,9 @@ Caomei-icons is copyright by xiangsudian, font is licensed under the [SIL OFL 1.
 [CCBY3.0]: http://creativecommons.org/licenses/by/3.0/
 [MIT]: https://opensource.org/licenses/mit-license.html
 [SIL]: http://scripts.sil.org/OFL
-[icon]: https://github.com/thecreation/icons
+[standard-icons]: https://github.com/thecreation/standard-icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
-[github issues]: https://github.com/thecreation/icons/issues
+[github issues]: https://github.com/thecreation/standard-icons/issues
 [sass]: http://sass-lang.com/
 [Unpkg]: https://unpkg.com

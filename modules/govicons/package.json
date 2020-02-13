@@ -1,12 +1,12 @@
 {
-  "version": "1.5.1-alpha.1",
+  "version": "1.5.1-alpha.2",
   "name": "@icon/govicons",
   "description": "Govicons - Government font and CSS toolkit",
   "author": "Mark Ostrander",
   "license": "(OFL-1.1 AND MIT)",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/govicons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/govicons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=govicons",

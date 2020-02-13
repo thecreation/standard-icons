@@ -1,5 +1,5 @@
 /**
- * Feather, 4.25.0
+ * Feather, 4.26.0
  * Created by colebemis
  * https://feathericons.com/
  * MIT License
@@ -28,7 +28,6 @@
   text-decoration: none;
   text-transform: none;
 }
-
 
 .fe-activity::before {
   content: "\ea01";

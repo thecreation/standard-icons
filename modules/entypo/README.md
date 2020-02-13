@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@icon/entypo.svg)](https://www.npmjs.org/package/@icon/entypo)
 
-This repository is a module of the full [icon][icon] repository.
+This repository is a module of the full [standard-icons][standard-icons] repository.
 
 ## Install
 
@@ -67,9 +67,9 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 
 Entypo is copyright by Daniel Buce, all icons are distributed under [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) licence, Font is distributed under [SIL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) licence.
 
-[icon]: https://github.com/thecreation/icons
+[standard-icons]: https://github.com/thecreation/standard-icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/
-[github issues]: https://github.com/thecreation/icons/issues
+[github issues]: https://github.com/thecreation/standard-icons/issues
 [Unpkg]: https://unpkg.com

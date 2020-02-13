@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@icon/stroke-7.svg)](https://www.npmjs.org/package/@icon/stroke-7)
 
-This repository is a module of the full [icon][icon] repository.
+This repository is a module of the full [standard-icons][standard-icons] repository.
 
 ## Install
 
@@ -68,9 +68,9 @@ If you have any ideas or found bugs, please send me Pull Requests or let me know
 Stroke-7 is copyright by The Pixeden Team, licensed under the [PIXEDEN license][license].
 
 [license]: https://github.com/thecreation/icons/blob/master/modules/stroke-7/LICENSE
-[icon]: https://github.com/thecreation/icons
+[standard-icons]: https://github.com/thecreation/standard-icons
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
 [sass]: http://sass-lang.com/
-[github issues]: https://github.com/thecreation/icons/issues
+[github issues]: https://github.com/thecreation/standard-icons/issues
 [Unpkg]: https://unpkg.com

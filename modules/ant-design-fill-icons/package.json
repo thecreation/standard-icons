@@ -1,12 +1,12 @@
 {
-  "version": "2.1.1-alpha.1",
+  "version": "2.1.1-alpha.2",
   "name": "@icon/ant-design-fill-icons",
   "description": "Ant Design Icons",
   "author": "Ant Design Team",
   "license": "MIT",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/ant-design-fill-icons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/ant-design-fill-icons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=ant-design-fill-icons",

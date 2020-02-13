@@ -6,6 +6,7 @@ const detectLicense = require('../../scripts/utils/detectLicense');
 const getIconsFromCss = require('../../scripts/utils/getIconsFromCss');
 const getSvgs = require('../../scripts/utils/getSvgs');
 const copySvgs = require('../../scripts/utils/copySvgs');
+const optimizeSvgs = require('../../scripts/utils/optimizeSvgs');
 const getFonts = require('../../scripts/utils/getFonts');
 const copyFonts = require('../../scripts/utils/copyFonts');
 const copyLicense = require('../../scripts/utils/copyLicense');
@@ -63,7 +64,8 @@ module.exports = function(callback) {
   generateCss(paths.dest, options.name, options);
   generateJson(paths.dest, options);
   copyFonts(paths.dest, paths.fonts, options);
-  copySvgs(paths.svgsDest, paths.svgs, options.svgs, '', file => {
+
+  options.svgs = copySvgs(paths.svgsDest, paths.svgs, options.svgs, '', file => {
     if (checkArr.includes(file.replace('.svg', ''))) {
       const keys = Object.keys(fileReplace);
       for (let i = 0; i < keys.length; i++) {
@@ -74,6 +76,8 @@ module.exports = function(callback) {
     }
     return file
   });
+
+  optimizeSvgs(paths.svgsDest, options.svgs);
   jsonfile(paths.dest, options);
   callback()
 };

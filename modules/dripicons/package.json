@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0-alpha.1",
+  "version": "2.0.0-alpha.3",
   "name": "@icon/dripicons",
   "description": "Dripicons V2 is available for free for use in both personal and commercial projects.",
   "author": "Amit Jakhu",
   "license": "CC-BY-4.0",
-  "repository": "https://github.com/thecreation/icons/tree/master/modules/dripicons",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/dripicons",
   "bugs": {
-    "url": "https://github.com/thecreation/icons/issues"
+    "url": "https://github.com/thecreation/standard-icons/issues"
   },
   "scripts": {
     "import": "../../scripts/module/import --module=dripicons",
