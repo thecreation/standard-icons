@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1-alpha.2",
+  "version": "4.0.0-alpha.1",
   "name": "@icon/ant-design-outline-icons",
-  "description": "Ant Design Icons",
+  "description": "Abstract nodes for ant design icons.",
   "author": "Ant Design Team",
   "license": "MIT",
   "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/ant-design-outline-icons",
@@ -17,11 +17,11 @@
     "icons",
     "icon"
   ],
-  "homepage": "https://github.com/ant-design/ant-design-icons#readme",
+  "homepage": "https://github.com/ant-design/ant-design-icons/",
   "publishConfig": {
     "access": "public"
   },
   "devDependencies": {
-    "@ant-design/icons": "^2.1.1"
+    "@ant-design/icons-svg": "^4.0.0"
   }
 }

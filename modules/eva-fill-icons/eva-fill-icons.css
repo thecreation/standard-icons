@@ -1,5 +1,5 @@
 /**
- * Eva Fill Icons, 1.1.2
+ * Eva Fill Icons, 1.1.3
  * Created by akveo
  * https://github.com/akveo/eva-icons#readme
  * MIT License
@@ -671,97 +671,100 @@
 .evaf-smartphone:before {
   content: "\eba9";
 }
-.evaf-speaker:before {
+.evaf-smiling-face:before {
   content: "\ebab";
 }
-.evaf-square:before {
+.evaf-speaker:before {
   content: "\ebad";
 }
-.evaf-star:before {
+.evaf-square:before {
   content: "\ebaf";
 }
-.evaf-stop-circle:before {
+.evaf-star:before {
   content: "\ebb1";
 }
-.evaf-sun:before {
+.evaf-stop-circle:before {
   content: "\ebb3";
 }
-.evaf-swap:before {
+.evaf-sun:before {
   content: "\ebb5";
 }
-.evaf-sync:before {
+.evaf-swap:before {
   content: "\ebb7";
 }
-.evaf-text:before {
+.evaf-sync:before {
   content: "\ebb9";
 }
-.evaf-thermometer:before {
+.evaf-text:before {
   content: "\ebbb";
 }
+.evaf-thermometer:before {
+  content: "\ebbd";
+}
 .evaf-thermometer-minus:before {
-  content: "\ebbc";
+  content: "\ebbe";
 }
 .evaf-thermometer-plus:before {
-  content: "\ebbf";
-}
-.evaf-toggle-left:before {
   content: "\ebc1";
 }
-.evaf-toggle-right:before {
+.evaf-toggle-left:before {
   content: "\ebc3";
 }
-.evaf-trash:before {
+.evaf-toggle-right:before {
   content: "\ebc5";
 }
+.evaf-trash:before {
+  content: "\ebc7";
+}
 .evaf-trash-2:before {
-  content: "\ebc6";
+  content: "\ebc8";
 }
 .evaf-trending-down:before {
-  content: "\ebc9";
-}
-.evaf-trending-up:before {
   content: "\ebcb";
 }
-.evaf-tv:before {
+.evaf-trending-up:before {
   content: "\ebcd";
 }
-.evaf-twitter:before {
+.evaf-tv:before {
   content: "\ebcf";
 }
-.evaf-umbrella:before {
+.evaf-twitter:before {
   content: "\ebd1";
 }
-.evaf-undo:before {
+.evaf-umbrella:before {
   content: "\ebd3";
 }
-.evaf-unlock:before {
+.evaf-undo:before {
   content: "\ebd5";
 }
-.evaf-upload:before {
+.evaf-unlock:before {
   content: "\ebd7";
 }
-.evaf-video:before {
+.evaf-upload:before {
   content: "\ebd9";
 }
+.evaf-video:before {
+  content: "\ebdb";
+}
 .evaf-video-off:before {
-  content: "\ebda";
+  content: "\ebdc";
 }
 .evaf-volume-down:before {
-  content: "\ebdd";
-}
-.evaf-volume-mute:before {
   content: "\ebdf";
 }
-.evaf-volume-off:before {
+.evaf-volume-mute:before {
   content: "\ebe1";
 }
-.evaf-volume-up:before {
+.evaf-volume-off:before {
   content: "\ebe3";
 }
-.evaf-wifi:before {
+.evaf-volume-up:before {
   content: "\ebe5";
 }
+.evaf-wifi:before {
+  content: "\ebe7";
+}
 .evaf-wifi-off:before {
-  content: "\ebe6";
+  content: "\ebe8";
 }
 

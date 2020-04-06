@@ -1,5 +1,5 @@
 {
-  "version": "2.0.4-alpha.2",
+  "version": "2.0.5-alpha.0",
   "name": "@icon/boxicons-solid",
   "description": "High Quality web friendly icons",
   "author": "Atisa",
@@ -18,7 +18,7 @@
     "icon"
   ],
   "devDependencies": {
-    "boxicons": "^2.0.4"
+    "boxicons": "^2.0.5"
   },
   "homepage": "https://github.com/atisawd/boxicons#readme",
   "publishConfig": {

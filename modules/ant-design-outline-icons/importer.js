@@ -15,7 +15,7 @@ const clean = require('../../scripts/utils/clean');
 const path = require('path');
 
 let options = {
-  source: path.join(`${__dirname}/node_modules/`, '@ant-design', 'icons'),
+  source: path.join(`${__dirname}/node_modules/`, '@ant-design', 'icons-svg'),
   name: 'ant-design-outline-icons',
   class: 'adif',
   prefix: 'adif-',
@@ -27,7 +27,7 @@ let options = {
 
 let paths = {
   package: path.join(options.source, 'package.json'),
-  svgs: path.join(options.source, 'svg', 'outline'),
+  svgs: path.join(options.source, 'inline-svg', 'outlined'),
   url: 'https://ant.design/components/icon/',
   dest: __dirname,
   svgsDest: path.join(__dirname, 'icons')
@@ -40,7 +40,6 @@ options.license = info.license;
 options.homepage = info.homepage;
 options.description = info.description;
 options.version = info.version;
-options.fonts = getFonts(paths.fonts, "ant-design-outline-icons");
 options.svgs = getSvgs(paths.svgs);
 
 module.exports = function(callback) {

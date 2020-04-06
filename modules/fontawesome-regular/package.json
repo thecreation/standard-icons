@@ -1,5 +1,5 @@
 {
-  "version": "5.12.1-alpha.0",
+  "version": "5.13.0-alpha.0",
   "name": "@icon/fontawesome-regular",
   "description": "The iconic font, CSS, and SVG framework",
   "author": "Dave Gandy",
@@ -18,7 +18,7 @@
     "icon"
   ],
   "dependencies": {
-    "@fortawesome/free-regular-svg-icons": "^5.12.1"
+    "@fortawesome/free-regular-svg-icons": "^5.13.0"
   },
   "homepage": "https://fontawesome.com",
   "gitHead": "03bca77bca8c5dd936a375e9c556ef3e1a8d4074"

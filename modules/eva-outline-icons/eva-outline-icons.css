@@ -1,5 +1,5 @@
 /**
- * Eva Outline Icons, 1.1.2
+ * Eva Outline Icons, 1.1.3
  * Created by akveo
  * https://github.com/akveo/eva-icons#readme
  * MIT License
@@ -665,97 +665,100 @@
 .evao-smartphone-outline:before {
   content: "\ebaa";
 }
-.evao-speaker-outline:before {
+.evao-smiling-face-outline:before {
   content: "\ebac";
 }
-.evao-square-outline:before {
+.evao-speaker-outline:before {
   content: "\ebae";
 }
-.evao-star-outline:before {
+.evao-square-outline:before {
   content: "\ebb0";
 }
-.evao-stop-circle-outline:before {
+.evao-star-outline:before {
   content: "\ebb2";
 }
-.evao-sun-outline:before {
+.evao-stop-circle-outline:before {
   content: "\ebb4";
 }
-.evao-swap-outline:before {
+.evao-sun-outline:before {
   content: "\ebb6";
 }
-.evao-sync-outline:before {
+.evao-swap-outline:before {
   content: "\ebb8";
 }
-.evao-text-outline:before {
+.evao-sync-outline:before {
   content: "\ebba";
 }
+.evao-text-outline:before {
+  content: "\ebbc";
+}
 .evao-thermometer-minus-outline:before {
-  content: "\ebbd";
+  content: "\ebbf";
 }
 .evao-thermometer-outline:before {
-  content: "\ebbe";
-}
-.evao-thermometer-plus-outline:before {
   content: "\ebc0";
 }
-.evao-toggle-left-outline:before {
+.evao-thermometer-plus-outline:before {
   content: "\ebc2";
 }
-.evao-toggle-right-outline:before {
+.evao-toggle-left-outline:before {
   content: "\ebc4";
 }
+.evao-toggle-right-outline:before {
+  content: "\ebc6";
+}
 .evao-trash-2-outline:before {
-  content: "\ebc7";
+  content: "\ebc9";
 }
 .evao-trash-outline:before {
-  content: "\ebc8";
-}
-.evao-trending-down-outline:before {
   content: "\ebca";
 }
-.evao-trending-up-outline:before {
+.evao-trending-down-outline:before {
   content: "\ebcc";
 }
-.evao-tv-outline:before {
+.evao-trending-up-outline:before {
   content: "\ebce";
 }
-.evao-twitter-outline:before {
+.evao-tv-outline:before {
   content: "\ebd0";
 }
-.evao-umbrella-outline:before {
+.evao-twitter-outline:before {
   content: "\ebd2";
 }
-.evao-undo-outline:before {
+.evao-umbrella-outline:before {
   content: "\ebd4";
 }
-.evao-unlock-outline:before {
+.evao-undo-outline:before {
   content: "\ebd6";
 }
-.evao-upload-outline:before {
+.evao-unlock-outline:before {
   content: "\ebd8";
 }
+.evao-upload-outline:before {
+  content: "\ebda";
+}
 .evao-video-off-outline:before {
-  content: "\ebdb";
+  content: "\ebdd";
 }
 .evao-video-outline:before {
-  content: "\ebdc";
-}
-.evao-volume-down-outline:before {
   content: "\ebde";
 }
-.evao-volume-mute-outline:before {
+.evao-volume-down-outline:before {
   content: "\ebe0";
 }
-.evao-volume-off-outline:before {
+.evao-volume-mute-outline:before {
   content: "\ebe2";
 }
-.evao-volume-up-outline:before {
+.evao-volume-off-outline:before {
   content: "\ebe4";
 }
+.evao-volume-up-outline:before {
+  content: "\ebe6";
+}
 .evao-wifi-off-outline:before {
-  content: "\ebe7";
+  content: "\ebe9";
 }
 .evao-wifi-outline:before {
-  content: "\ebe8";
+  content: "\ebea";
 }
 

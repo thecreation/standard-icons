@@ -1,5 +1,5 @@
 {
-  "version": "5.0.0-alpha.0",
+  "version": "5.0.1-alpha.0",
   "name": "@icon/ionicons",
   "description": "Premium icons for Ionic.",
   "author": "Ben Sperry",
@@ -18,7 +18,7 @@
     "icon"
   ],
   "devDependencies": {
-    "ionicons": "^5.0.0"
+    "ionicons": "^5.0.1"
   },
   "homepage": "http://ionicons.com/",
   "publishConfig": {

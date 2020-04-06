@@ -1,5 +1,5 @@
 {
-  "version": "9.4.0-alpha.1",
+  "version": "9.6.0-alpha.0",
   "name": "@icon/octicons",
   "description": "A scalable set of icons handcrafted with <3 by GitHub.",
   "author": "GitHub Inc.",
@@ -17,7 +17,7 @@
     "icon"
   ],
   "devDependencies": {
-    "@primer/octicons": "^9.4.0"
+    "@primer/octicons": "^9.6.0"
   },
   "homepage": "https://octicons.github.com",
   "publishConfig": {

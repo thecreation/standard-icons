@@ -1,5 +1,5 @@
 /**
- * Octicons, 9.4.0
+ * Octicons, 9.6.0
  * Created by GitHub Inc.
  * https://octicons.github.com
  * MIT License
@@ -393,446 +393,454 @@
   content: "\ea5b";
 }
 
-.octicon-issue-closed::before {
+.octicon-internal-repo::before {
   content: "\ea5c";
 }
 
-.octicon-issue-opened::before {
+.octicon-issue-closed::before {
   content: "\ea5d";
 }
 
-.octicon-issue-reopened::before {
+.octicon-issue-opened::before {
   content: "\ea5e";
 }
 
-.octicon-italic::before {
+.octicon-issue-reopened::before {
   content: "\ea5f";
 }
 
-.octicon-jersey::before {
+.octicon-italic::before {
   content: "\ea60";
 }
 
-.octicon-kebab-horizontal::before {
+.octicon-jersey::before {
   content: "\ea61";
 }
 
-.octicon-kebab-vertical::before {
+.octicon-kebab-horizontal::before {
   content: "\ea62";
 }
 
-.octicon-key::before {
+.octicon-kebab-vertical::before {
   content: "\ea63";
 }
 
-.octicon-keyboard::before {
+.octicon-key::before {
   content: "\ea64";
 }
 
-.octicon-law::before {
+.octicon-keyboard::before {
   content: "\ea65";
 }
 
-.octicon-light-bulb::before {
+.octicon-law::before {
   content: "\ea66";
 }
 
-.octicon-line-arrow-down::before {
+.octicon-light-bulb::before {
   content: "\ea67";
 }
 
-.octicon-line-arrow-left::before {
+.octicon-line-arrow-down::before {
   content: "\ea68";
 }
 
-.octicon-line-arrow-right::before {
+.octicon-line-arrow-left::before {
   content: "\ea69";
 }
 
-.octicon-line-arrow-up::before {
+.octicon-line-arrow-right::before {
   content: "\ea6a";
 }
 
-.octicon-link::before {
+.octicon-line-arrow-up::before {
   content: "\ea6b";
 }
 
-.octicon-link-external::before {
+.octicon-link::before {
   content: "\ea6c";
 }
 
-.octicon-list-ordered::before {
+.octicon-link-external::before {
   content: "\ea6d";
 }
 
-.octicon-list-unordered::before {
+.octicon-list-ordered::before {
   content: "\ea6e";
 }
 
-.octicon-location::before {
+.octicon-list-unordered::before {
   content: "\ea6f";
 }
 
-.octicon-lock::before {
+.octicon-location::before {
   content: "\ea70";
 }
 
-.octicon-logo-gist::before {
+.octicon-lock::before {
   content: "\ea71";
 }
 
-.octicon-logo-github::before {
+.octicon-logo-gist::before {
   content: "\ea72";
 }
 
-.octicon-mail::before {
+.octicon-logo-github::before {
   content: "\ea73";
 }
 
-.octicon-mail-read::before {
+.octicon-mail::before {
   content: "\ea74";
 }
 
-.octicon-mark-github::before {
+.octicon-mail-read::before {
   content: "\ea75";
 }
 
-.octicon-markdown::before {
+.octicon-mark-github::before {
   content: "\ea76";
 }
 
-.octicon-megaphone::before {
+.octicon-markdown::before {
   content: "\ea77";
 }
 
-.octicon-mention::before {
+.octicon-megaphone::before {
   content: "\ea78";
 }
 
-.octicon-milestone::before {
+.octicon-mention::before {
   content: "\ea79";
 }
 
-.octicon-mirror::before {
+.octicon-milestone::before {
   content: "\ea7a";
 }
 
-.octicon-mortar-board::before {
+.octicon-mirror::before {
   content: "\ea7b";
 }
 
-.octicon-mute::before {
+.octicon-mortar-board::before {
   content: "\ea7c";
 }
 
-.octicon-no-newline::before {
+.octicon-mute::before {
   content: "\ea7d";
 }
 
-.octicon-note::before {
+.octicon-no-newline::before {
   content: "\ea7e";
 }
 
-.octicon-octoface::before {
+.octicon-north-star::before {
   content: "\ea7f";
 }
 
-.octicon-organization::before {
+.octicon-note::before {
   content: "\ea80";
 }
 
-.octicon-package::before {
+.octicon-octoface::before {
   content: "\ea81";
 }
 
-.octicon-paintcan::before {
+.octicon-organization::before {
   content: "\ea82";
 }
 
-.octicon-pencil::before {
+.octicon-package::before {
   content: "\ea83";
 }
 
-.octicon-person::before {
+.octicon-paintcan::before {
   content: "\ea84";
 }
 
-.octicon-pin::before {
+.octicon-pencil::before {
   content: "\ea85";
 }
 
-.octicon-play::before {
+.octicon-person::before {
   content: "\ea86";
 }
 
-.octicon-plug::before {
+.octicon-pin::before {
   content: "\ea87";
 }
 
-.octicon-plus::before {
+.octicon-play::before {
   content: "\ea88";
 }
 
-.octicon-plus-small::before {
+.octicon-plug::before {
   content: "\ea89";
 }
 
-.octicon-primitive-dot::before {
+.octicon-plus::before {
   content: "\ea8a";
 }
 
-.octicon-primitive-dot-stroke::before {
+.octicon-plus-small::before {
   content: "\ea8b";
 }
 
-.octicon-primitive-square::before {
+.octicon-primitive-dot::before {
   content: "\ea8c";
 }
 
-.octicon-project::before {
+.octicon-primitive-dot-stroke::before {
   content: "\ea8d";
 }
 
-.octicon-pulse::before {
+.octicon-primitive-square::before {
   content: "\ea8e";
 }
 
-.octicon-question::before {
+.octicon-project::before {
   content: "\ea8f";
 }
 
-.octicon-quote::before {
+.octicon-pulse::before {
   content: "\ea90";
 }
 
-.octicon-radio-tower::before {
+.octicon-question::before {
   content: "\ea91";
 }
 
-.octicon-reply::before {
+.octicon-quote::before {
   content: "\ea92";
 }
 
-.octicon-repo::before {
+.octicon-radio-tower::before {
   content: "\ea93";
 }
 
-.octicon-repo-clone::before {
+.octicon-reply::before {
   content: "\ea94";
 }
 
-.octicon-repo-force-push::before {
+.octicon-repo::before {
   content: "\ea95";
 }
 
-.octicon-repo-forked::before {
+.octicon-repo-clone::before {
   content: "\ea96";
 }
 
-.octicon-repo-pull::before {
+.octicon-repo-force-push::before {
   content: "\ea97";
 }
 
-.octicon-repo-push::before {
+.octicon-repo-forked::before {
   content: "\ea98";
 }
 
-.octicon-repo-template::before {
+.octicon-repo-pull::before {
   content: "\ea99";
 }
 
-.octicon-repo-template-private::before {
+.octicon-repo-push::before {
   content: "\ea9a";
 }
 
-.octicon-report::before {
+.octicon-repo-template::before {
   content: "\ea9b";
 }
 
-.octicon-request-changes::before {
+.octicon-repo-template-private::before {
   content: "\ea9c";
 }
 
-.octicon-rocket::before {
+.octicon-report::before {
   content: "\ea9d";
 }
 
-.octicon-rss::before {
+.octicon-request-changes::before {
   content: "\ea9e";
 }
 
-.octicon-ruby::before {
+.octicon-rocket::before {
   content: "\ea9f";
 }
 
-.octicon-saved::before {
+.octicon-rss::before {
   content: "\eaa0";
 }
 
-.octicon-screen-full::before {
+.octicon-ruby::before {
   content: "\eaa1";
 }
 
-.octicon-screen-normal::before {
+.octicon-saved::before {
   content: "\eaa2";
 }
 
-.octicon-search::before {
+.octicon-screen-full::before {
   content: "\eaa3";
 }
 
-.octicon-server::before {
+.octicon-screen-normal::before {
   content: "\eaa4";
 }
 
-.octicon-settings::before {
+.octicon-search::before {
   content: "\eaa5";
 }
 
-.octicon-shield::before {
+.octicon-server::before {
   content: "\eaa6";
 }
 
-.octicon-shield-check::before {
+.octicon-settings::before {
   content: "\eaa7";
 }
 
-.octicon-shield-lock::before {
+.octicon-shield::before {
   content: "\eaa8";
 }
 
-.octicon-shield-x::before {
+.octicon-shield-check::before {
   content: "\eaa9";
 }
 
-.octicon-sign-in::before {
+.octicon-shield-lock::before {
   content: "\eaaa";
 }
 
-.octicon-sign-out::before {
+.octicon-shield-x::before {
   content: "\eaab";
 }
 
-.octicon-skip::before {
+.octicon-sign-in::before {
   content: "\eaac";
 }
 
-.octicon-smiley::before {
+.octicon-sign-out::before {
   content: "\eaad";
 }
 
-.octicon-squirrel::before {
+.octicon-skip::before {
   content: "\eaae";
 }
 
-.octicon-star::before {
+.octicon-smiley::before {
   content: "\eaaf";
 }
 
-.octicon-stop::before {
+.octicon-squirrel::before {
   content: "\eab0";
 }
 
-.octicon-sync::before {
+.octicon-star::before {
   content: "\eab1";
 }
 
-.octicon-tag::before {
+.octicon-stop::before {
   content: "\eab2";
 }
 
-.octicon-tasklist::before {
+.octicon-sync::before {
   content: "\eab3";
 }
 
-.octicon-telescope::before {
+.octicon-tag::before {
   content: "\eab4";
 }
 
-.octicon-terminal::before {
+.octicon-tasklist::before {
   content: "\eab5";
 }
 
-.octicon-text-size::before {
+.octicon-telescope::before {
   content: "\eab6";
 }
 
-.octicon-three-bars::before {
+.octicon-terminal::before {
   content: "\eab7";
 }
 
-.octicon-thumbsdown::before {
+.octicon-text-size::before {
   content: "\eab8";
 }
 
-.octicon-thumbsup::before {
+.octicon-three-bars::before {
   content: "\eab9";
 }
 
-.octicon-tools::before {
+.octicon-thumbsdown::before {
   content: "\eaba";
 }
 
-.octicon-trashcan::before {
+.octicon-thumbsup::before {
   content: "\eabb";
 }
 
-.octicon-triangle-down::before {
+.octicon-tools::before {
   content: "\eabc";
 }
 
-.octicon-triangle-left::before {
+.octicon-trashcan::before {
   content: "\eabd";
 }
 
-.octicon-triangle-right::before {
+.octicon-triangle-down::before {
   content: "\eabe";
 }
 
-.octicon-triangle-up::before {
+.octicon-triangle-left::before {
   content: "\eabf";
 }
 
-.octicon-unfold::before {
+.octicon-triangle-right::before {
   content: "\eac0";
 }
 
-.octicon-unmute::before {
+.octicon-triangle-up::before {
   content: "\eac1";
 }
 
-.octicon-unsaved::before {
+.octicon-unfold::before {
   content: "\eac2";
 }
 
-.octicon-unverified::before {
+.octicon-unmute::before {
   content: "\eac3";
 }
 
-.octicon-verified::before {
+.octicon-unsaved::before {
   content: "\eac4";
 }
 
-.octicon-versions::before {
+.octicon-unverified::before {
   content: "\eac5";
 }
 
-.octicon-watch::before {
+.octicon-verified::before {
   content: "\eac6";
 }
 
-.octicon-workflow::before {
+.octicon-versions::before {
   content: "\eac7";
 }
 
-.octicon-workflow-all::before {
+.octicon-watch::before {
   content: "\eac8";
 }
 
-.octicon-x::before {
+.octicon-workflow::before {
   content: "\eac9";
 }
 
-.octicon-zap::before {
+.octicon-workflow-all::before {
   content: "\eaca";
+}
+
+.octicon-x::before {
+  content: "\eacb";
+}
+
+.octicon-zap::before {
+  content: "\eacc";
 }
