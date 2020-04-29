@@ -31,3 +31,6 @@
 [submodule "customs/caomei"]
 	path = customs/caomei
 	url = https://github.com/xiangsudian/CaoMei.git
+[submodule "customs/jam"]
+	path = customs/jam
+	url = https://github.com/michaelampr/jam.git

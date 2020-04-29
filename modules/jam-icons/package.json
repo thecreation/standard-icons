@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0-alpha.0",
+  "name": "@icon/jam-icons",
+  "description": "Jam icons is a set of icons designed for web projects, illustrations, print projects, etc.",
+  "author": "Michael Amprimo",
+  "license": "MIT",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/jam-icons",
+  "bugs": {
+    "url": "https://github.com/thecreation/standard-icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=jam-icons",
+    "optimize": "../../scripts/module/optimize",
+    "update": "ncu -u"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "homepage": "https://jam-icons.com/",
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "03bca77bca8c5dd936a375e9c556ef3e1a8d4074"
+}
