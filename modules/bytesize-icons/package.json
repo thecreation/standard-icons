@@ -1,0 +1,29 @@
+{
+  "version": "1.4.0-alpha.0",
+  "name": "@icon/bytesize-icons",
+  "description": "A tiny style-controlled svg iconset",
+  "author": {
+    "name": "Dan Klammer",
+    "email": "danklammer@gmail.com"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/bytesize-icons",
+  "bugs": {
+    "url": "https://github.com/thecreation/standard-icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=bytesize-icons",
+    "optimize": "../../scripts/module/optimize --module=bytesize-icons"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "homepage": "https://github.com/danklammer/bytesize-icons#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "bytesize-icons": "^1.4.0"
+  }
+}
