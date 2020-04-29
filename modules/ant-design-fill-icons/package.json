@@ -1,5 +1,5 @@
 {
-  "version": "4.0.0-alpha.1",
+  "version": "4.1.0-alpha.0",
   "name": "@icon/ant-design-fill-icons",
   "description": "Abstract nodes for ant design icons.",
   "author": "Ant Design Team",
@@ -22,6 +22,6 @@
     "access": "public"
   },
   "devDependencies": {
-    "@ant-design/icons-svg": "^4.0.0"
+    "@ant-design/icons-svg": "^4.1.0"
   }
 }

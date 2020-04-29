@@ -1,5 +1,5 @@
 /**
- * Simple Icons, 2.8.0
+ * Simple Icons, 2.10.0
  * Created by Simple Icons Collaborators
  * https://www.simpleicons.org
  * CC0-1.0 License
@@ -201,4846 +201,5038 @@
   content: "\ea2b";
 }
 
-.si-airplayaudio::before {
+.si-airfrance::before {
   content: "\ea2c";
 }
 
-.si-airplayvideo::before {
+.si-airplayaudio::before {
   content: "\ea2d";
 }
 
-.si-airtable::before {
+.si-airplayvideo::before {
   content: "\ea2e";
 }
 
-.si-alfaromeo::before {
+.si-airtable::before {
   content: "\ea2f";
 }
 
-.si-algolia::before {
+.si-alfaromeo::before {
   content: "\ea30";
 }
 
-.si-alipay::before {
+.si-algolia::before {
   content: "\ea31";
 }
 
-.si-alliedmodders::before {
+.si-alipay::before {
   content: "\ea32";
 }
 
-.si-allocine::before {
+.si-alliedmodders::before {
   content: "\ea33";
 }
 
-.si-alpinelinux::before {
+.si-allocine::before {
   content: "\ea34";
 }
 
-.si-amazon::before {
+.si-alpinelinux::before {
   content: "\ea35";
 }
 
-.si-amazonalexa::before {
+.si-amazon::before {
   content: "\ea36";
 }
 
-.si-amazonaws::before {
+.si-amazonalexa::before {
   content: "\ea37";
 }
 
-.si-amazonlumberyard::before {
+.si-amazonaws::before {
   content: "\ea38";
 }
 
-.si-amd::before {
+.si-amazonfiretv::before {
   content: "\ea39";
 }
 
-.si-americanairlines::before {
+.si-amazonlumberyard::before {
   content: "\ea3a";
 }
 
-.si-americanexpress::before {
+.si-amd::before {
   content: "\ea3b";
 }
 
-.si-anaconda::before {
+.si-americanairlines::before {
   content: "\ea3c";
 }
 
-.si-analogue::before {
+.si-americanexpress::before {
   content: "\ea3d";
 }
 
-.si-anchor::before {
+.si-anaconda::before {
   content: "\ea3e";
 }
 
-.si-andela::before {
+.si-analogue::before {
   content: "\ea3f";
 }
 
-.si-android::before {
+.si-anchor::before {
   content: "\ea40";
 }
 
-.si-androidauto::before {
+.si-andela::before {
   content: "\ea41";
 }
 
-.si-androidstudio::before {
+.si-android::before {
   content: "\ea42";
 }
 
-.si-angellist::before {
+.si-androidauto::before {
   content: "\ea43";
 }
 
-.si-angular::before {
+.si-androidstudio::before {
   content: "\ea44";
 }
 
-.si-angularjs::before {
+.si-angellist::before {
   content: "\ea45";
 }
 
-.si-angularuniversal::before {
+.si-angular::before {
   content: "\ea46";
 }
 
-.si-ansible::before {
+.si-angularjs::before {
   content: "\ea47";
 }
 
-.si-antena3::before {
+.si-angularuniversal::before {
   content: "\ea48";
 }
 
-.si-apache::before {
+.si-ansible::before {
   content: "\ea49";
 }
 
-.si-apacheairflow::before {
+.si-antena3::before {
   content: "\ea4a";
 }
 
-.si-apacheant::before {
+.si-apache::before {
   content: "\ea4b";
 }
 
-.si-apachecordova::before {
+.si-apacheairflow::before {
   content: "\ea4c";
 }
 
-.si-apacheecharts::before {
+.si-apacheant::before {
   content: "\ea4d";
 }
 
-.si-apacheflink::before {
+.si-apachecordova::before {
   content: "\ea4e";
 }
 
-.si-apachekafka::before {
+.si-apachedruid::before {
   content: "\ea4f";
 }
 
-.si-apachemaven::before {
+.si-apacheecharts::before {
   content: "\ea50";
 }
 
-.si-apachenetbeanside::before {
+.si-apacheflink::before {
   content: "\ea51";
 }
 
-.si-apacheopenoffice::before {
+.si-apachekafka::before {
   content: "\ea52";
 }
 
-.si-apachepulsar::before {
+.si-apachemaven::before {
   content: "\ea53";
 }
 
-.si-apacherocketmq::before {
+.si-apachenetbeanside::before {
   content: "\ea54";
 }
 
-.si-apachesolr::before {
+.si-apacheopenoffice::before {
   content: "\ea55";
 }
 
-.si-apachespark::before {
+.si-apachepulsar::before {
   content: "\ea56";
 }
 
-.si-apollographql::before {
+.si-apacherocketmq::before {
   content: "\ea57";
 }
 
-.si-apple::before {
+.si-apachesolr::before {
   content: "\ea58";
 }
 
-.si-applemusic::before {
+.si-apachespark::before {
   content: "\ea59";
 }
 
-.si-applepay::before {
+.si-apollographql::before {
   content: "\ea5a";
 }
 
-.si-applepodcasts::before {
+.si-apple::before {
   content: "\ea5b";
 }
 
-.si-appletv::before {
+.si-applemusic::before {
   content: "\ea5c";
 }
 
-.si-appstore::before {
+.si-applepay::before {
   content: "\ea5d";
 }
 
-.si-appveyor::before {
+.si-applepodcasts::before {
   content: "\ea5e";
 }
 
-.si-aral::before {
+.si-appletv::before {
   content: "\ea5f";
 }
 
-.si-archicad::before {
+.si-appsignal::before {
   content: "\ea60";
 }
 
-.si-archiveofourown::before {
+.si-appstore::before {
   content: "\ea61";
 }
 
-.si-archlinux::before {
+.si-appveyor::before {
   content: "\ea62";
 }
 
-.si-arduino::before {
+.si-aral::before {
   content: "\ea63";
 }
 
-.si-artstation::before {
+.si-archicad::before {
   content: "\ea64";
 }
 
-.si-arxiv::before {
+.si-archiveofourown::before {
   content: "\ea65";
 }
 
-.si-asana::before {
+.si-archlinux::before {
   content: "\ea66";
 }
 
-.si-asciidoctor::before {
+.si-arduino::before {
   content: "\ea67";
 }
 
-.si-asciinema::before {
+.si-artstation::before {
   content: "\ea68";
 }
 
-.si-askfm::before {
+.si-arxiv::before {
   content: "\ea69";
 }
 
-.si-at-and-t::before {
+.si-asana::before {
   content: "\ea6a";
 }
 
-.si-atlassian::before {
+.si-asciidoctor::before {
   content: "\ea6b";
 }
 
-.si-atom::before {
+.si-asciinema::before {
   content: "\ea6c";
 }
 
-.si-audi::before {
+.si-askfm::before {
   content: "\ea6d";
 }
 
-.si-audible::before {
+.si-asus::before {
   content: "\ea6e";
 }
 
-.si-audiomack::before {
+.si-at-and-t::before {
   content: "\ea6f";
 }
 
-.si-aurelia::before {
+.si-atari::before {
   content: "\ea70";
 }
 
-.si-auth0::before {
+.si-atlassian::before {
   content: "\ea71";
 }
 
-.si-authy::before {
+.si-atom::before {
   content: "\ea72";
 }
 
-.si-automatic::before {
+.si-audacity::before {
   content: "\ea73";
 }
 
-.si-autotask::before {
+.si-audi::before {
   content: "\ea74";
 }
 
-.si-aventrix::before {
+.si-audible::before {
   content: "\ea75";
 }
 
-.si-awesomewm::before {
+.si-audioboom::before {
   content: "\ea76";
 }
 
-.si-azureartifacts::before {
+.si-audiomack::before {
   content: "\ea77";
 }
 
-.si-azuredevops::before {
+.si-aurelia::before {
   content: "\ea78";
 }
 
-.si-azurepipelines::before {
+.si-auth0::before {
   content: "\ea79";
 }
 
-.si-babel::before {
+.si-authy::before {
   content: "\ea7a";
 }
 
-.si-badgr::before {
+.si-automatic::before {
   content: "\ea7b";
 }
 
-.si-baidu::before {
+.si-autotask::before {
   content: "\ea7c";
 }
 
-.si-bamboo::before {
+.si-aventrix::before {
   content: "\ea7d";
 }
 
-.si-bancontact::before {
+.si-awesomewm::before {
   content: "\ea7e";
 }
 
-.si-bandcamp::before {
+.si-azureartifacts::before {
   content: "\ea7f";
 }
 
-.si-bandlab::before {
+.si-azuredevops::before {
   content: "\ea80";
 }
 
-.si-bandsintown::before {
+.si-azurepipelines::before {
   content: "\ea81";
 }
 
-.si-basecamp::before {
+.si-babel::before {
   content: "\ea82";
 }
 
-.si-bathasu::before {
+.si-badgr::before {
   content: "\ea83";
 }
 
-.si-battle-dot-net::before {
+.si-baidu::before {
   content: "\ea84";
 }
 
-.si-bbciplayer::before {
+.si-bamboo::before {
   content: "\ea85";
 }
 
-.si-beatport::before {
+.si-bancontact::before {
   content: "\ea86";
 }
 
-.si-beats::before {
+.si-bandcamp::before {
   content: "\ea87";
 }
 
-.si-beatsbydre::before {
+.si-bandlab::before {
   content: "\ea88";
 }
 
-.si-behance::before {
+.si-bandsintown::before {
   content: "\ea89";
 }
 
-.si-bigcartel::before {
+.si-basecamp::before {
   content: "\ea8a";
 }
 
-.si-bing::before {
+.si-bathasu::before {
   content: "\ea8b";
 }
 
-.si-bit::before {
+.si-battle-dot-net::before {
   content: "\ea8c";
 }
 
-.si-bitbucket::before {
+.si-bbciplayer::before {
   content: "\ea8d";
 }
 
-.si-bitcoin::before {
+.si-beatport::before {
   content: "\ea8e";
 }
 
-.si-bitdefender::before {
+.si-beats::before {
   content: "\ea8f";
 }
 
-.si-bitly::before {
+.si-beatsbydre::before {
   content: "\ea90";
 }
 
-.si-bitrise::before {
+.si-behance::before {
   content: "\ea91";
 }
 
-.si-bitwarden::before {
+.si-beijingsubway::before {
   content: "\ea92";
 }
 
-.si-blackberry::before {
+.si-bentley::before {
   content: "\ea93";
 }
 
-.si-blender::before {
+.si-bigcartel::before {
   content: "\ea94";
 }
 
-.si-blogger::before {
+.si-bing::before {
   content: "\ea95";
 }
 
-.si-bluetooth::before {
+.si-bit::before {
   content: "\ea96";
 }
 
-.si-bmcsoftware::before {
+.si-bitbucket::before {
   content: "\ea97";
 }
 
-.si-bmw::before {
+.si-bitcoin::before {
   content: "\ea98";
 }
 
-.si-boeing::before {
+.si-bitdefender::before {
   content: "\ea99";
 }
 
-.si-boost::before {
+.si-bitly::before {
   content: "\ea9a";
 }
 
-.si-bootstrap::before {
+.si-bitrise::before {
   content: "\ea9b";
 }
 
-.si-bosch::before {
+.si-bitwarden::before {
   content: "\ea9c";
 }
 
-.si-bower::before {
+.si-blackberry::before {
   content: "\ea9d";
 }
 
-.si-box::before {
+.si-blender::before {
   content: "\ea9e";
 }
 
-.si-brand-dot-ai::before {
+.si-blogger::before {
   content: "\ea9f";
 }
 
-.si-brandfolder::before {
+.si-bloglovin::before {
   content: "\eaa0";
 }
 
-.si-brave::before {
+.si-bluetooth::before {
   content: "\eaa1";
 }
 
-.si-breaker::before {
+.si-bmcsoftware::before {
   content: "\eaa2";
 }
 
-.si-broadcom::before {
+.si-bmw::before {
   content: "\eaa3";
 }
 
-.si-buddy::before {
+.si-boeing::before {
   content: "\eaa4";
 }
 
-.si-buffer::before {
+.si-boost::before {
   content: "\eaa5";
 }
 
-.si-bugatti::before {
+.si-bootstrap::before {
   content: "\eaa6";
 }
 
-.si-bugsnag::before {
+.si-bosch::before {
   content: "\eaa7";
 }
 
-.si-bulma::before {
+.si-bower::before {
   content: "\eaa8";
 }
 
-.si-buymeacoffee::before {
+.si-box::before {
   content: "\eaa9";
 }
 
-.si-buzzfeed::before {
+.si-brand-dot-ai::before {
   content: "\eaaa";
 }
 
-.si-byte::before {
+.si-brandfolder::before {
   content: "\eaab";
 }
 
-.si-c::before {
+.si-brave::before {
   content: "\eaac";
 }
 
-.si-cakephp::before {
+.si-breaker::before {
   content: "\eaad";
 }
 
-.si-campaignmonitor::before {
+.si-broadcom::before {
   content: "\eaae";
 }
 
-.si-canva::before {
+.si-bt::before {
   content: "\eaaf";
 }
 
-.si-carthrottle::before {
+.si-buddy::before {
   content: "\eab0";
 }
 
-.si-cashapp::before {
+.si-buffer::before {
   content: "\eab1";
 }
 
-.si-cassandra::before {
+.si-bugatti::before {
   content: "\eab2";
 }
 
-.si-castbox::before {
+.si-bugsnag::before {
   content: "\eab3";
 }
 
-.si-castorama::before {
+.si-bulma::before {
   content: "\eab4";
 }
 
-.si-castro::before {
+.si-buymeacoffee::before {
   content: "\eab5";
 }
 
-.si-caterpillar::before {
+.si-buzzfeed::before {
   content: "\eab6";
 }
 
-.si-cdprojekt::before {
+.si-byte::before {
   content: "\eab7";
 }
 
-.si-celery::before {
+.si-c::before {
   content: "\eab8";
 }
 
-.si-centos::before {
+.si-cakephp::before {
   content: "\eab9";
 }
 
-.si-cesium::before {
+.si-campaignmonitor::before {
   content: "\eaba";
 }
 
-.si-cevo::before {
+.si-canva::before {
   content: "\eabb";
 }
 
-.si-chartmogul::before {
+.si-carthrottle::before {
   content: "\eabc";
 }
 
-.si-chase::before {
+.si-cashapp::before {
   content: "\eabd";
 }
 
-.si-chef::before {
+.si-cassandra::before {
   content: "\eabe";
 }
 
-.si-chocolatey::before {
+.si-castbox::before {
   content: "\eabf";
 }
 
-.si-chupachups::before {
+.si-castorama::before {
   content: "\eac0";
 }
 
-.si-cinema4d::before {
+.si-castro::before {
   content: "\eac1";
 }
 
-.si-circle::before {
+.si-caterpillar::before {
   content: "\eac2";
 }
 
-.si-circleci::before {
+.si-cdprojekt::before {
   content: "\eac3";
 }
 
-.si-cirrusci::before {
+.si-celery::before {
   content: "\eac4";
 }
 
-.si-cisco::before {
+.si-centos::before {
   content: "\eac5";
 }
 
-.si-citrix::before {
+.si-cesium::before {
   content: "\eac6";
 }
 
-.si-citroen::before {
+.si-cevo::before {
   content: "\eac7";
 }
 
-.si-civicrm::before {
+.si-chartmogul::before {
   content: "\eac8";
 }
 
-.si-claris::before {
+.si-chase::before {
   content: "\eac9";
 }
 
-.si-clockify::before {
+.si-checkmarx::before {
   content: "\eaca";
 }
 
-.si-clojure::before {
+.si-chef::before {
   content: "\eacb";
 }
 
-.si-cloudbees::before {
+.si-chocolatey::before {
   content: "\eacc";
 }
 
-.si-cloudcannon::before {
+.si-chupachups::before {
   content: "\eacd";
 }
 
-.si-cloudflare::before {
+.si-cinema4d::before {
   content: "\eace";
 }
 
-.si-cloudsmith::before {
+.si-circle::before {
   content: "\eacf";
 }
 
-.si-clyp::before {
+.si-circleci::before {
   content: "\ead0";
 }
 
-.si-cmake::before {
+.si-cirrusci::before {
   content: "\ead1";
 }
 
-.si-cnn::before {
+.si-cisco::before {
   content: "\ead2";
 }
 
-.si-co-op::before {
+.si-citrix::before {
   content: "\ead3";
 }
 
-.si-codacy::before {
+.si-citroen::before {
   content: "\ead4";
 }
 
-.si-codecademy::before {
+.si-civicrm::before {
   content: "\ead5";
 }
 
-.si-codechef::before {
+.si-claris::before {
   content: "\ead6";
 }
 
-.si-codeclimate::before {
+.si-cliqz::before {
   content: "\ead7";
 }
 
-.si-codecov::before {
+.si-clockify::before {
   content: "\ead8";
 }
 
-.si-codefactor::before {
+.si-clojure::before {
   content: "\ead9";
 }
 
-.si-codeforces::before {
+.si-cloudbees::before {
   content: "\eada";
 }
 
-.si-codeigniter::before {
+.si-cloudcannon::before {
   content: "\eadb";
 }
 
-.si-codepen::before {
+.si-cloudflare::before {
   content: "\eadc";
 }
 
-.si-coderwall::before {
+.si-cloudsmith::before {
   content: "\eadd";
 }
 
-.si-codesandbox::before {
+.si-clyp::before {
   content: "\eade";
 }
 
-.si-codeship::before {
+.si-cmake::before {
   content: "\eadf";
 }
 
-.si-codewars::before {
+.si-cnn::before {
   content: "\eae0";
 }
 
-.si-codio::before {
+.si-co-op::before {
   content: "\eae1";
 }
 
-.si-coffeescript::before {
+.si-cocoapods::before {
   content: "\eae2";
 }
 
-.si-coinbase::before {
+.si-coda::before {
   content: "\eae3";
 }
 
-.si-commonworkflowlanguage::before {
+.si-codacy::before {
   content: "\eae4";
 }
 
-.si-composer::before {
+.si-codecademy::before {
   content: "\eae5";
 }
 
-.si-compropago::before {
+.si-codechef::before {
   content: "\eae6";
 }
 
-.si-concourse::before {
+.si-codeclimate::before {
   content: "\eae7";
 }
 
-.si-conda-forge::before {
+.si-codecov::before {
   content: "\eae8";
 }
 
-.si-conekta::before {
+.si-codefactor::before {
   content: "\eae9";
 }
 
-.si-confluence::before {
+.si-codeforces::before {
   content: "\eaea";
 }
 
-.si-contactlesspayment::before {
+.si-codeigniter::before {
   content: "\eaeb";
 }
 
-.si-convertio::before {
+.si-codepen::before {
   content: "\eaec";
 }
 
-.si-coronaengine::before {
+.si-codersrank::before {
   content: "\eaed";
 }
 
-.si-coronarenderer::before {
+.si-coderwall::before {
   content: "\eaee";
 }
 
-.si-coursera::before {
+.si-codesandbox::before {
   content: "\eaef";
 }
 
-.si-coveralls::before {
+.si-codeship::before {
   content: "\eaf0";
 }
 
-.si-cpanel::before {
+.si-codewars::before {
   content: "\eaf1";
 }
 
-.si-cplusplus::before {
+.si-codio::before {
   content: "\eaf2";
 }
 
-.si-craftcms::before {
+.si-coffeescript::before {
   content: "\eaf3";
 }
 
-.si-creativecommons::before {
+.si-coinbase::before {
   content: "\eaf4";
 }
 
-.si-crehana::before {
+.si-commonworkflowlanguage::before {
   content: "\eaf5";
 }
 
-.si-crunchbase::before {
+.si-composer::before {
   content: "\eaf6";
 }
 
-.si-crunchyroll::before {
+.si-compropago::before {
   content: "\eaf7";
 }
 
-.si-cryengine::before {
+.si-concourse::before {
   content: "\eaf8";
 }
 
-.si-csharp::before {
+.si-conda-forge::before {
   content: "\eaf9";
 }
 
-.si-css3::before {
+.si-conekta::before {
   content: "\eafa";
 }
 
-.si-csswizardry::before {
+.si-confluence::before {
   content: "\eafb";
 }
 
-.si-curl::before {
+.si-contactlesspayment::before {
   content: "\eafc";
 }
 
-.si-d3-dot-js::before {
+.si-convertio::before {
   content: "\eafd";
 }
 
-.si-daf::before {
+.si-coronaengine::before {
   content: "\eafe";
 }
 
-.si-dailymotion::before {
+.si-coronarenderer::before {
   content: "\eaff";
 }
 
-.si-dart::before {
+.si-coursera::before {
   content: "\eb00";
 }
 
-.si-daserste::before {
+.si-coveralls::before {
   content: "\eb01";
 }
 
-.si-dash::before {
+.si-cpanel::before {
   content: "\eb02";
 }
 
-.si-dashlane::before {
+.si-cplusplus::before {
   content: "\eb03";
 }
 
-.si-dassaultsystemes::before {
+.si-craftcms::before {
   content: "\eb04";
 }
 
-.si-datacamp::before {
+.si-creativecommons::before {
   content: "\eb05";
 }
 
-.si-datadog::before {
+.si-crehana::before {
   content: "\eb06";
 }
 
-.si-dazn::before {
+.si-crunchbase::before {
   content: "\eb07";
 }
 
-.si-dblp::before {
+.si-crunchyroll::before {
   content: "\eb08";
 }
 
-.si-dcentertainment::before {
+.si-cryengine::before {
   content: "\eb09";
 }
 
-.si-debian::before {
+.si-csharp::before {
   content: "\eb0a";
 }
 
-.si-deepin::before {
+.si-css3::before {
   content: "\eb0b";
 }
 
-.si-deezer::before {
+.si-csswizardry::before {
   content: "\eb0c";
 }
 
-.si-delicious::before {
+.si-curl::before {
   content: "\eb0d";
 }
 
-.si-deliveroo::before {
+.si-d3-dot-js::before {
   content: "\eb0e";
 }
 
-.si-dell::before {
+.si-daf::before {
   content: "\eb0f";
 }
 
-.si-deno::before {
+.si-dailymotion::before {
   content: "\eb10";
 }
 
-.si-dependabot::before {
+.si-dart::before {
   content: "\eb11";
 }
 
-.si-designernews::before {
+.si-daserste::before {
   content: "\eb12";
 }
 
-.si-dev-dot-to::before {
+.si-dash::before {
   content: "\eb13";
 }
 
-.si-deviantart::before {
+.si-dashlane::before {
   content: "\eb14";
 }
 
-.si-devrant::before {
+.si-dassaultsystemes::before {
   content: "\eb15";
 }
 
-.si-diaspora::before {
+.si-datacamp::before {
   content: "\eb16";
 }
 
-.si-digg::before {
+.si-datadog::before {
   content: "\eb17";
 }
 
-.si-digitalocean::before {
+.si-dazn::before {
   content: "\eb18";
 }
 
-.si-directus::before {
+.si-dblp::before {
   content: "\eb19";
 }
 
-.si-discogs::before {
+.si-dcentertainment::before {
   content: "\eb1a";
 }
 
-.si-discord::before {
+.si-debian::before {
   content: "\eb1b";
 }
 
-.si-discourse::before {
+.si-deepin::before {
   content: "\eb1c";
 }
 
-.si-discover::before {
+.si-deezer::before {
   content: "\eb1d";
 }
 
-.si-disqus::before {
+.si-delicious::before {
   content: "\eb1e";
 }
 
-.si-disroot::before {
+.si-deliveroo::before {
   content: "\eb1f";
 }
 
-.si-django::before {
+.si-dell::before {
   content: "\eb20";
 }
 
-.si-dlna::before {
+.si-deno::before {
   content: "\eb21";
 }
 
-.si-docker::before {
+.si-dependabot::before {
   content: "\eb22";
 }
 
-.si-docusign::before {
+.si-designernews::before {
   content: "\eb23";
 }
 
-.si-dolby::before {
+.si-dev-dot-to::before {
   content: "\eb24";
 }
 
-.si-dot-net::before {
+.si-deviantart::before {
   content: "\eb25";
 }
 
-.si-douban::before {
+.si-devrant::before {
   content: "\eb26";
 }
 
-.si-draugiem-dot-lv::before {
+.si-diaspora::before {
   content: "\eb27";
 }
 
-.si-dribbble::before {
+.si-digg::before {
   content: "\eb28";
 }
 
-.si-drone::before {
+.si-digitalocean::before {
   content: "\eb29";
 }
 
-.si-dropbox::before {
+.si-dior::before {
   content: "\eb2a";
 }
 
-.si-drupal::before {
+.si-directus::before {
   content: "\eb2b";
 }
 
-.si-dtube::before {
+.si-discogs::before {
   content: "\eb2c";
 }
 
-.si-duckduckgo::before {
+.si-discord::before {
   content: "\eb2d";
 }
 
-.si-dunked::before {
+.si-discourse::before {
   content: "\eb2e";
 }
 
-.si-duolingo::before {
+.si-discover::before {
   content: "\eb2f";
 }
 
-.si-dynamics365::before {
+.si-disqus::before {
   content: "\eb30";
 }
 
-.si-dynatrace::before {
+.si-disroot::before {
   content: "\eb31";
 }
 
-.si-ea::before {
+.si-django::before {
   content: "\eb32";
 }
 
-.si-easyjet::before {
+.si-dlna::before {
   content: "\eb33";
 }
 
-.si-ebay::before {
+.si-docker::before {
   content: "\eb34";
 }
 
-.si-eclipseide::before {
+.si-docusign::before {
   content: "\eb35";
 }
 
-.si-eclipsemosquitto::before {
+.si-dolby::before {
   content: "\eb36";
 }
 
-.si-egnyte::before {
+.si-dot-net::before {
   content: "\eb37";
 }
 
-.si-elastic::before {
+.si-douban::before {
   content: "\eb38";
 }
 
-.si-elasticcloud::before {
+.si-draugiem-dot-lv::before {
   content: "\eb39";
 }
 
-.si-elasticsearch::before {
+.si-dribbble::before {
   content: "\eb3a";
 }
 
-.si-elasticstack::before {
+.si-drone::before {
   content: "\eb3b";
 }
 
-.si-electron::before {
+.si-dropbox::before {
   content: "\eb3c";
 }
 
-.si-elementary::before {
+.si-drupal::before {
   content: "\eb3d";
 }
 
-.si-eleventy::before {
+.si-dsautomobiles::before {
   content: "\eb3e";
 }
 
-.si-elixir::before {
+.si-dtube::before {
   content: "\eb3f";
 }
 
-.si-ello::before {
+.si-duckduckgo::before {
   content: "\eb40";
 }
 
-.si-elm::before {
+.si-dunked::before {
   content: "\eb41";
 }
 
-.si-elsevier::before {
+.si-duolingo::before {
   content: "\eb42";
 }
 
-.si-ember-dot-js::before {
+.si-dynamics365::before {
   content: "\eb43";
 }
 
-.si-emby::before {
+.si-dynatrace::before {
   content: "\eb44";
 }
 
-.si-emlakjet::before {
+.si-ea::before {
   content: "\eb45";
 }
 
-.si-empirekred::before {
+.si-easyjet::before {
   content: "\eb46";
 }
 
-.si-envato::before {
+.si-ebay::before {
   content: "\eb47";
 }
 
-.si-epel::before {
+.si-eclipseide::before {
   content: "\eb48";
 }
 
-.si-epicgames::before {
+.si-eclipsemosquitto::before {
   content: "\eb49";
 }
 
-.si-epson::before {
+.si-egnyte::before {
   content: "\eb4a";
 }
 
-.si-esea::before {
+.si-elastic::before {
   content: "\eb4b";
 }
 
-.si-eslgaming::before {
+.si-elasticcloud::before {
   content: "\eb4c";
 }
 
-.si-eslint::before {
+.si-elasticsearch::before {
   content: "\eb4d";
 }
 
-.si-ethereum::before {
+.si-elasticstack::before {
   content: "\eb4e";
 }
 
-.si-etsy::before {
+.si-electron::before {
   content: "\eb4f";
 }
 
-.si-eventbrite::before {
+.si-elementary::before {
   content: "\eb50";
 }
 
-.si-eventstore::before {
+.si-eleventy::before {
   content: "\eb51";
 }
 
-.si-evernote::before {
+.si-elixir::before {
   content: "\eb52";
 }
 
-.si-everplaces::before {
+.si-ello::before {
   content: "\eb53";
 }
 
-.si-evry::before {
+.si-elm::before {
   content: "\eb54";
 }
 
-.si-exercism::before {
+.si-elsevier::before {
   content: "\eb55";
 }
 
-.si-expertsexchange::before {
+.si-ember-dot-js::before {
   content: "\eb56";
 }
 
-.si-expo::before {
+.si-emby::before {
   content: "\eb57";
 }
 
-.si-eyeem::before {
+.si-emlakjet::before {
   content: "\eb58";
 }
 
-.si-f-droid::before {
+.si-empirekred::before {
   content: "\eb59";
 }
 
-.si-f-secure::before {
+.si-envato::before {
   content: "\eb5a";
 }
 
-.si-facebook::before {
+.si-epel::before {
   content: "\eb5b";
 }
 
-.si-faceit::before {
+.si-epicgames::before {
   content: "\eb5c";
 }
 
-.si-fandango::before {
+.si-epson::before {
   content: "\eb5d";
 }
 
-.si-fandom::before {
+.si-esea::before {
   content: "\eb5e";
 }
 
-.si-farfetch::before {
+.si-eslgaming::before {
   content: "\eb5f";
 }
 
-.si-fastly::before {
+.si-eslint::before {
   content: "\eb60";
 }
 
-.si-favro::before {
+.si-ethereum::before {
   content: "\eb61";
 }
 
-.si-feathub::before {
+.si-etsy::before {
   content: "\eb62";
 }
 
-.si-fedora::before {
+.si-eventbrite::before {
   content: "\eb63";
 }
 
-.si-fedramp::before {
+.si-eventstore::before {
   content: "\eb64";
 }
 
-.si-feedly::before {
+.si-evernote::before {
   content: "\eb65";
 }
 
-.si-ferrari::before {
+.si-everplaces::before {
   content: "\eb66";
 }
 
-.si-ferrarin-dot-v-dot::before {
+.si-evry::before {
   content: "\eb67";
 }
 
-.si-fiat::before {
+.si-exercism::before {
   content: "\eb68";
 }
 
-.si-fidoalliance::before {
+.si-expertsexchange::before {
   content: "\eb69";
 }
 
-.si-fifa::before {
+.si-expo::before {
   content: "\eb6a";
 }
 
-.si-figma::before {
+.si-eyeem::before {
   content: "\eb6b";
 }
 
-.si-figshare::before {
+.si-f-droid::before {
   content: "\eb6c";
 }
 
-.si-fila::before {
+.si-f-secure::before {
   content: "\eb6d";
 }
 
-.si-filezilla::before {
+.si-facebook::before {
   content: "\eb6e";
 }
 
-.si-firebase::before {
+.si-faceit::before {
   content: "\eb6f";
 }
 
-.si-first::before {
+.si-fandango::before {
   content: "\eb70";
 }
 
-.si-fitbit::before {
+.si-fandom::before {
   content: "\eb71";
 }
 
-.si-fite::before {
+.si-farfetch::before {
   content: "\eb72";
 }
 
-.si-fiverr::before {
+.si-fastly::before {
   content: "\eb73";
 }
 
-.si-flask::before {
+.si-favro::before {
   content: "\eb74";
 }
 
-.si-flattr::before {
+.si-feathub::before {
   content: "\eb75";
 }
 
-.si-flickr::before {
+.si-fedora::before {
   content: "\eb76";
 }
 
-.si-flipboard::before {
+.si-fedramp::before {
   content: "\eb77";
 }
 
-.si-floatplane::before {
+.si-feedly::before {
   content: "\eb78";
 }
 
-.si-flood::before {
+.si-ferrari::before {
   content: "\eb79";
 }
 
-.si-fluentd::before {
+.si-ferrarin-dot-v-dot::before {
   content: "\eb7a";
 }
 
-.si-flutter::before {
+.si-fiat::before {
   content: "\eb7b";
 }
 
-.si-fnac::before {
+.si-fidoalliance::before {
   content: "\eb7c";
 }
 
-.si-fontawesome::before {
+.si-fifa::before {
   content: "\eb7d";
 }
 
-.si-ford::before {
+.si-figma::before {
   content: "\eb7e";
 }
 
-.si-formstack::before {
+.si-figshare::before {
   content: "\eb7f";
 }
 
-.si-fortinet::before {
+.si-fila::before {
   content: "\eb80";
 }
 
-.si-fossa::before {
+.si-filezilla::before {
   content: "\eb81";
 }
 
-.si-fossilscm::before {
+.si-firebase::before {
   content: "\eb82";
 }
 
-.si-foursquare::before {
+.si-first::before {
   content: "\eb83";
 }
 
-.si-framer::before {
+.si-fitbit::before {
   content: "\eb84";
 }
 
-.si-freebsd::before {
+.si-fite::before {
   content: "\eb85";
 }
 
-.si-freecodecamp::before {
+.si-fiverr::before {
   content: "\eb86";
 }
 
-.si-freedesktop-dot-org::before {
+.si-flask::before {
   content: "\eb87";
 }
 
-.si-freelancer::before {
+.si-flathub::before {
   content: "\eb88";
 }
 
-.si-fujifilm::before {
+.si-flattr::before {
   content: "\eb89";
 }
 
-.si-fujitsu::before {
+.si-flickr::before {
   content: "\eb8a";
 }
 
-.si-furaffinity::before {
+.si-flipboard::before {
   content: "\eb8b";
 }
 
-.si-furrynetwork::before {
+.si-floatplane::before {
   content: "\eb8c";
 }
 
-.si-garmin::before {
+.si-flood::before {
   content: "\eb8d";
 }
 
-.si-gatling::before {
+.si-fluentd::before {
   content: "\eb8e";
 }
 
-.si-gatsby::before {
+.si-flutter::before {
   content: "\eb8f";
 }
 
-.si-gauges::before {
+.si-fnac::before {
   content: "\eb90";
 }
 
-.si-generalmotors::before {
+.si-fontawesome::before {
   content: "\eb91";
 }
 
-.si-genius::before {
+.si-ford::before {
   content: "\eb92";
 }
 
-.si-gentoo::before {
+.si-formstack::before {
   content: "\eb93";
 }
 
-.si-geocaching::before {
+.si-fortinet::before {
   content: "\eb94";
 }
 
-.si-gerrit::before {
+.si-fossa::before {
   content: "\eb95";
 }
 
-.si-ghost::before {
+.si-fossilscm::before {
   content: "\eb96";
 }
 
-.si-gimp::before {
+.si-foursquare::before {
   content: "\eb97";
 }
 
-.si-git::before {
+.si-framer::before {
   content: "\eb98";
 }
 
-.si-gitea::before {
+.si-freebsd::before {
   content: "\eb99";
 }
 
-.si-github::before {
+.si-freecodecamp::before {
   content: "\eb9a";
 }
 
-.si-githubactions::before {
+.si-freedesktop-dot-org::before {
   content: "\eb9b";
 }
 
-.si-gitkraken::before {
+.si-freelancer::before {
   content: "\eb9c";
 }
 
-.si-gitlab::before {
+.si-fujifilm::before {
   content: "\eb9d";
 }
 
-.si-gitpod::before {
+.si-fujitsu::before {
   content: "\eb9e";
 }
 
-.si-gitter::before {
+.si-furaffinity::before {
   content: "\eb9f";
 }
 
-.si-glassdoor::before {
+.si-furrynetwork::before {
   content: "\eba0";
 }
 
-.si-glitch::before {
+.si-garmin::before {
   content: "\eba1";
 }
 
-.si-gmail::before {
+.si-gatling::before {
   content: "\eba2";
 }
 
-.si-gnome::before {
+.si-gatsby::before {
   content: "\eba3";
 }
 
-.si-gnu::before {
+.si-gauges::before {
   content: "\eba4";
 }
 
-.si-gnubash::before {
+.si-generalmotors::before {
   content: "\eba5";
 }
 
-.si-gnuemacs::before {
+.si-genius::before {
   content: "\eba6";
 }
 
-.si-gnuicecat::before {
+.si-gentoo::before {
   content: "\eba7";
 }
 
-.si-gnuprivacyguard::before {
+.si-geocaching::before {
   content: "\eba8";
 }
 
-.si-gnusocial::before {
+.si-gerrit::before {
   content: "\eba9";
 }
 
-.si-go::before {
+.si-ghost::before {
   content: "\ebaa";
 }
 
-.si-godotengine::before {
+.si-ghostery::before {
   content: "\ebab";
 }
 
-.si-gog-dot-com::before {
+.si-gimp::before {
   content: "\ebac";
 }
 
-.si-goldenline::before {
+.si-git::before {
   content: "\ebad";
 }
 
-.si-goodreads::before {
+.si-gitea::before {
   content: "\ebae";
 }
 
-.si-google::before {
+.si-github::before {
   content: "\ebaf";
 }
 
-.si-googleads::before {
+.si-githubactions::before {
   content: "\ebb0";
 }
 
-.si-googleadsense::before {
+.si-gitkraken::before {
   content: "\ebb1";
 }
 
-.si-googleanalytics::before {
+.si-gitlab::before {
   content: "\ebb2";
 }
 
-.si-googleassistant::before {
+.si-gitpod::before {
   content: "\ebb3";
 }
 
-.si-googlecalendar::before {
+.si-gitter::before {
   content: "\ebb4";
 }
 
-.si-googlecardboard::before {
+.si-glassdoor::before {
   content: "\ebb5";
 }
 
-.si-googlecast::before {
+.si-glitch::before {
   content: "\ebb6";
 }
 
-.si-googlechrome::before {
+.si-gmail::before {
   content: "\ebb7";
 }
 
-.si-googleclassroom::before {
+.si-gnome::before {
   content: "\ebb8";
 }
 
-.si-googlecloud::before {
+.si-gnu::before {
   content: "\ebb9";
 }
 
-.si-googledrive::before {
+.si-gnubash::before {
   content: "\ebba";
 }
 
-.si-googleearth::before {
+.si-gnuemacs::before {
   content: "\ebbb";
 }
 
-.si-googlefit::before {
+.si-gnuicecat::before {
   content: "\ebbc";
 }
 
-.si-googlehangouts::before {
+.si-gnuprivacyguard::before {
   content: "\ebbd";
 }
 
-.si-googlehangoutschat::before {
+.si-gnusocial::before {
   content: "\ebbe";
 }
 
-.si-googlekeep::before {
+.si-go::before {
   content: "\ebbf";
 }
 
-.si-googlelens::before {
+.si-godotengine::before {
   content: "\ebc0";
 }
 
-.si-googlemaps::before {
+.si-gofundme::before {
   content: "\ebc1";
 }
 
-.si-googlemessages::before {
+.si-gog-dot-com::before {
   content: "\ebc2";
 }
 
-.si-googlemybusiness::before {
+.si-goldenline::before {
   content: "\ebc3";
 }
 
-.si-googlenearby::before {
+.si-goodreads::before {
   content: "\ebc4";
 }
 
-.si-googlepay::before {
+.si-google::before {
   content: "\ebc5";
 }
 
-.si-googleplay::before {
+.si-googleads::before {
   content: "\ebc6";
 }
 
-.si-googlepodcasts::before {
+.si-googleadsense::before {
   content: "\ebc7";
 }
 
-.si-googlescholar::before {
+.si-googleanalytics::before {
   content: "\ebc8";
 }
 
-.si-googlesearchconsole::before {
+.si-googleassistant::before {
   content: "\ebc9";
 }
 
-.si-googlesheets::before {
+.si-googlecalendar::before {
   content: "\ebca";
 }
 
-.si-googlestreetview::before {
+.si-googlecardboard::before {
   content: "\ebcb";
 }
 
-.si-googletagmanager::before {
+.si-googlecast::before {
   content: "\ebcc";
 }
 
-.si-googletranslate::before {
+.si-googlechrome::before {
   content: "\ebcd";
 }
 
-.si-gov-dot-uk::before {
+.si-googleclassroom::before {
   content: "\ebce";
 }
 
-.si-gradle::before {
+.si-googlecloud::before {
   content: "\ebcf";
 }
 
-.si-grafana::before {
+.si-googledrive::before {
   content: "\ebd0";
 }
 
-.si-graphcool::before {
+.si-googleearth::before {
   content: "\ebd1";
 }
 
-.si-graphql::before {
+.si-googlefit::before {
   content: "\ebd2";
 }
 
-.si-grav::before {
+.si-googlehangouts::before {
   content: "\ebd3";
 }
 
-.si-gravatar::before {
+.si-googlehangoutschat::before {
   content: "\ebd4";
 }
 
-.si-greenkeeper::before {
+.si-googlehangoutsmeet::before {
   content: "\ebd5";
 }
 
-.si-greensock::before {
+.si-googlekeep::before {
   content: "\ebd6";
 }
 
-.si-groovy::before {
+.si-googlelens::before {
   content: "\ebd7";
 }
 
-.si-groupon::before {
+.si-googlemaps::before {
   content: "\ebd8";
 }
 
-.si-grunt::before {
+.si-googlemessages::before {
   content: "\ebd9";
 }
 
-.si-gulp::before {
+.si-googlemybusiness::before {
   content: "\ebda";
 }
 
-.si-gumroad::before {
+.si-googlenearby::before {
   content: "\ebdb";
 }
 
-.si-gumtree::before {
+.si-googlepay::before {
   content: "\ebdc";
 }
 
-.si-gutenberg::before {
+.si-googleplay::before {
   content: "\ebdd";
 }
 
-.si-habr::before {
+.si-googlepodcasts::before {
   content: "\ebde";
 }
 
-.si-hackaday::before {
+.si-googlescholar::before {
   content: "\ebdf";
 }
 
-.si-hackerearth::before {
+.si-googlesearchconsole::before {
   content: "\ebe0";
 }
 
-.si-hackerone::before {
+.si-googlesheets::before {
   content: "\ebe1";
 }
 
-.si-hackerrank::before {
+.si-googlestreetview::before {
   content: "\ebe2";
 }
 
-.si-hackhands::before {
+.si-googletagmanager::before {
   content: "\ebe3";
 }
 
-.si-hackster::before {
+.si-googletranslate::before {
   content: "\ebe4";
 }
 
-.si-happycow::before {
+.si-gov-dot-uk::before {
   content: "\ebe5";
 }
 
-.si-harbor::before {
+.si-gradle::before {
   content: "\ebe6";
 }
 
-.si-hashnode::before {
+.si-grafana::before {
   content: "\ebe7";
 }
 
-.si-haskell::before {
+.si-graphcool::before {
   content: "\ebe8";
 }
 
-.si-hatenabookmark::before {
+.si-graphql::before {
   content: "\ebe9";
 }
 
-.si-haveibeenpwned::before {
+.si-grav::before {
   content: "\ebea";
 }
 
-.si-haxe::before {
+.si-gravatar::before {
   content: "\ebeb";
 }
 
-.si-hbo::before {
+.si-greenkeeper::before {
   content: "\ebec";
 }
 
-.si-hellofresh::before {
+.si-greensock::before {
   content: "\ebed";
 }
 
-.si-hellyhansen::before {
+.si-groovy::before {
   content: "\ebee";
 }
 
-.si-helm::before {
+.si-groupon::before {
   content: "\ebef";
 }
 
-.si-here::before {
+.si-grunt::before {
   content: "\ebf0";
 }
 
-.si-heroku::before {
+.si-guangzhoumetro::before {
   content: "\ebf1";
 }
 
-.si-hexo::before {
+.si-gulp::before {
   content: "\ebf2";
 }
 
-.si-highly::before {
+.si-gumroad::before {
   content: "\ebf3";
 }
 
-.si-hilton::before {
+.si-gumtree::before {
   content: "\ebf4";
 }
 
-.si-hipchat::before {
+.si-gutenberg::before {
   content: "\ebf5";
 }
 
-.si-hitachi::before {
+.si-habr::before {
   content: "\ebf6";
 }
 
-.si-hive::before {
+.si-hackaday::before {
   content: "\ebf7";
 }
 
-.si-hockeyapp::before {
+.si-hackerearth::before {
   content: "\ebf8";
 }
 
-.si-homeassistant::before {
+.si-hackerone::before {
   content: "\ebf9";
 }
 
-.si-homify::before {
+.si-hackerrank::before {
   content: "\ebfa";
 }
 
-.si-honda::before {
+.si-hackhands::before {
   content: "\ebfb";
 }
 
-.si-hootsuite::before {
+.si-hackster::before {
   content: "\ebfc";
 }
 
-.si-houdini::before {
+.si-happycow::before {
   content: "\ebfd";
 }
 
-.si-houzz::before {
+.si-harbor::before {
   content: "\ebfe";
 }
 
-.si-hp::before {
+.si-hashnode::before {
   content: "\ebff";
 }
 
-.si-html5::before {
+.si-haskell::before {
   content: "\ec00";
 }
 
-.si-htmlacademy::before {
+.si-hatenabookmark::before {
   content: "\ec01";
 }
 
-.si-huawei::before {
+.si-haveibeenpwned::before {
   content: "\ec02";
 }
 
-.si-hubspot::before {
+.si-haxe::before {
   content: "\ec03";
 }
 
-.si-hugo::before {
+.si-hbo::before {
   content: "\ec04";
 }
 
-.si-hulu::before {
+.si-hellofresh::before {
   content: "\ec05";
 }
 
-.si-humblebundle::before {
+.si-hellyhansen::before {
   content: "\ec06";
 }
 
-.si-hurriyetemlak::before {
+.si-helm::before {
   content: "\ec07";
 }
 
-.si-hypothesis::before {
+.si-here::before {
   content: "\ec08";
 }
 
-.si-hyundai::before {
+.si-heroku::before {
   content: "\ec09";
 }
 
-.si-iata::before {
+.si-hexo::before {
   content: "\ec0a";
 }
 
-.si-ibeacon::before {
+.si-highly::before {
   content: "\ec0b";
 }
 
-.si-ibm::before {
+.si-hilton::before {
   content: "\ec0c";
 }
 
-.si-icloud::before {
+.si-hipchat::before {
   content: "\ec0d";
 }
 
-.si-icomoon::before {
+.si-hitachi::before {
   content: "\ec0e";
 }
 
-.si-icon::before {
+.si-hive::before {
   content: "\ec0f";
 }
 
-.si-iconify::before {
+.si-hockeyapp::before {
   content: "\ec10";
 }
 
-.si-iconjar::before {
+.si-homeassistant::before {
   content: "\ec11";
 }
 
-.si-icq::before {
+.si-homify::before {
   content: "\ec12";
 }
 
-.si-ideal::before {
+.si-honda::before {
   content: "\ec13";
 }
 
-.si-ifixit::before {
+.si-hootsuite::before {
   content: "\ec14";
 }
 
-.si-ifood::before {
+.si-hotels-dot-com::before {
   content: "\ec15";
 }
 
-.si-imdb::before {
+.si-houdini::before {
   content: "\ec16";
 }
 
-.si-imgur::before {
+.si-houzz::before {
   content: "\ec17";
 }
 
-.si-indeed::before {
+.si-hp::before {
   content: "\ec18";
 }
 
-.si-influxdb::before {
+.si-html5::before {
   content: "\ec19";
 }
 
-.si-inkscape::before {
+.si-htmlacademy::before {
   content: "\ec1a";
 }
 
-.si-instacart::before {
+.si-huawei::before {
   content: "\ec1b";
 }
 
-.si-instagram::before {
+.si-hubspot::before {
   content: "\ec1c";
 }
 
-.si-instapaper::before {
+.si-hugo::before {
   content: "\ec1d";
 }
 
-.si-intel::before {
+.si-hulu::before {
   content: "\ec1e";
 }
 
-.si-intellijidea::before {
+.si-humblebundle::before {
   content: "\ec1f";
 }
 
-.si-intercom::before {
+.si-hurriyetemlak::before {
   content: "\ec20";
 }
 
-.si-internetarchive::before {
+.si-hypothesis::before {
   content: "\ec21";
 }
 
-.si-internetexplorer::before {
+.si-hyundai::before {
   content: "\ec22";
 }
 
-.si-invision::before {
+.si-iata::before {
   content: "\ec23";
 }
 
-.si-invoiceninja::before {
+.si-ibeacon::before {
   content: "\ec24";
 }
 
-.si-iobroker::before {
+.si-ibm::before {
   content: "\ec25";
 }
 
-.si-ionic::before {
+.si-icloud::before {
   content: "\ec26";
 }
 
-.si-ios::before {
+.si-icomoon::before {
   content: "\ec27";
 }
 
-.si-ipfs::before {
+.si-icon::before {
   content: "\ec28";
 }
 
-.si-issuu::before {
+.si-iconify::before {
   content: "\ec29";
 }
 
-.si-itch-dot-io::before {
+.si-iconjar::before {
   content: "\ec2a";
 }
 
-.si-itunes::before {
+.si-icq::before {
   content: "\ec2b";
 }
 
-.si-iveco::before {
+.si-ideal::before {
   content: "\ec2c";
 }
 
-.si-jabber::before {
+.si-ifixit::before {
   content: "\ec2d";
 }
 
-.si-java::before {
+.si-ifood::before {
   content: "\ec2e";
 }
 
-.si-javascript::before {
+.si-imdb::before {
   content: "\ec2f";
 }
 
-.si-jcb::before {
+.si-imgur::before {
   content: "\ec30";
 }
 
-.si-jeep::before {
+.si-indeed::before {
   content: "\ec31";
 }
 
-.si-jekyll::before {
+.si-influxdb::before {
   content: "\ec32";
 }
 
-.si-jenkins::before {
+.si-inkscape::before {
   content: "\ec33";
 }
 
-.si-jenkinsx::before {
+.si-instacart::before {
   content: "\ec34";
 }
 
-.si-jest::before {
+.si-instagram::before {
   content: "\ec35";
 }
 
-.si-jet::before {
+.si-instapaper::before {
   content: "\ec36";
 }
 
-.si-jetbrains::before {
+.si-intel::before {
   content: "\ec37";
 }
 
-.si-jinja::before {
+.si-intellijidea::before {
   content: "\ec38";
 }
 
-.si-jira::before {
+.si-intercom::before {
   content: "\ec39";
 }
 
-.si-johndeere::before {
+.si-internetarchive::before {
   content: "\ec3a";
 }
 
-.si-joomla::before {
+.si-internetexplorer::before {
   content: "\ec3b";
 }
 
-.si-jquery::before {
+.si-invision::before {
   content: "\ec3c";
 }
 
-.si-jsdelivr::before {
+.si-invoiceninja::before {
   content: "\ec3d";
 }
 
-.si-jsfiddle::before {
+.si-iobroker::before {
   content: "\ec3e";
 }
 
-.si-json::before {
+.si-ionic::before {
   content: "\ec3f";
 }
 
-.si-jsonwebtokens::before {
+.si-ios::before {
   content: "\ec40";
 }
 
-.si-jupyter::before {
+.si-ipfs::before {
   content: "\ec41";
 }
 
-.si-justeat::before {
+.si-issuu::before {
   content: "\ec42";
 }
 
-.si-justgiving::before {
+.si-itch-dot-io::before {
   content: "\ec43";
 }
 
-.si-kaggle::before {
+.si-itunes::before {
   content: "\ec44";
 }
 
-.si-kaios::before {
+.si-iveco::before {
   content: "\ec45";
 }
 
-.si-kaspersky::before {
+.si-jabber::before {
   content: "\ec46";
 }
 
-.si-katana::before {
+.si-jameson::before {
   content: "\ec47";
 }
 
-.si-keepassxc::before {
+.si-java::before {
   content: "\ec48";
 }
 
-.si-kentico::before {
+.si-javascript::before {
   content: "\ec49";
 }
 
-.si-keras::before {
+.si-jcb::before {
   content: "\ec4a";
 }
 
-.si-keybase::before {
+.si-jeep::before {
   content: "\ec4b";
 }
 
-.si-keycdn::before {
+.si-jekyll::before {
   content: "\ec4c";
 }
 
-.si-khanacademy::before {
+.si-jenkins::before {
   content: "\ec4d";
 }
 
-.si-khronosgroup::before {
+.si-jenkinsx::before {
   content: "\ec4e";
 }
 
-.si-kia::before {
+.si-jest::before {
   content: "\ec4f";
 }
 
-.si-kibana::before {
+.si-jet::before {
   content: "\ec50";
 }
 
-.si-kickstarter::before {
+.si-jetbrains::before {
   content: "\ec51";
 }
 
-.si-kik::before {
+.si-jinja::before {
   content: "\ec52";
 }
 
-.si-kirby::before {
+.si-jira::before {
   content: "\ec53";
 }
 
-.si-klm::before {
+.si-johndeere::before {
   content: "\ec54";
 }
 
-.si-klout::before {
+.si-joomla::before {
   content: "\ec55";
 }
 
-.si-known::before {
+.si-jquery::before {
   content: "\ec56";
 }
 
-.si-ko-fi::before {
+.si-jsdelivr::before {
   content: "\ec57";
 }
 
-.si-kodi::before {
+.si-jsfiddle::before {
   content: "\ec58";
 }
 
-.si-koding::before {
+.si-json::before {
   content: "\ec59";
 }
 
-.si-kotlin::before {
+.si-jsonwebtokens::before {
   content: "\ec5a";
 }
 
-.si-krita::before {
+.si-jupyter::before {
   content: "\ec5b";
 }
 
-.si-kubernetes::before {
+.si-justeat::before {
   content: "\ec5c";
 }
 
-.si-kyocera::before {
+.si-justgiving::before {
   content: "\ec5d";
 }
 
-.si-labview::before {
+.si-kaggle::before {
   content: "\ec5e";
 }
 
-.si-lamborghini::before {
+.si-kaios::before {
   content: "\ec5f";
 }
 
-.si-laravel::before {
+.si-kaspersky::before {
   content: "\ec60";
 }
 
-.si-laravelhorizon::before {
+.si-katana::before {
   content: "\ec61";
 }
 
-.si-laravelnova::before {
+.si-kde::before {
   content: "\ec62";
 }
 
-.si-last-dot-fm::before {
+.si-keepassxc::before {
   content: "\ec63";
 }
 
-.si-lastpass::before {
+.si-kentico::before {
   content: "\ec64";
 }
 
-.si-latex::before {
+.si-keras::before {
   content: "\ec65";
 }
 
-.si-launchpad::before {
+.si-keybase::before {
   content: "\ec66";
 }
 
-.si-leetcode::before {
+.si-keycdn::before {
   content: "\ec67";
 }
 
-.si-lenovo::before {
+.si-khanacademy::before {
   content: "\ec68";
 }
 
-.si-letsencrypt::before {
+.si-khronosgroup::before {
   content: "\ec69";
 }
 
-.si-letterboxd::before {
+.si-kia::before {
   content: "\ec6a";
 }
 
-.si-lg::before {
+.si-kibana::before {
   content: "\ec6b";
 }
 
-.si-lgtm::before {
+.si-kickstarter::before {
   content: "\ec6c";
 }
 
-.si-liberapay::before {
+.si-kik::before {
   content: "\ec6d";
 }
 
-.si-librarything::before {
+.si-kirby::before {
   content: "\ec6e";
 }
 
-.si-libreoffice::before {
+.si-klm::before {
   content: "\ec6f";
 }
 
-.si-libuv::before {
+.si-klout::before {
   content: "\ec70";
 }
 
-.si-lighthouse::before {
+.si-known::before {
   content: "\ec71";
 }
 
-.si-line::before {
+.si-ko-fi::before {
   content: "\ec72";
 }
 
-.si-lineageos::before {
+.si-kodi::before {
   content: "\ec73";
 }
 
-.si-linewebtoon::before {
+.si-koding::before {
   content: "\ec74";
 }
 
-.si-linkedin::before {
+.si-kofax::before {
   content: "\ec75";
 }
 
-.si-linode::before {
+.si-kotlin::before {
   content: "\ec76";
 }
 
-.si-linux::before {
+.si-krita::before {
   content: "\ec77";
 }
 
-.si-linuxfoundation::before {
+.si-kubernetes::before {
   content: "\ec78";
 }
 
-.si-linuxmint::before {
+.si-kyocera::before {
   content: "\ec79";
 }
 
-.si-litecoin::before {
+.si-labview::before {
   content: "\ec7a";
 }
 
-.si-livejournal::before {
+.si-lamborghini::before {
   content: "\ec7b";
 }
 
-.si-livestream::before {
+.si-laravel::before {
   content: "\ec7c";
 }
 
-.si-llvm::before {
+.si-laravelhorizon::before {
   content: "\ec7d";
 }
 
-.si-lmms::before {
+.si-laravelnova::before {
   content: "\ec7e";
 }
 
-.si-logitech::before {
+.si-last-dot-fm::before {
   content: "\ec7f";
 }
 
-.si-logmein::before {
+.si-lastpass::before {
   content: "\ec80";
 }
 
-.si-logstash::before {
+.si-latex::before {
   content: "\ec81";
 }
 
-.si-loop::before {
+.si-launchpad::before {
   content: "\ec82";
 }
 
-.si-lua::before {
+.si-leaflet::before {
   content: "\ec83";
 }
 
-.si-lubuntu::before {
+.si-leetcode::before {
   content: "\ec84";
 }
 
-.si-lufthansa::before {
+.si-lenovo::before {
   content: "\ec85";
 }
 
-.si-lumen::before {
+.si-letsencrypt::before {
   content: "\ec86";
 }
 
-.si-lyft::before {
+.si-letterboxd::before {
   content: "\ec87";
 }
 
-.si-maas::before {
+.si-lg::before {
   content: "\ec88";
 }
 
-.si-macys::before {
+.si-lgtm::before {
   content: "\ec89";
 }
 
-.si-magento::before {
+.si-liberapay::before {
   content: "\ec8a";
 }
 
-.si-magisk::before {
+.si-librarything::before {
   content: "\ec8b";
 }
 
-.si-mail-dot-ru::before {
+.si-libreoffice::before {
   content: "\ec8c";
 }
 
-.si-mailchimp::before {
+.si-libuv::before {
   content: "\ec8d";
 }
 
-.si-makerbot::before {
+.si-lighthouse::before {
   content: "\ec8e";
 }
 
-.si-man::before {
+.si-line::before {
   content: "\ec8f";
 }
 
-.si-manageiq::before {
+.si-lineageos::before {
   content: "\ec90";
 }
 
-.si-manjaro::before {
+.si-linewebtoon::before {
   content: "\ec91";
 }
 
-.si-mapbox::before {
+.si-linkedin::before {
   content: "\ec92";
 }
 
-.si-mariadb::before {
+.si-linode::before {
   content: "\ec93";
 }
 
-.si-mariadbfoundation::before {
+.si-linux::before {
   content: "\ec94";
 }
 
-.si-markdown::before {
+.si-linuxfoundation::before {
   content: "\ec95";
 }
 
-.si-marketo::before {
+.si-linuxmint::before {
   content: "\ec96";
 }
 
-.si-marriott::before {
+.si-litecoin::before {
   content: "\ec97";
 }
 
-.si-maserati::before {
+.si-livejournal::before {
   content: "\ec98";
 }
 
-.si-mastercard::before {
+.si-livestream::before {
   content: "\ec99";
 }
 
-.si-mastodon::before {
+.si-llvm::before {
   content: "\ec9a";
 }
 
-.si-material-ui::before {
+.si-lmms::before {
   content: "\ec9b";
 }
 
-.si-materialdesign::before {
+.si-logitech::before {
   content: "\ec9c";
 }
 
-.si-materialdesignicons::before {
+.si-logmein::before {
   content: "\ec9d";
 }
 
-.si-mathworks::before {
+.si-logstash::before {
   content: "\ec9e";
 }
 
-.si-matrix::before {
+.si-loop::before {
   content: "\ec9f";
 }
 
-.si-mattermost::before {
+.si-lua::before {
   content: "\eca0";
 }
 
-.si-matternet::before {
+.si-lubuntu::before {
   content: "\eca1";
 }
 
-.si-mazda::before {
+.si-lufthansa::before {
   content: "\eca2";
 }
 
-.si-mcafee::before {
+.si-lumen::before {
   content: "\eca3";
 }
 
-.si-mcdonalds::before {
+.si-lyft::before {
   content: "\eca4";
 }
 
-.si-mdnwebdocs::before {
+.si-maas::before {
   content: "\eca5";
 }
 
-.si-mediafire::before {
+.si-macys::before {
   content: "\eca6";
 }
 
-.si-mediatemple::before {
+.si-magento::before {
   content: "\eca7";
 }
 
-.si-medium::before {
+.si-magisk::before {
   content: "\eca8";
 }
 
-.si-meetup::before {
+.si-mail-dot-ru::before {
   content: "\eca9";
 }
 
-.si-mega::before {
+.si-mailchimp::before {
   content: "\ecaa";
 }
 
-.si-mendeley::before {
+.si-makerbot::before {
   content: "\ecab";
 }
 
-.si-mercedes::before {
+.si-man::before {
   content: "\ecac";
 }
 
-.si-messenger::before {
+.si-manageiq::before {
   content: "\ecad";
 }
 
-.si-meteor::before {
+.si-manjaro::before {
   content: "\ecae";
 }
 
-.si-micro-dot-blog::before {
+.si-mapbox::before {
   content: "\ecaf";
 }
 
-.si-microbit::before {
+.si-mariadb::before {
   content: "\ecb0";
 }
 
-.si-microgenetics::before {
+.si-mariadbfoundation::before {
   content: "\ecb1";
 }
 
-.si-microsoft::before {
+.si-markdown::before {
   content: "\ecb2";
 }
 
-.si-microsoftaccess::before {
+.si-marketo::before {
   content: "\ecb3";
 }
 
-.si-microsoftazure::before {
+.si-marriott::before {
   content: "\ecb4";
 }
 
-.si-microsoftedge::before {
+.si-maserati::before {
   content: "\ecb5";
 }
 
-.si-microsoftexcel::before {
+.si-mastercard::before {
   content: "\ecb6";
 }
 
-.si-microsoftexchange::before {
+.si-mastodon::before {
   content: "\ecb7";
 }
 
-.si-microsoftoffice::before {
+.si-material-ui::before {
   content: "\ecb8";
 }
 
-.si-microsoftonedrive::before {
+.si-materialdesign::before {
   content: "\ecb9";
 }
 
-.si-microsoftonenote::before {
+.si-materialdesignicons::before {
   content: "\ecba";
 }
 
-.si-microsoftoutlook::before {
+.si-mathworks::before {
   content: "\ecbb";
 }
 
-.si-microsoftpowerpoint::before {
+.si-matrix::before {
   content: "\ecbc";
 }
 
-.si-microsoftsharepoint::before {
+.si-mattermost::before {
   content: "\ecbd";
 }
 
-.si-microsoftsqlserver::before {
+.si-matternet::before {
   content: "\ecbe";
 }
 
-.si-microsoftteams::before {
+.si-mazda::before {
   content: "\ecbf";
 }
 
-.si-microsoftvisio::before {
+.si-mcafee::before {
   content: "\ecc0";
 }
 
-.si-microsoftword::before {
+.si-mcdonalds::before {
   content: "\ecc1";
 }
 
-.si-microstrategy::before {
+.si-mdnwebdocs::before {
   content: "\ecc2";
 }
 
-.si-midi::before {
+.si-mediafire::before {
   content: "\ecc3";
 }
 
-.si-minds::before {
+.si-mediatemple::before {
   content: "\ecc4";
 }
 
-.si-minetest::before {
+.si-medium::before {
   content: "\ecc5";
 }
 
-.si-minutemailer::before {
+.si-meetup::before {
   content: "\ecc6";
 }
 
-.si-mitsubishi::before {
+.si-mega::before {
   content: "\ecc7";
 }
 
-.si-mix::before {
+.si-mendeley::before {
   content: "\ecc8";
 }
 
-.si-mixcloud::before {
+.si-mercedes::before {
   content: "\ecc9";
 }
 
-.si-mixer::before {
+.si-messenger::before {
   content: "\ecca";
 }
 
-.si-mocha::before {
+.si-meteor::before {
   content: "\eccb";
 }
 
-.si-mojang::before {
+.si-metrodeparis::before {
   content: "\eccc";
 }
 
-.si-monero::before {
+.si-micro-dot-blog::before {
   content: "\eccd";
 }
 
-.si-mongodb::before {
+.si-microbit::before {
   content: "\ecce";
 }
 
-.si-monkeytie::before {
+.si-microgenetics::before {
   content: "\eccf";
 }
 
-.si-monogram::before {
+.si-microsoft::before {
   content: "\ecd0";
 }
 
-.si-monster::before {
+.si-microsoftaccess::before {
   content: "\ecd1";
 }
 
-.si-monzo::before {
+.si-microsoftazure::before {
   content: "\ecd2";
 }
 
-.si-moo::before {
+.si-microsoftedge::before {
   content: "\ecd3";
 }
 
-.si-mozilla::before {
+.si-microsoftexcel::before {
   content: "\ecd4";
 }
 
-.si-mozillafirefox::before {
+.si-microsoftexchange::before {
   content: "\ecd5";
 }
 
-.si-mta::before {
+.si-microsoftoffice::before {
   content: "\ecd6";
 }
 
-.si-musescore::before {
+.si-microsoftonedrive::before {
   content: "\ecd7";
 }
 
-.si-mxlinux::before {
+.si-microsoftonenote::before {
   content: "\ecd8";
 }
 
-.si-myspace::before {
+.si-microsoftoutlook::before {
   content: "\ecd9";
 }
 
-.si-mysql::before {
+.si-microsoftpowerpoint::before {
   content: "\ecda";
 }
 
-.si-nativescript::before {
+.si-microsoftsharepoint::before {
   content: "\ecdb";
 }
 
-.si-ndr::before {
+.si-microsoftsqlserver::before {
   content: "\ecdc";
 }
 
-.si-nec::before {
+.si-microsoftteams::before {
   content: "\ecdd";
 }
 
-.si-neo4j::before {
+.si-microsoftvisio::before {
   content: "\ecde";
 }
 
-.si-neovim::before {
+.si-microsoftword::before {
   content: "\ecdf";
 }
 
-.si-netapp::before {
+.si-microstrategy::before {
   content: "\ece0";
 }
 
-.si-netflix::before {
+.si-midi::before {
   content: "\ece1";
 }
 
-.si-netlify::before {
+.si-minds::before {
   content: "\ece2";
 }
 
-.si-newyorktimes::before {
+.si-minetest::before {
   content: "\ece3";
 }
 
-.si-next-dot-js::before {
+.si-minutemailer::before {
   content: "\ece4";
 }
 
-.si-nextcloud::before {
+.si-mitsubishi::before {
   content: "\ece5";
 }
 
-.si-nextdoor::before {
+.si-mix::before {
   content: "\ece6";
 }
 
-.si-nfc::before {
+.si-mixcloud::before {
   content: "\ece7";
 }
 
-.si-nginx::before {
+.si-mixer::before {
   content: "\ece8";
 }
 
-.si-niconico::before {
+.si-mocha::before {
   content: "\ece9";
 }
 
-.si-nim::before {
+.si-mojang::before {
   content: "\ecea";
 }
 
-.si-nintendo::before {
+.si-moleculer::before {
   content: "\eceb";
 }
 
-.si-nintendo3ds::before {
+.si-monero::before {
   content: "\ecec";
 }
 
-.si-nintendogamecube::before {
+.si-mongodb::before {
   content: "\eced";
 }
 
-.si-nintendonetwork::before {
+.si-monkeytie::before {
   content: "\ecee";
 }
 
-.si-nintendoswitch::before {
+.si-monogram::before {
   content: "\ecef";
 }
 
-.si-nissan::before {
+.si-monster::before {
   content: "\ecf0";
 }
 
-.si-nixos::before {
+.si-monzo::before {
   content: "\ecf1";
 }
 
-.si-node-dot-js::before {
+.si-moo::before {
   content: "\ecf2";
 }
 
-.si-node-red::before {
+.si-moscowmetro::before {
   content: "\ecf3";
 }
 
-.si-nodemon::before {
+.si-mozilla::before {
   content: "\ecf4";
 }
 
-.si-nokia::before {
+.si-mozillafirefox::before {
   content: "\ecf5";
 }
 
-.si-notion::before {
+.si-mozillathunderbird::before {
   content: "\ecf6";
 }
 
-.si-notist::before {
+.si-mta::before {
   content: "\ecf7";
 }
 
-.si-npm::before {
+.si-mtr::before {
   content: "\ecf8";
 }
 
-.si-nucleo::before {
+.si-musescore::before {
   content: "\ecf9";
 }
 
-.si-nuget::before {
+.si-mxlinux::before {
   content: "\ecfa";
 }
 
-.si-nuke::before {
+.si-myspace::before {
   content: "\ecfb";
 }
 
-.si-nutanix::before {
+.si-mysql::before {
   content: "\ecfc";
 }
 
-.si-nuxt-dot-js::before {
+.si-nativescript::before {
   content: "\ecfd";
 }
 
-.si-nvidia::before {
+.si-ndr::before {
   content: "\ecfe";
 }
 
-.si-obsstudio::before {
+.si-nec::before {
   content: "\ecff";
 }
 
-.si-ocaml::before {
+.si-neo4j::before {
   content: "\ed00";
 }
 
-.si-octave::before {
+.si-neovim::before {
   content: "\ed01";
 }
 
-.si-octopusdeploy::before {
+.si-netapp::before {
   content: "\ed02";
 }
 
-.si-oculus::before {
+.si-netflix::before {
   content: "\ed03";
 }
 
-.si-odnoklassniki::before {
+.si-netlify::before {
   content: "\ed04";
 }
 
-.si-onstar::before {
+.si-newyorktimes::before {
   content: "\ed05";
 }
 
-.si-opel::before {
+.si-next-dot-js::before {
   content: "\ed06";
 }
 
-.si-openaccess::before {
+.si-nextcloud::before {
   content: "\ed07";
 }
 
-.si-openapiinitiative::before {
+.si-nextdoor::before {
   content: "\ed08";
 }
 
-.si-openbsd::before {
+.si-nfc::before {
   content: "\ed09";
 }
 
-.si-opencollective::before {
+.si-nginx::before {
   content: "\ed0a";
 }
 
-.si-opencontainersinitiative::before {
+.si-niconico::before {
   content: "\ed0b";
 }
 
-.si-opengl::before {
+.si-nim::before {
   content: "\ed0c";
 }
 
-.si-openid::before {
+.si-nintendo::before {
   content: "\ed0d";
 }
 
-.si-opensourceinitiative::before {
+.si-nintendo3ds::before {
   content: "\ed0e";
 }
 
-.si-openssl::before {
+.si-nintendogamecube::before {
   content: "\ed0f";
 }
 
-.si-openstack::before {
+.si-nintendonetwork::before {
   content: "\ed10";
 }
 
-.si-openstreetmap::before {
+.si-nintendoswitch::before {
   content: "\ed11";
 }
 
-.si-opensuse::before {
+.si-nissan::before {
   content: "\ed12";
 }
 
-.si-openvpn::before {
+.si-nixos::before {
   content: "\ed13";
 }
 
-.si-opera::before {
+.si-node-dot-js::before {
   content: "\ed14";
 }
 
-.si-opsgenie::before {
+.si-node-red::before {
   content: "\ed15";
 }
 
-.si-opslevel::before {
+.si-nodemon::before {
   content: "\ed16";
 }
 
-.si-oracle::before {
+.si-nokia::before {
   content: "\ed17";
 }
 
-.si-orcid::before {
+.si-notion::before {
   content: "\ed18";
 }
 
-.si-origin::before {
+.si-notist::before {
   content: "\ed19";
 }
 
-.si-oshkosh::before {
+.si-npm::before {
   content: "\ed1a";
 }
 
-.si-osmc::before {
+.si-nucleo::before {
   content: "\ed1b";
 }
 
-.si-overcast::before {
+.si-nuget::before {
   content: "\ed1c";
 }
 
-.si-overleaf::before {
+.si-nuke::before {
   content: "\ed1d";
 }
 
-.si-ovh::before {
+.si-nutanix::before {
   content: "\ed1e";
 }
 
-.si-pagekit::before {
+.si-nuxt-dot-js::before {
   content: "\ed1f";
 }
 
-.si-pagseguro::before {
+.si-nvidia::before {
   content: "\ed20";
 }
 
-.si-palantir::before {
+.si-obsstudio::before {
   content: "\ed21";
 }
 
-.si-paloaltosoftware::before {
+.si-ocaml::before {
   content: "\ed22";
 }
 
-.si-pandora::before {
+.si-octave::before {
   content: "\ed23";
 }
 
-.si-pantheon::before {
+.si-octopusdeploy::before {
   content: "\ed24";
 }
 
-.si-paritysubstrate::before {
+.si-oculus::before {
   content: "\ed25";
 }
 
-.si-parse-dot-ly::before {
+.si-odnoklassniki::before {
   content: "\ed26";
 }
 
-.si-pastebin::before {
+.si-onstar::before {
   content: "\ed27";
 }
 
-.si-patreon::before {
+.si-opel::before {
   content: "\ed28";
 }
 
-.si-paypal::before {
+.si-openaccess::before {
   content: "\ed29";
 }
 
-.si-peertube::before {
+.si-openapiinitiative::before {
   content: "\ed2a";
 }
 
-.si-pepsi::before {
+.si-openbsd::before {
   content: "\ed2b";
 }
 
-.si-periscope::before {
+.si-opencollective::before {
   content: "\ed2c";
 }
 
-.si-perl::before {
+.si-opencontainersinitiative::before {
   content: "\ed2d";
 }
 
-.si-peugeot::before {
+.si-opengl::before {
   content: "\ed2e";
 }
 
-.si-pexels::before {
+.si-openid::before {
   content: "\ed2f";
 }
 
-.si-phabricator::before {
+.si-opensourceinitiative::before {
   content: "\ed30";
 }
 
-.si-photocrowd::before {
+.si-openssl::before {
   content: "\ed31";
 }
 
-.si-php::before {
+.si-openstack::before {
   content: "\ed32";
 }
 
-.si-pi-hole::before {
+.si-openstreetmap::before {
   content: "\ed33";
 }
 
-.si-picarto-dot-tv::before {
+.si-opensuse::before {
   content: "\ed34";
 }
 
-.si-pinboard::before {
+.si-openvpn::before {
   content: "\ed35";
 }
 
-.si-pingdom::before {
+.si-opera::before {
   content: "\ed36";
 }
 
-.si-pingup::before {
+.si-opsgenie::before {
   content: "\ed37";
 }
 
-.si-pinterest::before {
+.si-opslevel::before {
   content: "\ed38";
 }
 
-.si-pivotaltracker::before {
+.si-oracle::before {
   content: "\ed39";
 }
 
-.si-pixabay::before {
+.si-orcid::before {
   content: "\ed3a";
 }
 
-.si-pjsip::before {
+.si-origin::before {
   content: "\ed3b";
 }
 
-.si-plangrid::before {
+.si-oshkosh::before {
   content: "\ed3c";
 }
 
-.si-platzi::before {
+.si-osmc::before {
   content: "\ed3d";
 }
 
-.si-player-dot-me::before {
+.si-overcast::before {
   content: "\ed3e";
 }
 
-.si-playerfm::before {
+.si-overleaf::before {
   content: "\ed3f";
 }
 
-.si-playstation::before {
+.si-ovh::before {
   content: "\ed40";
 }
 
-.si-playstation2::before {
+.si-pagekit::before {
   content: "\ed41";
 }
 
-.si-playstation3::before {
+.si-pagerduty::before {
   content: "\ed42";
 }
 
-.si-playstation4::before {
+.si-pagseguro::before {
   content: "\ed43";
 }
 
-.si-pleroma::before {
+.si-palantir::before {
   content: "\ed44";
 }
 
-.si-plesk::before {
+.si-paloaltosoftware::before {
   content: "\ed45";
 }
 
-.si-plex::before {
+.si-pandora::before {
   content: "\ed46";
 }
 
-.si-pluralsight::before {
+.si-pantheon::before {
   content: "\ed47";
 }
 
-.si-plurk::before {
+.si-paritysubstrate::before {
   content: "\ed48";
 }
 
-.si-pluscodes::before {
+.si-parse-dot-ly::before {
   content: "\ed49";
 }
 
-.si-pocket::before {
+.si-pastebin::before {
   content: "\ed4a";
 }
 
-.si-pocketcasts::before {
+.si-patreon::before {
   content: "\ed4b";
 }
 
-.si-pokemon::before {
+.si-paypal::before {
   content: "\ed4c";
 }
 
-.si-poly::before {
+.si-peertube::before {
   content: "\ed4d";
 }
 
-.si-polymerproject::before {
+.si-pepsi::before {
   content: "\ed4e";
 }
 
-.si-porsche::before {
+.si-periscope::before {
   content: "\ed4f";
 }
 
-.si-postcss::before {
+.si-perl::before {
   content: "\ed50";
 }
 
-.si-postgresql::before {
+.si-peugeot::before {
   content: "\ed51";
 }
 
-.si-postman::before {
+.si-pexels::before {
   content: "\ed52";
 }
 
-.si-postwoman::before {
+.si-phabricator::before {
   content: "\ed53";
 }
 
-.si-powershell::before {
+.si-photocrowd::before {
   content: "\ed54";
 }
 
-.si-pr-dot-co::before {
+.si-php::before {
   content: "\ed55";
 }
 
-.si-pre-commit::before {
+.si-pi-hole::before {
   content: "\ed56";
 }
 
-.si-prestashop::before {
+.si-picarto-dot-tv::before {
   content: "\ed57";
 }
 
-.si-prettier::before {
+.si-pinboard::before {
   content: "\ed58";
 }
 
-.si-prezi::before {
+.si-pingdom::before {
   content: "\ed59";
 }
 
-.si-prismic::before {
+.si-pingup::before {
   content: "\ed5a";
 }
 
-.si-probot::before {
+.si-pinterest::before {
   content: "\ed5b";
 }
 
-.si-processwire::before {
+.si-pivotaltracker::before {
   content: "\ed5c";
 }
 
-.si-producthunt::before {
+.si-piwigo::before {
   content: "\ed5d";
 }
 
-.si-prometheus::before {
+.si-pixabay::before {
   content: "\ed5e";
 }
 
-.si-prosieben::before {
+.si-pixiv::before {
   content: "\ed5f";
 }
 
-.si-proto-dot-io::before {
+.si-pjsip::before {
   content: "\ed60";
 }
 
-.si-protocols-dot-io::before {
+.si-plangrid::before {
   content: "\ed61";
 }
 
-.si-protonmail::before {
+.si-platzi::before {
   content: "\ed62";
 }
 
-.si-proxmox::before {
+.si-player-dot-me::before {
   content: "\ed63";
 }
 
-.si-publons::before {
+.si-playerfm::before {
   content: "\ed64";
 }
 
-.si-puppet::before {
+.si-playstation::before {
   content: "\ed65";
 }
 
-.si-purescript::before {
+.si-playstation2::before {
   content: "\ed66";
 }
 
-.si-pypi::before {
+.si-playstation3::before {
   content: "\ed67";
 }
 
-.si-python::before {
+.si-playstation4::before {
   content: "\ed68";
 }
 
-.si-pytorch::before {
+.si-playstationvita::before {
   content: "\ed69";
 }
 
-.si-pyup::before {
+.si-pleroma::before {
   content: "\ed6a";
 }
 
-.si-qemu::before {
+.si-plesk::before {
   content: "\ed6b";
 }
 
-.si-qgis::before {
+.si-plex::before {
   content: "\ed6c";
 }
 
-.si-qi::before {
+.si-pluralsight::before {
   content: "\ed6d";
 }
 
-.si-qiita::before {
+.si-plurk::before {
   content: "\ed6e";
 }
 
-.si-qiwi::before {
+.si-pluscodes::before {
   content: "\ed6f";
 }
 
-.si-qualcomm::before {
+.si-pocket::before {
   content: "\ed70";
 }
 
-.si-qualtrics::before {
+.si-pocketcasts::before {
   content: "\ed71";
 }
 
-.si-quantcast::before {
+.si-pokemon::before {
   content: "\ed72";
 }
 
-.si-quantopian::before {
+.si-poly::before {
   content: "\ed73";
 }
 
-.si-quarkus::before {
+.si-polymerproject::before {
   content: "\ed74";
 }
 
-.si-quest::before {
+.si-porsche::before {
   content: "\ed75";
 }
 
-.si-quicktime::before {
+.si-postcss::before {
   content: "\ed76";
 }
 
-.si-quip::before {
+.si-postgresql::before {
   content: "\ed77";
 }
 
-.si-quora::before {
+.si-postman::before {
   content: "\ed78";
 }
 
-.si-qwiklabs::before {
+.si-postwoman::before {
   content: "\ed79";
 }
 
-.si-qzone::before {
+.si-powerbi::before {
   content: "\ed7a";
 }
 
-.si-r::before {
+.si-powers::before {
   content: "\ed7b";
 }
 
-.si-rabbitmq::before {
+.si-powershell::before {
   content: "\ed7c";
 }
 
-.si-radiopublic::before {
+.si-pr-dot-co::before {
   content: "\ed7d";
 }
 
-.si-rails::before {
+.si-pre-commit::before {
   content: "\ed7e";
 }
 
-.si-raspberrypi::before {
+.si-prestashop::before {
   content: "\ed7f";
 }
 
-.si-react::before {
+.si-prettier::before {
   content: "\ed80";
 }
 
-.si-reactos::before {
+.si-prezi::before {
   content: "\ed81";
 }
 
-.si-reactrouter::before {
+.si-prismic::before {
   content: "\ed82";
 }
 
-.si-readthedocs::before {
+.si-probot::before {
   content: "\ed83";
 }
 
-.si-realm::before {
+.si-processwire::before {
   content: "\ed84";
 }
 
-.si-reason::before {
+.si-producthunt::before {
   content: "\ed85";
 }
 
-.si-reasonstudios::before {
+.si-prometheus::before {
   content: "\ed86";
 }
 
-.si-redbubble::before {
+.si-prosieben::before {
   content: "\ed87";
 }
 
-.si-reddit::before {
+.si-proto-dot-io::before {
   content: "\ed88";
 }
 
-.si-redhat::before {
+.si-protocols-dot-io::before {
   content: "\ed89";
 }
 
-.si-redhatopenshift::before {
+.si-protonmail::before {
   content: "\ed8a";
 }
 
-.si-redis::before {
+.si-proxmox::before {
   content: "\ed8b";
 }
 
-.si-redux::before {
+.si-publons::before {
   content: "\ed8c";
 }
 
-.si-renault::before {
+.si-puppet::before {
   content: "\ed8d";
 }
 
-.si-renren::before {
+.si-purescript::before {
   content: "\ed8e";
 }
 
-.si-repl-dot-it::before {
+.si-pypi::before {
   content: "\ed8f";
 }
 
-.si-researchgate::before {
+.si-python::before {
   content: "\ed90";
 }
 
-.si-reverbnation::before {
+.si-pytorch::before {
   content: "\ed91";
 }
 
-.si-rhinoceros::before {
+.si-pyup::before {
   content: "\ed92";
 }
 
-.si-riot::before {
+.si-qantas::before {
   content: "\ed93";
 }
 
-.si-riotgames::before {
+.si-qemu::before {
   content: "\ed94";
 }
 
-.si-ripple::before {
+.si-qgis::before {
   content: "\ed95";
 }
 
-.si-riseup::before {
+.si-qi::before {
   content: "\ed96";
 }
 
-.si-roku::before {
+.si-qiita::before {
   content: "\ed97";
 }
 
-.si-rollup-dot-js::before {
+.si-qiwi::before {
   content: "\ed98";
 }
 
-.si-roots::before {
+.si-qualcomm::before {
   content: "\ed99";
 }
 
-.si-roundcube::before {
+.si-qualtrics::before {
   content: "\ed9a";
 }
 
-.si-rss::before {
+.si-quantcast::before {
   content: "\ed9b";
 }
 
-.si-rstudio::before {
+.si-quantopian::before {
   content: "\ed9c";
 }
 
-.si-rtlzwei::before {
+.si-quarkus::before {
   content: "\ed9d";
 }
 
-.si-ruby::before {
+.si-quest::before {
   content: "\ed9e";
 }
 
-.si-rubygems::before {
+.si-quicktime::before {
   content: "\ed9f";
 }
 
-.si-runkeeper::before {
+.si-quip::before {
   content: "\eda0";
 }
 
-.si-rust::before {
+.si-quora::before {
   content: "\eda1";
 }
 
-.si-ryanair::before {
+.si-qwiklabs::before {
   content: "\eda2";
 }
 
-.si-safari::before {
+.si-qzone::before {
   content: "\eda3";
 }
 
-.si-sahibinden::before {
+.si-r::before {
   content: "\eda4";
 }
 
-.si-salesforce::before {
+.si-rabbitmq::before {
   content: "\eda5";
 }
 
-.si-saltstack::before {
+.si-radiopublic::before {
   content: "\eda6";
 }
 
-.si-samsung::before {
+.si-rails::before {
   content: "\eda7";
 }
 
-.si-samsungpay::before {
+.si-raspberrypi::before {
   content: "\eda8";
 }
 
-.si-sap::before {
+.si-react::before {
   content: "\eda9";
 }
 
-.si-sass::before {
+.si-reactos::before {
   content: "\edaa";
 }
 
-.si-sat-dot-1::before {
+.si-reactrouter::before {
   content: "\edab";
 }
 
-.si-saucelabs::before {
+.si-readthedocs::before {
   content: "\edac";
 }
 
-.si-scala::before {
+.si-realm::before {
   content: "\edad";
 }
 
-.si-scaleway::before {
+.si-reason::before {
   content: "\edae";
 }
 
-.si-scania::before {
+.si-reasonstudios::before {
   content: "\edaf";
 }
 
-.si-scribd::before {
+.si-redbubble::before {
   content: "\edb0";
 }
 
-.si-scrutinizerci::before {
+.si-reddit::before {
   content: "\edb1";
 }
 
-.si-seagate::before {
+.si-redhat::before {
   content: "\edb2";
 }
 
-.si-seat::before {
+.si-redhatopenshift::before {
   content: "\edb3";
 }
 
-.si-sega::before {
+.si-redis::before {
   content: "\edb4";
 }
 
-.si-sellfy::before {
+.si-redux::before {
   content: "\edb5";
 }
 
-.si-semanticweb::before {
+.si-renault::before {
   content: "\edb6";
 }
 
-.si-semaphoreci::before {
+.si-renren::before {
   content: "\edb7";
 }
 
-.si-sencha::before {
+.si-repl-dot-it::before {
   content: "\edb8";
 }
 
-.si-sensu::before {
+.si-researchgate::before {
   content: "\edb9";
 }
 
-.si-sentry::before {
+.si-retroarch::before {
   content: "\edba";
 }
 
-.si-serverfault::before {
+.si-retropie::before {
   content: "\edbb";
 }
 
-.si-serverless::before {
+.si-reverbnation::before {
   content: "\edbc";
 }
 
-.si-shazam::before {
+.si-rhinoceros::before {
   content: "\edbd";
 }
 
-.si-shell::before {
+.si-riot::before {
   content: "\edbe";
 }
 
-.si-shopify::before {
+.si-riotgames::before {
   content: "\edbf";
 }
 
-.si-shopware::before {
+.si-ripple::before {
   content: "\edc0";
 }
 
-.si-showpad::before {
+.si-riseup::before {
   content: "\edc1";
 }
 
-.si-siemens::before {
+.si-roku::before {
   content: "\edc2";
 }
 
-.si-signal::before {
+.si-rollup-dot-js::before {
   content: "\edc3";
 }
 
-.si-simpleicons::before {
+.si-roots::before {
   content: "\edc4";
 }
 
-.si-sinaweibo::before {
+.si-roundcube::before {
   content: "\edc5";
 }
 
-.si-sitepoint::before {
+.si-rss::before {
   content: "\edc6";
 }
 
-.si-sketch::before {
+.si-rstudio::before {
   content: "\edc7";
 }
 
-.si-skillshare::before {
+.si-rtlzwei::before {
   content: "\edc8";
 }
 
-.si-skoda::before {
+.si-ruby::before {
   content: "\edc9";
 }
 
-.si-skyliner::before {
+.si-rubygems::before {
   content: "\edca";
 }
 
-.si-skype::before {
+.si-runkeeper::before {
   content: "\edcb";
 }
 
-.si-skypeforbusiness::before {
+.si-rust::before {
   content: "\edcc";
 }
 
-.si-slack::before {
+.si-ryanair::before {
   content: "\edcd";
 }
 
-.si-slackware::before {
+.si-safari::before {
   content: "\edce";
 }
 
-.si-slashdot::before {
+.si-sahibinden::before {
   content: "\edcf";
 }
 
-.si-slickpic::before {
+.si-salesforce::before {
   content: "\edd0";
 }
 
-.si-slides::before {
+.si-saltstack::before {
   content: "\edd1";
 }
 
-.si-smart::before {
+.si-samsung::before {
   content: "\edd2";
 }
 
-.si-smartthings::before {
+.si-samsungpay::before {
   content: "\edd3";
 }
 
-.si-smashingmagazine::before {
+.si-sap::before {
   content: "\edd4";
 }
 
-.si-smugmug::before {
+.si-sass::before {
   content: "\edd5";
 }
 
-.si-snapchat::before {
+.si-sat-dot-1::before {
   content: "\edd6";
 }
 
-.si-snapcraft::before {
+.si-saucelabs::before {
   content: "\edd7";
 }
 
-.si-snyk::before {
+.si-scala::before {
   content: "\edd8";
 }
 
-.si-society6::before {
+.si-scaleway::before {
   content: "\edd9";
 }
 
-.si-socket-dot-io::before {
+.si-scania::before {
   content: "\edda";
 }
 
-.si-sogou::before {
+.si-scribd::before {
   content: "\eddb";
 }
 
-.si-solus::before {
+.si-scrutinizerci::before {
   content: "\eddc";
 }
 
-.si-sonarcloud::before {
+.si-seagate::before {
   content: "\eddd";
 }
 
-.si-sonarlint::before {
+.si-seat::before {
   content: "\edde";
 }
 
-.si-sonarqube::before {
+.si-sega::before {
   content: "\eddf";
 }
 
-.si-sonarsource::before {
+.si-sellfy::before {
   content: "\ede0";
 }
 
-.si-songkick::before {
+.si-semanticweb::before {
   content: "\ede1";
 }
 
-.si-sonicwall::before {
+.si-semaphoreci::before {
   content: "\ede2";
 }
 
-.si-sonos::before {
+.si-sencha::before {
   content: "\ede3";
 }
 
-.si-soundcloud::before {
+.si-sensu::before {
   content: "\ede4";
 }
 
-.si-sourceengine::before {
+.si-sentry::before {
   content: "\ede5";
 }
 
-.si-sourceforge::before {
+.si-serverfault::before {
   content: "\ede6";
 }
 
-.si-sourcegraph::before {
+.si-serverless::before {
   content: "\ede7";
 }
 
-.si-spacemacs::before {
+.si-shanghaimetro::before {
   content: "\ede8";
 }
 
-.si-spacex::before {
+.si-shazam::before {
   content: "\ede9";
 }
 
-.si-sparkfun::before {
+.si-shell::before {
   content: "\edea";
 }
 
-.si-sparkpost::before {
+.si-shopify::before {
   content: "\edeb";
 }
 
-.si-spdx::before {
+.si-shopware::before {
   content: "\edec";
 }
 
-.si-speakerdeck::before {
+.si-showpad::before {
   content: "\eded";
 }
 
-.si-spectrum::before {
+.si-siemens::before {
   content: "\edee";
 }
 
-.si-spinnaker::before {
+.si-signal::before {
   content: "\edef";
 }
 
-.si-spinrilla::before {
+.si-simpleicons::before {
   content: "\edf0";
 }
 
-.si-splunk::before {
+.si-sinaweibo::before {
   content: "\edf1";
 }
 
-.si-spotify::before {
+.si-sitepoint::before {
   content: "\edf2";
 }
 
-.si-spotlight::before {
+.si-sketch::before {
   content: "\edf3";
 }
 
-.si-spreaker::before {
+.si-skillshare::before {
   content: "\edf4";
 }
 
-.si-spring::before {
+.si-skoda::before {
   content: "\edf5";
 }
 
-.si-sprint::before {
+.si-skyliner::before {
   content: "\edf6";
 }
 
-.si-square::before {
+.si-skype::before {
   content: "\edf7";
 }
 
-.si-squareenix::before {
+.si-skypeforbusiness::before {
   content: "\edf8";
 }
 
-.si-squarespace::before {
+.si-slack::before {
   content: "\edf9";
 }
 
-.si-stackbit::before {
+.si-slackware::before {
   content: "\edfa";
 }
 
-.si-stackexchange::before {
+.si-slashdot::before {
   content: "\edfb";
 }
 
-.si-stackoverflow::before {
+.si-slickpic::before {
   content: "\edfc";
 }
 
-.si-stackpath::before {
+.si-slides::before {
   content: "\edfd";
 }
 
-.si-stackshare::before {
+.si-smart::before {
   content: "\edfe";
 }
 
-.si-stadia::before {
+.si-smartthings::before {
   content: "\edff";
 }
 
-.si-staffbase::before {
+.si-smashingmagazine::before {
   content: "\ee00";
 }
 
-.si-statamic::before {
+.si-smugmug::before {
   content: "\ee01";
 }
 
-.si-staticman::before {
+.si-snapchat::before {
   content: "\ee02";
 }
 
-.si-statuspage::before {
+.si-snapcraft::before {
   content: "\ee03";
 }
 
-.si-steam::before {
+.si-snyk::before {
   content: "\ee04";
 }
 
-.si-steamworks::before {
+.si-society6::before {
   content: "\ee05";
 }
 
-.si-steem::before {
+.si-socket-dot-io::before {
   content: "\ee06";
 }
 
-.si-steemit::before {
+.si-sogou::before {
   content: "\ee07";
 }
 
-.si-steinberg::before {
+.si-solus::before {
   content: "\ee08";
 }
 
-.si-stellar::before {
+.si-sonarcloud::before {
   content: "\ee09";
 }
 
-.si-stencyl::before {
+.si-sonarlint::before {
   content: "\ee0a";
 }
 
-.si-stitcher::before {
+.si-sonarqube::before {
   content: "\ee0b";
 }
 
-.si-storify::before {
+.si-sonarsource::before {
   content: "\ee0c";
 }
 
-.si-storybook::before {
+.si-songkick::before {
   content: "\ee0d";
 }
 
-.si-strapi::before {
+.si-sonicwall::before {
   content: "\ee0e";
 }
 
-.si-strava::before {
+.si-sonos::before {
   content: "\ee0f";
 }
 
-.si-stripe::before {
+.si-soundcloud::before {
   content: "\ee10";
 }
 
-.si-strongswan::before {
+.si-sourceengine::before {
   content: "\ee11";
 }
 
-.si-stubhub::before {
+.si-sourceforge::before {
   content: "\ee12";
 }
 
-.si-styled-components::before {
+.si-sourcegraph::before {
   content: "\ee13";
 }
 
-.si-styleshare::before {
+.si-spacemacs::before {
   content: "\ee14";
 }
 
-.si-stylus::before {
+.si-spacex::before {
   content: "\ee15";
 }
 
-.si-subaru::before {
+.si-sparkfun::before {
   content: "\ee16";
 }
 
-.si-sublimetext::before {
+.si-sparkpost::before {
   content: "\ee17";
 }
 
-.si-subversion::before {
+.si-spdx::before {
   content: "\ee18";
 }
 
-.si-superuser::before {
+.si-speakerdeck::before {
   content: "\ee19";
 }
 
-.si-suzuki::before {
+.si-spectrum::before {
   content: "\ee1a";
 }
 
-.si-svelte::before {
+.si-spinnaker::before {
   content: "\ee1b";
 }
 
-.si-svg::before {
+.si-spinrilla::before {
   content: "\ee1c";
 }
 
-.si-svgo::before {
+.si-splunk::before {
   content: "\ee1d";
 }
 
-.si-swagger::before {
+.si-spotify::before {
   content: "\ee1e";
 }
 
-.si-swarm::before {
+.si-spotlight::before {
   content: "\ee1f";
 }
 
-.si-swift::before {
+.si-spreaker::before {
   content: "\ee20";
 }
 
-.si-symantec::before {
+.si-spring::before {
   content: "\ee21";
 }
 
-.si-symfony::before {
+.si-sprint::before {
   content: "\ee22";
 }
 
-.si-symphony::before {
+.si-square::before {
   content: "\ee23";
 }
 
-.si-synology::before {
+.si-squareenix::before {
   content: "\ee24";
 }
 
-.si-t-mobile::before {
+.si-squarespace::before {
   content: "\ee25";
 }
 
-.si-tableau::before {
+.si-stackbit::before {
   content: "\ee26";
 }
 
-.si-tails::before {
+.si-stackexchange::before {
   content: "\ee27";
 }
 
-.si-tailwindcss::before {
+.si-stackoverflow::before {
   content: "\ee28";
 }
 
-.si-tapas::before {
+.si-stackpath::before {
   content: "\ee29";
 }
 
-.si-tata::before {
+.si-stackshare::before {
   content: "\ee2a";
 }
 
-.si-teamspeak::before {
+.si-stadia::before {
   content: "\ee2b";
 }
 
-.si-teamviewer::before {
+.si-staffbase::before {
   content: "\ee2c";
 }
 
-.si-ted::before {
+.si-statamic::before {
   content: "\ee2d";
 }
 
-.si-teespring::before {
+.si-staticman::before {
   content: "\ee2e";
 }
 
-.si-tele5::before {
+.si-statuspage::before {
   content: "\ee2f";
 }
 
-.si-telegram::before {
+.si-steam::before {
   content: "\ee30";
 }
 
-.si-tencentqq::before {
+.si-steamworks::before {
   content: "\ee31";
 }
 
-.si-tencentweibo::before {
+.si-steem::before {
   content: "\ee32";
 }
 
-.si-tensorflow::before {
+.si-steemit::before {
   content: "\ee33";
 }
 
-.si-teradata::before {
+.si-steinberg::before {
   content: "\ee34";
 }
 
-.si-terraform::before {
+.si-stellar::before {
   content: "\ee35";
 }
 
-.si-tesla::before {
+.si-stencyl::before {
   content: "\ee36";
 }
 
-.si-themighty::before {
+.si-stitcher::before {
   content: "\ee37";
 }
 
-.si-themoviedatabase::before {
+.si-storify::before {
   content: "\ee38";
 }
 
-.si-theregister::before {
+.si-storybook::before {
   content: "\ee39";
 }
 
-.si-thewashingtonpost::before {
+.si-strapi::before {
   content: "\ee3a";
 }
 
-.si-threema::before {
+.si-strava::before {
   content: "\ee3b";
 }
 
-.si-tidal::before {
+.si-stripe::before {
   content: "\ee3c";
 }
 
-.si-tide::before {
+.si-strongswan::before {
   content: "\ee3d";
 }
 
-.si-tiktok::before {
+.si-stubhub::before {
   content: "\ee3e";
 }
 
-.si-timescale::before {
+.si-styled-components::before {
   content: "\ee3f";
 }
 
-.si-tinder::before {
+.si-styleshare::before {
   content: "\ee40";
 }
 
-.si-todoist::before {
+.si-stylus::before {
   content: "\ee41";
 }
 
-.si-toggl::before {
+.si-subaru::before {
   content: "\ee42";
 }
 
-.si-tomorrowland::before {
+.si-sublimetext::before {
   content: "\ee43";
 }
 
-.si-topcoder::before {
+.si-subversion::before {
   content: "\ee44";
 }
 
-.si-toptal::before {
+.si-superuser::before {
   content: "\ee45";
 }
 
-.si-tor::before {
+.si-suzuki::before {
   content: "\ee46";
 }
 
-.si-toshiba::before {
+.si-svelte::before {
   content: "\ee47";
 }
 
-.si-toyota::before {
+.si-svg::before {
   content: "\ee48";
 }
 
-.si-trainerroad::before {
+.si-svgo::before {
   content: "\ee49";
 }
 
-.si-trakt::before {
+.si-swagger::before {
   content: "\ee4a";
 }
 
-.si-transportforireland::before {
+.si-swarm::before {
   content: "\ee4b";
 }
 
-.si-transportforlondon::before {
+.si-swift::before {
   content: "\ee4c";
 }
 
-.si-travisci::before {
+.si-symantec::before {
   content: "\ee4d";
 }
 
-.si-treehouse::before {
+.si-symfony::before {
   content: "\ee4e";
 }
 
-.si-trello::before {
+.si-symphony::before {
   content: "\ee4f";
 }
 
-.si-trendmicro::before {
+.si-synology::before {
   content: "\ee50";
 }
 
-.si-tripadvisor::before {
+.si-t-mobile::before {
   content: "\ee51";
 }
 
-.si-trulia::before {
+.si-tableau::before {
   content: "\ee52";
 }
 
-.si-trustpilot::before {
+.si-tails::before {
   content: "\ee53";
 }
 
-.si-tryitonline::before {
+.si-tailwindcss::before {
   content: "\ee54";
 }
 
-.si-tumblr::before {
+.si-talend::before {
   content: "\ee55";
 }
 
-.si-turkishairlines::before {
+.si-tapas::before {
   content: "\ee56";
 }
 
-.si-twilio::before {
+.si-tata::before {
   content: "\ee57";
 }
 
-.si-twitch::before {
+.si-teamspeak::before {
   content: "\ee58";
 }
 
-.si-twitter::before {
+.si-teamviewer::before {
   content: "\ee59";
 }
 
-.si-twoo::before {
+.si-ted::before {
   content: "\ee5a";
 }
 
-.si-typescript::before {
+.si-teespring::before {
   content: "\ee5b";
 }
 
-.si-typo3::before {
+.si-tele5::before {
   content: "\ee5c";
 }
 
-.si-uber::before {
+.si-telegram::before {
   content: "\ee5d";
 }
 
-.si-ubereats::before {
+.si-tencentqq::before {
   content: "\ee5e";
 }
 
-.si-ubisoft::before {
+.si-tencentweibo::before {
   content: "\ee5f";
 }
 
-.si-ublockorigin::before {
+.si-tensorflow::before {
   content: "\ee60";
 }
 
-.si-ubuntu::before {
+.si-teradata::before {
   content: "\ee61";
 }
 
-.si-udacity::before {
+.si-terraform::before {
   content: "\ee62";
 }
 
-.si-udemy::before {
+.si-tesla::before {
   content: "\ee63";
 }
 
-.si-uikit::before {
+.si-themighty::before {
   content: "\ee64";
 }
 
-.si-ulule::before {
+.si-themoviedatabase::before {
   content: "\ee65";
 }
 
-.si-umbraco::before {
+.si-theregister::before {
   content: "\ee66";
 }
 
-.si-unicode::before {
+.si-thewashingtonpost::before {
   content: "\ee67";
 }
 
-.si-unitedairlines::before {
+.si-threema::before {
   content: "\ee68";
 }
 
-.si-unity::before {
+.si-tidal::before {
   content: "\ee69";
 }
 
-.si-unrealengine::before {
+.si-tide::before {
   content: "\ee6a";
 }
 
-.si-unsplash::before {
+.si-tiktok::before {
   content: "\ee6b";
 }
 
-.si-untangle::before {
+.si-timescale::before {
   content: "\ee6c";
 }
 
-.si-untappd::before {
+.si-tinder::before {
   content: "\ee6d";
 }
 
-.si-uplabs::before {
+.si-todoist::before {
   content: "\ee6e";
 }
 
-.si-upwork::before {
+.si-toggl::before {
   content: "\ee6f";
 }
 
-.si-v::before {
+.si-tomorrowland::before {
   content: "\ee70";
 }
 
-.si-v8::before {
+.si-topcoder::before {
   content: "\ee71";
 }
 
-.si-vagrant::before {
+.si-toptal::before {
   content: "\ee72";
 }
 
-.si-valve::before {
+.si-tor::before {
   content: "\ee73";
 }
 
-.si-vauxhall::before {
+.si-toshiba::before {
   content: "\ee74";
 }
 
-.si-vbulletin::before {
+.si-toyota::before {
   content: "\ee75";
 }
 
-.si-veeam::before {
+.si-trainerroad::before {
   content: "\ee76";
 }
 
-.si-venmo::before {
+.si-trakt::before {
   content: "\ee77";
 }
 
-.si-veritas::before {
+.si-transportforireland::before {
   content: "\ee78";
 }
 
-.si-verizon::before {
+.si-transportforlondon::before {
   content: "\ee79";
 }
 
-.si-viadeo::before {
+.si-travisci::before {
   content: "\ee7a";
 }
 
-.si-viber::before {
+.si-treehouse::before {
   content: "\ee7b";
 }
 
-.si-vim::before {
+.si-trello::before {
   content: "\ee7c";
 }
 
-.si-vimeo::before {
+.si-trendmicro::before {
   content: "\ee7d";
 }
 
-.si-vine::before {
+.si-tripadvisor::before {
   content: "\ee7e";
 }
 
-.si-virb::before {
+.si-trulia::before {
   content: "\ee7f";
 }
 
-.si-visa::before {
+.si-trustpilot::before {
   content: "\ee80";
 }
 
-.si-visualstudio::before {
+.si-tryitonline::before {
   content: "\ee81";
 }
 
-.si-visualstudiocode::before {
+.si-tui::before {
   content: "\ee82";
 }
 
-.si-vivaldi::before {
+.si-tumblr::before {
   content: "\ee83";
 }
 
-.si-vivino::before {
+.si-turkishairlines::before {
   content: "\ee84";
 }
 
-.si-vk::before {
+.si-twilio::before {
   content: "\ee85";
 }
 
-.si-vlcmediaplayer::before {
+.si-twitch::before {
   content: "\ee86";
 }
 
-.si-vmware::before {
+.si-twitter::before {
   content: "\ee87";
 }
 
-.si-vodafone::before {
+.si-twoo::before {
   content: "\ee88";
 }
 
-.si-volkswagen::before {
+.si-typescript::before {
   content: "\ee89";
 }
 
-.si-volvo::before {
+.si-typo3::before {
   content: "\ee8a";
 }
 
-.si-vsco::before {
+.si-uber::before {
   content: "\ee8b";
 }
 
-.si-vue-dot-js::before {
+.si-ubereats::before {
   content: "\ee8c";
 }
 
-.si-vuetify::before {
+.si-ubisoft::before {
   content: "\ee8d";
 }
 
-.si-vulkan::before {
+.si-ublockorigin::before {
   content: "\ee8e";
 }
 
-.si-w3c::before {
+.si-ubuntu::before {
   content: "\ee8f";
 }
 
-.si-warnerbros-dot::before {
+.si-udacity::before {
   content: "\ee90";
 }
 
-.si-wattpad::before {
+.si-udemy::before {
   content: "\ee91";
 }
 
-.si-waze::before {
+.si-uikit::before {
   content: "\ee92";
 }
 
-.si-wearos::before {
+.si-ulule::before {
   content: "\ee93";
 }
 
-.si-weasyl::before {
+.si-umbraco::before {
   content: "\ee94";
 }
 
-.si-webassembly::before {
+.si-unicode::before {
   content: "\ee95";
 }
 
-.si-webauthn::before {
+.si-unitedairlines::before {
   content: "\ee96";
 }
 
-.si-webcomponents-dot-org::before {
+.si-unity::before {
   content: "\ee97";
 }
 
-.si-webgl::before {
+.si-unrealengine::before {
   content: "\ee98";
 }
 
-.si-webmin::before {
+.si-unsplash::before {
   content: "\ee99";
 }
 
-.si-webmoney::before {
+.si-untangle::before {
   content: "\ee9a";
 }
 
-.si-webpack::before {
+.si-untappd::before {
   content: "\ee9b";
 }
 
-.si-webrtc::before {
+.si-uplabs::before {
   content: "\ee9c";
 }
 
-.si-webstorm::before {
+.si-uploaded::before {
   content: "\ee9d";
 }
 
-.si-wechat::before {
+.si-upwork::before {
   content: "\ee9e";
 }
 
-.si-wemo::before {
+.si-v::before {
   content: "\ee9f";
 }
 
-.si-whatsapp::before {
+.si-v8::before {
   content: "\eea0";
 }
 
-.si-wheniwork::before {
+.si-vagrant::before {
   content: "\eea1";
 }
 
-.si-whitesource::before {
+.si-valve::before {
   content: "\eea2";
 }
 
-.si-wii::before {
+.si-vauxhall::before {
   content: "\eea3";
 }
 
-.si-wiiu::before {
+.si-vbulletin::before {
   content: "\eea4";
 }
 
-.si-wikimediacommons::before {
+.si-veeam::before {
   content: "\eea5";
 }
 
-.si-wikipedia::before {
+.si-venmo::before {
   content: "\eea6";
 }
 
-.si-windows::before {
+.si-veritas::before {
   content: "\eea7";
 }
 
-.si-windows95::before {
+.si-verizon::before {
   content: "\eea8";
 }
 
-.si-windowsxp::before {
+.si-viadeo::before {
   content: "\eea9";
 }
 
-.si-wire::before {
+.si-viber::before {
   content: "\eeaa";
 }
 
-.si-wireguard::before {
+.si-vim::before {
   content: "\eeab";
 }
 
-.si-wish::before {
+.si-vimeo::before {
   content: "\eeac";
 }
 
-.si-wix::before {
+.si-vine::before {
   content: "\eead";
 }
 
-.si-wizzair::before {
+.si-virb::before {
   content: "\eeae";
 }
 
-.si-wolfram::before {
+.si-visa::before {
   content: "\eeaf";
 }
 
-.si-wolframlanguage::before {
+.si-visualstudio::before {
   content: "\eeb0";
 }
 
-.si-wolframmathematica::before {
+.si-visualstudiocode::before {
   content: "\eeb1";
 }
 
-.si-woo::before {
+.si-vivaldi::before {
   content: "\eeb2";
 }
 
-.si-woocommerce::before {
+.si-vivino::before {
   content: "\eeb3";
 }
 
-.si-wordpress::before {
+.si-vk::before {
   content: "\eeb4";
 }
 
-.si-workplace::before {
+.si-vlcmediaplayer::before {
   content: "\eeb5";
 }
 
-.si-worldhealthorganization::before {
+.si-vmware::before {
   content: "\eeb6";
 }
 
-.si-wpengine::before {
+.si-vodafone::before {
   content: "\eeb7";
 }
 
-.si-wprocket::before {
+.si-volkswagen::before {
   content: "\eeb8";
 }
 
-.si-write-dot-as::before {
+.si-volvo::before {
   content: "\eeb9";
 }
 
-.si-wwe::before {
+.si-vsco::before {
   content: "\eeba";
 }
 
-.si-x-dot-org::before {
+.si-vue-dot-js::before {
   content: "\eebb";
 }
 
-.si-x-pack::before {
+.si-vuetify::before {
   content: "\eebc";
 }
 
-.si-xamarin::before {
+.si-vulkan::before {
   content: "\eebd";
 }
 
-.si-xaml::before {
+.si-vultr::before {
   content: "\eebe";
 }
 
-.si-xampp::before {
+.si-w3c::before {
   content: "\eebf";
 }
 
-.si-xbox::before {
+.si-warnerbros-dot::before {
   content: "\eec0";
 }
 
-.si-xcode::before {
+.si-wattpad::before {
   content: "\eec1";
 }
 
-.si-xdadevelopers::before {
+.si-waze::before {
   content: "\eec2";
 }
 
-.si-xero::before {
+.si-wearos::before {
   content: "\eec3";
 }
 
-.si-xfce::before {
+.si-weasyl::before {
   content: "\eec4";
 }
 
-.si-xiaomi::before {
+.si-webassembly::before {
   content: "\eec5";
 }
 
-.si-xing::before {
+.si-webauthn::before {
   content: "\eec6";
 }
 
-.si-xmpp::before {
+.si-webcomponents-dot-org::before {
   content: "\eec7";
 }
 
-.si-xrp::before {
+.si-webgl::before {
   content: "\eec8";
 }
 
-.si-xsplit::before {
+.si-webmin::before {
   content: "\eec9";
 }
 
-.si-yahoo::before {
+.si-webmoney::before {
   content: "\eeca";
 }
 
-.si-yamahacorporation::before {
+.si-webpack::before {
   content: "\eecb";
 }
 
-.si-yamahamotorcorporation::before {
+.si-webrtc::before {
   content: "\eecc";
 }
 
-.si-yammer::before {
+.si-webstorm::before {
   content: "\eecd";
 }
 
-.si-yandex::before {
+.si-wechat::before {
   content: "\eece";
 }
 
-.si-yarn::before {
+.si-wemo::before {
   content: "\eecf";
 }
 
-.si-ycombinator::before {
+.si-whatsapp::before {
   content: "\eed0";
 }
 
-.si-yelp::before {
+.si-wheniwork::before {
   content: "\eed1";
 }
 
-.si-youtube::before {
+.si-whitesource::before {
   content: "\eed2";
 }
 
-.si-youtubegaming::before {
+.si-wii::before {
   content: "\eed3";
 }
 
-.si-youtubestudio::before {
+.si-wiiu::before {
   content: "\eed4";
 }
 
-.si-youtubetv::before {
+.si-wikimediacommons::before {
   content: "\eed5";
 }
 
-.si-z-wave::before {
+.si-wikipedia::before {
   content: "\eed6";
 }
 
-.si-zalando::before {
+.si-windows::before {
   content: "\eed7";
 }
 
-.si-zapier::before {
+.si-windows95::before {
   content: "\eed8";
 }
 
-.si-zdf::before {
+.si-windowsxp::before {
   content: "\eed9";
 }
 
-.si-zeit::before {
+.si-wire::before {
   content: "\eeda";
 }
 
-.si-zend::before {
+.si-wireguard::before {
   content: "\eedb";
 }
 
-.si-zendesk::before {
+.si-wish::before {
   content: "\eedc";
 }
 
-.si-zendframework::before {
+.si-wix::before {
   content: "\eedd";
 }
 
-.si-zeromq::before {
+.si-wizzair::before {
   content: "\eede";
 }
 
-.si-zerply::before {
+.si-wolfram::before {
   content: "\eedf";
 }
 
-.si-zhihu::before {
+.si-wolframlanguage::before {
   content: "\eee0";
 }
 
-.si-zigbee::before {
+.si-wolframmathematica::before {
   content: "\eee1";
 }
 
-.si-zillow::before {
+.si-woo::before {
   content: "\eee2";
 }
 
-.si-zingat::before {
+.si-woocommerce::before {
   content: "\eee3";
 }
 
-.si-zoom::before {
+.si-wordpress::before {
   content: "\eee4";
 }
 
-.si-zorin::before {
+.si-workplace::before {
   content: "\eee5";
 }
 
-.si-zulip::before {
+.si-worldhealthorganization::before {
   content: "\eee6";
+}
+
+.si-wpengine::before {
+  content: "\eee7";
+}
+
+.si-wprocket::before {
+  content: "\eee8";
+}
+
+.si-write-dot-as::before {
+  content: "\eee9";
+}
+
+.si-wwe::before {
+  content: "\eeea";
+}
+
+.si-x-dot-org::before {
+  content: "\eeeb";
+}
+
+.si-x-pack::before {
+  content: "\eeec";
+}
+
+.si-xamarin::before {
+  content: "\eeed";
+}
+
+.si-xaml::before {
+  content: "\eeee";
+}
+
+.si-xampp::before {
+  content: "\eeef";
+}
+
+.si-xbox::before {
+  content: "\eef0";
+}
+
+.si-xcode::before {
+  content: "\eef1";
+}
+
+.si-xdadevelopers::before {
+  content: "\eef2";
+}
+
+.si-xero::before {
+  content: "\eef3";
+}
+
+.si-xfce::before {
+  content: "\eef4";
+}
+
+.si-xiaomi::before {
+  content: "\eef5";
+}
+
+.si-xing::before {
+  content: "\eef6";
+}
+
+.si-xmpp::before {
+  content: "\eef7";
+}
+
+.si-xrp::before {
+  content: "\eef8";
+}
+
+.si-xsplit::before {
+  content: "\eef9";
+}
+
+.si-yahoo::before {
+  content: "\eefa";
+}
+
+.si-yamahacorporation::before {
+  content: "\eefb";
+}
+
+.si-yamahamotorcorporation::before {
+  content: "\eefc";
+}
+
+.si-yammer::before {
+  content: "\eefd";
+}
+
+.si-yandex::before {
+  content: "\eefe";
+}
+
+.si-yarn::before {
+  content: "\eeff";
+}
+
+.si-ycombinator::before {
+  content: "\ef00";
+}
+
+.si-yelp::before {
+  content: "\ef01";
+}
+
+.si-youtube::before {
+  content: "\ef02";
+}
+
+.si-youtubegaming::before {
+  content: "\ef03";
+}
+
+.si-youtubestudio::before {
+  content: "\ef04";
+}
+
+.si-youtubetv::before {
+  content: "\ef05";
+}
+
+.si-z-wave::before {
+  content: "\ef06";
+}
+
+.si-zalando::before {
+  content: "\ef07";
+}
+
+.si-zapier::before {
+  content: "\ef08";
+}
+
+.si-zdf::before {
+  content: "\ef09";
+}
+
+.si-zeit::before {
+  content: "\ef0a";
+}
+
+.si-zend::before {
+  content: "\ef0b";
+}
+
+.si-zendesk::before {
+  content: "\ef0c";
+}
+
+.si-zendframework::before {
+  content: "\ef0d";
+}
+
+.si-zeromq::before {
+  content: "\ef0e";
+}
+
+.si-zerply::before {
+  content: "\ef0f";
+}
+
+.si-zhihu::before {
+  content: "\ef10";
+}
+
+.si-zigbee::before {
+  content: "\ef11";
+}
+
+.si-zillow::before {
+  content: "\ef12";
+}
+
+.si-zingat::before {
+  content: "\ef13";
+}
+
+.si-zoom::before {
+  content: "\ef14";
+}
+
+.si-zorin::before {
+  content: "\ef15";
+}
+
+.si-zulip::before {
+  content: "\ef16";
 }
