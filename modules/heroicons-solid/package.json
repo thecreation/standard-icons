@@ -1,0 +1,26 @@
+{
+  "version": "0.1.0-alpha.0",
+  "name": "@icon/heroicons-solid",
+  "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+  "author": "Refactoring UI Inc",
+  "license": "MIT",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/heroicons-solid",
+  "bugs": {
+    "url": "https://github.com/thecreation/standard-icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=heroicons-solid",
+    "optimize": "../../scripts/module/optimize --module=heroicons-solid"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "devDependencies": {
+    "heroicons": "^0.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://heroicons.dev/"
+}

@@ -1,0 +1,590 @@
+/**
+ * Heroicons Solid, 0.1.0
+ * Created by Refactoring UI Inc
+ * https://heroicons.dev/
+ * MIT License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "heroicons-solid";
+  src: url('./heroicons-solid.eot');
+  src: 
+    url('./heroicons-solid.eot?#iefix') format('embedded-opentype'),
+    url('./heroicons-solid.woff2') format('woff2'),
+    url('./heroicons-solid.woff') format('woff'),
+    url('./heroicons-solid.ttf') format('truetype'),
+    url('./heroicons-solid.svg#heroicons-solid') format('svg');
+}
+
+.his {
+  font-family: "heroicons-solid";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.his-adjustments::before {
+  content: "\ea01";
+}
+
+.his-annotation::before {
+  content: "\ea02";
+}
+
+.his-archive::before {
+  content: "\ea03";
+}
+
+.his-arrow-circle-down::before {
+  content: "\ea04";
+}
+
+.his-arrow-circle-left::before {
+  content: "\ea05";
+}
+
+.his-arrow-circle-right::before {
+  content: "\ea06";
+}
+
+.his-arrow-circle-up::before {
+  content: "\ea07";
+}
+
+.his-arrow-down::before {
+  content: "\ea08";
+}
+
+.his-arrow-left::before {
+  content: "\ea09";
+}
+
+.his-arrow-narrow-down::before {
+  content: "\ea0a";
+}
+
+.his-arrow-narrow-left::before {
+  content: "\ea0b";
+}
+
+.his-arrow-narrow-right::before {
+  content: "\ea0c";
+}
+
+.his-arrow-narrow-up::before {
+  content: "\ea0d";
+}
+
+.his-arrow-right::before {
+  content: "\ea0e";
+}
+
+.his-arrow-up::before {
+  content: "\ea0f";
+}
+
+.his-at-symbol::before {
+  content: "\ea10";
+}
+
+.his-bell::before {
+  content: "\ea11";
+}
+
+.his-book-open::before {
+  content: "\ea12";
+}
+
+.his-bookmark::before {
+  content: "\ea13";
+}
+
+.his-briefcase::before {
+  content: "\ea14";
+}
+
+.his-calendar::before {
+  content: "\ea15";
+}
+
+.his-camera::before {
+  content: "\ea16";
+}
+
+.his-cash::before {
+  content: "\ea17";
+}
+
+.his-chart-pie::before {
+  content: "\ea18";
+}
+
+.his-chat::before {
+  content: "\ea19";
+}
+
+.his-check::before {
+  content: "\ea1a";
+}
+
+.his-check-circle::before {
+  content: "\ea1b";
+}
+
+.his-cheveron-down::before {
+  content: "\ea1c";
+}
+
+.his-cheveron-left::before {
+  content: "\ea1d";
+}
+
+.his-cheveron-right::before {
+  content: "\ea1e";
+}
+
+.his-cheveron-up::before {
+  content: "\ea1f";
+}
+
+.his-clipboard::before {
+  content: "\ea20";
+}
+
+.his-clipboard-check::before {
+  content: "\ea21";
+}
+
+.his-clipboard-copy::before {
+  content: "\ea22";
+}
+
+.his-clipboard-list::before {
+  content: "\ea23";
+}
+
+.his-clock::before {
+  content: "\ea24";
+}
+
+.his-cloud-download::before {
+  content: "\ea25";
+}
+
+.his-cloud-upload::before {
+  content: "\ea26";
+}
+
+.his-code::before {
+  content: "\ea27";
+}
+
+.his-cog::before {
+  content: "\ea28";
+}
+
+.his-collection::before {
+  content: "\ea29";
+}
+
+.his-color-swatch::before {
+  content: "\ea2a";
+}
+
+.his-credit-card::before {
+  content: "\ea2b";
+}
+
+.his-currency-dollar::before {
+  content: "\ea2c";
+}
+
+.his-currency-euro::before {
+  content: "\ea2d";
+}
+
+.his-currency-pound::before {
+  content: "\ea2e";
+}
+
+.his-currency-rupee::before {
+  content: "\ea2f";
+}
+
+.his-currency-yen::before {
+  content: "\ea30";
+}
+
+.his-document::before {
+  content: "\ea31";
+}
+
+.his-document-add::before {
+  content: "\ea32";
+}
+
+.his-document-download::before {
+  content: "\ea33";
+}
+
+.his-document-duplicate::before {
+  content: "\ea34";
+}
+
+.his-document-remove::before {
+  content: "\ea35";
+}
+
+.his-dots-circle-horizontal::before {
+  content: "\ea36";
+}
+
+.his-dots-horizontal::before {
+  content: "\ea37";
+}
+
+.his-dots-vertical::before {
+  content: "\ea38";
+}
+
+.his-download::before {
+  content: "\ea39";
+}
+
+.his-duplicate::before {
+  content: "\ea3a";
+}
+
+.his-emoji-happy::before {
+  content: "\ea3b";
+}
+
+.his-emoji-sad::before {
+  content: "\ea3c";
+}
+
+.his-exclamation::before {
+  content: "\ea3d";
+}
+
+.his-exclamation-circle::before {
+  content: "\ea3e";
+}
+
+.his-external-link::before {
+  content: "\ea3f";
+}
+
+.his-eye::before {
+  content: "\ea40";
+}
+
+.his-filter::before {
+  content: "\ea41";
+}
+
+.his-flag::before {
+  content: "\ea42";
+}
+
+.his-folder::before {
+  content: "\ea43";
+}
+
+.his-globe::before {
+  content: "\ea44";
+}
+
+.his-globe-alt::before {
+  content: "\ea45";
+}
+
+.his-hashtag::before {
+  content: "\ea46";
+}
+
+.his-heart::before {
+  content: "\ea47";
+}
+
+.his-home::before {
+  content: "\ea48";
+}
+
+.his-inbox::before {
+  content: "\ea49";
+}
+
+.his-inbox-in::before {
+  content: "\ea4a";
+}
+
+.his-information-circle::before {
+  content: "\ea4b";
+}
+
+.his-light-bulb::before {
+  content: "\ea4c";
+}
+
+.his-lightning-bolt::before {
+  content: "\ea4d";
+}
+
+.his-link::before {
+  content: "\ea4e";
+}
+
+.his-location-marker::before {
+  content: "\ea4f";
+}
+
+.his-lock-closed::before {
+  content: "\ea50";
+}
+
+.his-lock-open::before {
+  content: "\ea51";
+}
+
+.his-mail::before {
+  content: "\ea52";
+}
+
+.his-mail-open::before {
+  content: "\ea53";
+}
+
+.his-menu::before {
+  content: "\ea54";
+}
+
+.his-menu-alt-1::before {
+  content: "\ea55";
+}
+
+.his-menu-alt-2::before {
+  content: "\ea56";
+}
+
+.his-menu-alt-3::before {
+  content: "\ea57";
+}
+
+.his-menu-alt-4::before {
+  content: "\ea58";
+}
+
+.his-minus-circle::before {
+  content: "\ea59";
+}
+
+.his-moon::before {
+  content: "\ea5a";
+}
+
+.his-office-building::before {
+  content: "\ea5b";
+}
+
+.his-paper-clip::before {
+  content: "\ea5c";
+}
+
+.his-pencil::before {
+  content: "\ea5d";
+}
+
+.his-pencil-alt::before {
+  content: "\ea5e";
+}
+
+.his-phone::before {
+  content: "\ea5f";
+}
+
+.his-phone-incoming::before {
+  content: "\ea60";
+}
+
+.his-phone-outgoing::before {
+  content: "\ea61";
+}
+
+.his-photograph::before {
+  content: "\ea62";
+}
+
+.his-plus::before {
+  content: "\ea63";
+}
+
+.his-plus-circle::before {
+  content: "\ea64";
+}
+
+.his-printer::before {
+  content: "\ea65";
+}
+
+.his-qrcode::before {
+  content: "\ea66";
+}
+
+.his-question-mark-circle::before {
+  content: "\ea67";
+}
+
+.his-receipt-refund::before {
+  content: "\ea68";
+}
+
+.his-refresh::before {
+  content: "\ea69";
+}
+
+.his-reply::before {
+  content: "\ea6a";
+}
+
+.his-scale::before {
+  content: "\ea6b";
+}
+
+.his-search::before {
+  content: "\ea6c";
+}
+
+.his-selector::before {
+  content: "\ea6d";
+}
+
+.his-share::before {
+  content: "\ea6e";
+}
+
+.his-shield-check::before {
+  content: "\ea6f";
+}
+
+.his-shield-exclamation::before {
+  content: "\ea70";
+}
+
+.his-sort-ascending::before {
+  content: "\ea71";
+}
+
+.his-sort-descending::before {
+  content: "\ea72";
+}
+
+.his-sparkles::before {
+  content: "\ea73";
+}
+
+.his-sun::before {
+  content: "\ea74";
+}
+
+.his-switch-horizontal::before {
+  content: "\ea75";
+}
+
+.his-switch-vertical::before {
+  content: "\ea76";
+}
+
+.his-tag::before {
+  content: "\ea77";
+}
+
+.his-template::before {
+  content: "\ea78";
+}
+
+.his-ticket::before {
+  content: "\ea79";
+}
+
+.his-translate::before {
+  content: "\ea7a";
+}
+
+.his-trash::before {
+  content: "\ea7b";
+}
+
+.his-trending-down::before {
+  content: "\ea7c";
+}
+
+.his-trending-up::before {
+  content: "\ea7d";
+}
+
+.his-upload::before {
+  content: "\ea7e";
+}
+
+.his-user::before {
+  content: "\ea7f";
+}
+
+.his-user-add::before {
+  content: "\ea80";
+}
+
+.his-user-circle::before {
+  content: "\ea81";
+}
+
+.his-user-group::before {
+  content: "\ea82";
+}
+
+.his-user-remove::before {
+  content: "\ea83";
+}
+
+.his-users::before {
+  content: "\ea84";
+}
+
+.his-view-boards::before {
+  content: "\ea85";
+}
+
+.his-view-list::before {
+  content: "\ea86";
+}
+
+.his-volume-off::before {
+  content: "\ea87";
+}
+
+.his-volume-up::before {
+  content: "\ea88";
+}
+
+.his-x::before {
+  content: "\ea89";
+}
+
+.his-x-circle::before {
+  content: "\ea8a";
+}
+
+.his-zoom-in::before {
+  content: "\ea8b";
+}
+
+.his-zoom-out::before {
+  content: "\ea8c";
+}
