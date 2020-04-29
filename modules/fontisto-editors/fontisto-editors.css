@@ -1,0 +1,152 @@
+/**
+ * Fontisto Editors, 3.0.4
+ * Created by Kenan Gündoğan
+ * http://www.fontisto.com
+ * MIT License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "fontisto-editors";
+  src: url('fontisto-editors.eot');
+  src: url('fontisto-editors.eot?#iefix') format('eot'),
+
+    url('fontisto-editors.woff') format('woff'),
+    url('fontisto-editors.ttf') format('truetype'),
+    url('fontisto-editors.svg#fontisto-editors') format('svg');
+}
+
+.fie {
+  font-family: "fontisto-editors";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+.fie-bold:before {
+  content: "\ea0e";
+}
+.fie-broken-link:before {
+  content: "\ea0f";
+}
+.fie-center-align:before {
+  content: "\ea10";
+}
+.fie-close:before {
+  content: "\ea11";
+}
+.fie-columns:before {
+  content: "\ea12";
+}
+.fie-copy:before {
+  content: "\ea13";
+}
+.fie-eraser:before {
+  content: "\ea14";
+}
+.fie-export:before {
+  content: "\ea15";
+}
+.fie-file-1:before {
+  content: "\ea16";
+}
+.fie-file-2:before {
+  content: "\ea17";
+}
+.fie-folder:before {
+  content: "\ea18";
+}
+.fie-font:before {
+  content: "\ea19";
+}
+.fie-import:before {
+  content: "\ea1a";
+}
+.fie-indent:before {
+  content: "\ea1b";
+}
+.fie-italic:before {
+  content: "\ea1c";
+}
+.fie-justify:before {
+  content: "\ea1d";
+}
+.fie-left-align:before {
+  content: "\ea1e";
+}
+.fie-link2:before {
+  content: "\ea1f";
+}
+.fie-list-1:before {
+  content: "\ea20";
+}
+.fie-list-2:before {
+  content: "\ea21";
+}
+.fie-outdent:before {
+  content: "\ea22";
+}
+.fie-paperclip:before {
+  content: "\ea23";
+}
+.fie-paragraph:before {
+  content: "\ea24";
+}
+.fie-paste:before {
+  content: "\ea25";
+}
+.fie-preview:before {
+  content: "\ea26";
+}
+.fie-print2:before {
+  content: "\ea27";
+}
+.fie-redo:before {
+  content: "\ea28";
+}
+.fie-right-align:before {
+  content: "\ea29";
+}
+.fie-save-1:before {
+  content: "\ea2a";
+}
+.fie-save:before {
+  content: "\ea2b";
+}
+.fie-scissors2:before {
+  content: "\ea2c";
+}
+.fie-strikethrough:before {
+  content: "\ea2d";
+}
+.fie-subscript:before {
+  content: "\ea2e";
+}
+.fie-superscript:before {
+  content: "\ea2f";
+}
+.fie-table-1:before {
+  content: "\ea30";
+}
+.fie-table-2:before {
+  content: "\ea31";
+}
+.fie-text-height:before {
+  content: "\ea32";
+}
+.fie-text-width:before {
+  content: "\ea33";
+}
+.fie-underline:before {
+  content: "\ea34";
+}
+.fie-undo:before {
+  content: "\ea35";
+}
+

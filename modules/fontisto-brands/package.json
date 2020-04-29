@@ -1,0 +1,28 @@
+{
+  "version": "3.0.4-alpha.0",
+  "name": "@icon/fontisto-brands",
+  "description": "Fontisto gives you scalable vector icons that can instantly be customized: size, color, drop shadow and anything that can be done with the power of CSS.",
+  "author": "Kenan Gündoğan",
+  "license": "MIT",
+  "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/fontisto",
+  "bugs": {
+    "url": "https://github.com/thecreation/standard-icons/issues"
+  },
+  "scripts": {
+    "import": "../../scripts/module/import --module=fontisto-brands",
+    "optimize": "../../scripts/module/optimize",
+    "update": "ncu -u"
+  },
+  "keywords": [
+    "icons",
+    "icon"
+  ],
+  "homepage": "http://www.fontisto.com",
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "03bca77bca8c5dd936a375e9c556ef3e1a8d4074",
+  "devDependencies": {
+    "fontisto": "^3.0.4"
+  }
+}

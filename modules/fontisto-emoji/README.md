@@ -1,0 +1,76 @@
+# @icon/fontisto-emoji
+
+[![npm version](https://img.shields.io/npm/v/@icon/fontisto-emoji.svg)](https://www.npmjs.org/package/@icon/fontisto-emoji)
+
+This repository is a module of the full [standard-icons][standard-icons] repository.
+
+## Install
+
+This repository is distributed with [npm]. After [installing npm][install-npm], you can install `@icon/fontisto-emoji` with this command.
+
+```bash
+npm install --save @icon/fontisto-emoji
+```
+
+## Usage
+
+There are many ways/formats of how to use fontisto-emoji. The fastest and recommended way is via SVG directly. Or use the webfont version if you want to include all icons at once:
+
+### SVG icons -- when you need just a few icons in your project
+
+1 . If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
+
+```
+<img height="32" width="32" src="@icon/fontisto-emoji/icons/surprised.svg" />
+```
+
+2 . Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/fontisto-emoji` npm package in the URL like the following:
+
+```
+<img height="32" width="32" src="https://unpkg.com/@icon/fontisto-emoji/icons/surprised.svg" />
+```
+
+### Icons font -- ideal when you want to include all icons at once
+
+1 . Install `@icon/fontisto-emoji` with this command. In the `<head>` of your html, reference the location to your `fontisto-emoji.css`.
+
+```
+<head>
+...
+<link rel="stylesheet" href="@icon/fontisto-emoji/fontisto-emoji.css">
+...
+</head>
+```
+
+2 . Use [unpkg.com][Unpkg] to load directly fontisto-emoji without installing anything:
+
+```
+<head>
+...
+<link rel="stylesheet" href="https://unpkg.com/@icon/fontisto-emoji/fontisto-emoji.css">
+...
+</head>
+```
+
+> Place fontisto-emoji with `<i>` tag in your html like this. Icon class names are to be used with the `fiem` class prefix.
+
+```
+<i class="fiem fiem-surprised"></i>
+```
+
+
+## Bugs, Ideas, Pull Requests
+
+If you have any ideas or found bugs, please send me Pull Requests or let me know with [GitHub Issues][github issues].
+
+## License
+
+Fontisto is copyright by Kenan Gündoğan, licensed under the [MIT][license].
+
+[license]: https://github.com/thecreation/icons/blob/master/modules/fontisto-emoji/LICENSE
+[standard-icons]: https://github.com/thecreation/standard-icons
+[npm]: https://www.npmjs.com/
+[install-npm]: https://docs.npmjs.com/getting-started/installing-node
+[sass]: http://sass-lang.com/
+[github issues]: https://github.com/thecreation/standard-icons/issues
+[Unpkg]: https://unpkg.com

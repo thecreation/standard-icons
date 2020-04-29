@@ -1,0 +1,125 @@
+/**
+ * Fontisto Medical, 3.0.4
+ * Created by Kenan Gündoğan
+ * http://www.fontisto.com
+ * MIT License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "fontisto-medical";
+  src: url('fontisto-medical.eot');
+  src: url('fontisto-medical.eot?#iefix') format('eot'),
+
+    url('fontisto-medical.woff') format('woff'),
+    url('fontisto-medical.ttf') format('truetype'),
+    url('fontisto-medical.svg#fontisto-medical') format('svg');
+}
+
+.fim {
+  font-family: "fontisto-medical";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+.fim-aids:before {
+  content: "\eb49";
+}
+.fim-ambulance:before {
+  content: "\eb4a";
+}
+.fim-bandage:before {
+  content: "\eb4b";
+}
+.fim-bed-patient:before {
+  content: "\eb4c";
+}
+.fim-blood-drop:before {
+  content: "\eb4d";
+}
+.fim-blood-test:before {
+  content: "\eb4e";
+}
+.fim-blood:before {
+  content: "\eb4f";
+}
+.fim-dna:before {
+  content: "\eb50";
+}
+.fim-doctor:before {
+  content: "\eb51";
+}
+.fim-drug-pack:before {
+  content: "\eb52";
+}
+.fim-first-aid-alt:before {
+  content: "\eb53";
+}
+.fim-heart-alt:before {
+  content: "\eb54";
+}
+.fim-heartbeat-alt:before {
+  content: "\eb55";
+}
+.fim-heartbeat:before {
+  content: "\eb56";
+}
+.fim-helicopter-ambulance:before {
+  content: "\eb57";
+}
+.fim-hospital:before {
+  content: "\eb58";
+}
+.fim-injection-syringe:before {
+  content: "\eb59";
+}
+.fim-laboratory:before {
+  content: "\eb5a";
+}
+.fim-nurse:before {
+  content: "\eb5b";
+}
+.fim-nursing-home:before {
+  content: "\eb5c";
+}
+.fim-paralysis-disability:before {
+  content: "\eb5d";
+}
+.fim-pills:before {
+  content: "\eb5e";
+}
+.fim-prescription:before {
+  content: "\eb5f";
+}
+.fim-pulse:before {
+  content: "\eb60";
+}
+.fim-stethoscope:before {
+  content: "\eb61";
+}
+.fim-surgical-knife:before {
+  content: "\eb62";
+}
+.fim-tablets:before {
+  content: "\eb63";
+}
+.fim-test-bottle:before {
+  content: "\eb64";
+}
+.fim-test-tube-alt:before {
+  content: "\eb65";
+}
+.fim-test-tube:before {
+  content: "\eb66";
+}
+.fim-thermometer-alt:before {
+  content: "\eb67";
+}
+

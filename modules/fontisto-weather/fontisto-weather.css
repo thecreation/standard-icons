@@ -1,0 +1,122 @@
+/**
+ * Fontisto Weather, 3.0.4
+ * Created by Kenan Gündoğan
+ * http://www.fontisto.com
+ * MIT License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "fontisto-weather";
+  src: url('fontisto-weather.eot');
+  src: url('fontisto-weather.eot?#iefix') format('eot'),
+
+    url('fontisto-weather.woff') format('woff'),
+    url('fontisto-weather.ttf') format('truetype'),
+    url('fontisto-weather.svg#fontisto-weather') format('svg');
+}
+
+.fiw {
+  font-family: "fontisto-weather";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+.fiw-cloud-down:before {
+  content: "\ea36";
+}
+.fiw-cloud-refresh:before {
+  content: "\ea37";
+}
+.fiw-cloud-up:before {
+  content: "\ea38";
+}
+.fiw-cloudy-gusts:before {
+  content: "\ea39";
+}
+.fiw-cloudy:before {
+  content: "\ea3a";
+}
+.fiw-compass:before {
+  content: "\ea3b";
+}
+.fiw-day-cloudy:before {
+  content: "\ea3c";
+}
+.fiw-day-haze:before {
+  content: "\ea3d";
+}
+.fiw-day-lightning:before {
+  content: "\ea3e";
+}
+.fiw-day-rain:before {
+  content: "\ea3f";
+}
+.fiw-day-snow:before {
+  content: "\ea40";
+}
+.fiw-day-sunny:before {
+  content: "\ea41";
+}
+.fiw-fog:before {
+  content: "\ea42";
+}
+.fiw-horizon-alt:before {
+  content: "\ea43";
+}
+.fiw-horizon:before {
+  content: "\ea44";
+}
+.fiw-lightning:before {
+  content: "\ea45";
+}
+.fiw-lightnings:before {
+  content: "\ea46";
+}
+.fiw-night-alt-cloudy:before {
+  content: "\ea47";
+}
+.fiw-night-alt-lightning:before {
+  content: "\ea48";
+}
+.fiw-night-alt-rain:before {
+  content: "\ea49";
+}
+.fiw-night-alt-snow:before {
+  content: "\ea4a";
+}
+.fiw-night-clear:before {
+  content: "\ea4b";
+}
+.fiw-rain:before {
+  content: "\ea4c";
+}
+.fiw-rainbow:before {
+  content: "\ea4d";
+}
+.fiw-rains:before {
+  content: "\ea4e";
+}
+.fiw-snow:before {
+  content: "\ea4f";
+}
+.fiw-snows:before {
+  content: "\ea50";
+}
+.fiw-thermometer:before {
+  content: "\ea51";
+}
+.fiw-umbrella:before {
+  content: "\ea52";
+}
+.fiw-wind:before {
+  content: "\ea53";
+}
+

@@ -1,0 +1,92 @@
+/**
+ * Fontisto Emoji, 3.0.4
+ * Created by Kenan Gündoğan
+ * http://www.fontisto.com
+ * MIT License
+ */
+@charset "UTF-8";
+
+@font-face {
+  font-family: "fontisto-emoji";
+  src: url('fontisto-emoji.eot');
+  src: url('fontisto-emoji.eot?#iefix') format('eot'),
+
+    url('fontisto-emoji.woff') format('woff'),
+    url('fontisto-emoji.ttf') format('truetype'),
+    url('fontisto-emoji.svg#fontisto-emoji') format('svg');
+}
+
+.fiem {
+  font-family: "fontisto-emoji";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  speak: none;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+.fiem-confused:before {
+  content: "\ea54";
+}
+.fiem-dizzy:before {
+  content: "\ea55";
+}
+.fiem-expressionless:before {
+  content: "\ea56";
+}
+.fiem-frowning:before {
+  content: "\ea57";
+}
+.fiem-heart-eyes:before {
+  content: "\ea58";
+}
+.fiem-laughing:before {
+  content: "\ea59";
+}
+.fiem-mad:before {
+  content: "\ea5a";
+}
+.fiem-nervous:before {
+  content: "\ea5b";
+}
+.fiem-neutral:before {
+  content: "\ea5c";
+}
+.fiem-open-mouth:before {
+  content: "\ea5d";
+}
+.fiem-rage:before {
+  content: "\ea5e";
+}
+.fiem-slightly-smile:before {
+  content: "\ea5f";
+}
+.fiem-smiley:before {
+  content: "\ea60";
+}
+.fiem-smiling:before {
+  content: "\ea61";
+}
+.fiem-stuck-out-tongue:before {
+  content: "\ea62";
+}
+.fiem-sunglasses:before {
+  content: "\ea63";
+}
+.fiem-surprised:before {
+  content: "\ea64";
+}
+.fiem-tongue:before {
+  content: "\ea65";
+}
+.fiem-wink:before {
+  content: "\ea66";
+}
+.fiem-zipper-mouth:before {
+  content: "\ea67";
+}
+
