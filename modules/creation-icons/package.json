@@ -1,5 +1,5 @@
 {
-  "version": "0.0.10-alpha.0",
+  "version": "0.0.12-alpha.0",
   "name": "@icon/creation-icons",
   "description": "Icons for creation.",
   "author": "Creation Studio Limited",
@@ -18,7 +18,7 @@
     "icon"
   ],
   "devDependencies": {
-    "@creation/icon-fonts": "0.0.10"
+    "@creation/icon-fonts": "0.0.12"
   },
   "publishConfig": {
     "access": "public"

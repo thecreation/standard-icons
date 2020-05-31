@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0-alpha.0",
+  "version": "2.5.0-alpha.0",
   "name": "@icon/remixicon-fill",
   "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
   "author": "Remix Design",
@@ -22,7 +22,7 @@
   },
   "gitHead": "03bca77bca8c5dd936a375e9c556ef3e1a8d4074",
   "devDependencies": {
-    "remixicon": "^2.4.0"
+    "remixicon": "^2.5.0"
   },
   "homepage": "https://remixicon.com"
 }

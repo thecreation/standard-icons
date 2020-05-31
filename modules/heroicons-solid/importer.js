@@ -27,7 +27,7 @@ let options = {
 
 let paths = {
   package: path.join(options.source, 'package.json'),
-  svgs: path.join(options.source, 'dist', 'solid-sm'),
+  svgs: path.join(options.source, 'solid'),
   dest: __dirname,
   svgsDest: path.join(__dirname, 'icons')
 };

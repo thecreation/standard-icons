@@ -1,5 +1,5 @@
 {
-  "version": "2.1.6-alpha.0",
+  "version": "2.1.9-alpha.0",
   "name": "@icon/unicons",
   "description": "Ready to use font icons for your next project",
   "author": "Iconscout",
@@ -22,6 +22,6 @@
     "access": "public"
   },
   "devDependencies": {
-    "@iconscout/unicons": "^2.1.6"
+    "@iconscout/unicons": "^2.1.9"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0-alpha.0",
+  "version": "0.2.0-alpha.0",
   "name": "@icon/heroicons-outline",
   "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
   "author": "Refactoring UI Inc",
@@ -17,7 +17,7 @@
     "icon"
   ],
   "devDependencies": {
-    "heroicons": "^0.1.0"
+    "heroicons": "^0.2.0"
   },
   "publishConfig": {
     "access": "public"

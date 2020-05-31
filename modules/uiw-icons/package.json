@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1-alpha.1",
+  "version": "2.4.3-alpha.0",
   "name": "@icon/uiw-icons",
   "description": "The premium icon font for uiw Component Library.",
   "author": "Kenny",
@@ -22,6 +22,6 @@
     "access": "public"
   },
   "devDependencies": {
-    "@uiw/icons": "^2.3.1"
+    "@uiw/icons": "^2.4.3"
   }
 }

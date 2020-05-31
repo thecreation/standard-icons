@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-alpha3",
+  "version": "1.0.0-alpha4",
   "name": "@icon/bootstrap-icons",
   "description": "Official open source SVG icon library for Bootstrap",
   "author": "mdo",
@@ -22,6 +22,6 @@
     "access": "public"
   },
   "devDependencies": {
-    "bootstrap-icons": "^1.0.0-alpha3"
+    "bootstrap-icons": "^1.0.0-alpha4"
   }
 }

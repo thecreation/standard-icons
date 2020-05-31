@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.0.0",
-    "yeoman-generator": "^4.9.0"
+    "yeoman-generator": "^4.10.1"
   },
   "keywords": [
     "icon",
