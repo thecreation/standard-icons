@@ -1,5 +1,5 @@
 /**
- * Ionicons, 5.0.1
+ * Ionicons, 5.1.2
  * Created by Ben Sperry
  * http://ionicons.com/
  * MIT License
@@ -2681,2258 +2681,2290 @@
   content: "\ec97";
 }
 
-.ion-logo-bitbucket::before {
+.ion-logo-behance::before {
   content: "\ec98";
 }
 
-.ion-logo-bitcoin::before {
+.ion-logo-bitbucket::before {
   content: "\ec99";
 }
 
-.ion-logo-buffer::before {
+.ion-logo-bitcoin::before {
   content: "\ec9a";
 }
 
-.ion-logo-capacitor::before {
+.ion-logo-buffer::before {
   content: "\ec9b";
 }
 
-.ion-logo-chrome::before {
+.ion-logo-capacitor::before {
   content: "\ec9c";
 }
 
-.ion-logo-closed-captioning::before {
+.ion-logo-chrome::before {
   content: "\ec9d";
 }
 
-.ion-logo-codepen::before {
+.ion-logo-closed-captioning::before {
   content: "\ec9e";
 }
 
-.ion-logo-css3::before {
+.ion-logo-codepen::before {
   content: "\ec9f";
 }
 
-.ion-logo-designernews::before {
+.ion-logo-css3::before {
   content: "\eca0";
 }
 
-.ion-logo-dribbble::before {
+.ion-logo-designernews::before {
   content: "\eca1";
 }
 
-.ion-logo-dropbox::before {
+.ion-logo-docker::before {
   content: "\eca2";
 }
 
-.ion-logo-edge::before {
+.ion-logo-dribbble::before {
   content: "\eca3";
 }
 
-.ion-logo-electron::before {
+.ion-logo-dropbox::before {
   content: "\eca4";
 }
 
-.ion-logo-euro::before {
+.ion-logo-edge::before {
   content: "\eca5";
 }
 
-.ion-logo-facebook::before {
+.ion-logo-electron::before {
   content: "\eca6";
 }
 
-.ion-logo-firebase::before {
+.ion-logo-euro::before {
   content: "\eca7";
 }
 
-.ion-logo-firefox::before {
+.ion-logo-facebook::before {
   content: "\eca8";
 }
 
-.ion-logo-flickr::before {
+.ion-logo-firebase::before {
   content: "\eca9";
 }
 
-.ion-logo-foursquare::before {
+.ion-logo-firefox::before {
   content: "\ecaa";
 }
 
-.ion-logo-github::before {
+.ion-logo-flickr::before {
   content: "\ecab";
 }
 
-.ion-logo-google::before {
+.ion-logo-foursquare::before {
   content: "\ecac";
 }
 
-.ion-logo-google-playstore::before {
+.ion-logo-github::before {
   content: "\ecad";
 }
 
-.ion-logo-hackernews::before {
+.ion-logo-gitlab::before {
   content: "\ecae";
 }
 
-.ion-logo-html5::before {
+.ion-logo-google::before {
   content: "\ecaf";
 }
 
-.ion-logo-instagram::before {
+.ion-logo-google-playstore::before {
   content: "\ecb0";
 }
 
-.ion-logo-ionic::before {
+.ion-logo-hackernews::before {
   content: "\ecb1";
 }
 
-.ion-logo-ionitron::before {
+.ion-logo-html5::before {
   content: "\ecb2";
 }
 
-.ion-logo-javascript::before {
+.ion-logo-instagram::before {
   content: "\ecb3";
 }
 
-.ion-logo-laravel::before {
+.ion-logo-ionic::before {
   content: "\ecb4";
 }
 
-.ion-logo-linkedin::before {
+.ion-logo-ionitron::before {
   content: "\ecb5";
 }
 
-.ion-logo-markdown::before {
+.ion-logo-javascript::before {
   content: "\ecb6";
 }
 
-.ion-logo-no-smoking::before {
+.ion-logo-laravel::before {
   content: "\ecb7";
 }
 
-.ion-logo-nodejs::before {
+.ion-logo-linkedin::before {
   content: "\ecb8";
 }
 
-.ion-logo-npm::before {
+.ion-logo-markdown::before {
   content: "\ecb9";
 }
 
-.ion-logo-octocat::before {
+.ion-logo-medium::before {
   content: "\ecba";
 }
 
-.ion-logo-pinterest::before {
+.ion-logo-no-smoking::before {
   content: "\ecbb";
 }
 
-.ion-logo-playstation::before {
+.ion-logo-nodejs::before {
   content: "\ecbc";
 }
 
-.ion-logo-pwa::before {
+.ion-logo-npm::before {
   content: "\ecbd";
 }
 
-.ion-logo-python::before {
+.ion-logo-octocat::before {
   content: "\ecbe";
 }
 
-.ion-logo-react::before {
+.ion-logo-paypal::before {
   content: "\ecbf";
 }
 
-.ion-logo-reddit::before {
+.ion-logo-pinterest::before {
   content: "\ecc0";
 }
 
-.ion-logo-rss::before {
+.ion-logo-playstation::before {
   content: "\ecc1";
 }
 
-.ion-logo-sass::before {
+.ion-logo-pwa::before {
   content: "\ecc2";
 }
 
-.ion-logo-skype::before {
+.ion-logo-python::before {
   content: "\ecc3";
 }
 
-.ion-logo-slack::before {
+.ion-logo-react::before {
   content: "\ecc4";
 }
 
-.ion-logo-snapchat::before {
+.ion-logo-reddit::before {
   content: "\ecc5";
 }
 
-.ion-logo-stackoverflow::before {
+.ion-logo-rss::before {
   content: "\ecc6";
 }
 
-.ion-logo-steam::before {
+.ion-logo-sass::before {
   content: "\ecc7";
 }
 
-.ion-logo-stencil::before {
+.ion-logo-skype::before {
   content: "\ecc8";
 }
 
-.ion-logo-tumblr::before {
+.ion-logo-slack::before {
   content: "\ecc9";
 }
 
-.ion-logo-tux::before {
+.ion-logo-snapchat::before {
   content: "\ecca";
 }
 
-.ion-logo-twitch::before {
+.ion-logo-soundcloud::before {
   content: "\eccb";
 }
 
-.ion-logo-twitter::before {
+.ion-logo-stackoverflow::before {
   content: "\eccc";
 }
 
-.ion-logo-usd::before {
+.ion-logo-steam::before {
   content: "\eccd";
 }
 
-.ion-logo-vimeo::before {
+.ion-logo-stencil::before {
   content: "\ecce";
 }
 
-.ion-logo-vk::before {
+.ion-logo-tiktok::before {
   content: "\eccf";
 }
 
-.ion-logo-vue::before {
+.ion-logo-tumblr::before {
   content: "\ecd0";
 }
 
-.ion-logo-web-component::before {
+.ion-logo-tux::before {
   content: "\ecd1";
 }
 
-.ion-logo-whatsapp::before {
+.ion-logo-twitch::before {
   content: "\ecd2";
 }
 
-.ion-logo-windows::before {
+.ion-logo-twitter::before {
   content: "\ecd3";
 }
 
-.ion-logo-wordpress::before {
+.ion-logo-usd::before {
   content: "\ecd4";
 }
 
-.ion-logo-xbox::before {
+.ion-logo-venmo::before {
   content: "\ecd5";
 }
 
-.ion-logo-xing::before {
+.ion-logo-vimeo::before {
   content: "\ecd6";
 }
 
-.ion-logo-yahoo::before {
+.ion-logo-vk::before {
   content: "\ecd7";
 }
 
-.ion-logo-yen::before {
+.ion-logo-vue::before {
   content: "\ecd8";
 }
 
-.ion-logo-youtube::before {
+.ion-logo-web-component::before {
   content: "\ecd9";
 }
 
-.ion-magnet::before {
+.ion-logo-whatsapp::before {
   content: "\ecda";
 }
 
-.ion-magnet-outline::before {
+.ion-logo-windows::before {
   content: "\ecdb";
 }
 
-.ion-magnet-sharp::before {
+.ion-logo-wordpress::before {
   content: "\ecdc";
 }
 
-.ion-mail::before {
+.ion-logo-xbox::before {
   content: "\ecdd";
 }
 
-.ion-mail-open::before {
+.ion-logo-xing::before {
   content: "\ecde";
 }
 
-.ion-mail-open-outline::before {
+.ion-logo-yahoo::before {
   content: "\ecdf";
 }
 
-.ion-mail-open-sharp::before {
+.ion-logo-yen::before {
   content: "\ece0";
 }
 
-.ion-mail-outline::before {
+.ion-logo-youtube::before {
   content: "\ece1";
 }
 
-.ion-mail-sharp::before {
+.ion-magnet::before {
   content: "\ece2";
 }
 
-.ion-mail-unread::before {
+.ion-magnet-outline::before {
   content: "\ece3";
 }
 
-.ion-mail-unread-outline::before {
+.ion-magnet-sharp::before {
   content: "\ece4";
 }
 
-.ion-mail-unread-sharp::before {
+.ion-mail::before {
   content: "\ece5";
 }
 
-.ion-male::before {
+.ion-mail-open::before {
   content: "\ece6";
 }
 
-.ion-male-female::before {
+.ion-mail-open-outline::before {
   content: "\ece7";
 }
 
-.ion-male-female-outline::before {
+.ion-mail-open-sharp::before {
   content: "\ece8";
 }
 
-.ion-male-female-sharp::before {
+.ion-mail-outline::before {
   content: "\ece9";
 }
 
-.ion-male-outline::before {
+.ion-mail-sharp::before {
   content: "\ecea";
 }
 
-.ion-male-sharp::before {
+.ion-mail-unread::before {
   content: "\eceb";
 }
 
-.ion-man::before {
+.ion-mail-unread-outline::before {
   content: "\ecec";
 }
 
-.ion-man-outline::before {
+.ion-mail-unread-sharp::before {
   content: "\eced";
 }
 
-.ion-man-sharp::before {
+.ion-male::before {
   content: "\ecee";
 }
 
-.ion-map::before {
+.ion-male-female::before {
   content: "\ecef";
 }
 
-.ion-map-outline::before {
+.ion-male-female-outline::before {
   content: "\ecf0";
 }
 
-.ion-map-sharp::before {
+.ion-male-female-sharp::before {
   content: "\ecf1";
 }
 
-.ion-medal::before {
+.ion-male-outline::before {
   content: "\ecf2";
 }
 
-.ion-medal-outline::before {
+.ion-male-sharp::before {
   content: "\ecf3";
 }
 
-.ion-medal-sharp::before {
+.ion-man::before {
   content: "\ecf4";
 }
 
-.ion-medical::before {
+.ion-man-outline::before {
   content: "\ecf5";
 }
 
-.ion-medical-outline::before {
+.ion-man-sharp::before {
   content: "\ecf6";
 }
 
-.ion-medical-sharp::before {
+.ion-map::before {
   content: "\ecf7";
 }
 
-.ion-medkit::before {
+.ion-map-outline::before {
   content: "\ecf8";
 }
 
-.ion-medkit-outline::before {
+.ion-map-sharp::before {
   content: "\ecf9";
 }
 
-.ion-medkit-sharp::before {
+.ion-medal::before {
   content: "\ecfa";
 }
 
-.ion-megaphone::before {
+.ion-medal-outline::before {
   content: "\ecfb";
 }
 
-.ion-megaphone-outline::before {
+.ion-medal-sharp::before {
   content: "\ecfc";
 }
 
-.ion-megaphone-sharp::before {
+.ion-medical::before {
   content: "\ecfd";
 }
 
-.ion-menu::before {
+.ion-medical-outline::before {
   content: "\ecfe";
 }
 
-.ion-menu-outline::before {
+.ion-medical-sharp::before {
   content: "\ecff";
 }
 
-.ion-menu-sharp::before {
+.ion-medkit::before {
   content: "\ed00";
 }
 
-.ion-mic::before {
+.ion-medkit-outline::before {
   content: "\ed01";
 }
 
-.ion-mic-circle::before {
+.ion-medkit-sharp::before {
   content: "\ed02";
 }
 
-.ion-mic-circle-outline::before {
+.ion-megaphone::before {
   content: "\ed03";
 }
 
-.ion-mic-circle-sharp::before {
+.ion-megaphone-outline::before {
   content: "\ed04";
 }
 
-.ion-mic-off::before {
+.ion-megaphone-sharp::before {
   content: "\ed05";
 }
 
-.ion-mic-off-circle::before {
+.ion-menu::before {
   content: "\ed06";
 }
 
-.ion-mic-off-circle-outline::before {
+.ion-menu-outline::before {
   content: "\ed07";
 }
 
-.ion-mic-off-circle-sharp::before {
+.ion-menu-sharp::before {
   content: "\ed08";
 }
 
-.ion-mic-off-outline::before {
+.ion-mic::before {
   content: "\ed09";
 }
 
-.ion-mic-off-sharp::before {
+.ion-mic-circle::before {
   content: "\ed0a";
 }
 
-.ion-mic-outline::before {
+.ion-mic-circle-outline::before {
   content: "\ed0b";
 }
 
-.ion-mic-sharp::before {
+.ion-mic-circle-sharp::before {
   content: "\ed0c";
 }
 
-.ion-moon::before {
+.ion-mic-off::before {
   content: "\ed0d";
 }
 
-.ion-moon-outline::before {
+.ion-mic-off-circle::before {
   content: "\ed0e";
 }
 
-.ion-moon-sharp::before {
+.ion-mic-off-circle-outline::before {
   content: "\ed0f";
 }
 
-.ion-move::before {
+.ion-mic-off-circle-sharp::before {
   content: "\ed10";
 }
 
-.ion-move-outline::before {
+.ion-mic-off-outline::before {
   content: "\ed11";
 }
 
-.ion-move-sharp::before {
+.ion-mic-off-sharp::before {
   content: "\ed12";
 }
 
-.ion-musical-note::before {
+.ion-mic-outline::before {
   content: "\ed13";
 }
 
-.ion-musical-note-outline::before {
+.ion-mic-sharp::before {
   content: "\ed14";
 }
 
-.ion-musical-note-sharp::before {
+.ion-moon::before {
   content: "\ed15";
 }
 
-.ion-musical-notes::before {
+.ion-moon-outline::before {
   content: "\ed16";
 }
 
-.ion-musical-notes-outline::before {
+.ion-moon-sharp::before {
   content: "\ed17";
 }
 
-.ion-musical-notes-sharp::before {
+.ion-move::before {
   content: "\ed18";
 }
 
-.ion-navigate::before {
+.ion-move-outline::before {
   content: "\ed19";
 }
 
-.ion-navigate-circle::before {
+.ion-move-sharp::before {
   content: "\ed1a";
 }
 
-.ion-navigate-circle-outline::before {
+.ion-musical-note::before {
   content: "\ed1b";
 }
 
-.ion-navigate-circle-sharp::before {
+.ion-musical-note-outline::before {
   content: "\ed1c";
 }
 
-.ion-navigate-outline::before {
+.ion-musical-note-sharp::before {
   content: "\ed1d";
 }
 
-.ion-navigate-sharp::before {
+.ion-musical-notes::before {
   content: "\ed1e";
 }
 
-.ion-newspaper::before {
+.ion-musical-notes-outline::before {
   content: "\ed1f";
 }
 
-.ion-newspaper-outline::before {
+.ion-musical-notes-sharp::before {
   content: "\ed20";
 }
 
-.ion-newspaper-sharp::before {
+.ion-navigate::before {
   content: "\ed21";
 }
 
-.ion-notifications::before {
+.ion-navigate-circle::before {
   content: "\ed22";
 }
 
-.ion-notifications-circle::before {
+.ion-navigate-circle-outline::before {
   content: "\ed23";
 }
 
-.ion-notifications-circle-outline::before {
+.ion-navigate-circle-sharp::before {
   content: "\ed24";
 }
 
-.ion-notifications-circle-sharp::before {
+.ion-navigate-outline::before {
   content: "\ed25";
 }
 
-.ion-notifications-off::before {
+.ion-navigate-sharp::before {
   content: "\ed26";
 }
 
-.ion-notifications-off-circle::before {
+.ion-newspaper::before {
   content: "\ed27";
 }
 
-.ion-notifications-off-circle-outline::before {
+.ion-newspaper-outline::before {
   content: "\ed28";
 }
 
-.ion-notifications-off-circle-sharp::before {
+.ion-newspaper-sharp::before {
   content: "\ed29";
 }
 
-.ion-notifications-off-outline::before {
+.ion-notifications::before {
   content: "\ed2a";
 }
 
-.ion-notifications-off-sharp::before {
+.ion-notifications-circle::before {
   content: "\ed2b";
 }
 
-.ion-notifications-outline::before {
+.ion-notifications-circle-outline::before {
   content: "\ed2c";
 }
 
-.ion-notifications-sharp::before {
+.ion-notifications-circle-sharp::before {
   content: "\ed2d";
 }
 
-.ion-nuclear::before {
+.ion-notifications-off::before {
   content: "\ed2e";
 }
 
-.ion-nuclear-outline::before {
+.ion-notifications-off-circle::before {
   content: "\ed2f";
 }
 
-.ion-nuclear-sharp::before {
+.ion-notifications-off-circle-outline::before {
   content: "\ed30";
 }
 
-.ion-nutrition::before {
+.ion-notifications-off-circle-sharp::before {
   content: "\ed31";
 }
 
-.ion-nutrition-outline::before {
+.ion-notifications-off-outline::before {
   content: "\ed32";
 }
 
-.ion-nutrition-sharp::before {
+.ion-notifications-off-sharp::before {
   content: "\ed33";
 }
 
-.ion-open::before {
+.ion-notifications-outline::before {
   content: "\ed34";
 }
 
-.ion-open-outline::before {
+.ion-notifications-sharp::before {
   content: "\ed35";
 }
 
-.ion-open-sharp::before {
+.ion-nuclear::before {
   content: "\ed36";
 }
 
-.ion-options::before {
+.ion-nuclear-outline::before {
   content: "\ed37";
 }
 
-.ion-options-outline::before {
+.ion-nuclear-sharp::before {
   content: "\ed38";
 }
 
-.ion-options-sharp::before {
+.ion-nutrition::before {
   content: "\ed39";
 }
 
-.ion-paper-plane::before {
+.ion-nutrition-outline::before {
   content: "\ed3a";
 }
 
-.ion-paper-plane-outline::before {
+.ion-nutrition-sharp::before {
   content: "\ed3b";
 }
 
-.ion-paper-plane-sharp::before {
+.ion-open::before {
   content: "\ed3c";
 }
 
-.ion-partly-sunny::before {
+.ion-open-outline::before {
   content: "\ed3d";
 }
 
-.ion-partly-sunny-outline::before {
+.ion-open-sharp::before {
   content: "\ed3e";
 }
 
-.ion-partly-sunny-sharp::before {
+.ion-options::before {
   content: "\ed3f";
 }
 
-.ion-pause::before {
+.ion-options-outline::before {
   content: "\ed40";
 }
 
-.ion-pause-circle::before {
+.ion-options-sharp::before {
   content: "\ed41";
 }
 
-.ion-pause-circle-outline::before {
+.ion-paper-plane::before {
   content: "\ed42";
 }
 
-.ion-pause-circle-sharp::before {
+.ion-paper-plane-outline::before {
   content: "\ed43";
 }
 
-.ion-pause-outline::before {
+.ion-paper-plane-sharp::before {
   content: "\ed44";
 }
 
-.ion-pause-sharp::before {
+.ion-partly-sunny::before {
   content: "\ed45";
 }
 
-.ion-paw::before {
+.ion-partly-sunny-outline::before {
   content: "\ed46";
 }
 
-.ion-paw-outline::before {
+.ion-partly-sunny-sharp::before {
   content: "\ed47";
 }
 
-.ion-paw-sharp::before {
+.ion-pause::before {
   content: "\ed48";
 }
 
-.ion-pencil::before {
+.ion-pause-circle::before {
   content: "\ed49";
 }
 
-.ion-pencil-outline::before {
+.ion-pause-circle-outline::before {
   content: "\ed4a";
 }
 
-.ion-pencil-sharp::before {
+.ion-pause-circle-sharp::before {
   content: "\ed4b";
 }
 
-.ion-people::before {
+.ion-pause-outline::before {
   content: "\ed4c";
 }
 
-.ion-people-circle::before {
+.ion-pause-sharp::before {
   content: "\ed4d";
 }
 
-.ion-people-circle-outline::before {
+.ion-paw::before {
   content: "\ed4e";
 }
 
-.ion-people-circle-sharp::before {
+.ion-paw-outline::before {
   content: "\ed4f";
 }
 
-.ion-people-outline::before {
+.ion-paw-sharp::before {
   content: "\ed50";
 }
 
-.ion-people-sharp::before {
+.ion-pencil::before {
   content: "\ed51";
 }
 
-.ion-person::before {
+.ion-pencil-outline::before {
   content: "\ed52";
 }
 
-.ion-person-add::before {
+.ion-pencil-sharp::before {
   content: "\ed53";
 }
 
-.ion-person-add-outline::before {
+.ion-people::before {
   content: "\ed54";
 }
 
-.ion-person-add-sharp::before {
+.ion-people-circle::before {
   content: "\ed55";
 }
 
-.ion-person-circle::before {
+.ion-people-circle-outline::before {
   content: "\ed56";
 }
 
-.ion-person-circle-outline::before {
+.ion-people-circle-sharp::before {
   content: "\ed57";
 }
 
-.ion-person-circle-sharp::before {
+.ion-people-outline::before {
   content: "\ed58";
 }
 
-.ion-person-outline::before {
+.ion-people-sharp::before {
   content: "\ed59";
 }
 
-.ion-person-remove::before {
+.ion-person::before {
   content: "\ed5a";
 }
 
-.ion-person-remove-outline::before {
+.ion-person-add::before {
   content: "\ed5b";
 }
 
-.ion-person-remove-sharp::before {
+.ion-person-add-outline::before {
   content: "\ed5c";
 }
 
-.ion-person-sharp::before {
+.ion-person-add-sharp::before {
   content: "\ed5d";
 }
 
-.ion-phone-landscape::before {
+.ion-person-circle::before {
   content: "\ed5e";
 }
 
-.ion-phone-landscape-outline::before {
+.ion-person-circle-outline::before {
   content: "\ed5f";
 }
 
-.ion-phone-landscape-sharp::before {
+.ion-person-circle-sharp::before {
   content: "\ed60";
 }
 
-.ion-phone-portrait::before {
+.ion-person-outline::before {
   content: "\ed61";
 }
 
-.ion-phone-portrait-outline::before {
+.ion-person-remove::before {
   content: "\ed62";
 }
 
-.ion-phone-portrait-sharp::before {
+.ion-person-remove-outline::before {
   content: "\ed63";
 }
 
-.ion-pie-chart::before {
+.ion-person-remove-sharp::before {
   content: "\ed64";
 }
 
-.ion-pie-chart-outline::before {
+.ion-person-sharp::before {
   content: "\ed65";
 }
 
-.ion-pie-chart-sharp::before {
+.ion-phone-landscape::before {
   content: "\ed66";
 }
 
-.ion-pin::before {
+.ion-phone-landscape-outline::before {
   content: "\ed67";
 }
 
-.ion-pin-outline::before {
+.ion-phone-landscape-sharp::before {
   content: "\ed68";
 }
 
-.ion-pin-sharp::before {
+.ion-phone-portrait::before {
   content: "\ed69";
 }
 
-.ion-pint::before {
+.ion-phone-portrait-outline::before {
   content: "\ed6a";
 }
 
-.ion-pint-outline::before {
+.ion-phone-portrait-sharp::before {
   content: "\ed6b";
 }
 
-.ion-pint-sharp::before {
+.ion-pie-chart::before {
   content: "\ed6c";
 }
 
-.ion-pizza::before {
+.ion-pie-chart-outline::before {
   content: "\ed6d";
 }
 
-.ion-pizza-outline::before {
+.ion-pie-chart-sharp::before {
   content: "\ed6e";
 }
 
-.ion-pizza-sharp::before {
+.ion-pin::before {
   content: "\ed6f";
 }
 
-.ion-planet::before {
+.ion-pin-outline::before {
   content: "\ed70";
 }
 
-.ion-planet-outline::before {
+.ion-pin-sharp::before {
   content: "\ed71";
 }
 
-.ion-planet-sharp::before {
+.ion-pint::before {
   content: "\ed72";
 }
 
-.ion-play::before {
+.ion-pint-outline::before {
   content: "\ed73";
 }
 
-.ion-play-back::before {
+.ion-pint-sharp::before {
   content: "\ed74";
 }
 
-.ion-play-back-circle::before {
+.ion-pizza::before {
   content: "\ed75";
 }
 
-.ion-play-back-circle-outline::before {
+.ion-pizza-outline::before {
   content: "\ed76";
 }
 
-.ion-play-back-circle-sharp::before {
+.ion-pizza-sharp::before {
   content: "\ed77";
 }
 
-.ion-play-back-outline::before {
+.ion-planet::before {
   content: "\ed78";
 }
 
-.ion-play-back-sharp::before {
+.ion-planet-outline::before {
   content: "\ed79";
 }
 
-.ion-play-circle::before {
+.ion-planet-sharp::before {
   content: "\ed7a";
 }
 
-.ion-play-circle-outline::before {
+.ion-play::before {
   content: "\ed7b";
 }
 
-.ion-play-circle-sharp::before {
+.ion-play-back::before {
   content: "\ed7c";
 }
 
-.ion-play-forward::before {
+.ion-play-back-circle::before {
   content: "\ed7d";
 }
 
-.ion-play-forward-circle::before {
+.ion-play-back-circle-outline::before {
   content: "\ed7e";
 }
 
-.ion-play-forward-circle-outline::before {
+.ion-play-back-circle-sharp::before {
   content: "\ed7f";
 }
 
-.ion-play-forward-circle-sharp::before {
+.ion-play-back-outline::before {
   content: "\ed80";
 }
 
-.ion-play-forward-outline::before {
+.ion-play-back-sharp::before {
   content: "\ed81";
 }
 
-.ion-play-forward-sharp::before {
+.ion-play-circle::before {
   content: "\ed82";
 }
 
-.ion-play-outline::before {
+.ion-play-circle-outline::before {
   content: "\ed83";
 }
 
-.ion-play-sharp::before {
+.ion-play-circle-sharp::before {
   content: "\ed84";
 }
 
-.ion-play-skip-back::before {
+.ion-play-forward::before {
   content: "\ed85";
 }
 
-.ion-play-skip-back-circle::before {
+.ion-play-forward-circle::before {
   content: "\ed86";
 }
 
-.ion-play-skip-back-circle-outline::before {
+.ion-play-forward-circle-outline::before {
   content: "\ed87";
 }
 
-.ion-play-skip-back-circle-sharp::before {
+.ion-play-forward-circle-sharp::before {
   content: "\ed88";
 }
 
-.ion-play-skip-back-outline::before {
+.ion-play-forward-outline::before {
   content: "\ed89";
 }
 
-.ion-play-skip-back-sharp::before {
+.ion-play-forward-sharp::before {
   content: "\ed8a";
 }
 
-.ion-play-skip-forward::before {
+.ion-play-outline::before {
   content: "\ed8b";
 }
 
-.ion-play-skip-forward-circle::before {
+.ion-play-sharp::before {
   content: "\ed8c";
 }
 
-.ion-play-skip-forward-circle-outline::before {
+.ion-play-skip-back::before {
   content: "\ed8d";
 }
 
-.ion-play-skip-forward-circle-sharp::before {
+.ion-play-skip-back-circle::before {
   content: "\ed8e";
 }
 
-.ion-play-skip-forward-outline::before {
+.ion-play-skip-back-circle-outline::before {
   content: "\ed8f";
 }
 
-.ion-play-skip-forward-sharp::before {
+.ion-play-skip-back-circle-sharp::before {
   content: "\ed90";
 }
 
-.ion-podium::before {
+.ion-play-skip-back-outline::before {
   content: "\ed91";
 }
 
-.ion-podium-outline::before {
+.ion-play-skip-back-sharp::before {
   content: "\ed92";
 }
 
-.ion-podium-sharp::before {
+.ion-play-skip-forward::before {
   content: "\ed93";
 }
 
-.ion-power::before {
+.ion-play-skip-forward-circle::before {
   content: "\ed94";
 }
 
-.ion-power-outline::before {
+.ion-play-skip-forward-circle-outline::before {
   content: "\ed95";
 }
 
-.ion-power-sharp::before {
+.ion-play-skip-forward-circle-sharp::before {
   content: "\ed96";
 }
 
-.ion-pricetag::before {
+.ion-play-skip-forward-outline::before {
   content: "\ed97";
 }
 
-.ion-pricetag-outline::before {
+.ion-play-skip-forward-sharp::before {
   content: "\ed98";
 }
 
-.ion-pricetag-sharp::before {
+.ion-podium::before {
   content: "\ed99";
 }
 
-.ion-pricetags::before {
+.ion-podium-outline::before {
   content: "\ed9a";
 }
 
-.ion-pricetags-outline::before {
+.ion-podium-sharp::before {
   content: "\ed9b";
 }
 
-.ion-pricetags-sharp::before {
+.ion-power::before {
   content: "\ed9c";
 }
 
-.ion-print::before {
+.ion-power-outline::before {
   content: "\ed9d";
 }
 
-.ion-print-outline::before {
+.ion-power-sharp::before {
   content: "\ed9e";
 }
 
-.ion-print-sharp::before {
+.ion-pricetag::before {
   content: "\ed9f";
 }
 
-.ion-pulse::before {
+.ion-pricetag-outline::before {
   content: "\eda0";
 }
 
-.ion-pulse-outline::before {
+.ion-pricetag-sharp::before {
   content: "\eda1";
 }
 
-.ion-pulse-sharp::before {
+.ion-pricetags::before {
   content: "\eda2";
 }
 
-.ion-push::before {
+.ion-pricetags-outline::before {
   content: "\eda3";
 }
 
-.ion-push-outline::before {
+.ion-pricetags-sharp::before {
   content: "\eda4";
 }
 
-.ion-push-sharp::before {
+.ion-print::before {
   content: "\eda5";
 }
 
-.ion-qr-code::before {
+.ion-print-outline::before {
   content: "\eda6";
 }
 
-.ion-qr-code-outline::before {
+.ion-print-sharp::before {
   content: "\eda7";
 }
 
-.ion-qr-code-sharp::before {
+.ion-pulse::before {
   content: "\eda8";
 }
 
-.ion-radio::before {
+.ion-pulse-outline::before {
   content: "\eda9";
 }
 
-.ion-radio-button-off::before {
+.ion-pulse-sharp::before {
   content: "\edaa";
 }
 
-.ion-radio-button-off-outline::before {
+.ion-push::before {
   content: "\edab";
 }
 
-.ion-radio-button-off-sharp::before {
+.ion-push-outline::before {
   content: "\edac";
 }
 
-.ion-radio-button-on::before {
+.ion-push-sharp::before {
   content: "\edad";
 }
 
-.ion-radio-button-on-outline::before {
+.ion-qr-code::before {
   content: "\edae";
 }
 
-.ion-radio-button-on-sharp::before {
+.ion-qr-code-outline::before {
   content: "\edaf";
 }
 
-.ion-radio-outline::before {
+.ion-qr-code-sharp::before {
   content: "\edb0";
 }
 
-.ion-radio-sharp::before {
+.ion-radio::before {
   content: "\edb1";
 }
 
-.ion-rainy::before {
+.ion-radio-button-off::before {
   content: "\edb2";
 }
 
-.ion-rainy-outline::before {
+.ion-radio-button-off-outline::before {
   content: "\edb3";
 }
 
-.ion-rainy-sharp::before {
+.ion-radio-button-off-sharp::before {
   content: "\edb4";
 }
 
-.ion-reader::before {
+.ion-radio-button-on::before {
   content: "\edb5";
 }
 
-.ion-reader-outline::before {
+.ion-radio-button-on-outline::before {
   content: "\edb6";
 }
 
-.ion-reader-sharp::before {
+.ion-radio-button-on-sharp::before {
   content: "\edb7";
 }
 
-.ion-receipt::before {
+.ion-radio-outline::before {
   content: "\edb8";
 }
 
-.ion-receipt-outline::before {
+.ion-radio-sharp::before {
   content: "\edb9";
 }
 
-.ion-receipt-sharp::before {
+.ion-rainy::before {
   content: "\edba";
 }
 
-.ion-recording::before {
+.ion-rainy-outline::before {
   content: "\edbb";
 }
 
-.ion-recording-outline::before {
+.ion-rainy-sharp::before {
   content: "\edbc";
 }
 
-.ion-recording-sharp::before {
+.ion-reader::before {
   content: "\edbd";
 }
 
-.ion-refresh::before {
+.ion-reader-outline::before {
   content: "\edbe";
 }
 
-.ion-refresh-circle::before {
+.ion-reader-sharp::before {
   content: "\edbf";
 }
 
-.ion-refresh-circle-outline::before {
+.ion-receipt::before {
   content: "\edc0";
 }
 
-.ion-refresh-circle-sharp::before {
+.ion-receipt-outline::before {
   content: "\edc1";
 }
 
-.ion-refresh-outline::before {
+.ion-receipt-sharp::before {
   content: "\edc2";
 }
 
-.ion-refresh-sharp::before {
+.ion-recording::before {
   content: "\edc3";
 }
 
-.ion-reload::before {
+.ion-recording-outline::before {
   content: "\edc4";
 }
 
-.ion-reload-circle::before {
+.ion-recording-sharp::before {
   content: "\edc5";
 }
 
-.ion-reload-circle-outline::before {
+.ion-refresh::before {
   content: "\edc6";
 }
 
-.ion-reload-circle-sharp::before {
+.ion-refresh-circle::before {
   content: "\edc7";
 }
 
-.ion-reload-outline::before {
+.ion-refresh-circle-outline::before {
   content: "\edc8";
 }
 
-.ion-reload-sharp::before {
+.ion-refresh-circle-sharp::before {
   content: "\edc9";
 }
 
-.ion-remove::before {
+.ion-refresh-outline::before {
   content: "\edca";
 }
 
-.ion-remove-circle::before {
+.ion-refresh-sharp::before {
   content: "\edcb";
 }
 
-.ion-remove-circle-outline::before {
+.ion-reload::before {
   content: "\edcc";
 }
 
-.ion-remove-circle-sharp::before {
+.ion-reload-circle::before {
   content: "\edcd";
 }
 
-.ion-remove-outline::before {
+.ion-reload-circle-outline::before {
   content: "\edce";
 }
 
-.ion-remove-sharp::before {
+.ion-reload-circle-sharp::before {
   content: "\edcf";
 }
 
-.ion-reorder-four::before {
+.ion-reload-outline::before {
   content: "\edd0";
 }
 
-.ion-reorder-four-outline::before {
+.ion-reload-sharp::before {
   content: "\edd1";
 }
 
-.ion-reorder-four-sharp::before {
+.ion-remove::before {
   content: "\edd2";
 }
 
-.ion-reorder-three::before {
+.ion-remove-circle::before {
   content: "\edd3";
 }
 
-.ion-reorder-three-outline::before {
+.ion-remove-circle-outline::before {
   content: "\edd4";
 }
 
-.ion-reorder-three-sharp::before {
+.ion-remove-circle-sharp::before {
   content: "\edd5";
 }
 
-.ion-reorder-two::before {
+.ion-remove-outline::before {
   content: "\edd6";
 }
 
-.ion-reorder-two-outline::before {
+.ion-remove-sharp::before {
   content: "\edd7";
 }
 
-.ion-reorder-two-sharp::before {
+.ion-reorder-four::before {
   content: "\edd8";
 }
 
-.ion-repeat::before {
+.ion-reorder-four-outline::before {
   content: "\edd9";
 }
 
-.ion-repeat-outline::before {
+.ion-reorder-four-sharp::before {
   content: "\edda";
 }
 
-.ion-repeat-sharp::before {
+.ion-reorder-three::before {
   content: "\eddb";
 }
 
-.ion-resize::before {
+.ion-reorder-three-outline::before {
   content: "\eddc";
 }
 
-.ion-resize-outline::before {
+.ion-reorder-three-sharp::before {
   content: "\eddd";
 }
 
-.ion-resize-sharp::before {
+.ion-reorder-two::before {
   content: "\edde";
 }
 
-.ion-restaurant::before {
+.ion-reorder-two-outline::before {
   content: "\eddf";
 }
 
-.ion-restaurant-outline::before {
+.ion-reorder-two-sharp::before {
   content: "\ede0";
 }
 
-.ion-restaurant-sharp::before {
+.ion-repeat::before {
   content: "\ede1";
 }
 
-.ion-return-down-back::before {
+.ion-repeat-outline::before {
   content: "\ede2";
 }
 
-.ion-return-down-back-outline::before {
+.ion-repeat-sharp::before {
   content: "\ede3";
 }
 
-.ion-return-down-back-sharp::before {
+.ion-resize::before {
   content: "\ede4";
 }
 
-.ion-return-down-forward::before {
+.ion-resize-outline::before {
   content: "\ede5";
 }
 
-.ion-return-down-forward-outline::before {
+.ion-resize-sharp::before {
   content: "\ede6";
 }
 
-.ion-return-down-forward-sharp::before {
+.ion-restaurant::before {
   content: "\ede7";
 }
 
-.ion-return-up-back::before {
+.ion-restaurant-outline::before {
   content: "\ede8";
 }
 
-.ion-return-up-back-outline::before {
+.ion-restaurant-sharp::before {
   content: "\ede9";
 }
 
-.ion-return-up-back-sharp::before {
+.ion-return-down-back::before {
   content: "\edea";
 }
 
-.ion-return-up-forward::before {
+.ion-return-down-back-outline::before {
   content: "\edeb";
 }
 
-.ion-return-up-forward-outline::before {
+.ion-return-down-back-sharp::before {
   content: "\edec";
 }
 
-.ion-return-up-forward-sharp::before {
+.ion-return-down-forward::before {
   content: "\eded";
 }
 
-.ion-ribbon::before {
+.ion-return-down-forward-outline::before {
   content: "\edee";
 }
 
-.ion-ribbon-outline::before {
+.ion-return-down-forward-sharp::before {
   content: "\edef";
 }
 
-.ion-ribbon-sharp::before {
+.ion-return-up-back::before {
   content: "\edf0";
 }
 
-.ion-rocket::before {
+.ion-return-up-back-outline::before {
   content: "\edf1";
 }
 
-.ion-rocket-outline::before {
+.ion-return-up-back-sharp::before {
   content: "\edf2";
 }
 
-.ion-rocket-sharp::before {
+.ion-return-up-forward::before {
   content: "\edf3";
 }
 
-.ion-rose::before {
+.ion-return-up-forward-outline::before {
   content: "\edf4";
 }
 
-.ion-rose-outline::before {
+.ion-return-up-forward-sharp::before {
   content: "\edf5";
 }
 
-.ion-rose-sharp::before {
+.ion-ribbon::before {
   content: "\edf6";
 }
 
-.ion-sad::before {
+.ion-ribbon-outline::before {
   content: "\edf7";
 }
 
-.ion-sad-outline::before {
+.ion-ribbon-sharp::before {
   content: "\edf8";
 }
 
-.ion-sad-sharp::before {
+.ion-rocket::before {
   content: "\edf9";
 }
 
-.ion-save::before {
+.ion-rocket-outline::before {
   content: "\edfa";
 }
 
-.ion-save-outline::before {
+.ion-rocket-sharp::before {
   content: "\edfb";
 }
 
-.ion-save-sharp::before {
+.ion-rose::before {
   content: "\edfc";
 }
 
-.ion-scan::before {
+.ion-rose-outline::before {
   content: "\edfd";
 }
 
-.ion-scan-circle::before {
+.ion-rose-sharp::before {
   content: "\edfe";
 }
 
-.ion-scan-circle-outline::before {
+.ion-sad::before {
   content: "\edff";
 }
 
-.ion-scan-circle-sharp::before {
+.ion-sad-outline::before {
   content: "\ee00";
 }
 
-.ion-scan-outline::before {
+.ion-sad-sharp::before {
   content: "\ee01";
 }
 
-.ion-scan-sharp::before {
+.ion-save::before {
   content: "\ee02";
 }
 
-.ion-school::before {
+.ion-save-outline::before {
   content: "\ee03";
 }
 
-.ion-school-outline::before {
+.ion-save-sharp::before {
   content: "\ee04";
 }
 
-.ion-school-sharp::before {
+.ion-scan::before {
   content: "\ee05";
 }
 
-.ion-search::before {
+.ion-scan-circle::before {
   content: "\ee06";
 }
 
-.ion-search-circle::before {
+.ion-scan-circle-outline::before {
   content: "\ee07";
 }
 
-.ion-search-circle-outline::before {
+.ion-scan-circle-sharp::before {
   content: "\ee08";
 }
 
-.ion-search-circle-sharp::before {
+.ion-scan-outline::before {
   content: "\ee09";
 }
 
-.ion-search-outline::before {
+.ion-scan-sharp::before {
   content: "\ee0a";
 }
 
-.ion-search-sharp::before {
+.ion-school::before {
   content: "\ee0b";
 }
 
-.ion-send::before {
+.ion-school-outline::before {
   content: "\ee0c";
 }
 
-.ion-send-outline::before {
+.ion-school-sharp::before {
   content: "\ee0d";
 }
 
-.ion-send-sharp::before {
+.ion-search::before {
   content: "\ee0e";
 }
 
-.ion-server::before {
+.ion-search-circle::before {
   content: "\ee0f";
 }
 
-.ion-server-outline::before {
+.ion-search-circle-outline::before {
   content: "\ee10";
 }
 
-.ion-server-sharp::before {
+.ion-search-circle-sharp::before {
   content: "\ee11";
 }
 
-.ion-settings::before {
+.ion-search-outline::before {
   content: "\ee12";
 }
 
-.ion-settings-outline::before {
+.ion-search-sharp::before {
   content: "\ee13";
 }
 
-.ion-settings-sharp::before {
+.ion-send::before {
   content: "\ee14";
 }
 
-.ion-shapes::before {
+.ion-send-outline::before {
   content: "\ee15";
 }
 
-.ion-shapes-outline::before {
+.ion-send-sharp::before {
   content: "\ee16";
 }
 
-.ion-shapes-sharp::before {
+.ion-server::before {
   content: "\ee17";
 }
 
-.ion-share::before {
+.ion-server-outline::before {
   content: "\ee18";
 }
 
-.ion-share-outline::before {
+.ion-server-sharp::before {
   content: "\ee19";
 }
 
-.ion-share-sharp::before {
+.ion-settings::before {
   content: "\ee1a";
 }
 
-.ion-share-social::before {
+.ion-settings-outline::before {
   content: "\ee1b";
 }
 
-.ion-share-social-outline::before {
+.ion-settings-sharp::before {
   content: "\ee1c";
 }
 
-.ion-share-social-sharp::before {
+.ion-shapes::before {
   content: "\ee1d";
 }
 
-.ion-shield::before {
+.ion-shapes-outline::before {
   content: "\ee1e";
 }
 
-.ion-shield-checkmark::before {
+.ion-shapes-sharp::before {
   content: "\ee1f";
 }
 
-.ion-shield-checkmark-outline::before {
+.ion-share::before {
   content: "\ee20";
 }
 
-.ion-shield-checkmark-sharp::before {
+.ion-share-outline::before {
   content: "\ee21";
 }
 
-.ion-shield-outline::before {
+.ion-share-sharp::before {
   content: "\ee22";
 }
 
-.ion-shield-sharp::before {
+.ion-share-social::before {
   content: "\ee23";
 }
 
-.ion-shirt::before {
+.ion-share-social-outline::before {
   content: "\ee24";
 }
 
-.ion-shirt-outline::before {
+.ion-share-social-sharp::before {
   content: "\ee25";
 }
 
-.ion-shirt-sharp::before {
+.ion-shield::before {
   content: "\ee26";
 }
 
-.ion-shuffle::before {
+.ion-shield-checkmark::before {
   content: "\ee27";
 }
 
-.ion-shuffle-outline::before {
+.ion-shield-checkmark-outline::before {
   content: "\ee28";
 }
 
-.ion-shuffle-sharp::before {
+.ion-shield-checkmark-sharp::before {
   content: "\ee29";
 }
 
-.ion-skull::before {
+.ion-shield-outline::before {
   content: "\ee2a";
 }
 
-.ion-skull-outline::before {
+.ion-shield-sharp::before {
   content: "\ee2b";
 }
 
-.ion-skull-sharp::before {
+.ion-shirt::before {
   content: "\ee2c";
 }
 
-.ion-snow::before {
+.ion-shirt-outline::before {
   content: "\ee2d";
 }
 
-.ion-snow-outline::before {
+.ion-shirt-sharp::before {
   content: "\ee2e";
 }
 
-.ion-snow-sharp::before {
+.ion-shuffle::before {
   content: "\ee2f";
 }
 
-.ion-speedometer::before {
+.ion-shuffle-outline::before {
   content: "\ee30";
 }
 
-.ion-speedometer-outline::before {
+.ion-shuffle-sharp::before {
   content: "\ee31";
 }
 
-.ion-speedometer-sharp::before {
+.ion-skull::before {
   content: "\ee32";
 }
 
-.ion-square::before {
+.ion-skull-outline::before {
   content: "\ee33";
 }
 
-.ion-square-outline::before {
+.ion-skull-sharp::before {
   content: "\ee34";
 }
 
-.ion-square-sharp::before {
+.ion-snow::before {
   content: "\ee35";
 }
 
-.ion-star::before {
+.ion-snow-outline::before {
   content: "\ee36";
 }
 
-.ion-star-half::before {
+.ion-snow-sharp::before {
   content: "\ee37";
 }
 
-.ion-star-half-outline::before {
+.ion-speedometer::before {
   content: "\ee38";
 }
 
-.ion-star-half-sharp::before {
+.ion-speedometer-outline::before {
   content: "\ee39";
 }
 
-.ion-star-outline::before {
+.ion-speedometer-sharp::before {
   content: "\ee3a";
 }
 
-.ion-star-sharp::before {
+.ion-square::before {
   content: "\ee3b";
 }
 
-.ion-stats-chart::before {
+.ion-square-outline::before {
   content: "\ee3c";
 }
 
-.ion-stats-chart-outline::before {
+.ion-square-sharp::before {
   content: "\ee3d";
 }
 
-.ion-stats-chart-sharp::before {
+.ion-star::before {
   content: "\ee3e";
 }
 
-.ion-stop::before {
+.ion-star-half::before {
   content: "\ee3f";
 }
 
-.ion-stop-circle::before {
+.ion-star-half-outline::before {
   content: "\ee40";
 }
 
-.ion-stop-circle-outline::before {
+.ion-star-half-sharp::before {
   content: "\ee41";
 }
 
-.ion-stop-circle-sharp::before {
+.ion-star-outline::before {
   content: "\ee42";
 }
 
-.ion-stop-outline::before {
+.ion-star-sharp::before {
   content: "\ee43";
 }
 
-.ion-stop-sharp::before {
+.ion-stats-chart::before {
   content: "\ee44";
 }
 
-.ion-stopwatch::before {
+.ion-stats-chart-outline::before {
   content: "\ee45";
 }
 
-.ion-stopwatch-outline::before {
+.ion-stats-chart-sharp::before {
   content: "\ee46";
 }
 
-.ion-stopwatch-sharp::before {
+.ion-stop::before {
   content: "\ee47";
 }
 
-.ion-subway::before {
+.ion-stop-circle::before {
   content: "\ee48";
 }
 
-.ion-subway-outline::before {
+.ion-stop-circle-outline::before {
   content: "\ee49";
 }
 
-.ion-subway-sharp::before {
+.ion-stop-circle-sharp::before {
   content: "\ee4a";
 }
 
-.ion-sunny::before {
+.ion-stop-outline::before {
   content: "\ee4b";
 }
 
-.ion-sunny-outline::before {
+.ion-stop-sharp::before {
   content: "\ee4c";
 }
 
-.ion-sunny-sharp::before {
+.ion-stopwatch::before {
   content: "\ee4d";
 }
 
-.ion-swap-horizontal::before {
+.ion-stopwatch-outline::before {
   content: "\ee4e";
 }
 
-.ion-swap-horizontal-outline::before {
+.ion-stopwatch-sharp::before {
   content: "\ee4f";
 }
 
-.ion-swap-horizontal-sharp::before {
+.ion-subway::before {
   content: "\ee50";
 }
 
-.ion-swap-vertical::before {
+.ion-subway-outline::before {
   content: "\ee51";
 }
 
-.ion-swap-vertical-outline::before {
+.ion-subway-sharp::before {
   content: "\ee52";
 }
 
-.ion-swap-vertical-sharp::before {
+.ion-sunny::before {
   content: "\ee53";
 }
 
-.ion-sync::before {
+.ion-sunny-outline::before {
   content: "\ee54";
 }
 
-.ion-sync-circle::before {
+.ion-sunny-sharp::before {
   content: "\ee55";
 }
 
-.ion-sync-circle-outline::before {
+.ion-swap-horizontal::before {
   content: "\ee56";
 }
 
-.ion-sync-circle-sharp::before {
+.ion-swap-horizontal-outline::before {
   content: "\ee57";
 }
 
-.ion-sync-outline::before {
+.ion-swap-horizontal-sharp::before {
   content: "\ee58";
 }
 
-.ion-sync-sharp::before {
+.ion-swap-vertical::before {
   content: "\ee59";
 }
 
-.ion-tablet-landscape::before {
+.ion-swap-vertical-outline::before {
   content: "\ee5a";
 }
 
-.ion-tablet-landscape-outline::before {
+.ion-swap-vertical-sharp::before {
   content: "\ee5b";
 }
 
-.ion-tablet-landscape-sharp::before {
+.ion-sync::before {
   content: "\ee5c";
 }
 
-.ion-tablet-portrait::before {
+.ion-sync-circle::before {
   content: "\ee5d";
 }
 
-.ion-tablet-portrait-outline::before {
+.ion-sync-circle-outline::before {
   content: "\ee5e";
 }
 
-.ion-tablet-portrait-sharp::before {
+.ion-sync-circle-sharp::before {
   content: "\ee5f";
 }
 
-.ion-tennisball::before {
+.ion-sync-outline::before {
   content: "\ee60";
 }
 
-.ion-tennisball-outline::before {
+.ion-sync-sharp::before {
   content: "\ee61";
 }
 
-.ion-tennisball-sharp::before {
+.ion-tablet-landscape::before {
   content: "\ee62";
 }
 
-.ion-terminal::before {
+.ion-tablet-landscape-outline::before {
   content: "\ee63";
 }
 
-.ion-terminal-outline::before {
+.ion-tablet-landscape-sharp::before {
   content: "\ee64";
 }
 
-.ion-terminal-sharp::before {
+.ion-tablet-portrait::before {
   content: "\ee65";
 }
 
-.ion-text::before {
+.ion-tablet-portrait-outline::before {
   content: "\ee66";
 }
 
-.ion-text-outline::before {
+.ion-tablet-portrait-sharp::before {
   content: "\ee67";
 }
 
-.ion-text-sharp::before {
+.ion-tennisball::before {
   content: "\ee68";
 }
 
-.ion-thermometer::before {
+.ion-tennisball-outline::before {
   content: "\ee69";
 }
 
-.ion-thermometer-outline::before {
+.ion-tennisball-sharp::before {
   content: "\ee6a";
 }
 
-.ion-thermometer-sharp::before {
+.ion-terminal::before {
   content: "\ee6b";
 }
 
-.ion-thumbs-down::before {
+.ion-terminal-outline::before {
   content: "\ee6c";
 }
 
-.ion-thumbs-down-outline::before {
+.ion-terminal-sharp::before {
   content: "\ee6d";
 }
 
-.ion-thumbs-down-sharp::before {
+.ion-text::before {
   content: "\ee6e";
 }
 
-.ion-thumbs-up::before {
+.ion-text-outline::before {
   content: "\ee6f";
 }
 
-.ion-thumbs-up-outline::before {
+.ion-text-sharp::before {
   content: "\ee70";
 }
 
-.ion-thumbs-up-sharp::before {
+.ion-thermometer::before {
   content: "\ee71";
 }
 
-.ion-thunderstorm::before {
+.ion-thermometer-outline::before {
   content: "\ee72";
 }
 
-.ion-thunderstorm-outline::before {
+.ion-thermometer-sharp::before {
   content: "\ee73";
 }
 
-.ion-thunderstorm-sharp::before {
+.ion-thumbs-down::before {
   content: "\ee74";
 }
 
-.ion-time::before {
+.ion-thumbs-down-outline::before {
   content: "\ee75";
 }
 
-.ion-time-outline::before {
+.ion-thumbs-down-sharp::before {
   content: "\ee76";
 }
 
-.ion-time-sharp::before {
+.ion-thumbs-up::before {
   content: "\ee77";
 }
 
-.ion-timer::before {
+.ion-thumbs-up-outline::before {
   content: "\ee78";
 }
 
-.ion-timer-outline::before {
+.ion-thumbs-up-sharp::before {
   content: "\ee79";
 }
 
-.ion-timer-sharp::before {
+.ion-thunderstorm::before {
   content: "\ee7a";
 }
 
-.ion-today::before {
+.ion-thunderstorm-outline::before {
   content: "\ee7b";
 }
 
-.ion-today-outline::before {
+.ion-thunderstorm-sharp::before {
   content: "\ee7c";
 }
 
-.ion-today-sharp::before {
+.ion-time::before {
   content: "\ee7d";
 }
 
-.ion-toggle::before {
+.ion-time-outline::before {
   content: "\ee7e";
 }
 
-.ion-toggle-outline::before {
+.ion-time-sharp::before {
   content: "\ee7f";
 }
 
-.ion-toggle-sharp::before {
+.ion-timer::before {
   content: "\ee80";
 }
 
-.ion-trail-sign::before {
+.ion-timer-outline::before {
   content: "\ee81";
 }
 
-.ion-trail-sign-outline::before {
+.ion-timer-sharp::before {
   content: "\ee82";
 }
 
-.ion-trail-sign-sharp::before {
+.ion-today::before {
   content: "\ee83";
 }
 
-.ion-train::before {
+.ion-today-outline::before {
   content: "\ee84";
 }
 
-.ion-train-outline::before {
+.ion-today-sharp::before {
   content: "\ee85";
 }
 
-.ion-train-sharp::before {
+.ion-toggle::before {
   content: "\ee86";
 }
 
-.ion-transgender::before {
+.ion-toggle-outline::before {
   content: "\ee87";
 }
 
-.ion-transgender-outline::before {
+.ion-toggle-sharp::before {
   content: "\ee88";
 }
 
-.ion-transgender-sharp::before {
+.ion-trail-sign::before {
   content: "\ee89";
 }
 
-.ion-trash::before {
+.ion-trail-sign-outline::before {
   content: "\ee8a";
 }
 
-.ion-trash-bin::before {
+.ion-trail-sign-sharp::before {
   content: "\ee8b";
 }
 
-.ion-trash-bin-outline::before {
+.ion-train::before {
   content: "\ee8c";
 }
 
-.ion-trash-bin-sharp::before {
+.ion-train-outline::before {
   content: "\ee8d";
 }
 
-.ion-trash-outline::before {
+.ion-train-sharp::before {
   content: "\ee8e";
 }
 
-.ion-trash-sharp::before {
+.ion-transgender::before {
   content: "\ee8f";
 }
 
-.ion-trending-down::before {
+.ion-transgender-outline::before {
   content: "\ee90";
 }
 
-.ion-trending-down-outline::before {
+.ion-transgender-sharp::before {
   content: "\ee91";
 }
 
-.ion-trending-down-sharp::before {
+.ion-trash::before {
   content: "\ee92";
 }
 
-.ion-trending-up::before {
+.ion-trash-bin::before {
   content: "\ee93";
 }
 
-.ion-trending-up-outline::before {
+.ion-trash-bin-outline::before {
   content: "\ee94";
 }
 
-.ion-trending-up-sharp::before {
+.ion-trash-bin-sharp::before {
   content: "\ee95";
 }
 
-.ion-triangle::before {
+.ion-trash-outline::before {
   content: "\ee96";
 }
 
-.ion-triangle-outline::before {
+.ion-trash-sharp::before {
   content: "\ee97";
 }
 
-.ion-triangle-sharp::before {
+.ion-trending-down::before {
   content: "\ee98";
 }
 
-.ion-trophy::before {
+.ion-trending-down-outline::before {
   content: "\ee99";
 }
 
-.ion-trophy-outline::before {
+.ion-trending-down-sharp::before {
   content: "\ee9a";
 }
 
-.ion-trophy-sharp::before {
+.ion-trending-up::before {
   content: "\ee9b";
 }
 
-.ion-tv::before {
+.ion-trending-up-outline::before {
   content: "\ee9c";
 }
 
-.ion-tv-outline::before {
+.ion-trending-up-sharp::before {
   content: "\ee9d";
 }
 
-.ion-tv-sharp::before {
+.ion-triangle::before {
   content: "\ee9e";
 }
 
-.ion-umbrella::before {
+.ion-triangle-outline::before {
   content: "\ee9f";
 }
 
-.ion-umbrella-outline::before {
+.ion-triangle-sharp::before {
   content: "\eea0";
 }
 
-.ion-umbrella-sharp::before {
+.ion-trophy::before {
   content: "\eea1";
 }
 
-.ion-videocam::before {
+.ion-trophy-outline::before {
   content: "\eea2";
 }
 
-.ion-videocam-outline::before {
+.ion-trophy-sharp::before {
   content: "\eea3";
 }
 
-.ion-videocam-sharp::before {
+.ion-tv::before {
   content: "\eea4";
 }
 
-.ion-volume-high::before {
+.ion-tv-outline::before {
   content: "\eea5";
 }
 
-.ion-volume-high-outline::before {
+.ion-tv-sharp::before {
   content: "\eea6";
 }
 
-.ion-volume-high-sharp::before {
+.ion-umbrella::before {
   content: "\eea7";
 }
 
-.ion-volume-low::before {
+.ion-umbrella-outline::before {
   content: "\eea8";
 }
 
-.ion-volume-low-outline::before {
+.ion-umbrella-sharp::before {
   content: "\eea9";
 }
 
-.ion-volume-low-sharp::before {
+.ion-videocam::before {
   content: "\eeaa";
 }
 
-.ion-volume-medium::before {
+.ion-videocam-outline::before {
   content: "\eeab";
 }
 
-.ion-volume-medium-outline::before {
+.ion-videocam-sharp::before {
   content: "\eeac";
 }
 
-.ion-volume-medium-sharp::before {
+.ion-volume-high::before {
   content: "\eead";
 }
 
-.ion-volume-mute::before {
+.ion-volume-high-outline::before {
   content: "\eeae";
 }
 
-.ion-volume-mute-outline::before {
+.ion-volume-high-sharp::before {
   content: "\eeaf";
 }
 
-.ion-volume-mute-sharp::before {
+.ion-volume-low::before {
   content: "\eeb0";
 }
 
-.ion-volume-off::before {
+.ion-volume-low-outline::before {
   content: "\eeb1";
 }
 
-.ion-volume-off-outline::before {
+.ion-volume-low-sharp::before {
   content: "\eeb2";
 }
 
-.ion-volume-off-sharp::before {
+.ion-volume-medium::before {
   content: "\eeb3";
 }
 
-.ion-walk::before {
+.ion-volume-medium-outline::before {
   content: "\eeb4";
 }
 
-.ion-walk-outline::before {
+.ion-volume-medium-sharp::before {
   content: "\eeb5";
 }
 
-.ion-walk-sharp::before {
+.ion-volume-mute::before {
   content: "\eeb6";
 }
 
-.ion-wallet::before {
+.ion-volume-mute-outline::before {
   content: "\eeb7";
 }
 
-.ion-wallet-outline::before {
+.ion-volume-mute-sharp::before {
   content: "\eeb8";
 }
 
-.ion-wallet-sharp::before {
+.ion-volume-off::before {
   content: "\eeb9";
 }
 
-.ion-warning::before {
+.ion-volume-off-outline::before {
   content: "\eeba";
 }
 
-.ion-warning-outline::before {
+.ion-volume-off-sharp::before {
   content: "\eebb";
 }
 
-.ion-warning-sharp::before {
+.ion-walk::before {
   content: "\eebc";
 }
 
-.ion-watch::before {
+.ion-walk-outline::before {
   content: "\eebd";
 }
 
-.ion-watch-outline::before {
+.ion-walk-sharp::before {
   content: "\eebe";
 }
 
-.ion-watch-sharp::before {
+.ion-wallet::before {
   content: "\eebf";
 }
 
-.ion-water::before {
+.ion-wallet-outline::before {
   content: "\eec0";
 }
 
-.ion-water-outline::before {
+.ion-wallet-sharp::before {
   content: "\eec1";
 }
 
-.ion-water-sharp::before {
+.ion-warning::before {
   content: "\eec2";
 }
 
-.ion-wifi::before {
+.ion-warning-outline::before {
   content: "\eec3";
 }
 
-.ion-wifi-outline::before {
+.ion-warning-sharp::before {
   content: "\eec4";
 }
 
-.ion-wifi-sharp::before {
+.ion-watch::before {
   content: "\eec5";
 }
 
-.ion-wine::before {
+.ion-watch-outline::before {
   content: "\eec6";
 }
 
-.ion-wine-outline::before {
+.ion-watch-sharp::before {
   content: "\eec7";
 }
 
-.ion-wine-sharp::before {
+.ion-water::before {
   content: "\eec8";
 }
 
-.ion-woman::before {
+.ion-water-outline::before {
   content: "\eec9";
 }
 
-.ion-woman-outline::before {
+.ion-water-sharp::before {
   content: "\eeca";
 }
 
-.ion-woman-sharp::before {
+.ion-wifi::before {
   content: "\eecb";
+}
+
+.ion-wifi-outline::before {
+  content: "\eecc";
+}
+
+.ion-wifi-sharp::before {
+  content: "\eecd";
+}
+
+.ion-wine::before {
+  content: "\eece";
+}
+
+.ion-wine-outline::before {
+  content: "\eecf";
+}
+
+.ion-wine-sharp::before {
+  content: "\eed0";
+}
+
+.ion-woman::before {
+  content: "\eed1";
+}
+
+.ion-woman-outline::before {
+  content: "\eed2";
+}
+
+.ion-woman-sharp::before {
+  content: "\eed3";
 }
