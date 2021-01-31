@@ -17,7 +17,7 @@
     "icon"
   ],
   "devDependencies": {
-    "@primer/octicons": "^9.6.0"
+    "@primer/octicons": "^11.2.0"
   },
   "homepage": "https://octicons.github.com",
   "publishConfig": {

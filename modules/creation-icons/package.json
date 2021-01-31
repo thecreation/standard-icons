@@ -18,7 +18,7 @@
     "icon"
   ],
   "devDependencies": {
-    "@creation/icon-fonts": "0.0.12"
+    "@creation/icon-fonts": "0.0.13"
   },
   "publishConfig": {
     "access": "public"

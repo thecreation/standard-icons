@@ -18,7 +18,7 @@
     "icon"
   ],
   "devDependencies": {
-    "ionicons": "^5.0.1"
+    "ionicons": "^5.4.0"
   },
   "homepage": "http://ionicons.com/",
   "publishConfig": {

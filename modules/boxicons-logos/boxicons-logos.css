@@ -1,5 +1,5 @@
 /**
- * Boxicons Logos, 2.0.5
+ * Boxicons Logos, 2.0.7
  * Created by Atisa
  * https://github.com/atisawd/boxicons#readme
  * (CC-BY-4.0 OR OFL-1.1 OR MIT) License
@@ -30,342 +30,381 @@
 
 
 .bxl-500px:before {
-  content: "\e900";
+  content: "\ee5e";
 }
 .bxl-adobe:before {
-  content: "\e901";
+  content: "\ee5f";
 }
 .bxl-airbnb:before {
-  content: "\e902";
+  content: "\ee60";
 }
 .bxl-algolia:before {
-  content: "\e903";
+  content: "\ee61";
 }
 .bxl-amazon:before {
-  content: "\e904";
+  content: "\ee62";
 }
 .bxl-android:before {
-  content: "\e905";
+  content: "\ee63";
 }
 .bxl-angular:before {
-  content: "\e906";
+  content: "\ee64";
 }
 .bxl-apple:before {
-  content: "\e907";
+  content: "\ee65";
 }
 .bxl-audible:before {
-  content: "\e908";
+  content: "\ee66";
 }
 .bxl-baidu:before {
-  content: "\e909";
+  content: "\ee67";
 }
 .bxl-behance:before {
-  content: "\e90a";
+  content: "\ee68";
 }
 .bxl-bing:before {
-  content: "\e90b";
+  content: "\ee69";
 }
 .bxl-bitcoin:before {
-  content: "\e90c";
+  content: "\ee6a";
+}
+.bxl-blender:before {
+  content: "\ee6b";
 }
 .bxl-blogger:before {
-  content: "\e90d";
+  content: "\ee6c";
 }
 .bxl-bootstrap:before {
-  content: "\e90e";
+  content: "\ee6d";
 }
 .bxl-chrome:before {
-  content: "\e90f";
+  content: "\ee6e";
 }
 .bxl-codepen:before {
-  content: "\e910";
+  content: "\ee6f";
+}
+.bxl-c-plus-plus:before {
+  content: "\ee70";
 }
 .bxl-creative-commons:before {
-  content: "\e911";
+  content: "\ee71";
 }
 .bxl-css3:before {
-  content: "\e912";
+  content: "\ee72";
 }
 .bxl-dailymotion:before {
-  content: "\e913";
+  content: "\ee73";
 }
 .bxl-deviantart:before {
-  content: "\e914";
+  content: "\ee74";
 }
 .bxl-dev-to:before {
-  content: "\e915";
+  content: "\ee75";
 }
 .bxl-digg:before {
-  content: "\e916";
+  content: "\ee76";
 }
 .bxl-digitalocean:before {
-  content: "\e917";
+  content: "\ee77";
 }
 .bxl-discord:before {
-  content: "\e918";
+  content: "\ee78";
 }
 .bxl-discourse:before {
-  content: "\e919";
+  content: "\ee79";
+}
+.bxl-django:before {
+  content: "\ee7a";
 }
 .bxl-dribbble:before {
-  content: "\e91a";
+  content: "\ee7b";
 }
 .bxl-dropbox:before {
-  content: "\e91b";
+  content: "\ee7c";
 }
 .bxl-drupal:before {
-  content: "\e91c";
+  content: "\ee7d";
 }
 .bxl-ebay:before {
-  content: "\e91d";
+  content: "\ee7e";
 }
 .bxl-edge:before {
-  content: "\e91e";
+  content: "\ee7f";
 }
 .bxl-etsy:before {
-  content: "\e91f";
+  content: "\ee80";
 }
 .bxl-facebook:before {
-  content: "\e920";
+  content: "\ee81";
 }
 .bxl-facebook-circle:before {
-  content: "\e921";
+  content: "\ee82";
 }
 .bxl-facebook-square:before {
-  content: "\e922";
+  content: "\ee83";
 }
 .bxl-figma:before {
-  content: "\e923";
+  content: "\ee84";
+}
+.bxl-firebase:before {
+  content: "\ee85";
 }
 .bxl-firefox:before {
-  content: "\e924";
+  content: "\ee86";
 }
 .bxl-flickr:before {
-  content: "\e925";
+  content: "\ee87";
 }
 .bxl-flickr-square:before {
-  content: "\e926";
+  content: "\ee88";
 }
 .bxl-foursquare:before {
-  content: "\e927";
+  content: "\ee89";
 }
 .bxl-git:before {
-  content: "\e928";
+  content: "\ee8a";
 }
 .bxl-github:before {
-  content: "\e929";
+  content: "\ee8b";
 }
 .bxl-gitlab:before {
-  content: "\e92a";
+  content: "\ee8c";
 }
 .bxl-google:before {
-  content: "\e92b";
+  content: "\ee8d";
+}
+.bxl-google-cloud:before {
+  content: "\ee8e";
 }
 .bxl-google-plus:before {
-  content: "\e92c";
+  content: "\ee8f";
 }
 .bxl-google-plus-circle:before {
-  content: "\e92d";
+  content: "\ee90";
 }
 .bxl-html5:before {
-  content: "\e92e";
+  content: "\ee91";
 }
 .bxl-imdb:before {
-  content: "\e92f";
+  content: "\ee92";
 }
 .bxl-instagram:before {
-  content: "\e930";
+  content: "\ee93";
 }
 .bxl-instagram-alt:before {
-  content: "\e931";
+  content: "\ee94";
 }
 .bxl-internet-explorer:before {
-  content: "\e932";
+  content: "\ee95";
 }
 .bxl-invision:before {
-  content: "\e933";
+  content: "\ee96";
 }
 .bxl-javascript:before {
-  content: "\e934";
+  content: "\ee97";
 }
 .bxl-joomla:before {
-  content: "\e935";
+  content: "\ee98";
 }
 .bxl-jquery:before {
-  content: "\e936";
+  content: "\ee99";
 }
 .bxl-jsfiddle:before {
-  content: "\e937";
+  content: "\ee9a";
 }
 .bxl-kickstarter:before {
-  content: "\e938";
+  content: "\ee9b";
+}
+.bxl-kubernetes:before {
+  content: "\ee9c";
 }
 .bxl-less:before {
-  content: "\e939";
+  content: "\ee9d";
 }
 .bxl-linkedin:before {
-  content: "\e93a";
+  content: "\ee9e";
 }
 .bxl-linkedin-square:before {
-  content: "\e93b";
+  content: "\ee9f";
 }
 .bxl-magento:before {
-  content: "\e93c";
+  content: "\eea0";
 }
 .bxl-mailchimp:before {
-  content: "\e93d";
+  content: "\eea1";
+}
+.bxl-markdown:before {
+  content: "\eea2";
 }
 .bxl-mastercard:before {
-  content: "\e93e";
+  content: "\eea3";
 }
 .bxl-medium:before {
-  content: "\e93f";
+  content: "\eea4";
 }
 .bxl-medium-old:before {
-  content: "\e940";
+  content: "\eea5";
 }
 .bxl-medium-square:before {
-  content: "\e941";
+  content: "\eea6";
 }
 .bxl-messenger:before {
-  content: "\e942";
+  content: "\eea7";
 }
 .bxl-microsoft:before {
-  content: "\e943";
+  content: "\eea8";
+}
+.bxl-microsoft-teams:before {
+  content: "\eea9";
 }
 .bxl-nodejs:before {
-  content: "\e944";
+  content: "\eeaa";
+}
+.bxl-ok-ru:before {
+  content: "\eeab";
 }
 .bxl-opera:before {
-  content: "\e945";
+  content: "\eeac";
 }
 .bxl-patreon:before {
-  content: "\e946";
+  content: "\eead";
 }
 .bxl-paypal:before {
-  content: "\e947";
+  content: "\eeae";
 }
 .bxl-periscope:before {
-  content: "\e948";
+  content: "\eeaf";
 }
 .bxl-pinterest:before {
-  content: "\e949";
+  content: "\eeb0";
 }
 .bxl-pinterest-alt:before {
-  content: "\e94a";
+  content: "\eeb1";
 }
 .bxl-play-store:before {
-  content: "\e94b";
+  content: "\eeb2";
 }
 .bxl-pocket:before {
-  content: "\e94c";
+  content: "\eeb3";
 }
 .bxl-product-hunt:before {
-  content: "\e94d";
+  content: "\eeb4";
+}
+.bxl-python:before {
+  content: "\eeb5";
 }
 .bxl-quora:before {
-  content: "\e94e";
+  content: "\eeb6";
 }
 .bxl-react:before {
-  content: "\e94f";
+  content: "\eeb7";
 }
 .bxl-redbubble:before {
-  content: "\e950";
+  content: "\eeb8";
 }
 .bxl-reddit:before {
-  content: "\e951";
+  content: "\eeb9";
 }
 .bxl-redux:before {
-  content: "\e952";
+  content: "\eeba";
 }
 .bxl-sass:before {
-  content: "\e953";
+  content: "\eebb";
 }
 .bxl-shopify:before {
-  content: "\e954";
+  content: "\eebc";
 }
 .bxl-skype:before {
-  content: "\e955";
+  content: "\eebd";
 }
 .bxl-slack:before {
-  content: "\e956";
+  content: "\eebe";
 }
 .bxl-slack-old:before {
-  content: "\e957";
+  content: "\eebf";
 }
 .bxl-snapchat:before {
-  content: "\e958";
+  content: "\eec0";
 }
 .bxl-soundcloud:before {
-  content: "\e959";
+  content: "\eec1";
 }
 .bxl-spotify:before {
-  content: "\e95a";
+  content: "\eec2";
+}
+.bxl-spring-boot:before {
+  content: "\eec3";
 }
 .bxl-squarespace:before {
-  content: "\e95b";
+  content: "\eec4";
 }
 .bxl-stack-overflow:before {
-  content: "\e95c";
+  content: "\eec5";
 }
 .bxl-stripe:before {
-  content: "\e95d";
+  content: "\eec6";
 }
 .bxl-telegram:before {
-  content: "\e95e";
+  content: "\eec7";
 }
 .bxl-trello:before {
-  content: "\e95f";
+  content: "\eec8";
 }
 .bxl-tumblr:before {
-  content: "\e960";
+  content: "\eec9";
+}
+.bxl-tux:before {
+  content: "\eeca";
 }
 .bxl-twitch:before {
-  content: "\e961";
+  content: "\eecb";
 }
 .bxl-twitter:before {
-  content: "\e962";
+  content: "\eecc";
 }
 .bxl-unsplash:before {
-  content: "\e963";
+  content: "\eecd";
 }
 .bxl-vimeo:before {
-  content: "\e964";
+  content: "\eece";
 }
 .bxl-visa:before {
-  content: "\e965";
+  content: "\eecf";
 }
 .bxl-vk:before {
-  content: "\e966";
+  content: "\eed0";
 }
 .bxl-vuejs:before {
-  content: "\e967";
+  content: "\eed1";
 }
 .bxl-whatsapp:before {
-  content: "\e968";
+  content: "\eed2";
 }
 .bxl-whatsapp-square:before {
-  content: "\e969";
+  content: "\eed3";
 }
 .bxl-wikipedia:before {
-  content: "\e96a";
+  content: "\eed4";
 }
 .bxl-windows:before {
-  content: "\e96b";
+  content: "\eed5";
 }
 .bxl-wix:before {
-  content: "\e96c";
+  content: "\eed6";
 }
 .bxl-wordpress:before {
-  content: "\e96d";
+  content: "\eed7";
 }
 .bxl-yahoo:before {
-  content: "\e96e";
+  content: "\eed8";
 }
 .bxl-yelp:before {
-  content: "\e96f";
+  content: "\eed9";
 }
 .bxl-youtube:before {
-  content: "\e970";
+  content: "\eeda";
+}
+.bxl-zoom:before {
+  content: "\eedb";
 }
 

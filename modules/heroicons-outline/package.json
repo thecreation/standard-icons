@@ -17,7 +17,7 @@
     "icon"
   ],
   "devDependencies": {
-    "heroicons": "^0.2.0"
+    "heroicons": "^0.4.2"
   },
   "publishConfig": {
     "access": "public"

@@ -18,7 +18,7 @@
     "icon"
   ],
   "devDependencies": {
-    "boxicons": "^2.0.5"
+    "boxicons": "^2.0.7"
   },
   "homepage": "https://github.com/atisawd/boxicons#readme",
   "publishConfig": {

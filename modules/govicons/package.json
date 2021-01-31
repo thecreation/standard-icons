@@ -22,6 +22,6 @@
     "access": "public"
   },
   "devDependencies": {
-    "govicons": "^1.5.1"
+    "govicons": "^1.6.0"
   }
 }

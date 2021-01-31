@@ -18,7 +18,7 @@
     "icon"
   ],
   "dependencies": {
-    "@fortawesome/free-brands-svg-icons": "^5.13.0"
+    "@fortawesome/free-brands-svg-icons": "^5.15.2"
   },
   "homepage": "https://fontawesome.com",
   "gitHead": "03bca77bca8c5dd936a375e9c556ef3e1a8d4074"

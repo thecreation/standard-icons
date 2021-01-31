@@ -22,6 +22,6 @@
     "access": "public"
   },
   "devDependencies": {
-    "@iconscout/unicons": "^2.1.9"
+    "@iconscout/unicons": "^3.0.6"
   }
 }

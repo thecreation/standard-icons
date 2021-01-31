@@ -17,7 +17,7 @@
     "icon"
   ],
   "devDependencies": {
-    "simple-icons": "^2.14.0"
+    "simple-icons": "^4.8.0"
   },
   "homepage": "https://www.simpleicons.org",
   "publishConfig": {

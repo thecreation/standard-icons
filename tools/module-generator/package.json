@@ -5,8 +5,8 @@
   "author": "Creation Studio Limited",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^4.0.0",
-    "yeoman-generator": "^4.10.1"
+    "chalk": "^4.1.0",
+    "yeoman-generator": "^4.13.0"
   },
   "keywords": [
     "icon",

@@ -18,7 +18,7 @@
     "icon"
   ],
   "devDependencies": {
-    "simple-line-icons": "^2.4.1"
+    "simple-line-icons": "^2.5.5"
   },
   "homepage": "https://thesabbir.github.io/simple-line-icons",
   "publishConfig": {
