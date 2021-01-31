@@ -29,16 +29,5 @@ npm run optimize
 lerna publish
 ```
 
-##
-boxicons
-@iconscout/unicons
-simple-line-icons
-heroicons
-@creation/icon-fonts
-govicons
-bootstrap-icons
-ionicons
-simple-icons
-@primer/octicons
-dashicons
-jam
+### Todo
+- update jam to v3

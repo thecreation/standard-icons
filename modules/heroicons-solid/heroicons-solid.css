@@ -1,5 +1,5 @@
 /**
- * Heroicons Solid, 0.2.0
+ * Heroicons Solid, 0.4.2
  * Created by Refactoring UI Inc
  * https://heroicons.dev/
  * MIT License
@@ -29,662 +29,906 @@
   text-transform: none;
 }
 
-.his-adjustments::before {
+.his-academic-cap::before {
   content: "\ea01";
 }
 
-.his-annotation::before {
+.his-adjustments::before {
   content: "\ea02";
 }
 
-.his-archive::before {
+.his-annotation::before {
   content: "\ea03";
 }
 
-.his-arrow-circle-down::before {
+.his-archive::before {
   content: "\ea04";
 }
 
-.his-arrow-circle-left::before {
+.his-arrow-circle-down::before {
   content: "\ea05";
 }
 
-.his-arrow-circle-right::before {
+.his-arrow-circle-left::before {
   content: "\ea06";
 }
 
-.his-arrow-circle-up::before {
+.his-arrow-circle-right::before {
   content: "\ea07";
 }
 
-.his-arrow-down::before {
+.his-arrow-circle-up::before {
   content: "\ea08";
 }
 
-.his-arrow-left::before {
+.his-arrow-down::before {
   content: "\ea09";
 }
 
-.his-arrow-narrow-down::before {
+.his-arrow-left::before {
   content: "\ea0a";
 }
 
-.his-arrow-narrow-left::before {
+.his-arrow-narrow-down::before {
   content: "\ea0b";
 }
 
-.his-arrow-narrow-right::before {
+.his-arrow-narrow-left::before {
   content: "\ea0c";
 }
 
-.his-arrow-narrow-up::before {
+.his-arrow-narrow-right::before {
   content: "\ea0d";
 }
 
-.his-arrow-right::before {
+.his-arrow-narrow-up::before {
   content: "\ea0e";
 }
 
-.his-arrow-up::before {
+.his-arrow-right::before {
   content: "\ea0f";
 }
 
-.his-at-symbol::before {
+.his-arrow-up::before {
   content: "\ea10";
 }
 
-.his-badge-check::before {
+.his-arrows-expand::before {
   content: "\ea11";
 }
 
-.his-ban::before {
+.his-at-symbol::before {
   content: "\ea12";
 }
 
-.his-bell::before {
+.his-backspace::before {
   content: "\ea13";
 }
 
-.his-book-open::before {
+.his-badge-check::before {
   content: "\ea14";
 }
 
-.his-bookmark::before {
+.his-ban::before {
   content: "\ea15";
 }
 
-.his-bookmark-alt::before {
+.his-beaker::before {
   content: "\ea16";
 }
 
-.his-briefcase::before {
+.his-bell::before {
   content: "\ea17";
 }
 
-.his-calendar::before {
+.his-book-open::before {
   content: "\ea18";
 }
 
-.his-camera::before {
+.his-bookmark::before {
   content: "\ea19";
 }
 
-.his-cash::before {
+.his-bookmark-alt::before {
   content: "\ea1a";
 }
 
-.his-chart-bar::before {
+.his-briefcase::before {
   content: "\ea1b";
 }
 
-.his-chart-pie::before {
+.his-cake::before {
   content: "\ea1c";
 }
 
-.his-chart-square-bar::before {
+.his-calculator::before {
   content: "\ea1d";
 }
 
-.his-chat::before {
+.his-calendar::before {
   content: "\ea1e";
 }
 
-.his-chat-alt::before {
+.his-camera::before {
   content: "\ea1f";
 }
 
-.his-chat-alt-2::before {
+.his-cash::before {
   content: "\ea20";
 }
 
-.his-check::before {
+.his-chart-bar::before {
   content: "\ea21";
 }
 
-.his-check-circle::before {
+.his-chart-pie::before {
   content: "\ea22";
 }
 
-.his-chevron-down::before {
+.his-chart-square-bar::before {
   content: "\ea23";
 }
 
-.his-chevron-left::before {
+.his-chat::before {
   content: "\ea24";
 }
 
-.his-chevron-right::before {
+.his-chat-alt::before {
   content: "\ea25";
 }
 
-.his-chevron-up::before {
+.his-chat-alt-2::before {
   content: "\ea26";
 }
 
-.his-clipboard::before {
+.his-check::before {
   content: "\ea27";
 }
 
-.his-clipboard-check::before {
+.his-check-circle::before {
   content: "\ea28";
 }
 
-.his-clipboard-copy::before {
+.his-chevron-double-down::before {
   content: "\ea29";
 }
 
-.his-clipboard-list::before {
+.his-chevron-double-left::before {
   content: "\ea2a";
 }
 
-.his-clock::before {
+.his-chevron-double-right::before {
   content: "\ea2b";
 }
 
-.his-cloud-download::before {
+.his-chevron-double-up::before {
   content: "\ea2c";
 }
 
-.his-cloud-upload::before {
+.his-chevron-down::before {
   content: "\ea2d";
 }
 
-.his-code::before {
+.his-chevron-left::before {
   content: "\ea2e";
 }
 
-.his-cog::before {
+.his-chevron-right::before {
   content: "\ea2f";
 }
 
-.his-collection::before {
+.his-chevron-up::before {
   content: "\ea30";
 }
 
-.his-color-swatch::before {
+.his-chip::before {
   content: "\ea31";
 }
 
-.his-credit-card::before {
+.his-clipboard::before {
   content: "\ea32";
 }
 
-.his-currency-dollar::before {
+.his-clipboard-check::before {
   content: "\ea33";
 }
 
-.his-currency-euro::before {
+.his-clipboard-copy::before {
   content: "\ea34";
 }
 
-.his-currency-pound::before {
+.his-clipboard-list::before {
   content: "\ea35";
 }
 
-.his-currency-rupee::before {
+.his-clock::before {
   content: "\ea36";
 }
 
-.his-currency-yen::before {
+.his-cloud::before {
   content: "\ea37";
 }
 
-.his-cursor-click::before {
+.his-cloud-download::before {
   content: "\ea38";
 }
 
-.his-desktop-computer::before {
+.his-cloud-upload::before {
   content: "\ea39";
 }
 
-.his-document::before {
+.his-code::before {
   content: "\ea3a";
 }
 
-.his-document-add::before {
+.his-cog::before {
   content: "\ea3b";
 }
 
-.his-document-download::before {
+.his-collection::before {
   content: "\ea3c";
 }
 
-.his-document-duplicate::before {
+.his-color-swatch::before {
   content: "\ea3d";
 }
 
-.his-document-remove::before {
+.his-credit-card::before {
   content: "\ea3e";
 }
 
-.his-document-report::before {
+.his-cube::before {
   content: "\ea3f";
 }
 
-.his-dots-circle-horizontal::before {
+.his-cube-transparent::before {
   content: "\ea40";
 }
 
-.his-dots-horizontal::before {
+.his-currency-bangladeshi::before {
   content: "\ea41";
 }
 
-.his-dots-vertical::before {
+.his-currency-dollar::before {
   content: "\ea42";
 }
 
-.his-download::before {
+.his-currency-euro::before {
   content: "\ea43";
 }
 
-.his-duplicate::before {
+.his-currency-pound::before {
   content: "\ea44";
 }
 
-.his-emoji-happy::before {
+.his-currency-rupee::before {
   content: "\ea45";
 }
 
-.his-emoji-sad::before {
+.his-currency-yen::before {
   content: "\ea46";
 }
 
-.his-exclamation::before {
+.his-cursor-click::before {
   content: "\ea47";
 }
 
-.his-exclamation-circle::before {
+.his-database::before {
   content: "\ea48";
 }
 
-.his-external-link::before {
+.his-desktop-computer::before {
   content: "\ea49";
 }
 
-.his-eye::before {
+.his-device-mobile::before {
   content: "\ea4a";
 }
 
-.his-eye-off::before {
+.his-device-tablet::before {
   content: "\ea4b";
 }
 
-.his-filter::before {
+.his-document::before {
   content: "\ea4c";
 }
 
-.his-flag::before {
+.his-document-add::before {
   content: "\ea4d";
 }
 
-.his-folder::before {
+.his-document-download::before {
   content: "\ea4e";
 }
 
-.his-globe::before {
+.his-document-duplicate::before {
   content: "\ea4f";
 }
 
-.his-globe-alt::before {
+.his-document-remove::before {
   content: "\ea50";
 }
 
-.his-hashtag::before {
+.his-document-report::before {
   content: "\ea51";
 }
 
-.his-heart::before {
+.his-document-search::before {
   content: "\ea52";
 }
 
-.his-home::before {
+.his-document-text::before {
   content: "\ea53";
 }
 
-.his-inbox::before {
+.his-dots-circle-horizontal::before {
   content: "\ea54";
 }
 
-.his-inbox-in::before {
+.his-dots-horizontal::before {
   content: "\ea55";
 }
 
-.his-information-circle::before {
+.his-dots-vertical::before {
   content: "\ea56";
 }
 
-.his-key::before {
+.his-download::before {
   content: "\ea57";
 }
 
-.his-library::before {
+.his-duplicate::before {
   content: "\ea58";
 }
 
-.his-light-bulb::before {
+.his-emoji-happy::before {
   content: "\ea59";
 }
 
-.his-lightning-bolt::before {
+.his-emoji-sad::before {
   content: "\ea5a";
 }
 
-.his-link::before {
+.his-exclamation::before {
   content: "\ea5b";
 }
 
-.his-location-marker::before {
+.his-exclamation-circle::before {
   content: "\ea5c";
 }
 
-.his-lock-closed::before {
+.his-external-link::before {
   content: "\ea5d";
 }
 
-.his-lock-open::before {
+.his-eye::before {
   content: "\ea5e";
 }
 
-.his-logout::before {
+.his-eye-off::before {
   content: "\ea5f";
 }
 
-.his-mail::before {
+.his-fast-forward::before {
   content: "\ea60";
 }
 
-.his-mail-open::before {
+.his-film::before {
   content: "\ea61";
 }
 
-.his-menu::before {
+.his-filter::before {
   content: "\ea62";
 }
 
-.his-menu-alt-1::before {
+.his-finger-print::before {
   content: "\ea63";
 }
 
-.his-menu-alt-2::before {
+.his-fire::before {
   content: "\ea64";
 }
 
-.his-menu-alt-3::before {
+.his-flag::before {
   content: "\ea65";
 }
 
-.his-menu-alt-4::before {
+.his-folder::before {
   content: "\ea66";
 }
 
-.his-microphone::before {
+.his-folder-add::before {
   content: "\ea67";
 }
 
-.his-minus-circle::before {
+.his-folder-download::before {
   content: "\ea68";
 }
 
-.his-moon::before {
+.his-folder-open::before {
   content: "\ea69";
 }
 
-.his-newspaper::before {
+.his-folder-remove::before {
   content: "\ea6a";
 }
 
-.his-office-building::before {
+.his-gift::before {
   content: "\ea6b";
 }
 
-.his-paper-clip::before {
+.his-globe::before {
   content: "\ea6c";
 }
 
-.his-pause::before {
+.his-globe-alt::before {
   content: "\ea6d";
 }
 
-.his-pencil::before {
+.his-hand::before {
   content: "\ea6e";
 }
 
-.his-pencil-alt::before {
+.his-hashtag::before {
   content: "\ea6f";
 }
 
-.his-phone::before {
+.his-heart::before {
   content: "\ea70";
 }
 
-.his-phone-incoming::before {
+.his-home::before {
   content: "\ea71";
 }
 
-.his-phone-outgoing::before {
+.his-identification::before {
   content: "\ea72";
 }
 
-.his-photograph::before {
+.his-inbox::before {
   content: "\ea73";
 }
 
-.his-play::before {
+.his-inbox-in::before {
   content: "\ea74";
 }
 
-.his-plus::before {
+.his-information-circle::before {
   content: "\ea75";
 }
 
-.his-plus-circle::before {
+.his-key::before {
   content: "\ea76";
 }
 
-.his-printer::before {
+.his-library::before {
   content: "\ea77";
 }
 
-.his-qrcode::before {
+.his-light-bulb::before {
   content: "\ea78";
 }
 
-.his-question-mark-circle::before {
+.his-lightning-bolt::before {
   content: "\ea79";
 }
 
-.his-receipt-refund::before {
+.his-link::before {
   content: "\ea7a";
 }
 
-.his-refresh::before {
+.his-location-marker::before {
   content: "\ea7b";
 }
 
-.his-reply::before {
+.his-lock-closed::before {
   content: "\ea7c";
 }
 
-.his-scale::before {
+.his-lock-open::before {
   content: "\ea7d";
 }
 
-.his-search::before {
+.his-login::before {
   content: "\ea7e";
 }
 
-.his-selector::before {
+.his-logout::before {
   content: "\ea7f";
 }
 
-.his-share::before {
+.his-mail::before {
   content: "\ea80";
 }
 
-.his-shield-check::before {
+.his-mail-open::before {
   content: "\ea81";
 }
 
-.his-shield-exclamation::before {
+.his-map::before {
   content: "\ea82";
 }
 
-.his-shopping-cart::before {
+.his-menu::before {
   content: "\ea83";
 }
 
-.his-sort-ascending::before {
+.his-menu-alt-1::before {
   content: "\ea84";
 }
 
-.his-sort-descending::before {
+.his-menu-alt-2::before {
   content: "\ea85";
 }
 
-.his-sparkles::before {
+.his-menu-alt-3::before {
   content: "\ea86";
 }
 
-.his-speakerphone::before {
+.his-menu-alt-4::before {
   content: "\ea87";
 }
 
-.his-star::before {
+.his-microphone::before {
   content: "\ea88";
 }
 
-.his-stop::before {
+.his-minus::before {
   content: "\ea89";
 }
 
-.his-sun::before {
+.his-minus-circle::before {
   content: "\ea8a";
 }
 
-.his-support::before {
+.his-minus-sm::before {
   content: "\ea8b";
 }
 
-.his-switch-horizontal::before {
+.his-moon::before {
   content: "\ea8c";
 }
 
-.his-switch-vertical::before {
+.his-music-note::before {
   content: "\ea8d";
 }
 
-.his-tag::before {
+.his-newspaper::before {
   content: "\ea8e";
 }
 
-.his-template::before {
+.his-office-building::before {
   content: "\ea8f";
 }
 
-.his-terminal::before {
+.his-paper-airplane::before {
   content: "\ea90";
 }
 
-.his-ticket::before {
+.his-paper-clip::before {
   content: "\ea91";
 }
 
-.his-translate::before {
+.his-pause::before {
   content: "\ea92";
 }
 
-.his-trash::before {
+.his-pencil::before {
   content: "\ea93";
 }
 
-.his-trending-down::before {
+.his-pencil-alt::before {
   content: "\ea94";
 }
 
-.his-trending-up::before {
+.his-phone::before {
   content: "\ea95";
 }
 
-.his-upload::before {
+.his-phone-incoming::before {
   content: "\ea96";
 }
 
-.his-user::before {
+.his-phone-missed-call::before {
   content: "\ea97";
 }
 
-.his-user-add::before {
+.his-phone-outgoing::before {
   content: "\ea98";
 }
 
-.his-user-circle::before {
+.his-photograph::before {
   content: "\ea99";
 }
 
-.his-user-group::before {
+.his-play::before {
   content: "\ea9a";
 }
 
-.his-user-remove::before {
+.his-plus::before {
   content: "\ea9b";
 }
 
-.his-users::before {
+.his-plus-circle::before {
   content: "\ea9c";
 }
 
-.his-view-boards::before {
+.his-plus-sm::before {
   content: "\ea9d";
 }
 
-.his-view-grid-add::before {
+.his-presentation-chart-bar::before {
   content: "\ea9e";
 }
 
-.his-view-list::before {
+.his-presentation-chart-line::before {
   content: "\ea9f";
 }
 
-.his-volume-off::before {
+.his-printer::before {
   content: "\eaa0";
 }
 
-.his-volume-up::before {
+.his-puzzle::before {
   content: "\eaa1";
 }
 
-.his-x::before {
+.his-qrcode::before {
   content: "\eaa2";
 }
 
-.his-x-circle::before {
+.his-question-mark-circle::before {
   content: "\eaa3";
 }
 
-.his-zoom-in::before {
+.his-receipt-refund::before {
   content: "\eaa4";
 }
 
-.his-zoom-out::before {
+.his-receipt-tax::before {
   content: "\eaa5";
+}
+
+.his-refresh::before {
+  content: "\eaa6";
+}
+
+.his-reply::before {
+  content: "\eaa7";
+}
+
+.his-rewind::before {
+  content: "\eaa8";
+}
+
+.his-rss::before {
+  content: "\eaa9";
+}
+
+.his-save::before {
+  content: "\eaaa";
+}
+
+.his-save-as::before {
+  content: "\eaab";
+}
+
+.his-scale::before {
+  content: "\eaac";
+}
+
+.his-scissors::before {
+  content: "\eaad";
+}
+
+.his-search::before {
+  content: "\eaae";
+}
+
+.his-search-circle::before {
+  content: "\eaaf";
+}
+
+.his-selector::before {
+  content: "\eab0";
+}
+
+.his-server::before {
+  content: "\eab1";
+}
+
+.his-share::before {
+  content: "\eab2";
+}
+
+.his-shield-check::before {
+  content: "\eab3";
+}
+
+.his-shield-exclamation::before {
+  content: "\eab4";
+}
+
+.his-shopping-bag::before {
+  content: "\eab5";
+}
+
+.his-shopping-cart::before {
+  content: "\eab6";
+}
+
+.his-sort-ascending::before {
+  content: "\eab7";
+}
+
+.his-sort-descending::before {
+  content: "\eab8";
+}
+
+.his-sparkles::before {
+  content: "\eab9";
+}
+
+.his-speakerphone::before {
+  content: "\eaba";
+}
+
+.his-star::before {
+  content: "\eabb";
+}
+
+.his-status-offline::before {
+  content: "\eabc";
+}
+
+.his-status-online::before {
+  content: "\eabd";
+}
+
+.his-stop::before {
+  content: "\eabe";
+}
+
+.his-sun::before {
+  content: "\eabf";
+}
+
+.his-support::before {
+  content: "\eac0";
+}
+
+.his-switch-horizontal::before {
+  content: "\eac1";
+}
+
+.his-switch-vertical::before {
+  content: "\eac2";
+}
+
+.his-table::before {
+  content: "\eac3";
+}
+
+.his-tag::before {
+  content: "\eac4";
+}
+
+.his-template::before {
+  content: "\eac5";
+}
+
+.his-terminal::before {
+  content: "\eac6";
+}
+
+.his-thumb-down::before {
+  content: "\eac7";
+}
+
+.his-thumb-up::before {
+  content: "\eac8";
+}
+
+.his-ticket::before {
+  content: "\eac9";
+}
+
+.his-translate::before {
+  content: "\eaca";
+}
+
+.his-trash::before {
+  content: "\eacb";
+}
+
+.his-trending-down::before {
+  content: "\eacc";
+}
+
+.his-trending-up::before {
+  content: "\eacd";
+}
+
+.his-truck::before {
+  content: "\eace";
+}
+
+.his-upload::before {
+  content: "\eacf";
+}
+
+.his-user::before {
+  content: "\ead0";
+}
+
+.his-user-add::before {
+  content: "\ead1";
+}
+
+.his-user-circle::before {
+  content: "\ead2";
+}
+
+.his-user-group::before {
+  content: "\ead3";
+}
+
+.his-user-remove::before {
+  content: "\ead4";
+}
+
+.his-users::before {
+  content: "\ead5";
+}
+
+.his-variable::before {
+  content: "\ead6";
+}
+
+.his-video-camera::before {
+  content: "\ead7";
+}
+
+.his-view-boards::before {
+  content: "\ead8";
+}
+
+.his-view-grid::before {
+  content: "\ead9";
+}
+
+.his-view-grid-add::before {
+  content: "\eada";
+}
+
+.his-view-list::before {
+  content: "\eadb";
+}
+
+.his-volume-off::before {
+  content: "\eadc";
+}
+
+.his-volume-up::before {
+  content: "\eadd";
+}
+
+.his-wifi::before {
+  content: "\eade";
+}
+
+.his-x::before {
+  content: "\eadf";
+}
+
+.his-x-circle::before {
+  content: "\eae0";
+}
+
+.his-zoom-in::before {
+  content: "\eae1";
+}
+
+.his-zoom-out::before {
+  content: "\eae2";
 }

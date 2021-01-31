@@ -1,5 +1,5 @@
 /**
- * Govicons, 1.5.1
+ * Govicons, 1.6.0
  * Created by Mark Ostrander
  * http://govicons.io/
  * (OFL-1.1 AND MIT) License
@@ -31,6 +31,30 @@
 
 .gi-540:before {
   content: "\e900";
+}
+.gi-anchor:before {
+  content: "\e97f";
+}
+.gi-astronaut-helmet:before {
+  content: "\e981";
+}
+.gi-bald-eagle:before {
+  content: "\e982";
+}
+.gi-govicons-logo:before {
+  content: "\e983";
+}
+.gi-logo-govicons:before {
+  content: "\e983";
+}
+.gi-star:before {
+  content: "\e98a";
+}
+.gi-signal:before {
+  content: "\e988";
+}
+.gi-space-shuttle:before {
+  content: "\e989";
 }
 .gi-ambulance:before {
   content: "\e980";
@@ -134,7 +158,7 @@
 .gi-18f:before {
   content: "\e971";
 }
-.gi-18F-logo:before {
+.gi-18f-logo:before {
   content: "\e971";
 }
 .gi-sol:before {
