@@ -17,8 +17,8 @@ const path = require('path');
 let options = {
   source: path.join(`${__dirname}/node_modules/`, '@ant-design', 'icons-svg'),
   name: 'ant-design-outline-icons',
-  class: 'adif',
-  prefix: 'adif-',
+  class: 'adoi',
+  prefix: 'adoi-',
   className: 'AntDesignOutlineIcons',
   title: 'Ant Design Outline Icons',
   author: 'Ant Design Team',
@@ -49,7 +49,7 @@ module.exports = function(callback) {
   optimizeSvgs(paths.svgsDest, options.svgs);
 
   generateFontsFromSvg(paths.dest, options, () => {
-    options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'adif-');
+    options.icons = getIconsFromCss3(`${__dirname}/${options.name}.css`, 'adoi-');
     options = prepareIcons(options);
     generateJson(paths.dest, options);
     // copyLicense(paths.dest, path.join(options.source, 'LICENSE.md'));
