@@ -21,13 +21,13 @@ There are many ways/formats of how to use micon-brand. The fastest and recommend
 1 . If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
 
 ```
-<img height="32" width="32" src="@icon/micon-brand/icons/Accept.svg" />
+<img height="32" width="32" src="@icon/micon-brand/icons/500px.svg" />
 ```
 
 2 . Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/micon-brand` npm package in the URL like the following:
 
 ```
-<img height="32" width="32" src="https://unpkg.com/@icon/micon-brand/icons/Accept.svg" />
+<img height="32" width="32" src="https://unpkg.com/@icon/micon-brand/icons/500px.svg" />
 ```
 
 ### Icons font -- ideal when you want to include all icons at once
@@ -52,10 +52,10 @@ There are many ways/formats of how to use micon-brand. The fastest and recommend
 </head>
 ```
 
-> Place micon-brand with `<i>` tag in your html like this. Icon class names are to be used with the `mi` class prefix.
+> Place micon-brand with `<i>` tag in your html like this. Icon class names are to be used with the `mib` class prefix.
 
 ```
-<i class="mi mi-Accept"></i>
+<i class="mib mib-500px"></i>
 ```
 
 

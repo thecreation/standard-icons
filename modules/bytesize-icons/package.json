@@ -2,10 +2,7 @@
   "version": "1.4.0-alpha.0",
   "name": "@icon/bytesize-icons",
   "description": "A tiny style-controlled svg iconset",
-  "author": {
-    "name": "Dan Klammer",
-    "email": "danklammer@gmail.com"
-  },
+  "author": "Dan Klammer",
   "license": "MIT",
   "repository": "https://github.com/thecreation/standard-icons/tree/master/modules/bytesize-icons",
   "bugs": {

@@ -21,13 +21,13 @@ There are many ways/formats of how to use bootstrap-icons. The fastest and recom
 1 . If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
 
 ```
-<img height="32" width="32" src="@icon/bootstrap-icons/icons/airplane.svg" />
+<img height="32" width="32" src="@icon/bootstrap-icons/icons/alarm.svg" />
 ```
 
 2 . Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/bootstrap-icons` npm package in the URL like the following:
 
 ```
-<img height="32" width="32" src="https://unpkg.com/@icon/bootstrap-icons/icons/airplane.svg" />
+<img height="32" width="32" src="https://unpkg.com/@icon/bootstrap-icons/icons/alarm.svg" />
 ```
 
 ### Icons font -- ideal when you want to include all icons at once
@@ -55,7 +55,7 @@ There are many ways/formats of how to use bootstrap-icons. The fastest and recom
 > Place bootstrap-icons with `<i>` tag in your html like this. Icon class names are to be used with the `bi` class prefix.
 
 ```
-<i class="bi bi-airplane"></i>
+<i class="bi bi-alarm"></i>
 ```
 
 

@@ -21,13 +21,13 @@ There are many ways/formats of how to use boxicons-regular. The fastest and reco
 1 . If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
 
 ```
-<img height="32" width="32" src="@icon/boxicons-solid/icons/airplane.svg" />
+<img height="32" width="32" src="@icon/boxicons-solid/icons/alarm.svg" />
 ```
 
 2 . Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/boxicons-solid` npm package in the URL like the following:
 
 ```
-<img height="32" width="32" src="https://unpkg.com/@icon/boxicons-solid/icons/airplane.svg" />
+<img height="32" width="32" src="https://unpkg.com/@icon/boxicons-solid/icons/alarm.svg" />
 ```
 
 ### Icons font -- ideal when you want to include all icons at once
@@ -52,10 +52,10 @@ There are many ways/formats of how to use boxicons-regular. The fastest and reco
 </head>
 ```
 
-> Place boxicons-regular with `<i>` tag in your html like this. Icon class names are to be used with the `bi` class prefix.
+> Place boxicons-regular with `<i>` tag in your html like this. Icon class names are to be used with the `bxs` class prefix.
 
 ```
-<i class="bi bi-airplane"></i>
+<i class="bxs bxs-alarm"></i>
 ```
 
 

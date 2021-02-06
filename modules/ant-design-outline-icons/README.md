@@ -21,13 +21,13 @@ There are many ways/formats of how to use ant-design-outline-icons. The fastest 
 1 . If you want to use just a few icons. Find the icons you need in "icons" folder. Then use them as regular images:
 
 ```
-<img height="32" width="32" src="@icon/ant-design-outline-icons/icons/airplane.svg" />
+<img height="32" width="32" src="@icon/ant-design-outline-icons/icons/alert.svg" />
 ```
 
 2 . Icons can be served from a CDN such as [Unpkg][Unpkg]. Simply use the `@icon/ant-design-outline-icons` npm package in the URL like the following:
 
 ```
-<img height="32" width="32" src="https://unpkg.com/@icon/ant-design-outline-icons/icons/airplane.svg" />
+<img height="32" width="32" src="https://unpkg.com/@icon/ant-design-outline-icons/icons/alert.svg" />
 ```
 
 ### Icons font -- ideal when you want to include all icons at once
@@ -52,10 +52,10 @@ There are many ways/formats of how to use ant-design-outline-icons. The fastest 
 </head>
 ```
 
-> Place ant-design-outline-icons with `<i>` tag in your html like this. Icon class names are to be used with the `cil` class prefix.
+> Place ant-design-outline-icons with `<i>` tag in your html like this. Icon class names are to be used with the `adoi` class prefix.
 
 ```
-<i class="cil cil-airplane"></i>
+<i class="adoi adoi-alert"></i>
 ```
 
 
