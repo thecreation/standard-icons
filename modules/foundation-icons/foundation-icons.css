@@ -290,6 +290,12 @@
 .fi-page-multiple:before {
   content: "\f18a";
 }
+.fi-page-pdf:before {
+    content: "\f18b";
+}
+.fi-page-doc:before {
+    content: "\f183";
+}
 .fi-arrow-up:before {
   content: "\f10c";
 }
