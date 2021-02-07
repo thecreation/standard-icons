@@ -20,7 +20,7 @@ const getIconsFromUrl = require('../../scripts/utils/getIconsFromUrl');
 let options = {
   source: path.join(`${__dirname}/node_modules/`, 'line-awesome'),
   name: 'line-awesome',
-  title: 'Icons8 Line Awesome',
+  title: 'Line Awesome',
   description: 'Swap Font Awesome for modern line icons in one line of code.',
   class: 'las',
   prefix: 'las-',
