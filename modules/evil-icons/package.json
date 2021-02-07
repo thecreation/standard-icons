@@ -10,7 +10,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=evil-icons",
-    "optimize": "../../scripts/module/optimize --module=evil-icons"
+    "optimize": "../../scripts/module/optimize --module=evil-icons",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

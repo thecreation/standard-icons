@@ -11,7 +11,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=line-awesome",
-    "optimize": "../../scripts/module/optimize --module=line-awesome"
+    "optimize": "../../scripts/module/optimize --module=line-awesome",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

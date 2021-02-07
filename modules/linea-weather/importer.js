@@ -21,7 +21,7 @@ let options = {
   class: 'lwi',
   prefix: 'lwi-',
   className: 'LineaWeather',
-  title: 'Linea weather',
+  title: 'Linea Weather',
   author: 'Dario Ferrando',
   description: 'Linea Iconset a free outline iconset  featuring 730+ Icons.',
   homepage: 'http://www.linea.io/',

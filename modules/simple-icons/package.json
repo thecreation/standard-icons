@@ -10,7 +10,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=simple-icons",
-    "optimize": "../../scripts/module/optimize --module=simple-icons"
+    "optimize": "../../scripts/module/optimize --module=simple-icons",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

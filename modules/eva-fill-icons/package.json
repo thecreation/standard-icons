@@ -11,7 +11,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=eva-fill-icons",
-    "optimize": "../../scripts/module/optimize --module=eva-fill-icons"
+    "optimize": "../../scripts/module/optimize --module=eva-fill-icons",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

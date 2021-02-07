@@ -23,7 +23,7 @@ let options = {
   class: 'ti',
   prefix: 'ti-',
   className: 'ThemifyIcons',
-  title: 'Themify icons',
+  title: 'Themify Icons',
   author: 'Themify',
   version: '1.0.1',
   homepage: 'http://themify.me/themify-icons',

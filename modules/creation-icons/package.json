@@ -11,7 +11,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=creation-icons",
-    "optimize": "../../scripts/module/optimize --module=creation-icons"
+    "optimize": "../../scripts/module/optimize --module=creation-icons",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

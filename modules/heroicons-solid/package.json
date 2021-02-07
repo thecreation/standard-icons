@@ -10,7 +10,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=heroicons-solid",
-    "optimize": "../../scripts/module/optimize --module=heroicons-solid"
+    "optimize": "../../scripts/module/optimize --module=heroicons-solid",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

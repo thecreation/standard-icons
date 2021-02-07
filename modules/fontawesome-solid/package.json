@@ -11,7 +11,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=fontawesome-solid",
-    "optimize": "../../scripts/module/optimize --module=fontawesome-solid"
+    "optimize": "../../scripts/module/optimize --module=fontawesome-solid",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

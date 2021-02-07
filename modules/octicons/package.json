@@ -10,7 +10,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=octicons",
-    "optimize": "../../scripts/module/optimize --module=octicons"
+    "optimize": "../../scripts/module/optimize --module=octicons",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

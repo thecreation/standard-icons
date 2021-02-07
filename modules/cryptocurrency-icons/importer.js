@@ -22,7 +22,7 @@ let options = {
   class: 'crypto',
   prefix: 'crypto-',
   className: 'CryptocurrencyIcons',
-  title: 'CryptocurrencyIcons',
+  title: 'Cryptocurrency Icons',
   classifiable: false
 };
 

@@ -11,7 +11,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=fontawesome-regular",
-    "optimize": "../../scripts/module/optimize --module=fontawesome-regular"
+    "optimize": "../../scripts/module/optimize --module=fontawesome-regular",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

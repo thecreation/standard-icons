@@ -21,7 +21,7 @@ let options = {
   class: 'lmi',
   prefix: 'lmi-',
   className: 'LineaMusic',
-  title: 'Linea music',
+  title: 'Linea Music',
   author: 'Dario Ferrando',
   description: 'Linea Iconset a free outline iconset  featuring 730+ Icons.',
   homepage: 'http://www.linea.io/',

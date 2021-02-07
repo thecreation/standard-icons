@@ -21,7 +21,7 @@ let options = {
   class: 'lei',
   prefix: 'lei-',
   className: 'LineaEcommerce',
-  title: 'Linea ecommerce',
+  title: 'Linea Ecommerce',
   author: 'Dario Ferrando',
   description: 'Linea Iconset a free outline iconset  featuring 730+ Icons.',
   homepage: 'http://www.linea.io/',

@@ -10,7 +10,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=cryptocoins-icons",
-    "optimize": "../../scripts/module/optimize --module=cryptocoins-icons"
+    "optimize": "../../scripts/module/optimize --module=cryptocoins-icons",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

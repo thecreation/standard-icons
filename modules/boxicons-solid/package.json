@@ -11,7 +11,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=boxicons-solid",
-    "optimize": "../../scripts/module/optimize --module=boxicons-solid"
+    "optimize": "../../scripts/module/optimize --module=boxicons-solid",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

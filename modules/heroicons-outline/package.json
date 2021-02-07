@@ -10,7 +10,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=heroicons-outline",
-    "optimize": "../../scripts/module/optimize --module=heroicons-outline"
+    "optimize": "../../scripts/module/optimize --module=heroicons-outline",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

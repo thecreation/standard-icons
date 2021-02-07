@@ -10,8 +10,7 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=gonzocons",
-    "optimize": "../../scripts/module/optimize",
-    "update": "ncu -u"
+    "optimize": "../../scripts/module/optimize"
   },
   "keywords": [
     "icons",

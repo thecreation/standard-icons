@@ -10,7 +10,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=bytesize-icons",
-    "optimize": "../../scripts/module/optimize --module=bytesize-icons"
+    "optimize": "../../scripts/module/optimize --module=bytesize-icons",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

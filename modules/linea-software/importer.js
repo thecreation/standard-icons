@@ -21,7 +21,7 @@ let options = {
   class: 'lsi',
   prefix: 'lsi-',
   className: 'LineaSoftware',
-  title: 'Linea software',
+  title: 'Linea Software',
   author: 'Dario Ferrando',
   description: 'Linea Iconset a free outline iconset  featuring 730+ Icons.',
   homepage: 'http://www.linea.io/',

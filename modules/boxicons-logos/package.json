@@ -10,7 +10,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=boxicons-logos",
-    "optimize": "../../scripts/module/optimize --module=boxicons-logos"
+    "optimize": "../../scripts/module/optimize --module=boxicons-logos",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

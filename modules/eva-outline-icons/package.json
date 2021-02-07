@@ -11,7 +11,8 @@
   },
   "scripts": {
     "import": "../../scripts/module/import --module=eva-outline-icons",
-    "optimize": "../../scripts/module/optimize --module=eva-outline-icons"
+    "optimize": "../../scripts/module/optimize --module=eva-outline-icons",
+    "update": "ncu -u"
   },
   "keywords": [
     "icons",

@@ -21,7 +21,7 @@ let options = {
   class: 'lbi',
   prefix: 'lbi-',
   className: 'LineaBasic',
-  title: 'Linea basic',
+  title: 'Linea Basic',
   author: 'Dario Ferrando',
   description: 'Linea Iconset a free outline iconset  featuring 730+ Icons.',
   homepage: 'http://www.linea.io/',

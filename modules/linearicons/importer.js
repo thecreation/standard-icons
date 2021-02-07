@@ -20,7 +20,7 @@ let options = {
   class: 'lnr',
   prefix: 'lnr-',
   className: 'Linearicons',
-  title: 'Linearicons free',
+  title: 'Linearicons',
   author: 'Perxis',
   classifiable: false
 };
